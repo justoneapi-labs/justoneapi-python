@@ -1,0 +1,81 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:16.993101+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:04",
+  "code": 0,
+  "message": null,
+  "data": {
+    "abandon_sign_result": 0,
+    "appeal_id": "0",
+    "author_avatar_frame_icon": 0,
+    "author_type": 1,
+    "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_a09a001cbe87a5ffee25.jpeg?from=3782654143",
+    "avg_play": 0,
+    "aweme_tags": [],
+    "base64_qrcode": "iVBORw0KGgoAAAANSUhEUgAAAWgAAAFoAQAAAABSnlx4AAACaklEQVR4nO2azW7CQAyEZyre/5WnB/9kl3JBSsBujCpIw3cYGcsZe03hjdfPO/DQQw899NAX0g8AoF2LAkCIIgQAFKH49mIl96AfAODBjTfKYu+RX76to7s5TXq0BUEgCEKZ8uTHlNyLJiydrbD431eU3IH+48XF/f+iuhvRVr890pHdhIXaSsvyO9TR3ZW2eEcai6AoiGJcryWlju6u9AM48lcAw5LIfAq2KlNHd1fa/bfgvi/8H6Gs3lQUlTq6u9OE5HYwzKAy5JRneT3dXWkBpGW5VxJapgtUVJaCupvStEcj4bkd77AbXlLq6W5Hez/PqCKUfwCW2Fa6p788iQ7/HdYvP5AzFEv7qd+n0Fz6m/Tasrjbtf8Elyu5Bx2xpEd5HcZG15l2sJDu1rS5Esa0W+FO/PFJhTEsprshHfXEQv3ivCHrzdVK7kEf8yrLZiGel3GddeViJbeiPYOlv/7b3CI/peSf01lP0qSEE4xqEoGf+ckZ9DJwtbZ98992OxugQrrb00f3Tguv8qFJeSWvqLsjbVPBmHYfc0JBPhmc+n02LV+F2P23r0fEuXFB3R1pCoCsRm/zbz/rSWtYTHdX2p6ZPnNd598ABGa4q+nuS1PycG/+2yvK1O/T6KOf91nVs/9etgcr6e5KH7NWRNyx+u9seS5Xcg9624/10x27yCN7RvWupLs3LSkek7v/9kaevrFZTXc/2ueDsXX8tH8ixuHPzL8voMNtH/57XwKqqrstbX3Psn8SMxSNHzyVlrznebF/omOzrZzudvS+H0ts+ydxP+e0dXR3pTf//VUlQw899NBDv/P6BUugLu7JOPTyAAAAAElFTkSuQmCC",
+    "base_resp": {
+      "status_code": 0,
+      "status_message": "Success"
+    },
+    "category_id": "1",
+    "city": "",
+    "content_theme_labels": [],
+    "core_user_id": "62427282029",
+    "create_time": "1543602509",
+    "creator_type": 0,
+    "e_commerce_enable": false,
+    "follower": 41084138,
+    "gender": 1,
+    "grade": 0,
+    "has_phone": true,
+    "id": "6629722295873044494",
+    "industry_list": [],
+    "is_cpm_project_author": false,
+    "is_game_author": false,
+    "is_online": true,
+    "is_plan_author": false,
+    "is_star": true,
+    "is_visible": true,
+    "lowest_price": 54800,
+    "mcn_introduction": "",
+    "mcn_logo": "",
+    "mcn_name": "",
+    "modify_time": "1788812919",
+    "nick_name": "张大仙",
+    "online_status": 1,
+    "opened_task_category": "[1, 103, 156]",
+    "platform": [
+      1,
+      5
+    ],
+    "platform_channel": [
+      1,
+      23
+    ],
+    "platform_source": 1,
+    "protocol_id": "20210524",
+    "province": "北京市",
+    "qrcode_url": "",
+    "sec_uid": "MS4wLjABAAAACirq2YgCDHFt4JJLwl1l5Hj4WpThkGSm8uKQJY7a2hU",
+    "short_id": "117908807",
+    "star_tags": [
+      {
+        "tag_type": 3,
+        "tag_value": 1
+      }
+    ],
+    "status": 1,
+    "tags": "[\"\\u6e38\\u620f\"]",
+    "tags_author_style": "[]",
+    "tags_ids": "[23]",
+    "tags_ids_level_two": "[441]",
+    "tags_level_two": "[]",
+    "tags_relation": {
+      "游戏": [
+        "游戏集锦"
+      ]
+    },
+    "task_status": 1,
+    "unique_id": "117908807"
+  },
+  "recordTime": null
+}

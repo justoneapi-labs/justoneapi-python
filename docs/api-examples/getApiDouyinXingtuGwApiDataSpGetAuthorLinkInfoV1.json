@@ -1,0 +1,55 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:20.175795+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:05",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "cooperate_index": {
+      "avg_value": 75.55,
+      "link_relative_ratio": 0,
+      "rank": "148228",
+      "rank_percent": 0.0686,
+      "value": 75.63
+    },
+    "cp_index": {
+      "avg_value": 64.06,
+      "link_relative_ratio": 0,
+      "rank": "107866",
+      "rank_percent": 0.0499,
+      "value": 66.21
+    },
+    "link_convert_index": {
+      "avg_value": 55.19,
+      "link_relative_ratio": -0.0129,
+      "rank": "118123",
+      "rank_percent": 0.0547,
+      "value": 67.39
+    },
+    "link_shopping_index": {
+      "avg_value": 53.26,
+      "link_relative_ratio": 0.1365,
+      "rank": "39289",
+      "rank_percent": 0.0182,
+      "value": 74.86
+    },
+    "link_spread_index": {
+      "avg_value": 53.1,
+      "link_relative_ratio": 0.1235,
+      "rank": "32858",
+      "rank_percent": 0.0152,
+      "value": 76.34
+    },
+    "link_star_index": {
+      "avg_value": 56.22,
+      "link_relative_ratio": 0.048,
+      "rank": "35616",
+      "rank_percent": 0.0165,
+      "value": 72.09
+    }
+  },
+  "recordTime": null
+}

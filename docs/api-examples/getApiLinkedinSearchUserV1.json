@@ -1,0 +1,248 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:36.704761+08:00",
+  "_sourceCheckedAt": "2026-07-29T13:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "page": 1,
+    "total": 2703149,
+    "has_more": true,
+    "data": [
+      {
+        "id": "26474929",
+        "urn": "ACoAAAGT-bEBi4nyXme8PgolFm3vSWuV-QaHT-4",
+        "url": "https://www.linkedin.com/in/jofelker",
+        "public_identifier": "jofelker",
+        "full_name": "{ John, Felker }",
+        "title": "Keynote Speaker - Cybersecurity Leadership, Former Assistant Director CISA & Director, National Cybersecurity and Communications Integration Center",
+        "location": "Charlotte Metro",
+        "is_verified": true,
+        "is_premium": false,
+        "is_top_voice": false,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "follower_count_display": 7000,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQGPBmOrGmSUlQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1676160889149?e=1787184000&v=beta&t=gyMuPiFRZ0VFSqX5t4_wwSI7jJtrk8gXAm1QVLQLXks",
+            "expires_at": 1787184000000
+          }
+        ]
+      },
+      {
+        "id": "9057177",
+        "urn": "ACoAAACKM5kBfXLqRh-wurZpVKk8qAaxkzfCedI",
+        "url": "https://www.linkedin.com/in/jd-walsh",
+        "public_identifier": "jd-walsh",
+        "full_name": "JD ( John David ) Walsh",
+        "title": "Partner @ Silver Wave Equities | Real Estate Investment",
+        "location": "New York City Metropolitan Area",
+        "is_verified": false,
+        "is_premium": true,
+        "is_top_voice": false,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQGylbX0mJm2AA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707232811134?e=1787184000&v=beta&t=goOS1pCiCpUuMk5VdqpVFvOqDTvN1RJZXlT7ciO8cFA",
+            "expires_at": 1787184000000
+          }
+        ],
+        "services": [
+          "Provides services - Real Estate, Commercial Real Estate, Brand Marketing, Relocation"
+        ]
+      },
+      {
+        "id": "371941616",
+        "urn": "ACoAABYrYPABqKNmMdQA43cb95qv176wLwHnkqA",
+        "url": "https://www.linkedin.com/in/johnkao1",
+        "public_identifier": "johnkao1",
+        "full_name": "John Kao",
+        "title": "Chairman and CEO at Alignment Health",
+        "location": "Orange, CA",
+        "is_verified": false,
+        "is_premium": false,
+        "is_top_voice": true,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "follower_count_display": 26000,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C5603AQH9xjiInB9SFg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1661275788386?e=1787184000&v=beta&t=ckuxqsNR1Pf1WrB6j7ZcUtlfGsqe0MfxqmfL3zY2xqY",
+            "expires_at": 1787184000000
+          }
+        ]
+      },
+      {
+        "id": "92122256",
+        "urn": "ACoAAAV9rJABzVxGS-nWfIdatNSKLzhyXBhNuBQ",
+        "url": "https://www.linkedin.com/in/j-p-john-paul-poirier-5a8a2726",
+        "public_identifier": "j-p-john-paul-poirier-5a8a2726",
+        "full_name": "J P ( John Paul ) Poirier",
+        "title": "Senior Project Manager @21st Century Transport Houston Inc",
+        "location": "United States",
+        "is_verified": false,
+        "is_premium": true,
+        "is_top_voice": false,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C5603AQEuCj4RMbGJnQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1599563436449?e=1787184000&v=beta&t=zQJNqOAwtqK6n80Zf4CMlgozVidfP2NNXCt8mRaF09o",
+            "expires_at": 1787184000000
+          }
+        ],
+        "services": [
+          "Provides services - Project Management"
+        ]
+      },
+      {
+        "id": "23568014",
+        "urn": "ACoAAAFnno4B1P5wJXwOgJYfcjFU0Ryqtg3K16s",
+        "url": "https://www.linkedin.com/in/johngerzema",
+        "public_identifier": "johngerzema",
+        "full_name": "John Gerzema",
+        "title": "CEO @ The Harris Poll | NYT Bestselling Author, Pollster and Strategist.",
+        "location": "New York, NY",
+        "is_verified": false,
+        "is_premium": false,
+        "is_top_voice": true,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "follower_count_display": 17000,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGRrt8J9_gUIg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1611266482339?e=1787184000&v=beta&t=iCXXML7cfCZHczqRN1e3X5F4gWXpxQYbh3CVJDsBJr4",
+            "expires_at": 1787184000000
+          }
+        ]
+      },
+      {
+        "id": "92877619",
+        "urn": "ACoAAAWJMzMBPJWvOOvGNohQJ9nH9UEWZIk5UA0",
+        "url": "https://www.linkedin.com/in/officialjohnmaxwell",
+        "public_identifier": "officialjohnmaxwell",
+        "full_name": "John C. Maxwell",
+        "title": "Leadership Expert | Trainer of 10+ Million Leaders | Certification Program For Leadership Development",
+        "location": "North Palm Beach, FL",
+        "is_verified": false,
+        "is_premium": false,
+        "is_top_voice": false,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "follower_count_display": 2000000,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQGI1stH0eL-Eg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1679423209698?e=1787184000&v=beta&t=tJXSRUymjnvwpYctYtTnPktppaJ5jMPfbVz8GYLeqJQ",
+            "expires_at": 1787184000000
+          }
+        ]
+      },
+      {
+        "id": "302199474",
+        "urn": "ACoAABIDMrIB18BLNviv9vLm6nIqbQNCRzZL-Bs",
+        "url": "https://www.linkedin.com/in/johnghu",
+        "public_identifier": "johnghu",
+        "full_name": "John Hu",
+        "title": "daily journal building a $BN company | ex-Goldman, Stanford MBA",
+        "location": "Los Angeles, CA",
+        "is_verified": false,
+        "is_premium": false,
+        "is_top_voice": true,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "follower_count_display": 70000,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQFYKA4rDJ6a4g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1668703675961?e=1787184000&v=beta&t=R5wySQtzXO6VopcvlMCqlOoGi1m2Xw2ADNXKE_hpr64",
+            "expires_at": 1787184000000
+          }
+        ]
+      },
+      {
+        "id": "365542648",
+        "urn": "ACoAABXJvPgBXkOO2YtWhijM0wkeenQrlhpRHrU",
+        "url": "https://www.linkedin.com/in/johnchambersjc",
+        "public_identifier": "johnchambersjc",
+        "full_name": "John Chambers",
+        "title": "Chairman Emeritus, Cisco / CEO, JC2 Ventures",
+        "location": "San Jose, CA",
+        "is_verified": false,
+        "is_premium": false,
+        "is_top_voice": true,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "follower_count_display": 292000,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C5603AQHZ4qtSzwlUbg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1632421735184?e=1787184000&v=beta&t=7bxSio976YrDppBclV8oGjvmeHwPTfFpVvBSnxUVHAM",
+            "expires_at": 1787184000000
+          }
+        ]
+      },
+      {
+        "id": "187399433",
+        "urn": "ACoAAAsrfQkBv0ZQPIqbrJI8Xnuoe7DfzGsoQIc",
+        "url": "https://www.linkedin.com/in/john-donahoe-8b591452",
+        "public_identifier": "john-donahoe-8b591452",
+        "full_name": "John Donahoe",
+        "title": "Former President and CEO of NIKE, Inc.",
+        "location": "Beaverton, OR",
+        "is_verified": false,
+        "is_premium": false,
+        "is_top_voice": false,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "follower_count_display": 290000,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C5603AQGDFVfh7BnzgQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1579277472270?e=1787184000&v=beta&t=Z8OS5NxQXWa20UwBNlZq388TTw2h77F8JsprCt18ig0",
+            "expires_at": 1787184000000
+          }
+        ]
+      },
+      {
+        "id": "47577880",
+        "urn": "ACoAAALV-xgB4E-1gsCWnUqoksZV0o8VCI6TPRg",
+        "url": "https://www.linkedin.com/in/john-c-may",
+        "public_identifier": "john-c-may",
+        "full_name": "John C. May",
+        "title": "Chairman and CEO at John Deere",
+        "location": "Moline, IL",
+        "is_verified": true,
+        "is_premium": false,
+        "is_top_voice": false,
+        "is_open_to_work": false,
+        "is_hiring": false,
+        "follower_count_display": 40000,
+        "avatar": [
+          {
+            "width": 100,
+            "height": 100,
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQHsYz5IVb3_3g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1627325262323?e=1787184000&v=beta&t=LvlZa-8MVh9Qj3gXkiPzpXHCJrlFjPhPw9LzilSIUpA",
+            "expires_at": 1787184000000
+          }
+        ]
+      }
+    ]
+  },
+  "recordTime": null
+}

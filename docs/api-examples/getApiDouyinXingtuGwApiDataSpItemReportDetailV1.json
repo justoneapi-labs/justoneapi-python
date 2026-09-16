@@ -1,0 +1,69 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:21.954470+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:05",
+  "code": 0,
+  "message": null,
+  "data": {
+    "author_info": {
+      "author_id": "7392575310895513619",
+      "avatar_uri": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_f2425985a5f821d728cef86f3044dbe8.jpeg?from=3782654143",
+      "city": "深圳",
+      "content_tags": {
+        "汽车": [
+          "汽车测评"
+        ]
+      },
+      "core_user_id": "111212123046",
+      "follower": "1646786",
+      "gender": 1,
+      "industry_tags": [],
+      "ink_cnt": "12741779",
+      "is_star": 1,
+      "link_cnt": "52694309",
+      "name": "好热的黄彬"
+    },
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "video_info": {
+      "collect_cnt": "10192",
+      "comment_cnt": "2670",
+      "content_theme_labels": [
+        "SUV测评",
+        "智能汽车"
+      ],
+      "create_time": "1761648197",
+      "duration": 165.9,
+      "finish_rate": 0.019040253,
+      "head_image_uri": "tos-cn-p-0015c000-ce/oEeAeQTEGD7XCIJETCFSAikDgZ8hYJT1fRABG4",
+      "interact_cnt": "117356",
+      "interact_rate": 0.0025,
+      "item_id": "7566200471448779514",
+      "like_cnt": "106723",
+      "music_info": {
+        "album": "",
+        "author": "好热的黄彬",
+        "cover_uri": "100x100/aweme-avatar/tos-cn-avt-0015_f2425985a5f821d728cef86f3044dbe8",
+        "cover_url": [
+          "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f2425985a5f821d728cef86f3044dbe8.jpeg?from=327834062",
+          "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f2425985a5f821d728cef86f3044dbe8.jpeg?from=327834062",
+          "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f2425985a5f821d728cef86f3044dbe8.jpeg?from=327834062"
+        ],
+        "create_time": "1761643363",
+        "duration": "165",
+        "music_id": "7566200535087450931",
+        "play_url": "https://lf9-music-east.douyinstatic.com/obj/ies-music-hj/7566200616637188901.mp3",
+        "source_platform": 0,
+        "title": "@好热的黄彬创作的原声",
+        "used_count": "0"
+      },
+      "share_cnt": "7963",
+      "title": "少爷，今天陪妹妹去看车啦！#理想L6 #好热的黄彬",
+      "url": "https://www.iesdouyin.com/share/video/7566200471448779514/?region=CN&mid=7566200535087450931&u_code=19f5hj09f&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=a2Nc5LsbOwZNxJmiP8cg2OheZI73tlmusx11LWf9.z4-&share_version=260800&ts=1788868806&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+      "video_id": "v1e00fgi0000d408kvnog65s40de6ucg",
+      "vv_cnt": "45275627"
+    }
+  },
+  "recordTime": null
+}

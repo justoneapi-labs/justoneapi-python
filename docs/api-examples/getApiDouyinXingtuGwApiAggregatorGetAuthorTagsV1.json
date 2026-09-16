@@ -1,0 +1,16 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:17.826862+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:04",
+  "code": 0,
+  "message": null,
+  "data": {
+    "author_tags_detail": {
+      "is_curated": "0"
+    },
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    }
+  },
+  "recordTime": null
+}

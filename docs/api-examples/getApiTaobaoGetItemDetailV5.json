@@ -1,0 +1,732 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:43.689791+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:20",
+  "code": 0,
+  "message": null,
+  "data": {
+    "item": {
+      "trade": {
+        "buyEnable": null,
+        "cartEnable": null,
+        "isBanSale4Oversea": null
+      },
+      "num_iid": "620210933491",
+      "title": "笔记本电脑包16寸14男女适用苹果联想华为背包双肩包拯救者y9000p",
+      "cat_id": null,
+      "cat_name": null,
+      "brandName": null,
+      "sales": null,
+      "detail_url": "//item.taobao.com/item.htm?id=620210933491",
+      "images": [
+        "//img.alicdn.com/bao/uploaded/i1/1782885107/O1CN01mvJZ6o1nb3UVxOvYc_!!1782885107.jpg",
+        "//img.alicdn.com/bao/uploaded/i1/1782885107/O1CN01pUp2IU1nb3JtPsQP8_!!1782885107.jpg",
+        "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01ZCc7lm1nb3JvQNXtQ_!!1782885107.jpg",
+        "//img.alicdn.com/bao/uploaded/i4/1782885107/O1CN01yXGgi31nb3K0N3eE6_!!1782885107.jpg",
+        "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01jQP9xl1nb3KNBzEOV_!!1782885107.jpg"
+      ],
+      "video": null,
+      "video_thumbnail": null,
+      "properties_cut": "材质 / 风格 / 尺寸 / 颜色分类 / 款式",
+      "properties": [
+        {
+          "name": "材质",
+          "value": "涤纶"
+        },
+        {
+          "name": "风格",
+          "value": "简约"
+        },
+        {
+          "name": "尺寸",
+          "value": "14寸, 15.6寸, 17.3寸"
+        },
+        {
+          "name": "颜色分类",
+          "value": "【各版本区别说明】, 深空灰—四大隔层【标准版】, 深空灰—四大隔层【升级版】, 深空灰-四大隔层【旗舰版, 星光灰—四大隔层【标准版】, 星光灰—四大隔层【升级版】, 星光灰-四大隔层【旗舰版, 曜石黑—四大隔层【标准版】, 曜石黑—四大隔层【升级版】, 曜石黑-四大隔层【旗舰版, 米白色—四大隔层【标准版】, 米白色—四大隔层【升级版】, 米白色—四大隔层【旗舰版】, 香芋紫—四大隔层【标准版上新颜色】, 香芋紫—四大隔层【升级版上新颜色】, 香芋紫—四大隔层【旗舰版上新颜色】, ————— 本商品包含以下服务, 【质保一年 质量问题直接换新】, 【送运费险 免费试用 想退就退】, 【急速发货 当天付款 当天发货】"
+        },
+        {
+          "name": "款式",
+          "value": "双肩"
+        }
+      ],
+      "desc_url": "//mdetail.tmall.com/templates/pages/desc?id=620210933491",
+      "desc_imgs": [
+        "//img.alicdn.com/imgextra/i1/1782885107/O1CN01BSmM3W1nb3fnP2NfB_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i3/1782885107/O1CN01RhnNXh1nb3QlipSk1_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i2/1782885107/O1CN01l9o7Ig1nb3JuC0QCz_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i2/1782885107/O1CN01T0sWy01nb3JsayZRe_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i2/1782885107/O1CN01BoNO8d1nb3JzNce01_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i1/1782885107/O1CN01fFcazY1nb3Js8xjf0_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i1/1782885107/O1CN01r9Hi7m1nb3JxANYFS_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i4/1782885107/O1CN01lCQXme1nb3Js8xGaL_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i2/1782885107/O1CN01QfA49r1nb3JmRgGfB_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i1/1782885107/O1CN01tMeAKp1nb3Jub84oc_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i3/1782885107/O1CN01HNDB1g1nb3Jzhp6fO_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i1/1782885107/O1CN01R4g9un1nb3JzhqusH_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i4/1782885107/O1CN01uoaRqe1nb3Jv5gHPu_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i4/1782885107/O1CN01cRC59m1nb3JsayVHq_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i3/1782885107/O1CN01qgpq9x1nb3JvEKDLh_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i4/1782885107/O1CN01Wja3GC1nb3JzhpqNE_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i4/1782885107/O1CN01y2hJK71nb3Jr9xqgo_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i1/1782885107/O1CN0134Xs2z1nb3Jwq77xB_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i4/1782885107/O1CN01hIHdmG1nb3JxyLfgY_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i4/1782885107/O1CN018lXaBn1nb3JzNgKkc_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i3/1782885107/O1CN01ZsvOdi1nb3Js8xjfO_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i2/1782885107/O1CN01N1BY5s1nb3JsaxUx5_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i2/1782885107/O1CN01oTwXbd1nb3Kpv2QoA_!!1782885107.jpg",
+        "//img.alicdn.com/imgextra/i4/1782885107/O1CN01GB759K1nb3KpZD08J_!!1782885107.jpg"
+      ],
+      "skus": {
+        "quantity": "9000",
+        "price": "169 - 199",
+        "promotion_price": "59.9 - 94.9",
+        "activity_price": null
+      },
+      "sku_base": [
+        {
+          "skuId": "5095300330629",
+          "propPath": "21433:21373;1627207:23023534496",
+          "price": "199",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576556",
+          "propPath": "21433:12563493;1627207:23023534496",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576574",
+          "propPath": "21433:27579886;1627207:23023534496",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "4556854559028",
+          "propPath": "21433:21373;1627207:8850085755",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576568",
+          "propPath": "21433:12563493;1627207:8850085755",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576586",
+          "propPath": "21433:27579886;1627207:8850085755",
+          "price": "169",
+          "promotion_price": "69.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4556854559037",
+          "propPath": "21433:21373;1627207:17229206981",
+          "price": "179",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576554",
+          "propPath": "21433:12563493;1627207:17229206981",
+          "price": "169",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576572",
+          "propPath": "21433:27579886;1627207:17229206981",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4922485608346",
+          "propPath": "21433:21373;1627207:23029090964",
+          "price": "194",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576558",
+          "propPath": "21433:12563493;1627207:23029090964",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576576",
+          "propPath": "21433:27579886;1627207:23029090964",
+          "price": "169",
+          "promotion_price": "94.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4556854559031",
+          "propPath": "21433:21373;1627207:8850085757",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576569",
+          "propPath": "21433:12563493;1627207:8850085757",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576587",
+          "propPath": "21433:27579886;1627207:8850085757",
+          "price": "169",
+          "promotion_price": "69.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4556854559040",
+          "propPath": "21433:21373;1627207:17229206982",
+          "price": "179",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576555",
+          "propPath": "21433:12563493;1627207:17229206982",
+          "price": "169",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576573",
+          "propPath": "21433:27579886;1627207:17229206982",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4922485608345",
+          "propPath": "21433:21373;1627207:23029168451",
+          "price": "194",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576559",
+          "propPath": "21433:12563493;1627207:23029168451",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576577",
+          "propPath": "21433:27579886;1627207:23029168451",
+          "price": "169",
+          "promotion_price": "94.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4556854559034",
+          "propPath": "21433:21373;1627207:8850085759",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576570",
+          "propPath": "21433:12563493;1627207:8850085759",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576588",
+          "propPath": "21433:27579886;1627207:8850085759",
+          "price": "169",
+          "promotion_price": "69.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4556854559043",
+          "propPath": "21433:21373;1627207:16432173769",
+          "price": "179",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576553",
+          "propPath": "21433:12563493;1627207:16432173769",
+          "price": "169",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576571",
+          "propPath": "21433:27579886;1627207:16432173769",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4922485608344",
+          "propPath": "21433:21373;1627207:23029168452",
+          "price": "194",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576560",
+          "propPath": "21433:12563493;1627207:23029168452",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576578",
+          "propPath": "21433:27579886;1627207:23029168452",
+          "price": "169",
+          "promotion_price": "94.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5008907144953",
+          "propPath": "21433:21373;1627207:24812942322",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576561",
+          "propPath": "21433:12563493;1627207:24812942322",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576579",
+          "propPath": "21433:27579886;1627207:24812942322",
+          "price": "169",
+          "promotion_price": "69.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5008907144954",
+          "propPath": "21433:21373;1627207:24812942323",
+          "price": "179",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576562",
+          "propPath": "21433:12563493;1627207:24812942323",
+          "price": "169",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576580",
+          "propPath": "21433:27579886;1627207:24812942323",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5265461184532",
+          "propPath": "21433:21373;1627207:30516862767",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5265461184530",
+          "propPath": "21433:12563493;1627207:30516862767",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5265461184534",
+          "propPath": "21433:27579886;1627207:30516862767",
+          "price": "169",
+          "promotion_price": "94.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4711093883812",
+          "propPath": "21433:21373;1627207:27835797781",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576563",
+          "propPath": "21433:12563493;1627207:27835797781",
+          "price": "169",
+          "promotion_price": "59.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576581",
+          "propPath": "21433:27579886;1627207:27835797781",
+          "price": "169",
+          "promotion_price": "69.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5288359466201",
+          "propPath": "21433:21373;1627207:27835797782",
+          "price": "179",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576564",
+          "propPath": "21433:12563493;1627207:27835797782",
+          "price": "169",
+          "promotion_price": "74.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5118732576582",
+          "propPath": "21433:27579886;1627207:27835797782",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5265461184533",
+          "propPath": "21433:21373;1627207:30516862768",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5265461184531",
+          "propPath": "21433:12563493;1627207:30516862768",
+          "price": "169",
+          "promotion_price": "84.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "5265461184535",
+          "propPath": "21433:27579886;1627207:30516862768",
+          "price": "169",
+          "promotion_price": "94.9",
+          "activity_price": null,
+          "quantity": "200"
+        },
+        {
+          "skuId": "4566126646849",
+          "propPath": "21433:21373;1627207:8633276843",
+          "price": "189",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576567",
+          "propPath": "21433:12563493;1627207:8633276843",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576585",
+          "propPath": "21433:27579886;1627207:8633276843",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "4553346542937",
+          "propPath": "21433:21373;1627207:23023534497",
+          "price": "189",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576557",
+          "propPath": "21433:12563493;1627207:23023534497",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576575",
+          "propPath": "21433:27579886;1627207:23023534497",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "4553346542936",
+          "propPath": "21433:21373;1627207:8589160358",
+          "price": "189",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576565",
+          "propPath": "21433:12563493;1627207:8589160358",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576583",
+          "propPath": "21433:27579886;1627207:8589160358",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "4553346542938",
+          "propPath": "21433:21373;1627207:8619020416",
+          "price": "189",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576566",
+          "propPath": "21433:12563493;1627207:8619020416",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        },
+        {
+          "skuId": "5118732576584",
+          "propPath": "21433:27579886;1627207:8619020416",
+          "price": "169",
+          "promotion_price": "79.9",
+          "activity_price": null,
+          "quantity": "0"
+        }
+      ],
+      "sku_props": [
+        {
+          "pid": "21433",
+          "name": "尺寸",
+          "values": [
+            {
+              "vid": "21373",
+              "name": "14寸"
+            },
+            {
+              "vid": "12563493",
+              "name": "15.6寸"
+            },
+            {
+              "vid": "27579886",
+              "name": "17.3寸"
+            }
+          ]
+        },
+        {
+          "pid": "1627207",
+          "name": "颜色分类",
+          "values": [
+            {
+              "vid": "23023534496",
+              "name": "【各版本区别说明】",
+              "image": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01vikO281nb3VQpnrXS_!!1782885107.png"
+            },
+            {
+              "vid": "8850085755",
+              "name": "深空灰—四大隔层【标准版】",
+              "image": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01A3PXgv1nb3KvgweUE_!!1782885107.jpg"
+            },
+            {
+              "vid": "17229206981",
+              "name": "深空灰—四大隔层【升级版】",
+              "image": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01VijZ6c1nb3JfyOd2U_!!1782885107.jpg"
+            },
+            {
+              "vid": "23029090964",
+              "name": "深空灰-四大隔层【旗舰版 -全新升级】",
+              "image": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01EDt8AM1nb3VIv7x9C_!!1782885107.jpg"
+            },
+            {
+              "vid": "8850085757",
+              "name": "星光灰—四大隔层【标准版】",
+              "image": "//img.alicdn.com/bao/uploaded/i1/1782885107/O1CN01Ywnmsy1nb3KyYM23h_!!1782885107.jpg"
+            },
+            {
+              "vid": "17229206982",
+              "name": "星光灰—四大隔层【升级版】",
+              "image": "//img.alicdn.com/bao/uploaded/i4/1782885107/O1CN014LK3dM1nb3JfYMaAg_!!1782885107.jpg"
+            },
+            {
+              "vid": "23029168451",
+              "name": "星光灰-四大隔层【旗舰版 -全新升级】",
+              "image": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01x3BgiT1nb3VHYRhjP_!!1782885107.jpg"
+            },
+            {
+              "vid": "8850085759",
+              "name": "曜石黑—四大隔层【标准版】",
+              "image": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01IW4amF1nb3L1Zkvte_!!1782885107.jpg"
+            },
+            {
+              "vid": "16432173769",
+              "name": "曜石黑—四大隔层【升级版】",
+              "image": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01Wi6t4C1nb3JfYOOQ4_!!1782885107.jpg"
+            },
+            {
+              "vid": "23029168452",
+              "name": "曜石黑-四大隔层【旗舰版 -全新升级】",
+              "image": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN019DlXWd1nb3VM0DMo5_!!1782885107.jpg"
+            },
+            {
+              "vid": "24812942322",
+              "name": "米白色—四大隔层【标准版】",
+              "image": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01SChQ341nb3Xysx5ey_!!1782885107.jpg"
+            },
+            {
+              "vid": "24812942323",
+              "name": "米白色—四大隔层【升级版】",
+              "image": "//img.alicdn.com/bao/uploaded/i1/1782885107/O1CN01igB6Lq1nb3XysiWZ3_!!1782885107.jpg"
+            },
+            {
+              "vid": "30516862767",
+              "name": "米白色—四大隔层【旗舰版】",
+              "image": "//img.alicdn.com/bao/uploaded/i4/1782885107/O1CN01DngG4Q1nb3dBaLLrH_!!1782885107.jpg"
+            },
+            {
+              "vid": "27835797781",
+              "name": "香芋紫—四大隔层【标准版上新颜色】",
+              "image": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN015f6oyc1nb3M0VU2oy_!!1782885107.jpg"
+            },
+            {
+              "vid": "27835797782",
+              "name": "香芋紫—四大隔层【升级版上新颜色】",
+              "image": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01lHM9TF1nb3akFeUxx_!!1782885107.png"
+            },
+            {
+              "vid": "30516862768",
+              "name": "香芋紫—四大隔层【旗舰版上新颜色】",
+              "image": "//img.alicdn.com/bao/uploaded/i1/1782885107/O1CN014OQoDm1nb3dEYBzC2_!!1782885107.jpg"
+            },
+            {
+              "vid": "8633276843",
+              "name": "————— 本商品包含以下服务 —————"
+            },
+            {
+              "vid": "23023534497",
+              "name": "【质保一年 质量问题直接换新】",
+              "image": "//img.alicdn.com/bao/uploaded/i4/1782885107/O1CN018Nri8o1nb3JUUcXAO_!!1782885107.jpg"
+            },
+            {
+              "vid": "8589160358",
+              "name": "【送运费险 免费试用 想退就退】",
+              "image": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01f69ftB1nb3JVTQCRQ_!!1782885107.jpg"
+            },
+            {
+              "vid": "8619020416",
+              "name": "【急速发货 当天付款 当天发货】",
+              "image": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN010DfHuQ1nb3JLFA01N_!!1782885107.jpg"
+            }
+          ]
+        }
+      ],
+      "sku_images": {
+        "1627207:23023534496": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01vikO281nb3VQpnrXS_!!1782885107.png",
+        "1627207:17229206981": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01VijZ6c1nb3JfyOd2U_!!1782885107.jpg",
+        "1627207:23029090964": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01EDt8AM1nb3VIv7x9C_!!1782885107.jpg",
+        "1627207:24812942323": "//img.alicdn.com/bao/uploaded/i1/1782885107/O1CN01igB6Lq1nb3XysiWZ3_!!1782885107.jpg",
+        "1627207:16432173769": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01Wi6t4C1nb3JfYOOQ4_!!1782885107.jpg",
+        "1627207:23029168451": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01x3BgiT1nb3VHYRhjP_!!1782885107.jpg",
+        "1627207:24812942322": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01SChQ341nb3Xysx5ey_!!1782885107.jpg",
+        "1627207:23023534497": "//img.alicdn.com/bao/uploaded/i4/1782885107/O1CN018Nri8o1nb3JUUcXAO_!!1782885107.jpg",
+        "1627207:17229206982": "//img.alicdn.com/bao/uploaded/i4/1782885107/O1CN014LK3dM1nb3JfYMaAg_!!1782885107.jpg",
+        "1627207:23029168452": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN019DlXWd1nb3VM0DMo5_!!1782885107.jpg",
+        "1627207:8850085755": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01A3PXgv1nb3KvgweUE_!!1782885107.jpg",
+        "1627207:30516862768": "//img.alicdn.com/bao/uploaded/i1/1782885107/O1CN014OQoDm1nb3dEYBzC2_!!1782885107.jpg",
+        "1627207:8850085757": "//img.alicdn.com/bao/uploaded/i1/1782885107/O1CN01Ywnmsy1nb3KyYM23h_!!1782885107.jpg",
+        "1627207:8850085759": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01IW4amF1nb3L1Zkvte_!!1782885107.jpg",
+        "1627207:8619020416": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN010DfHuQ1nb3JLFA01N_!!1782885107.jpg",
+        "1627207:8589160358": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN01f69ftB1nb3JVTQCRQ_!!1782885107.jpg",
+        "1627207:27835797781": "//img.alicdn.com/bao/uploaded/i3/1782885107/O1CN015f6oyc1nb3M0VU2oy_!!1782885107.jpg",
+        "1627207:27835797782": "//img.alicdn.com/bao/uploaded/i2/1782885107/O1CN01lHM9TF1nb3akFeUxx_!!1782885107.png",
+        "1627207:30516862767": "//img.alicdn.com/bao/uploaded/i4/1782885107/O1CN01DngG4Q1nb3dBaLLrH_!!1782885107.jpg"
+      }
+    },
+    "delivery": {
+      "from": null,
+      "to": "东城区",
+      "delivery_fee": "0.00",
+      "area_id": "110101"
+    },
+    "seller": {
+      "seller_id": null,
+      "seller_title": null,
+      "shop_title": "Structure数码自营店",
+      "shop_id": "114078282",
+      "shop_url": "//store.taobao.com/shop/view_shop.htm?user_number_id=",
+      "shop_icon": "//img.alicdn.com/imgextra/i1/O1CN01pz5irY1bhDKceJor2_!!6000000003496-2-tps-144-144.png",
+      "user_type": "C",
+      "evaluates": null
+    }
+  },
+  "recordTime": null
+}

@@ -1,0 +1,2920 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:26.083604+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "news": {
+      "__typename": "NewsConnection",
+      "edges": [
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933049",
+            "byline": "Jordan Moreau and Brent Lang",
+            "date": "2026-07-17T14:36:55Z",
+            "externalUrl": "https://variety.com/2026/film/box-office/box-office-the-odyssey-previews-1236812480/",
+            "articleTitle": {
+              "plainText": "Box Office: ‘The Odyssey’ Kicks Off With an Epic $17.6 Million in Previews"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3816866050",
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU3NDZmZmUtNTBlNC00YmVkLTlhMGUtYTg1MzcwMTFjODcxXkEyXkFqcGc@._V1_.jpg",
+              "height": 2000,
+              "width": 3000
+            },
+            "text": {
+              "plainText": "Sing in me, Muse, of an epic story and a legendary filmmaker who are taking the box office by storm. Yes, a full year after advance tickets originally went on sale, director Christopher Nolan’s “The Odyssey” is finally here.\n\nThe Greek epic, and Nolan’s follow-up to best picture winner “Oppenheimer,” has made a mighty $17.6 million in previews at the box office. It’s the best result for preview screenings of the year, surpassing the $17.5 million that “Toy Story 5” netted.\n\n“The Odyssey” is estimated to make between $90 million and $100 million in its opening weekend, which would be Nolan’s biggest launch since “The Dark Knight Rises” racked up $160 million in 2012. However, the initial results suggest that those projections may be conservative. An opening on the higher end would make “The Odyssey” the third movie this year to hit or surpass $100 million in its debut, joining “Toy Story 5″ ($159 million"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932924",
+            "byline": "Wilson Chapman",
+            "date": "2026-07-17T13:25:59Z",
+            "externalUrl": "https://variety.com/2026/film/news/brenda-fricker-dead-my-left-foot-home-alone-2-1236814615/",
+            "articleTitle": {
+              "plainText": "Brenda Fricker, ‘My Left Foot’ Oscar Winner, Dies at 81"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3744355072",
+              "url": "https://m.media-amazon.com/images/M/MV5BOGFkYzZhMjEtNGVlMy00NzcyLWI3NDQtMTY0OWFkZTk5MDFjXkEyXkFqcGc@._V1_.jpg",
+              "height": 729,
+              "width": 600
+            },
+            "text": {
+              "plainText": "Brenda Fricker, who became the first Irish actress to win an Oscar for her turn opposite Daniel Day-Lewis in 1989’s “My Left Foot” and captured hearts as the Pigeon Lady in 1992’s “Home Alone 2,” died on Thursday in Dublin. She was 81.\n\nFricker’s agent, Phil Belfield, confirmed her death to the BBC on Friday. “We will never see her like again and the world is lesser for the lack of her,” he said in a statement. “I was honored to know, love and work with her and she will always have a place in my heart and in the heart of so many film and TV fans the world over.”\n\nA celebrated character actor of the stage and screen, Fricker won many accolades across her career, including the inaugural 2008 Maureen O’Hara award from the Kerry Film Festival, which honors women that have excelled on film. In 2020, she was ranked No."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety Film + TV"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65934042",
+            "byline": "Rafa Sales Ross",
+            "date": "2026-07-18T08:34:16Z",
+            "externalUrl": "https://variety.com/2026/film/global/utopia-distribution-eventification-young-cinephiles-fandom-1236814419/",
+            "articleTitle": {
+              "plainText": "Utopia Distribution Exec on Shifting Releases Towards Eventification to Cater to ‘Fandom’ and Younger Audiences: ‘Everything Is Being Destroyed to Be Rebuilt’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3617638146",
+              "url": "https://m.media-amazon.com/images/M/MV5BZDYyYWMzMGYtMWEzNC00NjI4LTllZDctOTk2MDk3ZjhmYWIwXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "The years that directly succeeded the Covid pandemic were marked by a dire, almost apocalyptic view on the future of cinemagoing. Audiences who were already thinning out before global lockdowns became even scarcer, with streamers growing their market share and smaller arthouse cinemas closing down as audiences failed to return through their doors once they reopened.\n\nYet, in the last two years, this sentiment of sheer doom has slowly and steadily begun to give way to a tentative yet very much present hope. The same pandemic years that decimated older arthouse audiences have brewed a new generation driven by a cinephilia built upon internet archives, social media and platforms like Letterboxd, with young film fans queuing up for repertory screenings and special events in major U.S. capitals and other cities around the world.\n\nSpeaking at the Costa Rica Media Market, Senior Vice President of Acquisitions and Business Development at Utopia Distribution,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65934025",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-18T07:58:24Z",
+            "externalUrl": "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/",
+            "articleTitle": {
+              "plainText": "S.S. Rajamouli Marks Priyanka Chopra Jonas’ Birthday With New ‘Varanasi’ Images"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm362858242",
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE5NjUzMzMtZjYzMS00MzQ1LWJkNjktZTJiZGM5MDU2ZjdjXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Two character stills of Priyanka Chopra Jonas from S.S. Rajamouli’s “Varanasi” were released Saturday to mark the actor’s birthday.\n\n“Varanasi” spans thousands of years and traverses multiple continents, with locations ranging from Antarctica to Africa to the titular Indian city. Mahesh Babu plays the dual roles of the protagonist Rudhra and Hindu God Rama, Priyanka Chopra Jonas plays a character named Mandakini and the main antagonist Kumbha is played by Prithviraj Sukumaran.\n\nThe character of Mandakini required specific qualities that Rajamouli believes Chopra Jonas uniquely possesses. “She can be a really kick-ass girl, and she has to be really vulnerable. [There are] very few actors who can do both in the same character,” he had told Variety. “She did a fantastic job, and I’m so happy that I have her on board.”\n\nPriyanka Chopra Jonas – “Varanasi” Sri Durga Arts/Showing Business\n\nThe film marks Chopra Jonas’ return to Indian"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933954",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-18T05:00:00Z",
+            "externalUrl": "https://variety.com/2026/film/news/saiyaara-collector-vinyl-lp-wembley-anniversary-1236814816/",
+            "articleTitle": {
+              "plainText": "‘Saiyaara’ Stars Ahaan Panday and Aneet Padda Mark Film’s First Year With Collector’s Edition Vinyl LP Launch at Wembley Stadium (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1991032066",
+              "url": "https://m.media-amazon.com/images/M/MV5BZmYyNjYzZTAtMmViYi00OTQ3LWFiYWYtOWJiMDA3MTYxMDJkXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Bollywood stars Ahaan Panday and Aneet Padda visited London’s Wembley Stadium to celebrate the first anniversary of “Saiyaara,” unveiling a collector’s edition vinyl LP of the Yash Raj Films blockbuster – a package built to give fans and music enthusiasts a definitive way to revisit the film’s complete sonic journey.\n\n“Saiyaara,” directed by Mohit Suri and produced by Yrf CEO Akshaye Widhani, grossed over INR580 crore ($69 million) worldwide and is credited as the highest-grossing love story in Indian cinema history.\n\nThe choice of Wembley as the launch venue carries direct resonance with the film itself. In one of “Saiyaara’s” pivotal scenes, Panday’s character Krish Kapoor spots Padda’s Vaani Batra on the stadium’s giant screen, recognizing her by her eyes alone; the film’s finale concert sequence also unfolds at the same venue.\n\nThe release is a two-disc set. LP-1 compiles all nine tracks from the soundtrack,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933944",
+            "byline": "McKinley Franklin",
+            "date": "2026-07-18T04:02:41Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/john-kirby-daead-acting-coach-1236651456/",
+            "articleTitle": {
+              "plainText": "John Kirby, Acting Coach and Son to Actor Bruce Kirby, Dies at 75"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm598525698",
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE5ZTc3MzYtNzgwNS00ZGQ0LWE0N2UtNzBlODczMzVhMzJhXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "John Kirby, the longtime acting coach and son to Bruce Kirby, has died. He was 75.\n\nKirby died Wednesday three years after being diagnosed with Als. His associate, Nathan Besbitt, confirmed his death on Instagram.\n\n“I am here to officially, with a broken heart, announce the passing of our beloved John on the early morning hours of Wednesday, July 15, and it has been devastating for all of us, and we’re trying to just find a way to cope,” Besbitt said.\n\nKirby lent his talents as an acting coach to a number of projects across his career, and was a frequent collaborator with Jim Caviezel.\n\nThe two worked together on films including Frequency (2000); Pay It Forward (2000); Angel Eyes (2001); The Count of Monte Cristo (2002); High Crimes (2002); I Am David (2003); The Final Cut (2004); Bobby Jones: Stroke of Genius (2004); Unknown (2006); and Paul, Apostle of Christ (2018). Kirby also served as Caviezel’s acting coach for the 2009 miniseries The Prisoner."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933941",
+            "byline": "Drew Taylor",
+            "date": "2026-07-18T03:34:55Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/the-princess-and-the-frog-live-action-adaptation-colman-domingo/",
+            "articleTitle": {
+              "plainText": "Disney’s ‘The Princess and the Frog’: Colman Domingo in Early Talks to Write Live-Action Adaptation"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3668690690",
+              "url": "https://m.media-amazon.com/images/M/MV5BYTcwNzA2NmQtNDJkNC00Y2RlLThlNWEtNWIwYzQzYjJlMDk2XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Disney’s “The Princess and the Frog” is set to get the live-action adaptation treatment. And it will potentially have a heavy hitter co-writing the adapted screenplay, too.\n\nColman Domingo is in early talks to co-write the project, centered on an original story around Tiana, the titular princess who led the 2009 animated feature, memorably voiced by Disney Legend Anika Noni Rose. Domingo, who can currently be seen in Steven Spielberg’s “Disclosure Day,” is set to write the screenplay with “Slave Play” director Robert O’Hara. Though, TheWrap understands that the movie is in early stages, as no deals have closed. It’s unclear if Disney has a director in mind."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933942",
+            "byline": "Steve Pond",
+            "date": "2026-07-18T03:30:00Z",
+            "externalUrl": "https://www.thewrap.com/industry-news/awards/bafta-student-awards-winners-2026/",
+            "articleTitle": {
+              "plainText": "BAFTA Student Awards Won by Schools from Spain, France, China, the U.K. and the U.S."
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3635136258",
+              "url": "https://m.media-amazon.com/images/M/MV5BODRjMGVhODMtYzRlMC00Mjc1LWE3NzQtNTU0MzdkOWVmYjE4XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Student filmmakers from Spain, France, China, the United Kingdom and the United States won awards at the British Academy of Film and Television Arts’ BAFTA Student Awards, which were handed out at a ceremony in Los Angeles on Friday evening.\n\nThe winners were selected from among more than 600 entries in film, games and immersive storytelling categories. The ceremony was hosted by Elle Osili Wood and came at the end of an Experience Week that treated the finalists to studio visits, workshops and networking opportunities.\n\nA jury that included actor Joel Kim Booster, composer Laura Karpman, filmmaker Smriti Mundhra, comedian Nico Santos and Eon Productions Creative Director Heather Callow awarded the Albert R."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933935",
+            "byline": "Kevin Dolak",
+            "date": "2026-07-18T03:25:20Z",
+            "externalUrl": "https://www.hollywoodreporter.com/tv/tv-news/larry-and-the-pursuit-of-unhappiness-guest-stars-cameos-1236651445/",
+            "articleTitle": {
+              "plainText": "All of the Guest Stars and Cameos on HBO Max’s ‘Life, Larry and the Pursuit of Unhappiness’ (So Far)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm648791810",
+              "url": "https://m.media-amazon.com/images/M/MV5BMmYzOTk1YjYtMzE4OC00ZGYwLTg0OWItZDI5M2MyMTU1MzMzXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Larry David has returned to HBO Max with the American history-centered sketch comedy show Life, Larry and the Pursuit of Unhappiness, following the conclusion of his long-running series Curb Your Enthusiasm — and it’s not just executive producers Barack and Michelle Obama who are along for the ride. Dozens of celebrity guests have joined the comedian to fill out the cast of historical figures.\n\nThis is not just a few cameos here and there — each episode of Life, Larry and the Pursuit of Unhappiness has over a dozen celebrity guests, and the roster ranges from a few of David’s co-stars on Curb to the late Rob Reiner, in what became his final screen performance. Major Hollywood stars including Samuel L. Jackson and Lin-Manuel Miranda don the wigs and garb of decades and centuries past alongside television’s biggest names, like Jerry Seinfeld and Jon Hamm. The Hollywood Reporter is"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933914",
+            "byline": "Chris Gardner",
+            "date": "2026-07-18T02:04:53Z",
+            "externalUrl": "https://www.hollywoodreporter.com/news/general-news/tom-brady-logan-paul-slap-fanatics-fest-wwe-promo-1236651395/",
+            "articleTitle": {
+              "plainText": "Tom Brady and Logan Paul Get Into Heated Exchange That Ends With a Slap. But Was It Fake?"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm447334146",
+              "url": "https://m.media-amazon.com/images/M/MV5BOGRiM2E1NWQtMDFiOS00Njc3LThmNzMtNzliYTY5MzFmMmUzXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Tom Brady and Logan Paul shared a stage at Fanatics Fest in New York on Friday, and when their panel ended, an alleged beef heated up and boiled over into an exchange that ended with a slap to the face.\n\nOr did it?\n\nA clip posted on Fanatics’ X account showed the moment Brady and Paul faced off near center stage while exchanging what appeared to be spicy words. Brady then removes his hand from the pocket of his camouflage cargo pants and moves to strike. At first glance, it appears Brady slapped Paul across the face, but closer inspection shows that Brady’s hand missed the target and only made contact with Paul’s shoulder. At that moment, New York Knicks star Karl-Anthony Towns jumped in to break up the “fight.” See the clip below.\n\nRound 100 of this never ending beef at Fanatics Fest"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933888",
+            "byline": "Chris Gardner",
+            "date": "2026-07-18T00:46:08Z",
+            "externalUrl": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/world-cup-final-tickets-metlife-stadium-spain-argentina-1236651276/",
+            "articleTitle": {
+              "plainText": "World Cup Final Frenzy: $4M Ticket Package Sold"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4191667970",
+              "url": "https://m.media-amazon.com/images/M/MV5BZTFkYWE4ODAtNjgwMS00N2NlLWExM2YtZDljZDZiMTI2ZjA5XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Sunday’s World Cup final is shaping up to be one of the biggest matches in history — and the most expensive if you want be in the stadium where it happens.\n\nWith less than 48 hours to go before Argentina takes on Spain inside MetLife Stadium in East Rutherford, New Jersey, ticket prices have risen to the $10,000 range for single tickets while hospitality packages (available through FIFA’s official hospitality provider On Location) are upwards of $30,000 to nearly $60,000 for specific lounges.\n\nAt last check today on FIFA’s official website, On Location had select hospitality tickets available for Pitchside Lounge at $57,500 for a single ticket, while lower-tier access was available inside the Trophy Lounge for $34,500. Champions Club, FIFA Pavilion and Supporters Club lounges were sold-out as of press time. On StubHub, the lowest price for an available ticket was $9,753 while the highest was $69,786.\n\nThat’s nothing compared to a deal Knightsbridge"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933872",
+            "byline": "Angelique Jackson",
+            "date": "2026-07-18T00:05:13Z",
+            "externalUrl": "https://variety.com/2026/film/news/colman-domingo-live-action-princess-tiana-movie-robert-ohara-princess-and-the-frog-1236815248/",
+            "articleTitle": {
+              "plainText": "Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess Tiana Movie"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2144847618",
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQyZWVmOTktMzRlYS00MzljLWFiNTktMGU2NDEwM2NhMGZlXkEyXkFqcGc@._V1_.jpg",
+              "height": 1440,
+              "width": 2160
+            },
+            "text": {
+              "plainText": "Emmy winner and Oscar nominee Colman Domingo and “Slave Play” director Robert O’Hara are in talks to write a live-action film about Princess Tiana from Disney’s “The Princess and the Frog.”\n\nThe project, which is in very early stages at the studio, is an original idea inspired by the animated classic, 2009’s “The Princess and the Frog,” which featured Anika Noni Rose as the voice of Tiana. The musical fairy tale set in 1920’s New Orleans centers on Tiana, a waitress with dreams to become a restaurant owner, who is set on a journey to turn a frog prince back into a human, only to face the same problem after she kisses him. “The Princess and the Frog” grossed $267 million at the global box office and was nominated for three Academy Awards — best animated feature and two of Randy Newman’s songs, “Almost There” and “Down in New Orleans."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933849",
+            "byline": "McKinley Franklin",
+            "date": "2026-07-18T00:02:10Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/colman-domingo-live-action-tiana-princess-and-the-frog-1236651364/",
+            "articleTitle": {
+              "plainText": "Colman Domingo in Talks to Write Live-Action Princess Tiana Movie Inspired by ‘Princess and the Frog’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3839280898",
+              "url": "https://m.media-amazon.com/images/M/MV5BY2RlNjJhODItN2NiNS00YmY5LWE0YmYtMDU4NDYyMDQzN2M5XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Colman Domingo is in talks to co-write an original live-action film spotlighting Princess Tiana from Disney’s The Princess and the Frog, The Hollywood Reporter has confirmed.\n\nDomingo will co-write the take alongside Tony-nominated director Robert O’Hara. Deals have not closed for the pair. It is not described as a live-action remake of The Princess and the Frog, but rather a story inspired by the original film.\n\nThe Princess and the Frog released in 2009, centers on Princess Tiana, an aspiring restaurant owner who tries to help a frog prince turn back into a human, when she herself also turns into a frog and they end up falling in love.\n\nThe news of a new live-action Disney flick comes after Moana just hit theaters last Friday, and got off to a rocky start at the box office. Disney has seen ups-and-downs in terms of reception to its live-action remakes.\n\nJust last year,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933848",
+            "byline": "William Bibbiani",
+            "date": "2026-07-17T23:39:22Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/horsegirls-review-lillian-carrier/",
+            "articleTitle": {
+              "plainText": "‘Horsegirls’ Review: Exquisite Coming-of-Age Story Sends the Right Dressage"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3856058114",
+              "url": "https://m.media-amazon.com/images/M/MV5BMDUwYjVhM2UtNTM2My00MTliLTk0Y2YtMzcxYmM0ZWY4ZDM3XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "It’s easy to have a soft spot for coming-of-age movies. When we’re children we dream of becoming an adult. When we’re adults we dream of being kids again, even though our memories of childhood make us wince. When we’re in the middle of growing up, neither young nor old, earning our wisdoms the hard way, we feel inexplicably alone, even though every other person our age is going through similar anguish, similar excitement, similar confusion.\n\nIn every phase of our lives, stories about our transitional periods make us feel seen. And whether we admit it or not the “coming-of-age” formula makes that possible. Everyone’s childhood"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933762",
+            "byline": "Etan Vlessing",
+            "date": "2026-07-17T22:04:00Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/natalie-portman-rachel-cusk-novel-1236651237/",
+            "articleTitle": {
+              "plainText": "Rachel Cusk’s New Novel May Be Dark Portrait of Natalie Portman"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1043846402",
+              "url": "https://m.media-amazon.com/images/M/MV5BMDBiYzM0ZjYtMmVlYy00ODcwLWIxNzEtNjUxYTUzZTU5NjZjXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Natalie Portman famously saw a twisted version of herself in mirrors as part of her Oscar-winning performance as a tortured ballerina in Black Swan.\n\nShe may experience the same queasy sensation if Unherd writer Valerie Stivers is to be believed, as she suggests in a July 17 column that Cusk’s upcoming novel, Life of M, is a thinly-veiled portrait of Portman.\n\nAnd Portman, despite apparently being friends with Cusk and a cheerleader for her novels, may not be flattered with what she sees in the literary mirror. “Chatter in New York literary circles says that Cusk’s upcoming novel, Life of M, is based on Cusk’s relationship with Portman,” Stivers reveals in her Unherd column, entitled A Novelist’s Dark Portrait of Natalie Portman — Rachel Cusk’s New Book Mines the Actress’s Life.\n\nThe novel, set for an Aug. 25, 2026 release and available for pre-order, centers on a famous actress,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933756",
+            "byline": "Umberto Gonzalez",
+            "date": "2026-07-17T21:48:50Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/netflix-lands-us-latin-american-rights-to-danny-boyle-thriller-ink/",
+            "articleTitle": {
+              "plainText": "Danny Boyle Thriller ‘Ink’ Lands at Netflix Ahead of Venice Debut"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3810444802",
+              "url": "https://m.media-amazon.com/images/M/MV5BOGM2MDI5ZDYtNGNiMC00OTM4LTg4MDctNGI1NThlOGIxY2E4XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Netflix has acquired domestic and Latin American rights to the thriller “Ink” from Academy Award-winning director Danny Boyle, TheWrap has learned.\n\nThe film stars Jack O’Connell as Larry Lamb, Guy Pearce as Rupert Murdoch and Claire Foy. The biographical newspaper drama will kick off the 2026 Venice Film Festival on Sept. 2 (the event will then run through Sept. 12).\n\nThe official synopsis reads: “The film is based on the Tony-nominated play by multi-Olivier award-winning playwright and screenwriter James Graham. The film is an explosive cinematic rollercoaster about a group of visionaries and misfits who had an idea for a new kind of news — one that would give the people what they want"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933760",
+            "byline": "Corbin Bolies",
+            "date": "2026-07-17T21:39:49Z",
+            "externalUrl": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+            "articleTitle": {
+              "plainText": "Netflix Paid $587 Million for Ben Affleck’s AI Startup InterPositive"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2725763586",
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk4ODczOTgtZjNkOS00MjM4LThlY2MtZjE1N2E0Mzc5NzVhXkEyXkFqcGc@._V1_.jpg",
+              "height": 1333,
+              "width": 2000
+            },
+            "text": {
+              "plainText": "Netflix paid $587 million in cash when it purchased Ben Affleck’s AI startup InterPositive, the company disclosed in a federal filing.\n\nAs part of the company’s Form 10-q report with the Securities and Exchange Commission, Netflix confirmed that it completed an acquisition in March “for a total purchase price of approximately $587 million. The disclosure came months after a Bloomberg report indicated Netflix’s March acquisition could amount to up to $600 million for Affleck and InterPositive’s investors, even if the total price for the company was less than that amount.\n\nThe remainder would be made up through “certain performance targets,” according to the Bloomberg report. Netflix did not respond to an immediate request for comment.\n\nNetflix purchased Affleck’s startup, which he founded in 2022 and operated in stealth mode, in a bid to develop AI tools that kept “filmmakers at the center of the process.” The purchase brought aboard"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933757",
+            "byline": "Casey Loving",
+            "date": "2026-07-17T21:38:43Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/a24-backrooms-copyright-claim-kane-parsons/",
+            "articleTitle": {
+              "plainText": "A24 Withdraws ‘Backrooms’ Copyright Claim After Kane Parsons Intervenes"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2426850306",
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQyMjU0NDItZGIwYS00NTA5LWFhODMtODNhYjBhZWFkNWE1XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "We’re starting to learn what it looks like when a studio makes a meme into a box office sensation.\n\nA24 released a statement on Friday after Reddit user, u/GnarlyNet, reported that the studio had requested that their “Backrooms”-inspired artwork be taken down off of Redbubble. The Redditor said that the complaint was made to Redbubble on behalf of A24 Films LLC.\n\n“A24 makes no claim of ownership over the yellow wallpaper, the original post referencing it, or any of the community works that have since been built around it,” the studio said. “We will continue to support the artists who, like Kane, were inspired by it.” You"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933758",
+            "byline": "Alex Welch",
+            "date": "2026-07-17T21:30:00Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-netflix-this-week-july-17-19/",
+            "articleTitle": {
+              "plainText": "The 3 Best Movies to Watch on Netflix This Week"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4153779202",
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQzZTFkZjMtNDNiMy00MzgxLTllNjItNjIzNmQxMWY5NjRiXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Netflix’s current, best film selections include a period drama from “Eternals” and “Nomadland” director Chloé Zhao that is destined to leave almost every person who watches it in a puddle of tears by the time it is over. If you are not quite in the mood for that this week, the streamer also has an underrated early 2000s romantic dramedy starring John Cusack and Jack Black and an Oscar-winning 2006 ensemble tragicomedy that takes both the viewer and its characters on an oddball journey of whacky setbacks and surprising self-discovery.\n\nHere are the best movies on Netflix you can watch this week.\n\nJessie Buckley in “Hamnet” (Focus Features) “Hamnet” (2025)\n\nDirector Chloé Zhao’s acclaimed,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933720",
+            "byline": "Ethan Shanfeld",
+            "date": "2026-07-17T21:30:00Z",
+            "externalUrl": "https://variety.com/2026/tv/news/shane-gillis-breaks-guinness-world-record-tickets-sold-1236815073/",
+            "articleTitle": {
+              "plainText": "Shane Gillis Breaks Guinness World Record for Most Tickets Sold for a Solo Comedy Show (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1506985730",
+              "url": "https://m.media-amazon.com/images/M/MV5BMmY2MDhlODgtMWI5Yy00NDc3LWFmNmEtNWJiN2JiYTAxN2Q1XkEyXkFqcGc@._V1_.jpg",
+              "height": 1815,
+              "width": 2720
+            },
+            "text": {
+              "plainText": "Shane Gillis has made comedy history.\n\nWith 76,212 tickets sold for his July 17 show at Lincoln Financial Field, the stadium home of the Philadelphia Eagles, Gillis has broken the Guinness World Record for most tickets sold for a comedy show by a solo comedian.\n\nGuinness World Records adjudicator Andy Glass verified the official ticket sales figures and confirmed the record to Variety.\n\nWhen he takes the stage, Gillis is poised to break a separate Guinness World Record for largest audience for a comedian, which will be determined by the verified attendance count inside the stadium. That record is currently held by Mario Barth,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933719",
+            "byline": "Alex Ritman",
+            "date": "2026-07-17T21:30:00Z",
+            "externalUrl": "https://variety.com/2026/film/global/danny-boyle-rupert-murdoch-movie-ink-bought-us-netflix-1236812563/",
+            "articleTitle": {
+              "plainText": "Netflix Buys Danny Boyle’s Rupert Murdoch Movie and Venice Opener ‘Ink’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2803746306",
+              "url": "https://m.media-amazon.com/images/M/MV5BNjExNTM0MjItOTE2MS00NWVmLTk5MjgtNzk3OTZmMGI1Y2MyXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Having just been announced as the Venice Film Festival curtain raiser, Danny Boyle’s “Ink” has found a new nome.\n\nNetflix has acquired the U.S. and Latin American rights to the film — about the early years of Rupert Murdoch’s media empire as he planted a flag in the U.K. and starring Jack O’Connell, Guy Pearce and Claire Foy. The film will world premiere in the Venice competition on Sep 2, opening the 83rd edition of the festival.\n\nBased on the Tony-nominated stage play by James Graham, who wrote the screenplay, “Ink” was produced by Studiocanal, Media Res and House Productions, reuniting Academy Award winner Boyle with his “Slumdog Millionaire” exec producer Tessa Ross.\n\nSet in 1969, the film charts the story of how Murdoch and tabloid editor Larry Lamb launched “The Sun,” newspaper. O’Connell stars as “The Sun” editor Lamb with Pearce as Murdoch. Foy plays Jules Davies.\n\n“Long before Fox News,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933701",
+            "byline": "Mia Galuppo and Aaron Couch",
+            "date": "2026-07-17T21:19:26Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/kane-parsons-curry-barker-and-the-multi-million-dollar-battle-for-gen-z-eyeballs-1236651171/",
+            "articleTitle": {
+              "plainText": "Kane Parsons, Curry Barker and the Multi-Million Dollar Battle for Gen Z Eyeballs"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm785565442",
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA2MTMzY2ItMDBkYS00NDdiLTkxODktODUzODMxMWJlM2JjXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "The great Gen Z genre land grab is in full swing.\n\nMere months after Obsession and Backrooms stormed the summer box office, Hollywood studios have been throwing millions at Internet-fluent horror filmmakers and online-native IP in a battle for the dollars, eyeballs and hearts (in that order) of Gen Z viewers.\n\nThe most urgent example today is Backrooms director Kane Parsons, whose $10 million film stands a A24’s top-grossing movie ever with $374 million globally. He is in the midst of a full-court press from multiple power players who want to secure the 21-year-old auteur’s future work.\n\nAs first reported by Puck, sources confirmed to The Hollywood Reporter that in recent weeks, Warner Bros. bosses Mike De Luca and Pam Abdy flew to Parsons’ home in the Bay Area, where he lives with his mother, to court the filmmaker. On Thursday, he partook in a Zoom with HBO boss Casey Bloys"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933759",
+            "byline": "Lucas Manfredi",
+            "date": "2026-07-17T21:16:49Z",
+            "externalUrl": "https://www.thewrap.com/industry-news/deals-ma/netflix-ben-affleck-interpositive-purchase-price-587-million/",
+            "articleTitle": {
+              "plainText": "Netflix Paid $587 Million in Cash for Ben Affleck’s AI Startup InterPositive"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1993590530",
+              "url": "https://m.media-amazon.com/images/M/MV5BOTIzNTZmMmItOTE3Mi00ZjQ4LTg2YjAtZmYyZDJiMTYxNmFkXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Netflix paid $587 million in cash to acquire Ben Affleck’s AI startup InterPositive, according to a regulatory filing from the streamer on Friday.\n\n“In March 2026, the Company completed an acquisition which was accounted for as a business combination for a total purchase price of approximately $587 million, consisting of cash consideration,” the filing states.\n\nThough InterPositive is not directly named, the deal to acquire the company was announced by Netflix in March. Financial terms were not disclosed at the time, though reports pegged the value of the deal at up to $600 million.\n\nThe InterPositive deal expanded Netflix’s suite of AI-powered tools for filmmakers, with the former’s team of engineers,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933651",
+            "byline": "Alex Weprin",
+            "date": "2026-07-17T21:01:14Z",
+            "externalUrl": "https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/",
+            "articleTitle": {
+              "plainText": "Netflix Paid $587 Million for Ben Affleck’s AI Company"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1788859138",
+              "url": "https://m.media-amazon.com/images/M/MV5BMmMxODU3OTEtYjYxNy00M2Y0LWJmNzctMDI1M2FlYjYxZGE5XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "When Netflix acquired Ben Affleck’s mysterious AI company InterPositive earlier this year, it took the industry by storm.\n\nWhat was the company? What tools did it create for filmmakers? How would Netflix use them, and use Affleck, who committed to work as a senior advisor to the company in the deal?\n\nAnd then there was the question of price. How much was the company worth to the streaming giant? Thanks to a new securities filing, we know the answer to that final question.\n\nNetflix disclosed in an SEC filing Friday that it paid $587 million for InterPositive, in cash. The disclosure was made in the company’s form 10-q, writing that “in March 2026, the Company completed an acquisition which was accounted for as a business combination for a total purchase price of approximately $587 million, consisting of cash consideration.”\n\nWhile the filing does not name InterPositive, Netflix announced the deal on"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933598",
+            "byline": "Casey Loving",
+            "date": "2026-07-17T20:39:32Z",
+            "externalUrl": "https://www.thewrap.com/industry-news/awards/television-academy-cuts-7-categories-primetime-emmys/",
+            "articleTitle": {
+              "plainText": "Television Academy Cuts 7 Categories From 2026 Primetime Emmys Telecast"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1874307586",
+              "url": "https://m.media-amazon.com/images/M/MV5BNGU5ZDRiNjAtMWYyMS00NThmLWE2ZTktODY5NTJiMmE1YWVmXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "The Television Academy is making this year’s Primetime Emmys seven categories smaller.\n\nThe Academy announced Friday that the 78th Emmy Awards telecast on Monday, Sept. 14, will only feature 19 categories, a decrease from last year’s 26. Seven categories will move from the Primetime Emmys telecast to the Creative Arts Emmys ceremonies one week earlier: Writing for a Variety Series, Supporting Actor and Actress in a Limited Series or Movie, Directing for a Limited Series or Movie, Writing for a Limited Series or Movie and Variety Special (Live).\n\nIn addition to these six categories moving from the main show, Outstanding Talk Series and Outstanding Scripted Variety Series will be this year combined into a single category,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933599",
+            "byline": "Jacob Bryant",
+            "date": "2026-07-17T20:35:06Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/the-odyssey-cast-characters/",
+            "articleTitle": {
+              "plainText": "‘The Odyssey’ Cast and Character Guide"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3268462338",
+              "url": "https://m.media-amazon.com/images/M/MV5BYTMzZDE0YmEtZTkwYy00OWU3LTllMmItZGY3NDcwYWYzOTVmXkEyXkFqcGc@._V1_.jpg",
+              "height": 720,
+              "width": 1280
+            },
+            "text": {
+              "plainText": "“The Odyssey” is the latest Christopher Nolan epic landing in theaters, and this one boasts his biggest cast yet.\n\nThe film adapts Homer’s poem and stars a slew of A-list actors like Matt Damon, Tom Holland, Zendaya, Anne Hathaway and many more. But not all the cast is as recognizable as you’d think and you might walk out of the movie wondering who a certain person was or where you’d seen them before.\n\nCheck out our rundown of “The Odyssey’s” massive cast and what other projects you’ve seen them in, below.\n\nMatt Damon in ‘The Odyssey’ (Universal Pictures) Matt Damon as Odysseus\n\nMatt Damon stars as Odysseus in “The Odyssey."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933650",
+            "byline": "Marlow Stern",
+            "date": "2026-07-17T20:30:00Z",
+            "externalUrl": "https://variety.com/2026/film/news/the-odyssey-changes-christopher-nolan-adapts-homer-1236814443/",
+            "articleTitle": {
+              "plainText": "‘The Odyssey’: All the Ways Christopher Nolan’s Movie Is Different From the Book"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3918577922",
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JkMTU0NjMtNDk4YS00OTZhLTgzMDctMDc3NzJmZDY5NThhXkEyXkFqcGc@._V1_.jpg",
+              "height": 2049,
+              "width": 2946
+            },
+            "text": {
+              "plainText": "When the first footage from Christopher Nolan’s “The Odyssey” dropped, some of the worst people on Al Gore’s internet lost their minds (Elon Musk chief among them). They decried its inaccuracies, even though Homer’s epic poem is not only mythological, but also part of an oral tradition where it was expanded upon and reshaped over centuries. To disallow artistic license when it comes to “The Odyssey” is to deny its very essence.\n\nIt stands to reason that Nolan, the Oscar-winning filmmaker behind “Oppenheimer” and “Inception,” would take creative liberties with Homer’s tale in order to trim a 600-page story into a 3-hour film and put his own stamp on it. His Odysseus (Matt Damon) is a broken man haunted by visions of the Trojan War who, aided by the guidance of Athena (Zendaya), clashes with gods, sirens, giants, scylla and a cyclops on his 10-year journey home to Ithaca,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933562",
+            "byline": "Kayla Cobb",
+            "date": "2026-07-17T20:17:34Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/tv-shows/house-rules-tubi-laro-benz-interview/",
+            "articleTitle": {
+              "plainText": "How Creator Laro Benz Jumped Out of His Comfort Zone With Tubi’s ‘House Rules’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1137755906",
+              "url": "https://m.media-amazon.com/images/M/MV5BYTcyNTIxM2MtYzdiYi00M2RkLWFlNzQtM2I0ZTc0YmZlZTQ0XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "With over 24 million followers on TikTok alone, Laro Benz is a creator who knows how to make compelling lifestyle content. But even though he’s been a successful family-focused creator for the past six years, Benz was interested in expanding beyond his social followings.\n\n“I was willing to try anything at that moment in time other than just straight social media,” Benz told TheWrap. So when his manager, Rj Thorpe at Sixteenth, reached out to Benz with an opportunity to host a new Tubi game show, the creator was eager to say yes.\n\n“It was definitely something out of my comfort zone, but it was something I was willing to to try."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933567",
+            "byline": "Ethan Millman",
+            "date": "2026-07-17T20:17:29Z",
+            "externalUrl": "https://www.hollywoodreporter.com/music/music-industry-news/apple-music-confirms-price-hike-1236651156/",
+            "articleTitle": {
+              "plainText": "Apple Music Raises Subscription Prices"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1238419202",
+              "url": "https://m.media-amazon.com/images/M/MV5BNTMyZTYzYWItYzNhYS00OTFjLTkwOTktMWEzYTdmZDY0NDE2XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Apple Music has raised its prices by $1, the streaming service confirmed Friday, marking its first price hike since 2022.\n\n“As a result of rising licensing costs, Apple Music is increasing its subscription price beginning today,” Apple said.\n\nA standard premium subscription will now cost $11.99 a month, according to Apple’s website, while the family plan is up $3 from $16.99 to $19.99. Its student plan has gone up a dollar to $6.99 a month.\n\nThe new price still puts Apple Music at a dollar less a month than its chief rival Spotify, whose cheapest premium plan goes for $12.99. Spotify confirmed a price hike of its own back in January as well. Spotify’s premium subscription, though, also includes 15 hours a month of audiobooks. (That audiobooks offering has been controversial in the music publishing industry, as the bundle allows Spotify to pay out a lesser royalty rate to songwriters.)\n\nPrice hikes of course frustrate consumers, and"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933563",
+            "byline": "William Bibbiani",
+            "date": "2026-07-17T20:09:13Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/the-odyssey-historical-inaccuracies/",
+            "articleTitle": {
+              "plainText": "If You’re Angry About Race and Gender in ‘The Odyssey,’ That’s a You Problem | Commentary"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1120978690",
+              "url": "https://m.media-amazon.com/images/M/MV5BZTJkYjU2ZDgtNzMwNC00MzZiLTg5YTAtNGIxZDI5MTQyNmI4XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "In 2001, Heath Ledger starred in a movie called “A Knight’s Tale,” a reasonably popular action-comedy that treated 15th century medieval jousting like modern professional sports. The film caused a stir at the time because filmmaker Brian Helgeland, who’d recently won an Oscar for co-writing “L.A. Confidential,” chose to include 1970s rock songs in the soundtrack, including David Bowie’s “Golden Years” and Queen’s “We Will Rock You.” Naysayers argued movies don’t get more anachronistic than that. Others, like film critic Roger Ebert and Helgeland himself, accurately pointed out that an orchestral score — which was, had been, and still is the movie industry standard — would be equally out of place."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933565",
+            "byline": "Tanya Fedak",
+            "date": "2026-07-17T20:05:24Z",
+            "externalUrl": "https://variety.com/2026/film/news/suncatcher-productions-distribution-rights-if-i-tell-you-1236814835/",
+            "articleTitle": {
+              "plainText": "Tessa Blake’s ‘If I Tell You’ Starring Carol Kane Acquired by Suncatcher Productions for Distribution (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1339082498",
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRmNTNkMWItMWMzYy00YjgxLTllMTgtYTk0MTJlMTE5NzNkXkEyXkFqcGc@._V1_.jpg",
+              "height": 1304,
+              "width": 2164
+            },
+            "text": {
+              "plainText": "Suncatcher Productions has acquired the theatrical distribution rights to the family drama “If I Tell You,” directed by Tessa Blake.\n\nBased on Lisa O’Donnell’s novel “Closed Doors,” the film follows a 12-year-old boy attempting to solve a mystery while navigating the impact of the secrets kept by the adults in his life.\n\nThe film, which is set for theatrical release in August, stars Carol Kane (“Annie Hall”), Etienne Kellici (“Ready or Not”), Allison Miller (“13 Reasons Why”), Bill Heck (“The Leftovers”), Christopher Jackson (“Hamilton”) and Carmela Zumbado (“You”). The ensemble cast is rounded out by Kennedi Butler, McKenzie Hays, Tiegen Fryberger and Zelalem Oestreich.\n\n“In making ‘If I Tell You,’ I was driven to bring the beauty, suspense and emotional depth of Lisa O’Donnell’s novel ‘Closed Doors’ to the screen. Through the eyes of a boy on the precipice of adolescence, the film explores the fragile space between certainty and mystery,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933566",
+            "byline": "Michael Schneider",
+            "date": "2026-07-17T20:00:00Z",
+            "externalUrl": "https://variety.com/2026/tv/news/emmys-removes-categories-telecast-supporting-limited-acting-1236814429/",
+            "articleTitle": {
+              "plainText": "Emmys to Move Five Categories Out of NBC Telecast In a Bid to Revamp the Ceremony (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1271973634",
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQyM2MxM2EtYTJjOC00OWJmLThjOTUtZTRhOTM2ODg0MDEyXkEyXkFqcGc@._V1_.jpg",
+              "height": 3511,
+              "width": 5267
+            },
+            "text": {
+              "plainText": "Updated: The DGA, SAG-AFTRA and the WGA issued a joint statement expressing their displeasure with the TV Academy’s decision to move five categories off the NBC telecast: “The Emmys exist to celebrate the best of television and the artists who are central to bringing these stories to life. The decision to eliminate these categories from the prime-time broadcast devalues the contributions of the talented people the Academy is meant to honor. An awards show dedicated to recognizing excellence should not reduce recognition for the artists whose work gives it meaning.”\n\nThe Television Academy plans to reduce the number of"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933564",
+            "byline": "Andi Ortiz",
+            "date": "2026-07-17T20:00:00Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/best-movies-paramount-plus-this-week-july-17/",
+            "articleTitle": {
+              "plainText": "The 3 Best Movies to Watch on Paramount+ This Week"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1104201474",
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI4MTljZjktYzQ0My00YmNjLThkZTYtNmRmMWNlZTUzYzVmXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "We’re in the thick of summer movie season, which means there are a whole lot of options to check out in theaters right now. But we’re also in the thick of summer heat, depending on where you live, and that means staying home in the air conditioning might be the move.\n\nIf that’s what you’re doing this week, we’re here to support you — especially if you’re looking for something to watch over on Paramount+. We’ve got three easy suggestions for you, so you don’t have to lose part of your evening to just scrolling and looking for something.\n\nHere are the three"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933600",
+            "byline": "Jacob Bryant",
+            "date": "2026-07-17T19:37:47Z",
+            "externalUrl": "https://www.thewrap.com/culture-lifestyle/culture/lena-headey-game-of-thrones-nude-scenes-anger-fans-shock/",
+            "articleTitle": {
+              "plainText": "Lena Headey ‘Shocked by the Anger’ From ‘Game of Thrones’ Fans When She Stopped Doing Nude Scenes"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3234907906",
+              "url": "https://m.media-amazon.com/images/M/MV5BZjU2NWVhZGUtNGE2Yi00MDkzLTkwMzgtZGQwNjRlMWVlNzFkXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Lena Headey was shocked by how mad toxic “Game of Thrones” fans got when she got a body double for nude scenes as the series progressed.\n\nIn an interview with The Telegraph published Thursday, Headey – who played Cersei Lannister in the HBO hit – recalled the backlash she faced when she stopped doing her own nude scenes during the fifth season of the show. She could not believe that fans felt that she was tricking them by using a double rather than doing the scenes herself.\n\n“I was really shocked by the anger, by this idea that I’d duped the audience,” Headey said. “But by that point everyone knew [the cast], it was insane simply going anywhere,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933510",
+            "byline": "Jacob Bryant",
+            "date": "2026-07-17T19:30:00Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/the-odyssey-does-the-dog-die/",
+            "articleTitle": {
+              "plainText": "Does the Dog in ‘The Odyssey’ Die?"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3386820354",
+              "url": "https://m.media-amazon.com/images/M/MV5BMDI2OGYxYzQtMGFiMC00ZmEzLWI5OTktYWQ3OTRmZmNkYWU5XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "“The Odyssey” is one of the most hyped movie dropping in 2026, but it can be good to go in prepared for the outcome of any dogs in the film.\n\nThe latest Christopher Nolan epic features a perfect but very old boy named Argos – who was Odysseus’ dog. Argos is pushing or past 20 years old which is quite a feat in and of itself but that certainly raises even more questions about the dog’s wellbeing through the film.\n\nIf you want some minor spoilers for “The Odyssey,” read on to see whether or not the dog dies in Nolan’s new film.\n\nWho is the dog?\n\nArgos is the old"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933486",
+            "byline": "Winston Cho",
+            "date": "2026-07-17T19:22:07Z",
+            "externalUrl": "https://www.hollywoodreporter.com/business/business-news/paramount-court-lawsuit-warner-bros-states-1236650997/",
+            "articleTitle": {
+              "plainText": "Time Isn’t on Paramount’s Side"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm736020226",
+              "url": "https://m.media-amazon.com/images/M/MV5BMGU4NTM4ZGEtN2RjOC00Y2I0LTgzYmItYzgyMGI1NDYwNGJmXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "For months, Paramount has barreled toward closing its $111 billion takeover of Warner Bros. Discovery by July. It filed the paperwork for the Justice Department to bless the deal in December, even as Netflix appeared to come out on top of the bidding war. So far, it’s secured greenlights from over a dozen countries.\n\nThose designs were stymied when a coalition of 12 states led by California sued to block the deal, likely putting an end to its planned closing date. The lawsuit pushes to the forefront the risk of Paramount being forced to pay a hefty fee to Warners shareholders for the delay.\n\nParamount’s frustrations with the timing of the lawsuit were on display during a hearing on Friday over whether the court should issue a temporary restraining order preventing the studio from consummating the transaction. U.S. District Judge Araceli Martínez-Olguín said she’d issue a decision by next Wednesday."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64166401",
+            "byline": "Drew Taylor",
+            "date": "2026-07-17T19:11:00Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/best-christopher-nolan-movies-ranked/",
+            "articleTitle": {
+              "plainText": "All 13 Christopher Nolan Movies Ranked"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm786351874",
+              "url": "https://m.media-amazon.com/images/M/MV5BYmQ4MGU0ZjEtY2VmMC00NGZiLWJhN2EtNGRhYTU3NmRhOTE3XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Few filmmakers stoke the kind of loyalty and obsessive deconstruction as Christopher Nolan does. Just look at the stories of dedicated film fans, traveling hours and across multiple states, just to be able to see “The Odyssey,” the director’s latest, in the highly sought-after 70mm IMAX format. We commend their commitment.\n\nOver 13 films and nearly years, Nolan has made head-spinning, intricately constructed journeys into the mind, time, magic and Gotham City. And audiences have been more than happy to go along for the ride. He is one of the few filmmakers working today who can also get hugely expensive, original movies made and whose audience will follow them anywhere"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933450",
+            "byline": "Ethan Millman",
+            "date": "2026-07-17T19:01:13Z",
+            "externalUrl": "https://www.hollywoodreporter.com/music/film-tv-music-news/world-cup-halftime-show-fifa-producer-interview-1236650906/",
+            "articleTitle": {
+              "plainText": "First-Ever World Cup Halftime Show Is an “Action-Packed 11 Minutes,” Says FIFA Producer"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2044577538",
+              "url": "https://m.media-amazon.com/images/M/MV5BODY2ZDM0NDgtMTQxMy00MDNkLThhMDYtM2ViYzhhYjA3ZjUwXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "How is the FIFA World Cup Final Halftime Show going to pull off performances from BTS, Madonna, Shakira, Burna Boy, Justin Bieber and Gustavo Dudamel and his orchestra in just 11 minutes?\n\nThat’s the biggest question heading into the halftime event’s maiden voyage this weekend, and as the show’s executive producer, Guy Carrington of Done+Dusted, tells The Hollywood Reporter, it’s going to come through a tight, highly coordinated mega-mix that’s still got a few more surprises in tow as well.\n\n“Obviously I’m not going to give anything away on the performance itself, but we’ve spent months and months preparing this, developing it and working with all of the artists,” Carrington tells THR.” It’s a carefully curated performance that’s going to be spectacular.”\n\nFIFA had first unveiled the Halftime Show roster back in May, announcing BTS, Madonna and Shakira as the headliners."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni64534217",
+            "byline": "Scott Feinberg",
+            "date": "2026-07-17T18:52:55Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/2025-2026-awards-season-calendar-oscars-emmys-dates-1235872190/",
+            "articleTitle": {
+              "plainText": "Awards Season Calendar: Key Dates for Oscars, Emmys, Tonys, Grammys, Golden Globes and Other Major Events"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2071033857",
+              "url": "https://m.media-amazon.com/images/M/MV5BZjNiZGExZTktNGE4MC00MmI4LWE3YWUtYTZjMzNhYTViNjMxXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Read on for a month-by-month guide to upcoming awards-related activities in the worlds of film, television, music and theater. All times listed are Pt.\n\nJuly 2026 Alberto E. Rodriguez/Getty Images\n\nThursday, July 23\n\n57th San Diego Comic-Con begins\n\nSunday, July 26\n\n57th San Diego Comic-Con ends\n\nAugust 2026 Jordan Strauss/Invision for the Television Academy/AP Content Services\n\nWednesday, August 5\n\n79th Locarno Film Festival begins\n\nThursday, August 6\n\n6th Critics Choice Super Awards ceremony\n\nFriday, August 14\n\n2nd Televerse Festival begins\n\nSaturday, August 15\n\n79th Locarno Film Festival ends\n\n17th Dorian TV Awards announcement\n\nSunday, August 16\n\n2nd Televerse Festival ends\n\nMonday, August 17\n\n78th Primetime Emmy Awards final voting begins\n\n10th Black Reel TV Awards\n\nWednesday, August 26\n\n78th Primetime Emmy Awards final voting ends\n\nSeptember 2026 Vivien Killilea/Getty\n\nWednesday, September 2\n\n83rd Venice International Film Festival begins\n\nFriday, September 4\n\n53rd Telluride Film Festival begins\n\nSaturday, September 5\n\nCreative Arts Emmys Awards ceremony, night one\n\nSunday, September 6\n\nCreative Arts Emmys Awards ceremony,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933485",
+            "byline": "Gene Maddaus",
+            "date": "2026-07-17T18:30:03Z",
+            "externalUrl": "https://variety.com/2026/film/news/paramount-warner-bros-merger-restraning-order-hearing-1236814831/",
+            "articleTitle": {
+              "plainText": "Court Hears Argument on States’ Move to Pause Paramount-Warner Bros. Merger"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm106677762",
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ0ZjkyOTctOWRiMS00MzFlLWFmZDgtOTY4ZTZhODg4YjcxXkEyXkFqcGc@._V1_.jpg",
+              "height": 5261,
+              "width": 7891
+            },
+            "text": {
+              "plainText": "A judge on Friday heard arguments on a state coalition’s bid for a restraining order to pause the Paramount-Warner Bros. Discovery merger and said she would issue a ruling by next Wednesday.\n\nJudge Araceli Martinez-Olguin suggested at one point that Paramount had conceded that it will not suffer harm if a temporary restraining order is granted, which would put the merger on hold for up to 28 days.\n\nLed by California, 12 states are seeking to block the merger on the grounds that it will harm competition in the theatrical and basic cable markets. Paramount’s lead attorney, Jeffrey Kessler,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933448",
+            "byline": "Gene Maddaus",
+            "date": "2026-07-17T18:30:03Z",
+            "externalUrl": "https://variety.com/2026/film/news/paramount-warner-bros-merger-restraning-order-hearing-1236814831/",
+            "articleTitle": {
+              "plainText": "Court Hears Argument on States’ Move to Pause Paramount-Warner Bros. Merger"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm106677762",
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ0ZjkyOTctOWRiMS00MzFlLWFmZDgtOTY4ZTZhODg4YjcxXkEyXkFqcGc@._V1_.jpg",
+              "height": 5261,
+              "width": 7891
+            },
+            "text": {
+              "plainText": "A judge on Friday heard arguments on a state coalition’s bid for a restraining order to pause the Paramount-Warner Bros. Discovery merger and said she would issue a ruling by next Wednesday.\n\nJudge Araceli Martinez-Olguin suggested at one point that Paramount had conceded that it will not suffer harm if a temporary restraining order is granted, which would put the merger on hold for up to 28 days.\n\nLed by California, 12 states are seeking to block the merger on the grounds that it will harm competition in the theatrical and basic cable markets. Paramount’s lead attorney, Jeffrey Kessler, argued that the states had failed to make the necessary case that the deal is anticompetitive. Paramount has argued that the success of recent releases like “F1,” from Apple, and “Project Hail Mary,” from Amazon MGM Studios, shows that the theatrical business is open to new entrants.\n\n“In this industry,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933446",
+            "byline": "William Bibbiani",
+            "date": "2026-07-17T18:27:53Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/best-greek-mythology-movies-like-the-odyssey/",
+            "articleTitle": {
+              "plainText": "The 10 Best Greek Mythology Movies Ever Made"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2078131970",
+              "url": "https://m.media-amazon.com/images/M/MV5BNmIyZGU0OTUtNDJhZi00NDk4LThjYzMtNTFiN2E2NmYxZGVjXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "The gods of Greek mythology weren’t like the omnipotent, omniscient, unknowable superbeings we now associate with modern religion. They were, for all their mighty powers, deeply flawed and — dare we say it? — human. Zeus, Hades, Venus and all the rest were hot messes who frequently interfered in the affairs of mortal men, sometimes just to screw with us (in more ways than one), forging one epic legend after another.\n\nSo makes sense that filmmakers often gravitate towards Greek myths, the ancestors our many modern tales. The best Greek mythology films bring the fantasies of the past to life and/or adapt those fantasies into an unexpected, modern context, giving new life to old gods."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933379",
+            "byline": "Kevin Dolak",
+            "date": "2026-07-17T18:05:28Z",
+            "externalUrl": "https://www.hollywoodreporter.com/news/local-news/west-hollywood-flooding-sunset-strip-road-closures-shutdown-1236651082/",
+            "articleTitle": {
+              "plainText": "West Hollywood Flooding Forces Road Closures, Business Shutdowns Around Sunset Strip"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3185297154",
+              "url": "https://m.media-amazon.com/images/M/MV5BZmQ0MmU1MzUtOWUxMi00MzQwLTg0YzMtMTA0ZWU1YTllNTRiXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "As the Los Angeles Department of Water and Power assesses the rupture of a 36-inch steel main buried beneath Sunset Boulevard early Thursday morning, which sent thousands of gallons of water down the streets of West Hollywood, the city has shut down major roads in a highly trafficked area of the Sunset Strip, while residents are being told to reduce water usage as they clear out wreckage from the flooding.\n\nThe rupture of the trunk line, which was installed 110 years ago, occurred around 2:30 a.m. Thursday, a rep from the Ladwp told reporters, adding that water was shut off in the area by around 7:30 a.m. local time after the city’s Department of Public Works quickly deployed personnel to the scene. Ladwp has confirmed that no water service interruptions are anticipated for residents or businesses, who are encouraged by Ladwp and the Los Angeles mayor’s office to reduce usage and pressure."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933367",
+            "byline": "David Canfield",
+            "date": "2026-07-17T17:54:30Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-features/samantha-morton-the-odyssey-feature-1236650941/",
+            "articleTitle": {
+              "plainText": "How Samantha Morton Pulled Off Her Wild ‘The Odyssey’ Performance as Circe: “I Wanted to Possess It”"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1759233794",
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk2MDM2ZWItYjdjOS00YzM0LWEzNTEtYmQ2MGQ0YmIxNWYyXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "[This story contains spoilers for Christopher Nolan’s The Odyssey.]\n\nFor a film stacked with A-listers like Matt Damon, Anne Hathaway, Zendaya and Tom Holland, one actor took up a surprising chunk of The Odyssey’s pre-release buzz: Samantha Morton. This was due in large part to director Christopher Nolan himself. “There are no limitations on her performance,” the Oscar-winning filmmaker told The Los Angeles Times earlier this month. “After one of her takes, the crew gave her a great round of applause…. The last time that had happened [in one of my movies] was with Heath Ledger on The Dark Knight.” You can’t hype up a performance much more than that.\n\nFortunately, Morton lives up to it. In a barnburning sequence as Circe, the witch goddess from Aeaea, the actress all but transforms the energy of the entire, massive film. Circe welcomes the survivors among Odysseus’s men who have washed up on a mysterious beach and seek refuge."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933342",
+            "byline": "Zack Sharf",
+            "date": "2026-07-17T17:44:18Z",
+            "externalUrl": "https://variety.com/2026/film/news/lena-headey-game-of-thrones-fans-angry-nudity-1236812337/",
+            "articleTitle": {
+              "plainText": "Lena Headey Rips Hollywood for Protecting ‘Predatory Men,’ Says ‘Game of Thrones’ Toxic Fans Got Mad She Didn’t Go Nude: ‘I Was Shocked by the Anger’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4208641794",
+              "url": "https://m.media-amazon.com/images/M/MV5BZGVkMGQyMDktMjVhYi00NWJmLWJmZTktZjM3Zjg3MjU4OGZhXkEyXkFqcGc@._V1_.jpg",
+              "height": 1333,
+              "width": 2000
+            },
+            "text": {
+              "plainText": "Lena Headey gave a wide-ranging interview with The Telegraph and opened up about her experiences in Hollywood with nudity and predatory men. The “Game of Thrones” Emmy nominee accused Harvey Weinstein of sexual harassment in 2017, claiming he made suggestive comments to her at the Venice Film Festival when they were promoting “The Brothers Grimm.” Years later, Weinstein allegedly invited Headey to his hotel to show her a script.\n\n“We walked to the lift, and the energy shifted,” Headey once said of the encounter. “My whole body went into high alert. The lift was going up, and I said to Harvey, ‘I’m not interested in anything other than work, please don’t think I got in here with you for any other reason, nothing is going to happen.’ I don’t know what possessed me to speak out at that moment, only that I had such a strong sense of ‘don’t come near me."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933340",
+            "byline": "Loree Seitz",
+            "date": "2026-07-17T17:36:50Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/tv-shows/the-five-star-weekend-peacock-ratings-viewership/",
+            "articleTitle": {
+              "plainText": "‘The Five Star Weekend’ Is Peacock’s Top Scripted Series Ever With 1 Billion Minutes Viewed"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4292527874",
+              "url": "https://m.media-amazon.com/images/M/MV5BZDM1NTMzOTctODhkZS00YTM1LWJmNTktMjA5ZDA5MWMyMWIxXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "“The Five Star Weekend” scored an impressive debut, landing as Peacock’s top scripted series to date.\n\nThe Jennifer Garner-led TV adaptation tallied over 1 billion viewing minutes in its first week on platform, according to first party data from Peacock, boosting it to rank as the streamer’s No. 1 scripted series of all time in overall reach.\n\nBeyond Peacock, “The Five Star Weekend” ranked within the top five original streaming series for the week of July 6, according to Nielsen rankings. Exact viewing data from Nielsen for that week is not yet available.\n\nThe series also generated enough buzz on social media to rank as the No. 1 most social streaming"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933326",
+            "byline": "Leslie Felperin",
+            "date": "2026-07-17T17:35:27Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/3-weeks-after-review-1236650761/",
+            "articleTitle": {
+              "plainText": "‘3 Weeks After’ Review: A High-School Field Trip Goes Off the Rails in a Skillful but Sadistic Serbian Shocker"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1390069506",
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk4ODFjMDEtZDEwOC00NDM4LWEwY2UtZTdkNjI1M2Y1NjM2XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "The kids are not alright, or even right in the head in Serbian drama 3 Weeks After. This skillfully made but mean-spirited exercise revolves around a high-school trip to the countryside that turns extra dark when nearly everyone takes to bullying one kid among them: a boy, Zoza (Jovan Ginic), who just happens to have been the best friend of another kid they all bullied into committing suicide three weeks before, hence the title.\n\nImagine an especially vicious adaptation of Lord of the Flies or a remake of Gus Van Sant’s Elephant but directed by Gaspar Noé. Indeed, there’s even an extended sequence in which the teens get high and dance to techno, recalling Noé’s Climax. Unfortunately, 3 Weeks is way less fun and has a sadly deflated final stretch. More importantly, for all that director Miroslav Terzic (Redemption Street, Stitches) has talked up basing this loosely on"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933378",
+            "byline": "Anna Marie de la Fuente",
+            "date": "2026-07-17T17:35:04Z",
+            "externalUrl": "https://variety.com/2026/film/global/sitges-festival-monica-garcia-costa-rica-media-market-1236812257/",
+            "articleTitle": {
+              "plainText": "Sitges Film Festival’s Monica Garcia at the Costa Rica Media Market: ‘We’re Waiting for the Next Issa Lopez’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4175087362",
+              "url": "https://m.media-amazon.com/images/M/MV5BYjliYzYyZmUtZDc2MS00NTNlLWExOWQtZWI3MDk2ZGE5YTVhXkEyXkFqcGc@._V1_.jpg",
+              "height": 960,
+              "width": 1280
+            },
+            "text": {
+              "plainText": "At the Costa Rica Media Market (Crmm) to announce the launch of the Latin American offshoot of genre initiative WomanInFan, Sitges Film Festival director general Monica Garcia sat with Morbido CEO Pablo Guisa and Mexican director Luis Javier Henaine (“Disappear Completely”) to discuss the state of genre filmmaking in Latin America and the surge of women directors in the field, despite the obstacles.\n\nSpeaking to Variety before the panel, Garcia revealed that the number of female genre directors participating at Sitges since WomanInFan launched six years ago, has jumped from 6% to some 30%., encouraging news for the new WomanInFan LatAm program."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933343",
+            "byline": "Anna Marie de la Fuente",
+            "date": "2026-07-17T17:35:04Z",
+            "externalUrl": "https://variety.com/2026/film/global/sitges-festival-monica-garcia-costa-rica-media-market-1236812257/",
+            "articleTitle": {
+              "plainText": "Sitges Film Festival’s Monica Garcia at the Costa Rica Media Market: ‘We’re Waiting for the Next Issa Lopez’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4175087362",
+              "url": "https://m.media-amazon.com/images/M/MV5BYjliYzYyZmUtZDc2MS00NTNlLWExOWQtZWI3MDk2ZGE5YTVhXkEyXkFqcGc@._V1_.jpg",
+              "height": 960,
+              "width": 1280
+            },
+            "text": {
+              "plainText": "At the Costa Rica Media Market (Crmm) to announce the launch of the Latin American offshoot of genre initiative WomanInFan, Sitges Film Festival director general Monica Garcia sat with Morbido CEO Pablo Guisa and Mexican director Luis Javier Henaine (“Disappear Completely”) to discuss the state of genre filmmaking in Latin America and the surge of women directors in the field, despite the obstacles.\n\nSpeaking to Variety before the panel, Garcia revealed that the number of female genre directors participating at Sitges since WomanInFan launched six years ago, has jumped from 6% to some 30%., encouraging news for the new WomanInFan LatAm program.\n\nBut the field of genre filmmaking remains tough for women. Showing the audience a trailer for a documentary she directed, which offered a snapshot of some women who had ventured into the field, the consensus was not altogether rosy.\n\n“The common denominator in all of their statements is the difficulties,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933315",
+            "byline": "Etan Vlessing",
+            "date": "2026-07-17T17:24:35Z",
+            "externalUrl": "https://www.hollywoodreporter.com/business/business-news/doj-probe-fox-roku-deal-1236650991/",
+            "articleTitle": {
+              "plainText": "Lawmakers Call For “Impartial” DOJ Probe of Fox’s $22 Billion Roku Deal"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm937084674",
+              "url": "https://m.media-amazon.com/images/M/MV5BZjY3Yjc4ZWMtNGY0Ni00ODdhLWIzNDYtNGExMTRhNWU5ZDY0XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Lawmakers have written to the Department of Justice calling for an “impartial” review of Fox Corp.’s proposed $22 billion merger with Roku amid antitrust and backroom dealmaking concerns.\n\n“In order to uphold the Antitrust Division’s responsibility to protect competition and consumers, we urge DOJ to closely scrutinize the proposed Fox-Roku deal under antitrust law and seek your commitment that the review will be conducted free from political interference and in an impartial fashion,” a July 16 letter to Stanley E. Woodward, associate attorney general in the DOJ’s antitrust division, stated.\n\n“When DOJ makes decisions based on political favoritism rather than the facts and the law, costs go up for American families,” the letter added.\n\nDemocratic politicians, led by U.S. Senator Elizabeth Warren and U.S. Representative Becca Balint, raised concerns that “the Department may not give this transaction the close review it deserves. We are particularly alarmed that"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933316",
+            "byline": "McKinley Franklin",
+            "date": "2026-07-17T17:18:38Z",
+            "externalUrl": "https://www.hollywoodreporter.com/tv/tv-features/why-love-island-usa-not-on-dancing-with-the-stars-1236649740/",
+            "articleTitle": {
+              "plainText": "A ‘Love Island USA’ Season 8 Star on ‘Dancing With the Stars’? Don’t Bet on It"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm903530242",
+              "url": "https://m.media-amazon.com/images/M/MV5BZjE0NTA1ZDEtNzU4Yi00YTk2LTg4NDUtNTBmNjRhY2FhNGIwXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "“The mirrorball is Calling your name,” Dancing With the Stars professional dancer Ezra Sosa commented under Kenzie Annis’ first TikTok post after being in the Love Island USA villa for a month. “Shut The Front Door,” Annis replied.\n\nIt turns out, though, the Mirrorball is likely not calling any new Islanders’ names, because of the contract terms set for the cast of the Peacock series. Post-season, Love Island USA contestants are placed under a one-year exclusivity period, which limits what projects Islanders can take on after their time in the villa, The Hollywood Reporter has learned.\n\nThe Ankler reported on the terms of this exclusivity period in a Tuesday report, noting that this “puts some guardrails around the opportunities [Islanders] can say yes to.” And it appears contracts go farther than determining what brand deals a cast member can take on — they also cover what television appearances cast can make.\n\nLove Island"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933344",
+            "byline": "Arushi Jacob",
+            "date": "2026-07-17T17:17:15Z",
+            "externalUrl": "https://variety.com/2026/film/news/mortal-kombat-2-hbo-max-release-date-streaming-1236757527/",
+            "articleTitle": {
+              "plainText": "‘Mortal Kombat 2’ Sets HBO Max Release Date"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2052769794",
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRhMzhlNTctNWNiZS00OTQ2LWJkYTEtZjMzMTNiMTdmZGViXkEyXkFqcGc@._V1_.jpg",
+              "height": 519,
+              "width": 780
+            },
+            "text": {
+              "plainText": "“Mortal Kombat 2,” the sequel to the hit video game adaptation released in 2021, will be available to stream on HBO Max on July 24 after earning $129 million at the worldwide box office.\n\nDirector Simon McQuoid returned after making his directorial debut with the first “Mortal Kombat” movie. The film follows Johnny Cage, a martial arts actor who is recruited by the thunder god Raiden and Sonya Blade to join his fellow Earthrealm fighters in an inter-dimensional tournament against the Outworld warriors. Earth’s fighters team up to stop the tyrannical emperor Shao Kahn, with the help of the deadly Edenian princess Kitana.\n\nWhile the original movie introduced several of the video game’s iconic characters, the sequel brought on “The Boys” star Karl Urban as Cage, along with Adeline Rudolph as Kitana; Tati Gabrielle as Jade, Kitana’s childhood friend; Damon Herriman as the dark wizard Quan Chi; Martyn Ford as Shao Kahn,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933345",
+            "byline": "Anna Marie de la Fuente",
+            "date": "2026-07-17T17:03:05Z",
+            "externalUrl": "https://variety.com/2026/film/global/oscar-emmy-winning-daniel-junge-boards-abner-benaim-docu-1236814421/",
+            "articleTitle": {
+              "plainText": "Oscar, Emmy-Winning Director Daniel Junge Boards Documentary by Panama’s Abner Benaim (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm752535298",
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE0NWQ5YjgtZTZmNy00MzkxLWFiN2MtMGI1YTMyZWNiNDU0XkEyXkFqcGc@._V1_.jpg",
+              "height": 1066,
+              "width": 1600
+            },
+            "text": {
+              "plainText": "Oscar and Emmy winning U.S. director Daniel Junge (“Saving Face”) is executive producing the latest documentary from Panama’s Abner Benaim (“Invasion” “Plaza Catedral”) who has represented Panama three times at the Academy Awards.\n\nStill untitled, the documentary follows Panamanian Jaime Alemán, a lawyer, diplomat, businessman and one of the world’s most accomplished travelers.\n\nAlemán is the first human in history to have completed the Triple Grand Slam of Travel, visiting all 193 countries recognized by the United Nations, trekking to both the North and South Poles and traveling to space. He became the first Panamanian to reach space when he flew on Blue Origin’s New Shepard Ns-32 suborbital mission last year. Now 72, he´s been travelling since he was 18.\n\nJaime Alemán, Courtesy of Blue Origin\n\nJunge, who last collaborated with Benaim on his 2026 docu “Tropical Paradise,” expressed delight to be working with Benaim again. “Jaime Alemán is a larger-than-life character,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933310",
+            "byline": "Anna Marie de la Fuente",
+            "date": "2026-07-17T17:03:05Z",
+            "externalUrl": "https://variety.com/2026/film/global/oscar-emmy-winning-daniel-junge-boards-abner-benaim-docu-1236814421/",
+            "articleTitle": {
+              "plainText": "Oscar, Emmy-Winning Director Daniel Junge Boards Documentary by Panama’s Abner Benaim (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm752535298",
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE0NWQ5YjgtZTZmNy00MzkxLWFiN2MtMGI1YTMyZWNiNDU0XkEyXkFqcGc@._V1_.jpg",
+              "height": 1066,
+              "width": 1600
+            },
+            "text": {
+              "plainText": "Oscar and Emmy winning U.S. director Daniel Junge (“Saving Face”) is executive producing the latest documentary from Panama’s Abner Benaim (“Invasion” “Plaza Catedral”) who has represented Panama three times at the Academy Awards.\n\nStill untitled, the documentary follows Panamanian Jaime Alemán, a lawyer, diplomat, businessman and one of the world’s most accomplished travelers.\n\nAlemán is the first human in history to have completed the Triple Grand Slam of Travel, visiting all 193 countries recognized by the United Nations, trekking to both the North and South Poles and traveling to space. He became the first Panamanian to reach space"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933283",
+            "byline": "Drew Taylor",
+            "date": "2026-07-17T17:00:16Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/sydney-sweeney-sleepy-hollow-movie-sony/",
+            "articleTitle": {
+              "plainText": "Sydney Sweeney-Led ‘Sleepy Hollow’ Movie Lands at Sony"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1449773570",
+              "url": "https://m.media-amazon.com/images/M/MV5BYjljNjU1MjMtNGNjMS00MzdhLTk3ZTEtNGM5ZjZjOTU2NjdmXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Don’t lose your head but “Hollow,” the Sydney Sweeney-led retelling of Washington Irving’s classic tale “The Legend of Sleepy Hollow,” has landed at Sony.\n\nThe project is based on the forthcoming novel of the same name by Lindsey Anderson Beer, which will be published by Putnam, an imprint of Penguin Random House, in fall 2027. Beer will adapt the novel and direct the film.\n\nMargot Robbie’s LuckChap will produce alongside Sweeney, who will produce through her new Honey Trap banner, which recently signed a first-look deal with Sony. This will be Honey Trap’s first film, which sees Kaylee McGregor serving as President of Production and Development."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933258",
+            "byline": "Tony Maglio",
+            "date": "2026-07-17T16:46:39Z",
+            "externalUrl": "https://www.hollywoodreporter.com/tv/tv-features/scott-peterson-documentary-force-new-trial-mark-geragos-interview-1236649234/",
+            "articleTitle": {
+              "plainText": "Mark Geragos Believes New Scott Peterson Doc Could Have Impact Similar to Menendez ‘Monsters’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2044249858",
+              "url": "https://m.media-amazon.com/images/M/MV5BZGJhYTBiMWQtMGVlYy00YmFmLTkzYWEtODM2YTQ0NmE0ODI2XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "In 2004, a jury found Scott Peterson guilty beyond a reasonable doubt of murdering his wife Laci Peterson and their unborn son Conner Peterson. This week, A&e presents reason(s) to doubt Scott Peterson’s conviction. You be the judge.\n\nScott Peterson’s former lead defense attorney Mark Geragos has always believed in his client’s innocence. In Scott Peterson: The New Evidence, he practically shouts it from the rooftops. That’s kind of his thing though.\n\nGeragos, who has made his bones defending controversial celebrities like Michael Jackson, Chris Brown, Diddy, and Jussie Smollett, knows better than most how popular TV content can influence legal matters. Recently, he has seen such an the impact with yet another famous (infamous, really) client — well, a pair of clients.\n\nRyan Murphy’s scripted drama Monsters: The Lyle and Erik Menendez Story was a huge hit in 2024. “The Netflix Effect” practically sprung the brothers,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933284",
+            "byline": "Clayton Davis",
+            "date": "2026-07-17T16:30:00Z",
+            "externalUrl": "https://variety.com/2026/film/awards/odyssey-oscars-chances-christopher-nolan-best-picture-1236814404/",
+            "articleTitle": {
+              "plainText": "Christopher Nolan’s Oscar ‘Odyssey’: Can Matt Damon, Monsters and Mythology Deliver Another Best Picture Statue?"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1459145986",
+              "url": "https://m.media-amazon.com/images/M/MV5BNjU0OWRjMTItYjdkNS00ZDY4LTgwMjUtOTZlYTM3MWJlMDEyXkEyXkFqcGc@._V1_.jpg",
+              "height": 2049,
+              "width": 2946
+            },
+            "text": {
+              "plainText": "The last time the sword-and-sandal epic truly conquered the Oscars, Russell Crowe stood in the Colosseum and asked, “Are you not entertained?”\n\nRidley Scott’s 2001 blockbuster “Gladiator” won best picture that season, briefly reminding Hollywood that ancient-world spectacle could still capture the Academy’s imagination. Since then, the genre has largely retreated to the multiplex, where toga-clad warriors and mythological heroes have been treated as summer entertainment rather than awards-season contenders.\n\nBut Hollywood has a long history of embracing the sword-and-sandal epic when the scale is matched by prestige.\n\nBefore “Gladiator,” William Wyler’s “Ben-Hur” dominated the 1959 Oscars, winning 11 awards — a record at the time — including best picture, director and actor for Charlton Heston. Earlier biblical and historical epics such as “The Ten Commandments” (1956) and “Spartacus” (1960) demonstrated that spectacle could become a path to Oscar glory when paired with strong storytelling and cultural impact. Even Peter Jackson’s “The Lord of the Rings: The Return of the King"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933250",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-17T16:00:00Z",
+            "externalUrl": "https://variety.com/2026/tv/news/iko-uwais-albert-hughes-jakarta-series-alcon-entertainment-1236814756/",
+            "articleTitle": {
+              "plainText": "Iko Uwais and Albert Hughes Unite for Multi-Generational Crime Series ‘Jakarta’ at ‘Blade Runner 2049’ Outfit Alcon Entertainment (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm298305282",
+              "url": "https://m.media-amazon.com/images/M/MV5BODE5M2VjNGYtZjViMi00ZTlkLTk0NWYtMWM4ZTFlYTUwYjZhXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Action star Iko Uwais is set to lead “Jakarta,” a multi-generational family crime series in development at Alcon Entertainment, with Albert Hughes attached to direct the pilot and serve as producing director.\n\nThe project comes from writers Kirk Ward and Joshua W. Wagner, with Ward also locked in as showrunner. Hughes and Ward previously worked together on “The Continental,” the “John Wick” prequel event series that aired on Peacock. “Jakarta” marks their second collaboration, this time pairing Ward’s drama-writing background with Hughes’ feature filmmaking credentials to create what the producers are positioning as a grounded, visceral crime epic.\n\nUwais"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933168",
+            "byline": "David Canfield",
+            "date": "2026-07-17T16:00:00Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-scoot-mcnairy-tim-blake-nelson-wilson-shedd-1236650655/",
+            "articleTitle": {
+              "plainText": "Amanda Seyfried and Scoot McNairy Go Dark and Dangerous in Tim Blake Nelson’s New Film"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2932262658",
+              "url": "https://m.media-amazon.com/images/M/MV5BOTNlMzM5NjEtNWE4YS00NzllLWIxNWEtMTBmY2UyNWViNWJkXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "After every acting job, Scoot McNairy likes to get a haircut, head to the store to buy some new t-shirts, and wash off whatever portrayal he’s just come out of as he prepares for the next. With The Life and Deaths of Wilson Shedd, after the actor took on the most intense leading role of his career, the impulse was stronger than ever: “I do remember adamantly wanting to get a haircut after this job,” he says with a laugh in his first conversation about the film, which sources confirm to The Hollywood Reporter will premiere later this year. “It hit me for a while — and still hits me now when we talk about it.”\n\nIt tracks that Wilson Shedd is directed by a great actor in Tim Blake Nelson, who’s also helmed features like The Grey Zone and Leaves of Grass over his decades in the business."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933139",
+            "byline": "Alex Weprin",
+            "date": "2026-07-17T15:47:00Z",
+            "externalUrl": "https://www.hollywoodreporter.com/business/digital/netflix-free-trials-return-data-hidden-pivot-1236650879/",
+            "articleTitle": {
+              "plainText": "Free Trials? Content Experiments? Hiding Data? Netflix Is Turning Back the Clock"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm913275137",
+              "url": "https://m.media-amazon.com/images/M/MV5BYWMxYmM2OWUtZjQ3Mi00M2M5LTkxYjUtYTEwY2U1ODk4MjRjXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Anyone who’s followed Netflix long enough knows that the streaming giant doesn’t rest on its laurels, and it isn’t religious about anything.\n\nAds? They are bad. Until they aren’t. Live sports? Not for us. Until it is. Original content? No need for it. Until there was.\n\nThe Netflix model is to crawl, start walking, and then to sprint, not being afraid to change course quickly if things aren’t looking great.\n\nIt’s that context that makes a few subtle experiments and tweaks by Netflix over the past few days all the more interesting. The streaming giant is bringing back free trials in some markets, a practice it abandoned in 2020 (What’s On Netflix, which first reported the trials, notes that it is not available in the U.S. for now).\n\nAnd in conjunction with its earnings report, it announced that it would pull back on"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933165",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-17T15:37:28Z",
+            "externalUrl": "https://variety.com/2026/film/news/time-and-tide-inwave-films-sydney-winner-1236814788/",
+            "articleTitle": {
+              "plainText": "Sydney Film Festival Winner ‘Time and Tide’ Lands at Paris Outfit Inwave Films (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2395326210",
+              "url": "https://m.media-amazon.com/images/M/MV5BMTlkYzI0ODItNzAxMy00NmE1LWFhNGQtYWM0MmQ0N2M5NjFmXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Vee Shi’s debut feature “Time and Tide” has found an international sales home at Inwave Films, the Paris-based outfit revealed.\n\nThe hybrid nonfiction film, which world premiered in competition in the Burning Lights section at Visions du Réel earlier this year, will be introduced to buyers as the company continues building its documentary slate.\n\nSet in a remote Chinese town, “Time and Tide” follows the unraveling of one family after their patriarch is felled by a stroke. His estranged wife – who has long wanted out of their unhappy marriage – and his second daughter, raising a child alone on a tight budget, are left to carry the weight of his care. Shi draws on his own family history to examine ageing, domestic violence and intergenerational duty in contemporary China, working in a mode that marries close observational filmmaking with formally inventive cinematic language.\n\nAfter its Visions du Réel bow, the"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933137",
+            "byline": "Alex Welch",
+            "date": "2026-07-17T15:37:10Z",
+            "externalUrl": "https://www.thewrap.com/culture-lifestyle/culture/christopher-nolan-the-odyssey-ending-spoilers-citizen-kane/",
+            "articleTitle": {
+              "plainText": "Christopher Nolan Realizes Mid-Interview the Classic Movie Referenced in ‘The Odyssey’s’ Ending"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3922052866",
+              "url": "https://m.media-amazon.com/images/M/MV5BYjUzMDE5NTItYzRjZi00ZTU4LWFmOTgtNjc2ZjhlOGRjYzg3XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Note: This article contains spoilers from “The Odyssey.”\n\nChristopher Nolan realized in the middle of a recent interview that the ending of his latest film, “The Odyssey,” unintentionally mirrors one of the most iconic endings in movie history, joking, “You gotta aim high, I suppose.”\n\nDuring a wide-ranging interview with “Happy Sad Confused” podcast host Josh Horowitz shared online Thursday, Nolan was asked if there are any films whose endings, in particular, he loves and holds in high regard. In response, Nolan shouted out the haunting conclusion of director Orson Welles’ 1941 classic, “Citizen Kane.”\n\n“Sadly, I think it’s hard to get beyond ‘Citizen Kane,'” Nolan said. “It’s"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933166",
+            "byline": "Brian Steinberg",
+            "date": "2026-07-17T15:25:12Z",
+            "externalUrl": "https://variety.com/2026/tv/news/rob-lowe-accredited-debt-relief-commercials-1236814774/",
+            "articleTitle": {
+              "plainText": "Rob Lowe Strikes Marketing Partnership With Accredited Debt Relief"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2378548994",
+              "url": "https://m.media-amazon.com/images/M/MV5BZGIyMWZlYTctN2ExZi00YTM2LWFhNmYtYmJiMWVhZGNjYjc2XkEyXkFqcGc@._V1_.jpg",
+              "height": 6336,
+              "width": 9504
+            },
+            "text": {
+              "plainText": "Rob Lowe may best be known for roles in the political series “The West Wing” and more recently, “9-1-1 Lone Star.” But his next job may be his most serious of them all.\n\nThe actor will work with Accredited Debt Relief, debt settlement company that negotiates with creditors to reduce the amount they owe for credit card and medical bills as well as, personal loans. A campaign set to launch in August aims to challenge the stigma that arises when consumers face financial hardships. In one TV spot, Lowe shares how a family grapples with the possibility that their"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933084",
+            "byline": "Ryan Gajewski",
+            "date": "2026-07-17T15:00:11Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-box-office-christopher-nolan-previews-1236650735/",
+            "articleTitle": {
+              "plainText": "‘The Odyssey’ Box Office Journey Begins With $17.6M in Previews, Targeting $117M Opening"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2261042946",
+              "url": "https://m.media-amazon.com/images/M/MV5BODBjMjU2NGUtZTA3MS00MDk1LThkMzEtYjc1ZDhhMmViN2RhXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Christopher Nolan’s The Odyssey sets sail on its box office voyage as the star-studded retelling of the classical mythological tale aims to get moviegoers back in the saddle after a recent stretch of underperforming debuts.\n\nUniversal Pictures’ feature collected $17.6 million from Thursday previews on 3,900 North American screens as it targets a $50 million Friday and a better-than-expected $117 million opening weekend. (It was projected to bow to between the mid-$80 million range to upwards of $100 million). That would give it both the top live-action opening of the year, and the top R-rated opening of the year, as well as Universal’s opening weekend for an R-rated film ever.\n\nThe film eyes a global start around $200 million and carries a hefty $250 million production budget.\n\nMatt Damon, Tom Holland, Anne Hathaway, Robert Pattinson and Lupita Nyong’o star in the story of Odysseus (Damon) aiming to return home after the Trojan War to reclaim"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933106",
+            "byline": "Clayton Davis",
+            "date": "2026-07-17T15:00:00Z",
+            "externalUrl": "https://variety.com/2026/film/awards/hollywood-animation-respect-problem-toy-story-5-wildwood-1236783579/",
+            "articleTitle": {
+              "plainText": "Hollywood Can’t Survive Without Animation. So Why Won’t the Industry Respect It?"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2160379650",
+              "url": "https://m.media-amazon.com/images/M/MV5BYmMyYjk5ZWUtODE1Yi00N2MzLWFhMDItMDc5NWEzYzRmMmFlXkEyXkFqcGc@._V1_.jpg",
+              "height": 1280,
+              "width": 1920
+            },
+            "text": {
+              "plainText": "Travis Knight, the CEO of Laika, the animation house behind “Coraline” and “ParaNorman,” can’t shake a moment from an Oscars Nominees Luncheon in 2020.\n\nThe 52-year-old son of Nike co-founder Phil Knight was there because his stop-motion film “Missing Link” was up for best animated feature. Across the table sat a screenwriter he had long admired, and the two struck up a conversation. When Knight mentioned his movie, the writer replied: “Oh, I don’t watch any of that stuff. I just let my kids tell me what to vote for.”\n\nKnight smiled on the outside but fumed within. “I was so deeply outraged,” he recalls. The insult stung because Knight knew it was the industry’s quiet consensus, said out loud: Animation is a babysitter.\n\nThat’s the paradox at the center of animation in 2026: The medium has never mattered more to Hollywood’s bottom line. Universal and"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933048",
+            "byline": "Lucas Manfredi",
+            "date": "2026-07-17T14:47:18Z",
+            "externalUrl": "https://www.thewrap.com/industry-news/business/netflix-earnings-q2-2026-stock-reaction/",
+            "articleTitle": {
+              "plainText": "Netflix Stock Extends Losses Another 8% on Weak  Forecast, Shift to Fewer Engagement Updates"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1389471234",
+              "url": "https://m.media-amazon.com/images/M/MV5BN2VkZjQ4ZGQtZDU1OC00MmU2LTk2OTctNjQ0YjU2NWM3MmExXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Netflix shares extended their losses another 8% on Friday after the streamer’s second-quarter earnings report was a mixed bag. The company’s results came in roughly in line with Wall Street expectations, but were not enough to quell investors’ concerns about its future growth.\n\nThe streamer reported a weaker-than-expected forecast after it narrowed its full year revenue guidance to $51 billion to $51.4 billion, but continues to expect that ads revenue will double year over year to $3 billion. For the third quarter, it anticipates revenue growth of 11.7% to $12.86 billion; net income of $3.45 billion, or 82 cents per share; operating income of $4.3 billion and an operating margin of 33.2%.\n\nAlso impacting Netflix’s stock is"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933138",
+            "byline": "Jeremy Fuster",
+            "date": "2026-07-17T14:45:12Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/odyssey-thursday-box-office-17-million-previews/",
+            "articleTitle": {
+              "plainText": "‘The Odyssey’ Sets Sail With $17.6 Million From Thursday Previews"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3905275650",
+              "url": "https://m.media-amazon.com/images/M/MV5BMWEzNTRmMmEtYjlhZS00YTNkLWFkMWMtNGE1MjhmMGM3YzJjXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Universal/Syncopy’s “The Odyssey” has begun its box office voyage, earning $17.6 million from Thursday preview screenings, passing the $12.6 million preview total of “Michael” for the highest preview this year.\n\nThat result is also above the $10.5 million for director Christopher Nolan’s last film, “Oppenheimer,” which went on to an $82.7 million domestic opening weekend amidst the pop culture phenomenon it launched with “Barbie.” “The Odyssey” should significantly exceed that, as it is on course to become the fifth R-rated film in history with a $100 million-plus domestic launch.\n\nLike “Oppenheimer,” “The Odyssey” is enjoying overwhelming acclaim from both critics and Nolan’s fans, who made up the majority of Thursday’s audience."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933050",
+            "byline": "Alex Ritman",
+            "date": "2026-07-17T14:38:13Z",
+            "externalUrl": "https://variety.com/2026/film/global/why-are-uk-and-irish-acting-schools-opening-in-the-us-1236814617/",
+            "articleTitle": {
+              "plainText": "As Hollywood Moves Across the Atlantic, Why Are U.K. and Irish Acting Schools Opening in the U.S.?"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3720595202",
+              "url": "https://m.media-amazon.com/images/M/MV5BOThhM2U3NTktYmE2My00Y2ExLWIwYjQtYzZmNGE1ODI0ODkyXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Shimmy Marcus, artistic director of renowned Dublin acting school Bow Street Academy, recently caught the latest “Knives Out” instalment, “Wake Up Dead Man,” and was struck by the number of British and Irish actors playing Americans in lead roles.\n\n“You’ve got Daniel Craig, Josh O’Connor, Andrew Scott and Daryl McCormick… and I was like: ‘What are we doing that’s so interesting?’,” he tells Variety.\n\nBut “Wake Up Dead Man” is far from the only example.\n\nSpielberg’s return to sci-fi with “Disclosure Day” was also top heavy with names from across the Atlantic showcasing their U.S. accents, with O’Connor again, plus Emily Blunt, Colin Firth, Eve Hewson and Henry Lloyd-Hughes. Indeed, any casual glance over the last decade and more of Hollywood has seen what’s regularly described as an “invasion” of Brit and Irish actors — something that’s fuelled an ongoing and sometimes heated debate."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933052",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-17T14:36:29Z",
+            "externalUrl": "https://variety.com/2026/tv/news/ipl-2026-jiostar-q1-fy27-results-jiohotstar-record-users-1236814721/",
+            "articleTitle": {
+              "plainText": "Ipl 2026 Powers India’s JioStar to $1.14 Billion Quarter and Streaming Record"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3436959234",
+              "url": "https://m.media-amazon.com/images/M/MV5BMDljODFmMTUtNjNmNC00ZDFkLThhNmEtYjQwZTI3YzkxOWRiXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "India’s dominant media platform JioStar generated revenue from operations of INR10,946 crore ($1.14 billion) in the three months ended June 30, 2026 – a 14% year-on-year increase driven by subscription growth and a surge in digital advertising.\n\nOperating Ebitda rose 30.7% to INR933 crore ($96.8 million), with the company pointing to operating leverage on the back of robust top-line performance.\n\nJioHotstar, the group’s streaming platform, averaged 530 million monthly active users during the quarter – its highest-ever figure and a 15% gain year-on-year. Entertainment watch time on the service grew 16% over the same period. The quarter’s biggest audience event, the Indian Premier League (Ipl) cricket tournament, reached"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933051",
+            "byline": "Cynthia Littleton",
+            "date": "2026-07-17T14:33:48Z",
+            "externalUrl": "https://variety.com/2026/tv/news/jon-miller-disney-fox-paramount-skydance-warner-bros-1236814619/",
+            "articleTitle": {
+              "plainText": "Listen: Jon Miller on Media Merger Mayhem: ‘Globalization Is Winning’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3703817986",
+              "url": "https://m.media-amazon.com/images/M/MV5BODZiNWI3M2ItYjkwZC00YTliLTk2ODAtZGJjNDIyOWQzYzFhXkEyXkFqcGc@._V1_.jpg",
+              "height": 563,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "On this week’s episode of Variety‘s “Strictly Business” podcast, media industry veteran Jon Miller, CEO of Integrated Media, offers his perspective on what it’s like to be part of a megabucks merger that represents an enormous bet on the future. He examines the deals and the varied motives of the biggest players in media.\n\nMiller, whose résumé includes stints in senior business roles at News Corp, Viacom and Time Warner, breaks down the strategic rationale that drives most acquisitions for media which is deep into consolidation mode in the U.S. He sees the current wave of"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65933053",
+            "byline": "Todd Spangler",
+            "date": "2026-07-17T14:22:24Z",
+            "externalUrl": "https://variety.com/2026/tv/news/netflix-investors-live-programming-starring-role-1236814702/",
+            "articleTitle": {
+              "plainText": "As Netflix Tries to Reset Narrative for Investors, Live Programming Could Play ‘Starring Role’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3670263554",
+              "url": "https://m.media-amazon.com/images/M/MV5BOGZjN2I3ODQtOTRiMy00YjJhLWI3NDEtODFlYTFiZDlkNjI4XkEyXkFqcGc@._V1_.jpg",
+              "height": 2667,
+              "width": 4000
+            },
+            "text": {
+              "plainText": "The sky isn’t falling for Netflix — but the streaming giant needs to convince investors it has a workable plan to sustain double-digit revenue and earnings growth ahead.\n\nThe company on Thursday posted Q2 results in line with Wall Street expectations, but Q3 revenue guidance was below expectations. That fueled fears that on a per-user basis, Netflix’s engagement is decelerating, indicating headwinds for subscription and ad revenue growth. Its stock price tumbled to an 18-month low.\n\nNot helping soothe concerns: Netflix said that, starting in 2027, it will release its huge viewing-metrics reports yearly instead of every six months. Certainly"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932986",
+            "byline": "Tony Maglio",
+            "date": "2026-07-17T14:16:12Z",
+            "externalUrl": "https://www.hollywoodreporter.com/tv/tv-news/god-of-war-recast-kratos-ryan-hurst-stunt-injury-1236650848/",
+            "articleTitle": {
+              "plainText": "‘God of War’ to Recast Kratos Role Following Ryan Hurst On-Set Injury"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3067007746",
+              "url": "https://m.media-amazon.com/images/M/MV5BOWE5N2JhMmEtMTQzNi00YTc5LWJhODktYzNiODdlODU2N2M0XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "God… damn it. Amazon Prime Video’s God of War series will recast the starring role of Kratos, the titular God of War, following an injury to the original actor Ryan Hurst (Sons of Anarchy).\n\nHurst tore his bicep while performing a stunt for the adaptation of the popular PlayStation video game, pausing production, The Hollywood Reporter has confirmed. The show had already been delayed long enough: God of War was greenlit by Prime Video in December 2022. Hurst has had surgery, but it will be a pretty long recovery.\n\nThe God of War cast and crew were informed of the decision to recast Kratos on Thursday, a source tells THR.\n\nGod of War already has a two-season commitment. Ronald D. Moore (Battlestar Galactica) is showrunner; Frederick E.O. Toye (Shōgun) directs the first two episodes. Those and others will undergo extensive reshoots — God of War has already filmed for months in"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932998",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-17T14:01:49Z",
+            "externalUrl": "https://variety.com/2026/film/box-office/dhurandhar-india-box-office-h1-2026-1236814649/",
+            "articleTitle": {
+              "plainText": "‘Dhurandhar: The Revenge’ Anchors India’s Strongest Post-Pandemic First Half at the Box Office"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm785634818",
+              "url": "https://m.media-amazon.com/images/M/MV5BM2EwYmRiZTMtNjRmZS00OGY1LTkxZTctOWE1Yjk2N2IxYWM2XkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "India’s local box office closed the first six months of 2026 at INR6,398 crore ($664.7 million), the highest-grossing first half of any year since the pandemic, according to a new report from Ormax Media.\n\nThe figure, which does not include global collections, surpasses the same period in 2025 by nearly INR650 crore ($67.5 million).\n\n“Dhurandhar: The Revenge” was the standout performer of the period, contributing approximately 20% of the total India box office for the first half of the year – a concentration that points to a widening gap between tentpole releases and the rest of the market. Six films crossed the INR200 crore ($20.8 million) mark in H1 2026, up from four during the equivalent stretch last year, yet the number of films reaching the INR100 crore ($10.4 million) threshold dropped from 17 to 13. The top 15 films collectively claimed 58% of box office receipts, compared with 49% in H1 2025.\n\nThe period also reversed a troubling footfall trend. Admissions rose 5% year-on-year,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932963",
+            "byline": "Nicole Fell",
+            "date": "2026-07-17T14:00:00Z",
+            "externalUrl": "https://www.hollywoodreporter.com/tv/tv-features/jack-martin-not-suitable-for-work-interview-1236637882/",
+            "articleTitle": {
+              "plainText": "Whether It Be Romantic Lead or Writer-Director, Jack Martin’s Ready to Tackle Whatever Role Comes Next"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1103283970",
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY4M2Y3ZDItMGY2Yy00NzE2LTkzODctYTUyNWJmODMzZWQ0XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Jack Martin knew all about Murray Hill, the New York neighborhood at the center of his latest series.\n\n“So many of my friends and people I knew moved to Murray Hill, and they worked in jobs like the ones in the show. And then I didn’t,” the 27-year-old actor tells The Hollywood Reporter on a recent Zoom. “I chose to pursue acting — which was weird, or at least that’s how it was perceived. It was a conscious choice to not go through with that lifestyle.”\n\nBut then Martin found himself on TikTok, making sketches satirizing the corporate world and the young men that often find themselves working in it. Then came Not Suitable For Work, Hulu’s latest Mindy Kaling offering.\n\nThe actor plays Josh Teitelbaum in the Friends-esque comedy about a group of young people living and working in New York. “There’s something funny about"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932958",
+            "byline": "Andi Ortiz",
+            "date": "2026-07-17T13:42:49Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/movies/brenda-fricker-home-alone-2-actress-dead/",
+            "articleTitle": {
+              "plainText": "Brenda Fricker, ‘Home Alone 2’ Favorite and Oscar-Winning ‘My Left Foot’ Actress, Dies at 81"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2059585282",
+              "url": "https://m.media-amazon.com/images/M/MV5BMGU4MjBlMmEtNjgwOS00MjdjLWIxYzUtYzBhMDE2ZTNmYmU5XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Brenda Fricker, the Irish actress who won an Oscar for her role in “My Left Foot” and comforts fans annually with her role in “Home Alone 2: Lost in New York,” died this week. She was 81 years old.\n\nIn a statement to media, Fricker’s agent confirmed her death, writing “We will never see her like again and the world is lesser for the lack of her.”\n\n“I was honoured to know, love and work with her and she will always have a place in my heart and in the heart of so many film and TV fans the world over,” he added.\n\nFricker was born in Dublin, Ireland in"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932959",
+            "byline": "Kayla Cobb",
+            "date": "2026-07-17T13:36:48Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/tv-shows/today-craig-melvin-response-studio-intruder/",
+            "articleTitle": {
+              "plainText": "Craig Melvin Assures ‘Today’ Viewers He’s ‘Safe and Sound’ After Studio Break In"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3416103426",
+              "url": "https://m.media-amazon.com/images/M/MV5BNmNiYmEwMzctOWM2Yi00OTRkLTkyZmYtZmQwZTkwZjg1MTllXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Craig Melvin, the co-host of the third hour of “Today,” assured viewers on Friday morning that he was “safe and sound” following an unauthorized intruder who entered the studio Thursday. Andrew Truelove, who is now in custody, was reportedly looking for Al Roker but approached Melvin and hurled racial slurs at him.\n\n“I want to take a quick moment to address an incident that happened yesterday,” Melvin said on “Today.” “You may have heard that unfortunately an intruder made his way into an unauthorized area here at Studio 1A. Thankfully he was apprehended quickly. He was placed under arrest. We are cooperating fully with the NYPD as they investigate the matter."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932918",
+            "byline": "Rhett Bartlett",
+            "date": "2026-07-17T13:34:51Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/brenda-fricker-dead-my-left-foot-1236650849/",
+            "articleTitle": {
+              "plainText": "Brenda Fricker, Oscar-Winning Actress in ‘My Left Foot,’ Dies at 81"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm1858193154",
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI5NjAyYzYtZjM0Ny00OWEwLWI0ZjgtNDdjMTc2ZWY5NTdlXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Brenda Fricker, who overcame a harrowing childhood to become the first Irish actress to win an Oscar, taking the prize for her turn as the unwavering mother of Daniel Day-Lewis’ character in My Left Foot, has died. She was 81.\n\nShe died Thursday night in Dublin after “a period of ill health,” her agent, Phil Belfield, announced. “We will never see her like again, and the world is lesser for the lack of her,” he said. “I was honored to know, love and work with her, and she will always have a place in my heart and in the heart of so many film and TV fans the world over.”\n\nOn doing what no else has ever done at the Oscars, she said: “I hate that phrase, ‘You’re the first Irish woman’,” she told Rte Radio in September. “It’s lovely to have that in the history books, but it’s a burden."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932928",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-17T13:27:12Z",
+            "externalUrl": "https://variety.com/2026/film/news/indigenous-missionary-biopic-mussau-the-first-song-papua-new-guinea-1236814609/",
+            "articleTitle": {
+              "plainText": "Indigenous Missionary Biopic ‘Mussau: The First Song’ to Shoot in Papua New Guinea With Indian National Film Award Winner Bijukumar Damodaran Directing (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2848048898",
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZmODg0NGMtNTg2Mi00MmQ1LWJjOGEtODc2MWM1ZDgxZjRkXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Papua New Guinea-based Nafa Productions has unveiled “Mussau: The First Song,” a historical biopic rooted in the life of Taula Lovovoa, one of the first indigenous Seventh-day Adventist missionaries from Mussau Island.\n\nSet in the 1930s, the film charts Lovovoa’s journey of transformation and reconciliation on an island that Australian colonial reports of the era branded the “Devil’s Paradise” and forecast would cease to exist within two decades.\n\nParul Agrawal produces, with Noelene Taula Wunum serving as executive producer. At the helm is Bijukumar Damodaran, a three-time Indian National Film Award winner whose prior feature “Papa Buka,” an India–Papua New Guinea co-production, earned the distinction of becoming the country’s first-ever Academy Awards submission.\n\nThe story originated with Hilda Tanimia. Screenplay credits are shared by Damodaran, Joses Imona, and Jennifer Litau, with Litau also handling Tok Pisin and vernacular-language translation duties. Yedhu Radhakrishnan is behind the camera,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932929",
+            "byline": "Wilson Chapman",
+            "date": "2026-07-17T13:25:59Z",
+            "externalUrl": "https://variety.com/2026/film/news/brenda-fricker-dead-my-left-foot-home-alone-2-1236814615/",
+            "articleTitle": {
+              "plainText": "Brenda Fricker, ‘My Left Foot’ Oscar Winner, Dies at 81"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2864826114",
+              "url": "https://m.media-amazon.com/images/M/MV5BZTVhNGRhZTgtNTAwNi00MjdiLWI3YjQtNTNlZmFhZWQ3YmE4XkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Brenda Fricker, who became the first Irish actress to win an Oscar for her turn opposite Daniel Day-Lewis in 1989’s “My Left Foot” and captured hearts as the Pigeon Lady in 1992’s “Home Alone 2,” died on Thursday in Dublin. She was 81.\n\nFricker’s agent, Phil Belfield, confirmed her death to the BBC on Friday. “We will never see her like again and the world is lesser for the lack of her,” he said in a statement. “I was honored to know, love and work with her and she will always have a place in my heart and in the"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932927",
+            "byline": "Wilson Chapman",
+            "date": "2026-07-17T13:25:59Z",
+            "externalUrl": "https://variety.com/2026/film/news/brenda-fricker-dead-my-left-foot-home-alone-2-1236814615/",
+            "articleTitle": {
+              "plainText": "Brenda Fricker, ‘My Left Foot’ Oscar Winner, Dies at 81"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2864826114",
+              "url": "https://m.media-amazon.com/images/M/MV5BZTVhNGRhZTgtNTAwNi00MjdiLWI3YjQtNTNlZmFhZWQ3YmE4XkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Brenda Fricker, who became the first Irish actress to win an Oscar for her turn opposite Daniel Day-Lewis in 1989’s “My Left Foot” and captured hearts as the Pigeon Lady in 1992’s “Home Alone 2,” died on Thursday in Dublin. She was 81.\n\nFricker’s agent, Phil Belfield, confirmed her death to the BBC on Friday. “We will never see her like again and the world is lesser for the lack of her,” he said in a statement. “I was honored to know, love and work with her and she will always have a place in my heart and in the heart of so many film and TV fans the world over.”\n\nA celebrated character actor of the stage and screen, Fricker won many accolades across her career, including the inaugural 2008 Maureen O’Hara award from the Kerry Film Festival, which honors women that have excelled on film. In 2020, she was ranked No."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932893",
+            "byline": "Loree Seitz, Kayla Cobb, Drew Taylor, Tess Patton",
+            "date": "2026-07-17T13:00:00Z",
+            "externalUrl": "https://www.thewrap.com/media-platforms/tv/netflix-viewership-report-2026-takeaways/",
+            "articleTitle": {
+              "plainText": "Netflix Viewership in 2026: What Works, What Doesn’t and Why Wall Street Is Skeptical"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3384854274",
+              "url": "https://m.media-amazon.com/images/M/MV5BMTVlZjZmNzctYjczZC00ZGYyLThjZjAtMTgwYTZiMmI5OGNmXkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Netflix’s overall viewership may be up by 2%, but the streamer can’t seem to shake concerns around its engagement metrics.\n\nThat was one of the main takeaways from both the streamer’s second-quarter earnings report and its engagement report, which shared what Netflix subscribers watched during the first half of 2026. In total, Netflix subscribers watched 97 billion hours globally between January and June.\n\nTV viewing accounted for more than 74 billion hours of global watch time during the first half of the year, marking a 4.5% year-over-year increase. This was largely driven by limited series, like the Jon Bernthal/Tessa Thompson crime mystery “His & Hers,” as well as tentpole franchises like “Bridgerton,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932854",
+            "byline": "Georg Szalai",
+            "date": "2026-07-17T12:46:17Z",
+            "externalUrl": "https://www.hollywoodreporter.com/business/business-news/netflix-stock-analyst-reactions-q2-2026-earnings-report-1236650108/",
+            "articleTitle": {
+              "plainText": "Netflix Stock Price Targets Tumble, But Wall Street Still Believes in Its Story – for Those With Patience"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4285125122",
+              "url": "https://m.media-amazon.com/images/M/MV5BYjg3OTYyZGItODg0NS00NjI2LTg2NDUtNmExOTk4ZGFlMDc3XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "The financial and operating updates are out, and Netflix is getting the Wall Street spotlight as analysts take a deep dive into the latest data points to handicap the stock outlook for the streaming giant, led by co-CEOs Ted Sarandos and Greg Peters.\n\nAmid recent concerns about engagement momentum, the impact of the soccer World Cup and bullishness about advertising upside at Netflix, the streamer and its strategic moves have been hotly debated in recent months. The latest set of results seems unlikely to change that.\n\nCase in point: a range of analysts cut their stock price target on the streamer in reaction to the Q2 2026 earnings. But many emphasized that they still believe in the stock longer-term, with some suggesting it could remain under pressure until 2027.\n\nIn Friday pre-market trading, Netflix shares were hitting new 52-week lows, most recently trading at $66.88.\n\nSo, what are Wall Street’s takeaways from"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932853",
+            "byline": "K.J. Yossman",
+            "date": "2026-07-17T12:30:00Z",
+            "externalUrl": "https://variety.com/2026/tv/global/boys-of-tommen-patrick-feely-jamie-schneider-pierce-oneill-1236814552/",
+            "articleTitle": {
+              "plainText": "‘Boys of Tommen’ Finds Its Patrick Feely in Jamie Schneider, With James Craven Joining as Pierce O’Neill (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2446313218",
+              "url": "https://m.media-amazon.com/images/M/MV5BNjZiY2ExMmEtZWQ0Ni00MzQxLThkMGEtZTcyZTQyMTM5NmNkXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Prime Video’s adaptation of Chloe Walsh’s “Boys of Tommen” has found its Patrick Feely and Pierce O’Neill, with Jamie Schneider and James Craven stepping into the roles respectively.\n\nAlso joining the cast as parents are Eoin Macken who will play Teddy Lynch, Róisín Gallagher as Marie Lynch and Amy Huberman as Edel Kavanagh.\n\n“Boys of Tommen” follows a forbidden romance at an Irish private school between star rugby player Johnny Kavanagh, who’s about to turn pro, and shy new girl Shannon Lynch.\n\n“Both teenagers are hiding secrets; Johnny, a potentially career-ending injury, and Shannon, a troubled and violent homelife,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932830",
+            "byline": "Leo Barraclough",
+            "date": "2026-07-17T12:15:47Z",
+            "externalUrl": "https://variety.com/2026/film/global/cannes-critics-week-armenian-filmmakers-next-step-studio-1236814545/",
+            "articleTitle": {
+              "plainText": "Cannes’ Critics’ Week Reveals Lineup of Armenian Filmmakers Taking Part in Next Step Studio Program (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3838756610",
+              "url": "https://m.media-amazon.com/images/M/MV5BOTYxMzQ1ZTMtOTg0NC00OGE4LThjMzUtY2I3MTM5NzhjMmQ3XkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Cannes Film Festival’s Critics’ Week has revealed the participants of next year’s Next Step Studio program, which will focus on Armenia. The filmmakers taking part are Armik Israyelyan, Raffi Movsisyan, Sona Khachatryan and Naira Sargsyan.\n\nEach of the four Armenian directors will be paired with an international filmmaker, and the filmmaking pairs will then develop and shoot a film each. The films will be shot in Yerevan in March 2027, filmed in the Armenian language, and produced with a fully Armenian cast and crew. The completed films will premiere at Critics’ Week in Cannes in 2027. They will be supported by the Ministry of Education, Science, Culture and Sports of the Republic of Armenia.\n\nIsrayelyan is an alumnus of the KinoEyes European Film Masters program and studied at the American University of Armenia. Before becoming a director, she worked as a videographer and media creator at Ucraft. Israyelyan’s “The List"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932802",
+            "byline": "Anna Marie de la Fuente",
+            "date": "2026-07-17T11:44:07Z",
+            "externalUrl": "https://variety.com/2026/tv/global/netflix-one-hundred-years-of-solitude-dates-part-2-1236812149/",
+            "articleTitle": {
+              "plainText": "Netflix Plans Special Premiere Events in Colombia for Grand Finale of Epic ‘One Hundred Years of Solitude’ Part 2 (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm298764034",
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJlOTQ4OGItNzdjMy00NjRiLWIyMmMtZDI5NGY5ZmQ2NzIzXkEyXkFqcGc@._V1_.jpg",
+              "height": 6336,
+              "width": 9504
+            },
+            "text": {
+              "plainText": "“One Hundred Years of Solitude,” Netflix’s sweeping and most ambitious series in Latin America, is dropping its second and final season this August. Covering the last 50 years of the century covered by Nobel Laureate Gabriel García Marquez’s masterpiece, Season 2 picks up immediately from where the first season ends.\n\nIn a rather unusual move, the first seven episodes of the family saga will drop on Aug. 5 while the cinematic grand finale, playing for nearly two hours, will premiere on Aug. 26.\n\nTheatrical events – not releases but special standalone screenings similar to premieres – of the finale are slated for select cities around Colombia,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932801",
+            "byline": "Anna Marie de la Fuente",
+            "date": "2026-07-17T11:44:07Z",
+            "externalUrl": "https://variety.com/2026/tv/global/netflix-one-hundred-years-of-solitude-dates-part-2-1236812149/",
+            "articleTitle": {
+              "plainText": "Netflix Plans Special Premiere Events in Colombia for Grand Finale of Epic ‘One Hundred Years of Solitude’ Part 2 (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm298764034",
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJlOTQ4OGItNzdjMy00NjRiLWIyMmMtZDI5NGY5ZmQ2NzIzXkEyXkFqcGc@._V1_.jpg",
+              "height": 6336,
+              "width": 9504
+            },
+            "text": {
+              "plainText": "“One Hundred Years of Solitude,” Netflix’s sweeping and most ambitious series in Latin America, is dropping its second and final season this August. Covering the last 50 years of the century covered by Nobel Laureate Gabriel García Marquez’s masterpiece, Season 2 picks up immediately from where the first season ends.\n\nIn a rather unusual move, the first seven episodes of the family saga will drop on Aug. 5 while the cinematic grand finale, playing for nearly two hours, will premiere on Aug. 26.\n\nTheatrical events – not releases but special standalone screenings similar to premieres – of the finale are slated for select cities around Colombia, in partnership with Colombia’s promotional entity Proimágenes.\n\nThe first half of “One Hundred Years of Solitude” introduced a young Macondo, a utopian town whose innocence faded as Colonel Aureliano Buendía was consumed by war. The second half follows the next generation of Buendías as progress and modernity reshape the town,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932748",
+            "byline": "Lily Ford",
+            "date": "2026-07-17T11:07:11Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/asghar-farhadi-honorary-heart-sarajevo-film-festival-iran-1236650798/",
+            "articleTitle": {
+              "plainText": "Asghar Farhadi to Receive Honorary Heart of Sarajevo"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm248301314",
+              "url": "https://m.media-amazon.com/images/M/MV5BNmE3YzAyYWYtODlhOS00ZTU2LWJiODItNTA5ZWNiODE4NWEyXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Asghar Farhadi will receive the Honorary Heart of Sarajevo at this year’s film festival.\n\nIn recognition of his outstanding contribution to the art of cinema, the acclaimed Iranian director and screenwriter will accept the award in person, and a retrospective of his work is set to be presented as part of the Sarajevo Film Festival’s Tribute to program.\n\nFarhadi returns to Sarajevo eight years after serving as jury president for the feature film competition in 2018. That year, his movie Everybody Knows screened in the Open Air program. He joins fellow Honorary Heart recipient Emily Watson, who is also serving as the fest’s jury president in August.\n\n“It is difficult to overstate Asghar Farhadi’s significance to world cinema,” said Jovan Marjanović, director of the Sarajevo Film Festival. “His remarkable body of work reminds us that the most profound dramas are often concealed within everyday life. His films"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932746",
+            "byline": "Leo Barraclough",
+            "date": "2026-07-17T11:00:45Z",
+            "externalUrl": "https://variety.com/2026/film/global/asghar-farhadi-sarajevo-film-festival-1236814518/",
+            "articleTitle": {
+              "plainText": "Iranian Filmmaker Asghar Farhadi to Be Honored at Sarajevo Film Festival"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm30197506",
+              "url": "https://m.media-amazon.com/images/M/MV5BNzMwNWNhOWItOTE1YS00ZTMxLTg3OTEtMjEyMDI2ZjViZmEwXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Iranian screenwriter and director Asghar Farhadi, who won Oscars with “A Separation” and “The Salesman,” will be honored at the 32nd Sarajevo Film Festival, which runs Aug. 14 to 21. The filmmaker will receive the Honorary Heart of Sarajevo in recognition of his “outstanding contribution to the art of cinema.”\n\nA retrospective of his work will be presented as part of the festival’s “Tribute To” program.\n\nJovan Marjanović, director of the festival, said, “It is difficult to overstate Asghar Farhadi’s significance to world cinema. His remarkable body of work reminds us that the most profound dramas are often concealed within everyday life. His films do not offer easy answers; instead, they invite us to look more closely, listen more carefully and engage with life’s complexities.”\n\nFarhadi served as Sarajevo’s president of the jury for the feature film competition in 2018, where his film “Everybody Knows” was screened in the Open Air program."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932747",
+            "byline": "Marta Balaga",
+            "date": "2026-07-17T10:50:40Z",
+            "externalUrl": "https://variety.com/2026/film/global/locarno-first-look-titles-2026-uruguay-1236814469/",
+            "articleTitle": {
+              "plainText": "Locarno’s First Look Section Reveals Six Uruguayan Titles, From Family Stories to Drama About Desire That ‘Persists Across Oceans’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm13420290",
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFjYWRhNzgtOWNkNi00MzZmLTg2NmUtMGVhODZlNTg1MmZlXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Locarno Pro’s work-in-progress section First Look – set to celebrate its 15th edition this year – has unveiled six new titles.\n\nThis year’s spotlight falls on Uruguay, and is prepared in partnership with Uruguayan film institute Acau.\n\nThe selection includes “Maltrato animal” by José Dell’Acqua Postiglione, about a down-on-his-luck veterinarian who suddenly enters a network of illegal breeding operations and pharmaceutical trafficking. In “Our Little Band of Justice,” Guillermo Casanova Arósteguy goes back to the 1980s, when little Lucía’s best friend’s family has to flee under suspicious circumstances, taking her away with them.\n\nGabriela Guillermo and Irina Raffo direct “Spring Story,” where an accidental encounter ignites a lasting love affair, and Lorenzo Tocco brings “El surubí,” showing an industrial town on the verge of disappearing. That is, until miraculous apparitions turn it into a place to be.\n\nOn the documentary front, Maximiliano Martínez directs “The Other Side"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932728",
+            "byline": "John Hopewell and Emiliano De Pablos",
+            "date": "2026-07-17T10:42:07Z",
+            "externalUrl": "https://variety.com/2026/film/global/san-sebastian-j-a-bayona-fernando-trueba-isabel-pena-1236814520/",
+            "articleTitle": {
+              "plainText": "San Sebastián: New Titles From J.A. Bayona, ’The Beloved’ Scribe Isabel Peña and Fernando Trueba; Mikel Gurrea, Berto Romero and Roberto Bueso Set for Competition"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm3570059010",
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk3ODY2NGEtYThlMC00NDcwLTliNDEtZGI0ZWJiZDA1YzA2XkEyXkFqcGc@._V1_.jpg",
+              "height": 853,
+              "width": 1280
+            },
+            "text": {
+              "plainText": "Mikel Gurrea’s “Sants,” with “The Beloved” star Vicky Luengo, joins in San Sebastian’s main competition alongside Berto Romero’s time-loop relationship comedy “Five Minutes More” and Roberto Bueso’s family dramedy “El mal padre.”\n\nJ.A. Bayona will bow “Beyond Society,” a non-fiction account of how the survivors of the 1972 Andes Flight 571 crash returned home facing is trauma and the families of the dead. Another potential San Sebastián highlight, Fernando Trueba’s “Bajañi” follows flamenco guitarist Niño Jamele as he explores jazz and Brazilian music.\n\nAlso selected for this year’s San Sebastián, playing out of competition, is “El Castillo,” from Rodrigo Sorogoyen regular co-scribe Isabel Peña, and Eduardo Villanueva, who co-wrote with them Sorogoyen’s hit first series “Riot Police.”\n\nSeptember’s San Sebastián marks the last headed by San Sebastián director José Luis Rebordinos, who will be replaced from Jan. 1 by Maialen Beloki, in a carefully prepared succession."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932692",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-17T10:00:00Z",
+            "externalUrl": "https://variety.com/2026/film/news/kung-fu-panda-3-studio-global-release-all-wishes-come-true-1236814439/",
+            "articleTitle": {
+              "plainText": "‘Kung Fu Panda 3’ Studio Sets Global Release for ‘All Wishes Come True!’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2278147842",
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUwODRiNWEtMDAxZi00M2E4LWJiNmQtYmQwMzZlYmE2MmYwXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Pearl Studio’s animated comedy “All Wishes Come True!” will expand into international markets this summer following its July 18 China debut.\n\nAustralia, New Zealand and Papua New Guinea will get the film first, on Aug. 13, with the U.S., Canada, the U.K., Ireland and the Netherlands following on Aug. 14. Belgium and Luxembourg round out the rollout on Sept. 4.\n\nPearl Studio, whose credits include “Kung Fu Panda 3,” “Abominable” and Oscar nominee “Over the Moon,” produced the film alongside Cmc Pictures. It is written and directed by Mu Zhengyang and produced by Cao Linlin.\n\n“All Wishes Come True!” reimagines the Chinese folk tale “The Eight Immortals Crossing the Sea” as a mythological comedy. The story follows eight ordinary mortals, beginning with Lü Dongbin and Zhongli Quan, who disguise themselves as immortals in a bid to break into a legendary vault. Along the way, they recruit six more companions – He Xiangu,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932687",
+            "byline": "Georg Szalai",
+            "date": "2026-07-17T09:56:38Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/venice-2026-closing-film-giovanni-veronesi-dio-ride-1236650776/",
+            "articleTitle": {
+              "plainText": "Venice Film Fest to Close With Giovanni Veronesi’s ‘Dio Ride’"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2697578242",
+              "url": "https://m.media-amazon.com/images/M/MV5BZTYyYWU0ODMtYmRkOC00M2U5LWI3OTItN2IyNzZlYzMyOTQ2XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "Dio ride, written and directed by Giovanni Veronesi (The King’s Musketeers, Manual of Love, For Love, Only for Love), will close the 83rd edition of the Venice International Film Festival in an out-of-competition slot.\n\nDio ride will have its world premiere on Saturday, Sept. 12, after the awards ceremony. Venice opens on Sept. 2.\n\n“During the mid-1600s, there is a man who talks of God in a way that no one has ever done before: Frate Leopoldo da Casamacchia,” reads a synopsis. “While the Church preaches in Latin, Fra Leopoldo recounts the Gospel with contagious joy, bringing comfort and hope to those who listen to him. He speaks of a God who is close to the people and is even able to laugh with them. His message spreads from village to village, winning the hearts of thousands of people who begin to follow him everywhere, as the churches empty out."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932688",
+            "byline": "Lily Ford",
+            "date": "2026-07-17T09:54:41Z",
+            "externalUrl": "https://www.hollywoodreporter.com/news/general-news/donald-trump-lawsuit-bbc-studios-dropped-speech-billion-1236650768/",
+            "articleTitle": {
+              "plainText": "Donald Trump Drops Part of His $10 Billion Defamation Lawsuit Against the BBC"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2949236482",
+              "url": "https://m.media-amazon.com/images/M/MV5BNmJhMjJiNDUtZWU3My00MmY4LTkyNGEtNDMzNWU2NjQ2N2M1XkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "U.S. President Donald Trump has dropped part of his $10 billion lawsuit against the BBC, new court documents reveal.\n\nLast year, Trump sued the British broadcaster over claims that a BBC Panorama documentary was doctored to make it appear as though Trump, during his Jan. 6, 2021 speech outside the White House, had urged his followers to attack the Capitol. The 33-page document, brought in the U.S. District Court Southern District of Florida in December, alleges that the BBC made “a false, defamatory, deceptive, disparaging, inflammatory, and malicious depiction of President Trump.”\n\nNew details have now emerged that the BBC’s commercial arm, BBC Studios, has been dropped from the suit. In the document, released by the British press on Friday, it reads: “All claims in this action asserted against the Studios Defendants are hereby dismissed with prejudice, with each party to bear its own costs and attorney’s fees… President"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932671",
+            "byline": "Alex Ritman",
+            "date": "2026-07-17T09:30:49Z",
+            "externalUrl": "https://variety.com/2026/film/global/sophie-simnett-black-and-white-silent-comedy-the-candidate-1236814488/",
+            "articleTitle": {
+              "plainText": "Rising Brit Star Sophie Simnett Joins Black-and-White Silent Comedy ‘The Candidate’ (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2244527874",
+              "url": "https://m.media-amazon.com/images/M/MV5BZGY2MGZmZDEtNWQwNS00YTJjLTk3MDMtYTZkODFjODVjODM2XkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Sophie Simnett, the rising British star best known for Netflix’s post-apocalyptic comedy drama “Daybreak” and Brit crime feature “Twist,” is set to star alongside writer-actor Jack Whittle (“Tony!”) in “The Candidate.”\n\nThe film is a black-and-white silent comedy with a dance interlude, described as being in the style of the Chaplin era of filmmaking.\n\n“The Candidate” marks the feature directorial debut of Mark Bell, known for his Olivier Award-winning work with physical comedy and ensemble farce on “The Play That Goes Wrong.” Composer Howard Goodall provides an original score that continues the traditions of silent storytelling.\n\nAs per the description, the film is a “cautionary tale of a naïve dreamer who accidentally finds himself in a position of power. Mistaking power for purpose, he loses sight of everything that was once meaningful to him. Beneath its comedic surface, ‘The Candidate’ asks what we truly value in our leaders.”\n\nSimnett"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932643",
+            "byline": "Leo Barraclough",
+            "date": "2026-07-17T09:05:03Z",
+            "externalUrl": "https://variety.com/2026/film/global/giovanni-veronesi-dio-ride-venice-film-festival-1236814484/",
+            "articleTitle": {
+              "plainText": "Giovanni Veronesi’s ‘Dio Ride’ to Close Venice Film Festival"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm348702466",
+              "url": "https://m.media-amazon.com/images/M/MV5BZTg0ZWI5ZTctYTNmZS00OWQ5LTlhODMtYmY0ZjYwNDFiNjJjXkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "“Dio Ride,” written and directed by Giovanni Veronesi, will close the 83rd Venice Intl. Film Festival, which runs Sept. 2-12. The film will play in the out-of-competition section.\n\n“Dio Ride” stars Pierfrancesco Favino, Silvio Orlando, Alma Noce, Francesco Gheghi, Maurizio Lombardi, Paolo Rossi and Carlo Cecchi. The film, whose English title is “God Laughs,” follows a friar in 17th-century Tuscany who manages to speak about God while making people laugh. However, his light-hearted approach provokes the hostility of the church.\n\nThe festival’s director Alberto Barbera said: “We will close on a high note thanks to Giovanni Veronesi and his magnificent cast, to whom we owe the successful blend of irony and lightness applied to a traditionally serious topic. It is a tone that belongs to the finest tradition of a certain Italian cinema, one that has been overlooked for far too long.”\n\nSet in the mid-1600s and loosely based on true events,"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932630",
+            "byline": "Alex Ritman",
+            "date": "2026-07-17T08:32:29Z",
+            "externalUrl": "https://variety.com/2026/tv/global/annabel-scholey-jnetflix-thriller-series-the-lords-day-1236814480/",
+            "articleTitle": {
+              "plainText": "‘Rivals’ Star Annabel Scholey Joins Netflix Thriller Series ‘The Lords’ Day’ Alongside Damson Idris and Harry Lawtey (Exclusive)"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2314716930",
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5OGNiODQtMDA2Ny00ZGQzLWEzZDctYzlmNTA4YzZkNDQ5XkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Annabel Scholey, the British actress most recently seen in the Disney+ hit “Rivals,” has joined the cast of Netflix’s upcoming thriller series “The Lords’ Day,” now in production in the U.K.\n\nVariety understands that Scholey, also known for BBC series “The Split,” has a key role in the six-part series, based on Michael Dobbs’ 2007 novel of the same name and being led by F1 star Damson Idris.\n\nAdditional cast members include Harry Lawtey, Arsema Thomas, Sophie Willan, Gemma Whelan and Timothy Spall.\n\nThe official description for the series reads, “On the State Opening of Parliament, British spy Harry Jones"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932596",
+            "byline": "Scott Roxborough",
+            "date": "2026-07-17T08:00:00Z",
+            "externalUrl": "https://www.hollywoodreporter.com/movies/movie-news/europe-launches-environmental-certification-for-animation-1236650118/",
+            "articleTitle": {
+              "plainText": "Animation Finally Gets Its Own Green Certification"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm739346178",
+              "url": "https://m.media-amazon.com/images/M/MV5BZTlkNTNhZWUtMTdiYi00YjdkLTg5ZDMtNzE5OGQxMjYwOTZjXkEyXkFqcGc@._V1_.jpg",
+              "height": 200,
+              "width": 200
+            },
+            "text": {
+              "plainText": "European animation is about to get their own environmental report card.\n\nA new European certification program, called ANiMPACT, has begun testing a system that will let animation studios prove they’re producing their work in an environmentally responsible way, something the live-action film industry has been able to do for years.\n\nANiMPACT is run jointly by three organizations: CineRegio, a network of 53 regional film funds across Europe; Ecoprod, a French nonprofit that has worked on sustainable filmmaking since 2009; and Green Film, a certification system for live-action productions that launched in Italy’s Trentino region in 2017 and has since certified more than 340 films and shows in about a dozen countries. The pilot program officially launched on June 25 at the international animation film festival in Annecy. It follows two years of work and a public feedback period that drew responses from more than 100 organizations in 18 countries.\n\nThe idea fills a gap that"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.hollywoodreporter.com/topic/movies",
+                "label": "The Hollywood Reporter - Movie News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932580",
+            "byline": "Naman Ramachandran",
+            "date": "2026-07-17T07:07:34Z",
+            "externalUrl": "https://variety.com/2026/film/news/aamir-khan-denies-3-idiots-character-based-on-sonam-wangchuk-1236814459/",
+            "articleTitle": {
+              "plainText": "Aamir Khan Denies ‘3 Idiots’ Character Was Based on Activist Sonam Wangchuk"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm4092970754",
+              "url": "https://m.media-amazon.com/images/M/MV5BYzM5NTljMDEtZDI0NC00NDQ1LWEzOTItNWQyZmRkN2EwNDM2XkEyXkFqcGc@._V1_.jpg",
+              "height": 667,
+              "width": 1000
+            },
+            "text": {
+              "plainText": "Bollywood superstar Aamir Khan denied that his character in “3 Idiots” was based on educator and climate activist Sonam Wangchuk, addressing the long-running rumor during a BFI In Conversation event at BFI Southbank, held as part of the London Indian Film Festival, which separately marked the 25th anniversary of “Lagaan.”\n\n“No, that’s not true, actually. No, no. That is a misconception,” Khan said.\n\nThe question arose after “3 Idiots” co-star Omi Vaidya, who played Chatur in the film, shared a video on social media linking Khan’s character, Phunsukh Wangdu, to Wangchuk and drawing attention to Wangchuk’s deteriorating health during a hunger strike protesting for the resignation of India’s education minister.\n\n“I know that I saw a video of Chatur just recently. He said that yes. No, he’s wrong,” Khan said. “Maybe that’s what Chatur was thinking, but I want to tell you that neither"
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/",
+                "label": "Variety - Film News"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932564",
+            "byline": "Hunter Ingram",
+            "date": "2026-07-17T07:01:00Z",
+            "externalUrl": "https://www.thewrap.com/creative-content/reviews/heartstopper-forever-review-netflix/",
+            "articleTitle": {
+              "plainText": "‘Heartstopper Forever’ Review: Finale Film Plays the Hits While Flirting With Profound Questions"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm620152578",
+              "url": "https://m.media-amazon.com/images/M/MV5BODJiMjczYTAtZjNkNS00OTAxLWE3ZDQtZWE0YmY4ZGYwZjE3XkEyXkFqcGc@._V1_.jpg",
+              "height": 675,
+              "width": 1200
+            },
+            "text": {
+              "plainText": "Can young love last?\n\nFrom the beginning, Netflix’s tender, sentimental queer romance “Heartstopper” has been fated to answer that question. In its series finale feature film, “Heartstopper Forever,” there’s no time like the present to do so.\n\nWhen shy wallflower Charlie Springer (Joe Locke) and charismatic rugby player Nick Nelson (Kit Connor) shared their first kiss after weeks of gentle and timid flirting, they defied all societal expectations about who should love who. The buff sporty kid couldn’t possibly be into the skinny nerd. But he was, and giving themselves over to this simultaneously electrifying and terrifying rush of feeling was affirming for the youth and adults watching at home."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://www.thewrap.com",
+                "label": "The Wrap"
+              },
+              "description": null
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "News",
+            "id": "ni65932539",
+            "byline": "Aramide Tinubu",
+            "date": "2026-07-17T07:01:00Z",
+            "externalUrl": "https://variety.com/2026/tv/reviews/heartstopper-forever-review-netflix-1236812518/",
+            "articleTitle": {
+              "plainText": "Netflix’s ‘Heartstopper Forever’ Is a Wistful and Mature Ending for Charlie and Nick’s Love Story: Review"
+            },
+            "image": {
+              "__typename": "Image",
+              "id": "rm2062927618",
+              "url": "https://m.media-amazon.com/images/M/MV5BYTgwZTA1ZGEtMTQzMy00OWEzLTk1YjEtYTRmNWJjMDUwNjczXkEyXkFqcGc@._V1_.jpg",
+              "height": 1979,
+              "width": 3958
+            },
+            "text": {
+              "plainText": "One of the most terrifying aspects of being a teen is the continuous change. Young people are expected to navigate high school, friendships, romance and mental wellness before making major decisions about the future trajectory of their lives. Since its debut four years ago, Netflix’s “Heartstopper,” based on Alice Oseman’s novel and comic of the same name, has captured the magic, energy, joy and terror of this time. Now, in the series finale film, “Heartstopper Forever,” Oseman ushers her characters and the audience toward a new chapter: the heartbreaking and enticing unknown.\n\n“Heartstopper Forever” opens in the fall."
+            },
+            "source": {
+              "homepage": {
+                "url": "http://variety.com/v/tv/",
+                "label": "Variety - TV News"
+              },
+              "description": null
+            }
+          }
+        }
+      ],
+      "total": 800472,
+      "pageInfo": {
+        "__typename": "NewsPageInfo",
+        "hasNextPage": true,
+        "endCursor": "NjU5MzI0OTR8MjAyNi0wNy0xNyAwNjowMDowMA"
+      }
+    }
+  },
+  "recordTime": null
+}

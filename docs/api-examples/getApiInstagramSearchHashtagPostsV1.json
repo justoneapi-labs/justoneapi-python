@@ -1,0 +1,1007 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:31.288445+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:10",
+  "code": 0,
+  "message": null,
+  "data": {
+    "data": {
+      "hashtag": {
+        "id": "17841530446091919",
+        "name": "deepseek",
+        "allow_following": false,
+        "is_following": false,
+        "is_top_media_only": false,
+        "profile_pic_url": "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-15/579689328_18507022591068689_5311538694059910478_n.heic?stp=c0.240.1440.1440a_dst-jpg_e15_s150x150_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=QDF5AO2bqBAQ7kNvwF6w2EJ&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzc2MzE0ODMyNjE1NDYyNDU0Mg%3D%3D.3.c-ccb7-5&oh=00_AQKV2pCueA5_EVouUY-pbuwxdcqLX8v_hv-eWbTswn2ULQ&oe=6AA5DEC8&_nc_sid=49ed71",
+        "edge_hashtag_to_media": {
+          "count": 165805,
+          "page_info": {
+            "has_next_page": true,
+            "end_cursor": "QVFEbkhRbm9ZQkdLYnlDWUVGaFlyUGJzV1NJVEZfOVprZW9aQ05sbXE3bGZMUzdZS3E5ZWJKbC1nN0NmbWxHa0Y4Y3pNT1IzVUhrY0NWYnpUS0ZqVGNIdw=="
+          },
+          "edges": [
+            {
+              "node": {
+                "comments_disabled": false,
+                "__typename": "GraphImage",
+                "id": "3981579510390417712",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "China is shifting its AI infrastructure away from crowded megacities like Beijing and Shanghai toward its northern and western regions.\n\nAccording to Bloomberg on September 8, 2026, more than half of China’s data center projects are now located in the north and northwest, including Inner Mongolia.\n\nWhy the shift? These regions offer cheaper electricity, cooler temperatures, vast amounts of land, and abundant renewable energy, all critical for power-hungry AI data centers.\n\nUlanqab, a city in Inner Mongolia, is now experiencing a massive wave of data center construction. AI companies including DeepSeek and Z.AI are among those expanding their computing infrastructure in the region.\n\nBy 2028, northern and northwestern China could become the country’s largest source of computing capacity.\n\nChina’s AI race is no longer just about building smarter models.\n\nIt’s also about who can secure enough land, power, and computing capacity to run them.\n#artificelintelligence #china #mongolia #deepseek #zai"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DdBaXgpy2kw",
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "taken_at_timestamp": 1788861290,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/800603538_18087819383388500_7608203567378859081_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=a-LKafhlv1cQ7kNvwHV500b&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzk4MTU3OTUxMDM5MDQxNzcxMg%3D%3D.3-ccb7-5&oh=00_AQIikF6PuycUCqWx5mKOdUqxOY1eLF2VTcohI3V9FHXqMw&oe=6AA5BCC8&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "owner": {
+                  "id": "41732132499"
+                },
+                "thumbnail_src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/800603538_18087819383388500_7608203567378859081_n.webp?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=a-LKafhlv1cQ7kNvwHV500b&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzk4MTU3OTUxMDM5MDQxNzcxMg%3D%3D.3.c-ccb7-5&oh=00_AQJiJ1cG9u4PO0gfkH5o6u-jCBihd-Bp4CT7lmp6AK97mA&oe=6AA5BCC8&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/800603538_18087819383388500_7608203567378859081_n.webp?stp=c0.180.1440.1440a_dst-webp_s150x150&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=a-LKafhlv1cQ7kNvwHV500b&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIHsJCRsYOdJGXC_PKLVKQ9oPSat_Sh9I6ewS2jP2eDiQ&oe=6AA5BCC8&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/800603538_18087819383388500_7608203567378859081_n.webp?stp=c0.180.1440.1440a_dst-webp_s240x240&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=a-LKafhlv1cQ7kNvwHV500b&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQK6bwz3bP6BVkiTOfJaFfHHtFQPXpUXkjxTRkAxGwVTlw&oe=6AA5BCC8&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/800603538_18087819383388500_7608203567378859081_n.webp?stp=c0.180.1440.1440a_dst-webp_s320x320&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=a-LKafhlv1cQ7kNvwHV500b&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIslnY1up5nU6Tt2M5011QNY-WK43Y1Ne8PSrZKOrB8_g&oe=6AA5BCC8&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/800603538_18087819383388500_7608203567378859081_n.webp?stp=c0.180.1440.1440a_dst-webp_s480x480&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=a-LKafhlv1cQ7kNvwHV500b&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQLP_6xSuBx2lSNKQZ30PlSrwxWKsPXDOoznwRMCO5dA3g&oe=6AA5BCC8&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/800603538_18087819383388500_7608203567378859081_n.webp?stp=c0.180.1440.1440a_dst-webp_s640x640_sh2.08&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=a-LKafhlv1cQ7kNvwHV500b&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKqQQlOORzfQWnsdBzEA3d6ZKWVL9Dg8s4vqMs45I5AOA&oe=6AA5BCC8&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by AI Now Decoded on September 08, 2026. May be an image of windmill and text that says 'AI NOW> DECODED NEWS China Is Moving Its AI Powerhouses West'."
+              }
+            },
+            {
+              "node": {
+                "comments_disabled": false,
+                "__typename": "GraphSidecar",
+                "id": "3981569437789700781",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": ">>>🚨RESTOCK ALERT🚨<<<\n>>>🚨RESTOCK ALERT🚨<<<\n\nACER SWIFT LITE 14 is back in stock!💻⚡️ A perfect companion for work or study and everyday productivity. Slim and lightweight design, this laptop is easy to carry wherever you go while delivering the performance you need to stay productive.\nSpecification:\n⭐️ 14\" WUXGA (1920x1200) OLED.\n⭐️ 16GB LPDDR5 RAM\n⭐️ Intel® Core™  Ultra 5 115U\n⭐️ Intel® Graphic\n⭐️ 512GB PCle® NVMe™ Gen4 SSD\n\n✅ WE ACCEPT: Online Transfer | Cash | Credit Card | Atome Card | QR Pay | 12 months installment | ATOME Card | Shopee Paylater\n\n🎯 Cari produk lain, boleh lawat Shopee: https://bit.ly/EWTshopee (SPayLater ✅)\n\nEnjoy Saving | Be Smart | Be A Member\n📍Suria Sabah Shopping Mall\n💬 http://bit.ly/3Eg8wV8\n📞 https://linktr.ee/EWTlaptop\n#EWT #EWTSuriaSabah #SuriaSabahShoppingMall #supportlocal #sapotlokal #kotakinabalucity #bki #chatgpt #DeepSeek #RESTOCKED #backinstock #ACER #laptop #Laptopoftheday #SwiftLite14OLED #electronic #EverydayStyle"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DdBYE70AcKt",
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "taken_at_timestamp": 1788860085,
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/799785862_1477580614405047_4455567822573922319_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=KFN_XBjdow8Q7kNvwEaPaet&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=Mzk4MTU2OTQxNDgzMDA1Njc5NQ%3D%3D.3-ccb7-5&oh=00_AQJUkDnSXcrVT8rMz8--4Og2_AvjwNr_X7aL4S-5lUK-iA&oe=6AA5D671&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "owner": {
+                  "id": "9284046459"
+                },
+                "thumbnail_src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/799785862_1477580614405047_4455567822573922319_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=KFN_XBjdow8Q7kNvwEaPaet&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=Mzk4MTU2OTQxNDgzMDA1Njc5NQ%3D%3D.3-ccb7-5&oh=00_AQJbScOj8vkT6ePwI1tT_GqwuTxn-jY4mx7oZODSWRr8cQ&oe=6AA5D671&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/799785862_1477580614405047_4455567822573922319_n.jpg?stp=dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=KFN_XBjdow8Q7kNvwEaPaet&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQI3WNABEkY6A2DBXPxhawLc2Syh_VxO7U1-XA7uX4S2UQ&oe=6AA5D671&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/799785862_1477580614405047_4455567822573922319_n.jpg?stp=dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=KFN_XBjdow8Q7kNvwEaPaet&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQLqy-IpEg1lNGUAFpir0Yroyi0e3PeeZfuVbWx5_Z0bAw&oe=6AA5D671&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/799785862_1477580614405047_4455567822573922319_n.jpg?stp=dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=KFN_XBjdow8Q7kNvwEaPaet&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQKI1cBTlk1bYlAUJbwUiL9beAFkvzDtssOeU344oPYRvA&oe=6AA5D671&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/799785862_1477580614405047_4455567822573922319_n.jpg?stp=dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=KFN_XBjdow8Q7kNvwEaPaet&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQLNJOb4v0-JvWutHcN4AB6oN4sBT17Ps5IePe1DAlMNaA&oe=6AA5D671&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/799785862_1477580614405047_4455567822573922319_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=KFN_XBjdow8Q7kNvwEaPaet&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJbScOj8vkT6ePwI1tT_GqwuTxn-jY4mx7oZODSWRr8cQ&oe=6AA5D671&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by EWT TECHNOLOGY on September 08, 2026. May be an image of screen, tablet, laptop and text that says 'Laptop of The Day BACK IN STOCK Swift SwiftLite14OLED Lite 14 OLED SFL14-54M-51GA SFL14- 4M-51GA er ទ0 aturs DISPLAY -T PROCESSOR 14\" WUXGA (1920x1200 OLED GRAPHIC Intel® Core™ Ultra 115U MEMORY Intel® Graphic STORAGE 16GB LPDDR5 RAM ewtshop EWT ® awt.my NVMe™Gen4 NVMe\" Gen4 512GB PCle® SSD acer 011-65050128 Sebah Shopping Mal'."
+              }
+            },
+            {
+              "node": {
+                "comments_disabled": false,
+                "__typename": "GraphSidecar",
+                "id": "3981552161998503423",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "The question I get most is: which AI tool should I use?\n\nMy answer is always: it depends on the task. Claude for depth and judgment. DeepSeek for research and breadth. ChatGPT for quick starts and ideation.\n\nNone of them is universally better. All of them have a specific job. Knowing which to reach for — that's the skill.\n\nComment TOOLS and I'll help you match the right tool to your specific work. 👇\n\n#ClaudeAI #DeepSeek #AITools #AIProductivity #MarketingAI"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DdBUJiem_3_",
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "taken_at_timestamp": 1788858048,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia5-2.cdninstagram.com/v/t51.82787-15/800617144_18623691775006656_579967909649451349_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8_8oxvS4iRMQ7kNvwGSf1fH&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzk4MTU1MTk2MzI5NzUxNTQ3OQ%3D%3D.3-ccb7-5&oh=00_AQJnS69ACBDwQXaQlKw0UlCZwb3NL3Yj4vC_Ux--0fDrMA&oe=6AA5CD88&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 2
+                },
+                "edge_media_preview_like": {
+                  "count": 2
+                },
+                "owner": {
+                  "id": "1768902655"
+                },
+                "thumbnail_src": "https://scontent-mia5-2.cdninstagram.com/v/t51.82787-15/800617144_18623691775006656_579967909649451349_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8_8oxvS4iRMQ7kNvwGSf1fH&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzk4MTU1MTk2MzI5NzUxNTQ3OQ%3D%3D.3.c-ccb7-5&oh=00_AQKDVPy0nC89OvP39yXvts1yrF13dwiDgKuJAUHLfWIrCw&oe=6AA5CD88&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia5-2.cdninstagram.com/v/t51.82787-15/800617144_18623691775006656_579967909649451349_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8_8oxvS4iRMQ7kNvwGSf1fH&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQJ8gph4mkdiHvXsmKuQAVF4boVaGL8Cqm11JyXgP_FNsg&oe=6AA5CD88&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia5-2.cdninstagram.com/v/t51.82787-15/800617144_18623691775006656_579967909649451349_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8_8oxvS4iRMQ7kNvwGSf1fH&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQJo7oRU9Jrbu4jmJqhrihWT4UrXLiblldYW7HOpaZHzXQ&oe=6AA5CD88&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia5-2.cdninstagram.com/v/t51.82787-15/800617144_18623691775006656_579967909649451349_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8_8oxvS4iRMQ7kNvwGSf1fH&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQJNfsVzHJS80nupSphWFszUO75khSUaxg1cXZaIP5VR2w&oe=6AA5CD88&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia5-2.cdninstagram.com/v/t51.82787-15/800617144_18623691775006656_579967909649451349_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8_8oxvS4iRMQ7kNvwGSf1fH&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIRwx7drVImkFvICwrJq-pYvJADD5xHx4nZ5fOAJ2v9hQ&oe=6AA5CD88&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia5-2.cdninstagram.com/v/t51.82787-15/800617144_18623691775006656_579967909649451349_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8_8oxvS4iRMQ7kNvwGSf1fH&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKDVPy0nC89OvP39yXvts1yrF13dwiDgKuJAUHLfWIrCw&oe=6AA5CD88&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by @sakinananabhai on September 08, 2026. May be a graphic of magazine, poster and text that says 'THE COMPARISON 01/05 05 Not a review. A real-work split. Three AI tools. different. 1 valuable. for different things. Here's how decide which one gets which task. SWIPE @sakinananabhai'."
+              }
+            },
+            {
+              "node": {
+                "comments_disabled": false,
+                "__typename": "GraphSidecar",
+                "id": "3981488565502166452",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "Late August squeezed five flagships into twelve days. Gemini 3.8 Flash held $0.75/$3.75 through December 31 and pitched agentic gains, Qwen and GLM shipped together as open MoEs, DeepSeek added vision at 384 tokens per image, and Claude Fable 5.1 cut cache reads 75% to $0.25. Efficiency beat scale as the frontier.\n#gemini #claude #qwen #glm #deepseek #aimodels #llms #aitooling"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DdBFsFoCUW0",
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "taken_at_timestamp": 1788850452,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800514415_18102980540092273_2758316179921346422_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8tjm7W1w3B4Q7kNvwEIZHEu&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzk4MTQ4ODI2ODE1MTE3ODExMg%3D%3D.3-ccb7-5&oh=00_AQJdQip2FecVjMgpTe7FQTAVTgTA9xPeeXlo90OHQbeEaQ&oe=6AA5DF77&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "owner": {
+                  "id": "32747340272"
+                },
+                "thumbnail_src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800514415_18102980540092273_2758316179921346422_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8tjm7W1w3B4Q7kNvwEIZHEu&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzk4MTQ4ODI2ODE1MTE3ODExMg%3D%3D.3.c-ccb7-5&oh=00_AQLZpSlZqwGazEY_QYv3RoW_tD42jhOX1BxCczRUpxfTgw&oe=6AA5DF77&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800514415_18102980540092273_2758316179921346422_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8tjm7W1w3B4Q7kNvwEIZHEu&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQI_UWgiCwdd7rVdCPX0CPzGx0OtyILyGhJmDSsXRc5Bdw&oe=6AA5DF77&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800514415_18102980540092273_2758316179921346422_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8tjm7W1w3B4Q7kNvwEIZHEu&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQL_GkttttOQXv8LSsB8raZROBT-kpdiuuLXE-kLva01Xw&oe=6AA5DF77&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800514415_18102980540092273_2758316179921346422_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8tjm7W1w3B4Q7kNvwEIZHEu&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIO3KSWoXuh_SlZmUGk3K4rV_OpqwTt_VzeZoRzj7R1Kg&oe=6AA5DF77&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800514415_18102980540092273_2758316179921346422_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8tjm7W1w3B4Q7kNvwEIZHEu&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQLO6kbMZP9QjdOU91N-R9bzQ6SHwGzaeOpE0re78jNoIg&oe=6AA5DF77&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800514415_18102980540092273_2758316179921346422_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=8tjm7W1w3B4Q7kNvwEIZHEu&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQLZpSlZqwGazEY_QYv3RoW_tD42jhOX1BxCczRUpxfTgw&oe=6AA5DF77&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by @decode.src on September 07, 2026. May be a graphic of crossword puzzle, poster and text that says 'decode.src src WEEKLYDIGEST WEEKLY DIGEST AI DIGEST FIVESTORIES FIVE STORIES ONE LINE EACH Five flagships in twelve days four Flash tiers and one premium Mythos racing on price and speed. 01 Gemini 3.8 Flash holds pricing 02 Qwen & GLM: twin open MoEs 03 DeepSeek Vision, Fable premium SWIPE THROUGH'."
+              }
+            },
+            {
+              "node": {
+                "comments_disabled": false,
+                "__typename": "GraphSidecar",
+                "id": "3981484566870859883",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "Hard labels teach only the correct class. Softened logits teach the teacher's similarity structure — a 2 that looks like a 3 — and Hinton's temperature T reveals that dark knowledge. The same principle scales to LLMs: DeepSeek-R1's 671B reasoning distilled into six 1.5B–70B students with 800k traces.\n#knowledgedistillation #machinelearning #deeplearning #llm #modelcompression #deepseek #aitools"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DdBEx5nCaBr",
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "taken_at_timestamp": 1788849976,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800590272_18102978893092273_6664652395849125980_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=eKhd7_OSOXYQ7kNvwH1HYFl&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzk4MTQ4NDIzOTcyMzUwNjAzMQ%3D%3D.3-ccb7-5&oh=00_AQL2fXpSFHk6jekxHBhLc7EgrpbjKGM3ldQphL4lAmBTPw&oe=6AA5C7D9&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "owner": {
+                  "id": "32747340272"
+                },
+                "thumbnail_src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800590272_18102978893092273_6664652395849125980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=eKhd7_OSOXYQ7kNvwH1HYFl&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=Mzk4MTQ4NDIzOTcyMzUwNjAzMQ%3D%3D.3.c-ccb7-5&oh=00_AQK2KNQkO8exhwhg5LZzYszY0JKxHd1Y_xGNi5oIv_l0_A&oe=6AA5C7D9&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800590272_18102978893092273_6664652395849125980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=eKhd7_OSOXYQ7kNvwH1HYFl&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKYYMPWTL4OWIqz0d0AcRd2zyHfzX0aUgdQ4pYx7Un6Ow&oe=6AA5C7D9&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800590272_18102978893092273_6664652395849125980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=eKhd7_OSOXYQ7kNvwH1HYFl&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKoDMbWhpOileRsPfgJS4bNfbVOfy5vdttjm3_pgWLFTg&oe=6AA5C7D9&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800590272_18102978893092273_6664652395849125980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=eKhd7_OSOXYQ7kNvwH1HYFl&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQI2BGVok4OI_KFeaxMNi81N6m8-py5bK5X997Ks9MJl8A&oe=6AA5C7D9&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800590272_18102978893092273_6664652395849125980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=eKhd7_OSOXYQ7kNvwH1HYFl&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQLCz32PWB9alwHn35_MVf6edrafoyykANaDw26IkNIb8g&oe=6AA5C7D9&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/800590272_18102978893092273_6664652395849125980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=eKhd7_OSOXYQ7kNvwH1HYFl&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQK2KNQkO8exhwhg5LZzYszY0JKxHd1Y_xGNi5oIv_l0_A&oe=6AA5C7D9&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by @decode.src on September 07, 2026. May be a graphic of poster, magazine and text that says 'decode.src AICONCEPTSEXPLAINED AI CONCEPTS EXPLAINED SERIES·AI,DECODED AI, DECODED SERIES EP.09 KNOWLEDGE DISTILLATION Hard Labels Throw Away The Lesson Softened logits beat hard labels Hinton's temperature trick transfers dark knowledge into compact models like DeepSeek- R1-Distill. dark knowledge temperature T temper soft targets teacher student @decode.sn src IIIII 01-07 01 07'."
+              }
+            },
+            {
+              "node": {
+                "comments_disabled": false,
+                "__typename": "GraphImage",
+                "id": "3981483927785819228",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "🔥 NEW ARRIVAL - CANON PRINTER LINEUP 🔥\n🔥 NEW ARRIVAL - CANON PRINTER LINEUP 🔥\n\nLooking for a printer for home, office, or business use? We've got a range of Canon printers to suit different needs!\n\nAvailable models:\n\n🖨️ Canon PIXMA TS5570\n🖨️ Canon PIXMA G4780\n🖨️ Canon PIXMA G4770\n🖨️ Canon imageCLASS MF752Cdw II\n\nFrom everyday document printing to high-volume printing and business use, find the one that suits your needs.\n\nDrop by EWT Technology and check out the Canon printer lineup today!\n\n✅ WE ACCEPT: Online Transfer | Cash | Credit Card | Atome Card | QR Pay | 12 months installment | ATOME Card | Shopee Paylater\n\n🎯 Cari produk lain, boleh lawat Shopee: https://bit.ly/EWTshopee (SPayLater ✅)\n\nEnjoy Saving | Be Smart | Be A Member\n📍Suria Sabah Shopping Mall\n💬 http://bit.ly/3Eg8wV8\n📞 https://linktr.ee/EWTlaptop\n\n#EWT #EWTSuriaSabah #SuriaSabahShoppingMall #supportlocal #sapotlokal #kotakinabalucity #bki #chatgpt #DeepSeek #copilotstudiotraining #Canon #CanonPrinter #PIXMA #ImageCLASS #TS5570 #G4780 #G4770 #MF752CdwII #Printer #HomeOffice #OfficePrinter #EWTTechnology"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DdBEomamcxc",
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "taken_at_timestamp": 1788849892,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/797774244_1477486994414409_1559331447625483423_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=okXBbZjUVvYQ7kNvwHv-t7G&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=Mzk4MTQ4MzkyNzc4NTgxOTIyOA%3D%3D.3-ccb7-5&oh=00_AQLGz3nQZrmeCSXQeQWAn59yTa7elBBX3YiUibdNoZleyg&oe=6AA5C377&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "owner": {
+                  "id": "9284046459"
+                },
+                "thumbnail_src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/797774244_1477486994414409_1559331447625483423_n.jpg?stp=c0.205.1638.1638a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=okXBbZjUVvYQ7kNvwHv-t7G&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=Mzk4MTQ4MzkyNzc4NTgxOTIyOA%3D%3D.3.c-ccb7-5&oh=00_AQLP7svmhwgk5OqPgfA4efWVNwhquLzJFMxUc1hpW4pXCQ&oe=6AA5C377&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/797774244_1477486994414409_1559331447625483423_n.jpg?stp=c0.205.1638.1638a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNjM4LnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=okXBbZjUVvYQ7kNvwHv-t7G&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQI6KMkHLDi6mAec9_0rEuXFIGXam99Bvl4chZLNpuEfFg&oe=6AA5C377&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/797774244_1477486994414409_1559331447625483423_n.jpg?stp=c0.205.1638.1638a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNjM4LnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=okXBbZjUVvYQ7kNvwHv-t7G&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJ4rXx6WLxmATlGqlxeQDeoHp7CedEDEc1Wn3ze1TjfAg&oe=6AA5C377&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/797774244_1477486994414409_1559331447625483423_n.jpg?stp=c0.205.1638.1638a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNjM4LnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=okXBbZjUVvYQ7kNvwHv-t7G&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQKz8wXBW0e1sYQEQrY1EJqEbgP1CmyTWJ4Be_5WTODyPQ&oe=6AA5C377&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/797774244_1477486994414409_1559331447625483423_n.jpg?stp=c0.205.1638.1638a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNjM4LnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=okXBbZjUVvYQ7kNvwHv-t7G&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJC7rFc1tPZQEhkAo8NOwIRep7wqxxQpz70NxAt5ThYzg&oe=6AA5C377&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/797774244_1477486994414409_1559331447625483423_n.jpg?stp=c0.205.1638.1638a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNjM4LnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=okXBbZjUVvYQ7kNvwHv-t7G&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQLP7svmhwgk5OqPgfA4efWVNwhquLzJFMxUc1hpW4pXCQ&oe=6AA5C377&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by EWT TECHNOLOGY on September 07, 2026. May be an image of printer and text."
+              }
+            }
+          ]
+        },
+        "edge_hashtag_to_top_posts": {
+          "edges": [
+            {
+              "node": {
+                "__typename": "GraphSidecar",
+                "id": "3584634813417869836",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": ".\nبرأيك، هل هذه الخسائر مؤقتة أم بداية تحولات اقتصادية أعمق؟\n.\nاقرأ التفاصيل على موقع مينا تك من خلال الرابط في وصف صفحة: @menatechnet\n.\n#مينا_تك #أخبار #تقنية #تكنولوجيا #أخبار_التقنية #شركات_التقنية #ريادة_الأعمال #إيلون_ماسك #مارك_زوكربيرغ #لاري_إيلسون #DeepSeek"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DG_Ll7fRVIM",
+                "edge_media_to_comment": {
+                  "count": 22
+                },
+                "taken_at_timestamp": 1741541791,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia5-1.cdninstagram.com/v/t39.30808-6/480830171_621569157297505_3734634264400030994_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WoXudTTS6hAQ7kNvwFZ2W6i&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=MzU4NDYzNDc5ODUwMzA4MzU3Mg%3D%3D.3-ccb7-5&oh=00_AQJalSabJVKEnBifa7Oucs5eRG6huOE2CGd1gLlsb911BA&oe=6AA5C0AF&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 903
+                },
+                "edge_media_preview_like": {
+                  "count": 903
+                },
+                "owner": {
+                  "id": "586473536"
+                },
+                "thumbnail_src": "https://scontent-mia5-1.cdninstagram.com/v/t39.30808-6/480830171_621569157297505_3734634264400030994_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WoXudTTS6hAQ7kNvwFZ2W6i&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=MzU4NDYzNDc5ODUwMzA4MzU3Mg%3D%3D.3.c-ccb7-5&oh=00_AQLKIateEwjZ0iCNQBkxjAuAJr8wZdbgpk4T9Hgvx5h_lA&oe=6AA5C0AF&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t39.30808-6/480830171_621569157297505_3734634264400030994_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WoXudTTS6hAQ7kNvwFZ2W6i&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQI-ugPY5v2Iw91qoeSNBjXoF6EDm0Uo5RzGWx1m2CuaoA&oe=6AA5C0AF&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t39.30808-6/480830171_621569157297505_3734634264400030994_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WoXudTTS6hAQ7kNvwFZ2W6i&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJBBLB_7-ypvFvudWR9iBbpYC3N3nkblaBRCRR1XVsz5w&oe=6AA5C0AF&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t39.30808-6/480830171_621569157297505_3734634264400030994_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WoXudTTS6hAQ7kNvwFZ2W6i&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQKF_stlPaR1ox0l6hp3UGY7u-RRyYwDIvHFGq3ynUDH3A&oe=6AA5C0AF&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t39.30808-6/480830171_621569157297505_3734634264400030994_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WoXudTTS6hAQ7kNvwFZ2W6i&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJW5ho6mcBy6KjMQnIvxpq-ah0tOOxzDF3hTs07I-jwxA&oe=6AA5C0AF&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t39.30808-6/480830171_621569157297505_3734634264400030994_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WoXudTTS6hAQ7kNvwFZ2W6i&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQLKIateEwjZ0iCNQBkxjAuAJr8wZdbgpk4T9Hgvx5h_lA&oe=6AA5C0AF&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by MENA TECH | مينا تك on March 09, 2025."
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "3903547987147020257",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "PREÇOS EM UM QUARTO DE SEU NÍVEL ORIGINAL \n\nA startup chinesa de inteligência artificial DeepSeek anunciou um corte permanente de 75% nos preços do modelo V4-Pro, principal sistema da empresa voltado para IA generativa.\n\nCom a mudança, os custos da API passaram de até 24 iuanes para até 6 iuanes (cerca de US$0,0035 a US$0,83) por milhão de tokens, unidade usada para processar textos em modelos de inteligência artificial.\n\nA empresa não confirmou se a redução está ligada ao aumento da oferta dos chips Ascend 950, da Huawei, usados no treinamento e operação do V4-Pro.\n\nO movimento acontece em meio ao avanço das fabricantes chinesas de chips, beneficiadas pelas restrições impostas pelos Estados Unidos à venda de semicondutores avançados da Nvidia para a China.\n\nSaiba mais no site do InfoMoney.\n\nFoto: Bloomberg\n\n#Business #IA #DeepSeek"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DYsMDZhltfh",
+                "edge_media_to_comment": {
+                  "count": 30
+                },
+                "taken_at_timestamp": 1779559211,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/705662856_18590739706011679_7435553523935584255_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=rfgoyLth9sQQ7kNvwHPPdWa&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzkwMzU0Nzk4NzE0NzAyMDI1Nw%3D%3D.3-ccb7-5&oh=00_AQJkbSGn86VsszroWpx0TtBb3cJjzPdEU77DeiPssX8NpQ&oe=6AA5BA9A&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 1228
+                },
+                "edge_media_preview_like": {
+                  "count": 1228
+                },
+                "owner": {
+                  "id": "208971678"
+                },
+                "thumbnail_src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/705662856_18590739706011679_7435553523935584255_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=rfgoyLth9sQQ7kNvwHPPdWa&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzkwMzU0Nzk4NzE0NzAyMDI1Nw%3D%3D.3.c-ccb7-5&oh=00_AQIYE4Nv94mt0rvZRWQ3FigEZiLiFnHD2oVTzBOZtU0Nxw&oe=6AA5BA9A&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/705662856_18590739706011679_7435553523935584255_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=rfgoyLth9sQQ7kNvwHPPdWa&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQJTAAUWRy-BnWQsCdG9xHgh9_DhszSdgV9ERo07jrEYrg&oe=6AA5BA9A&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/705662856_18590739706011679_7435553523935584255_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=rfgoyLth9sQQ7kNvwHPPdWa&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQL0bl0Z2dRjh_yERcgve-K9aCu3iewHeK1jv6JL9Kp4Dg&oe=6AA5BA9A&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/705662856_18590739706011679_7435553523935584255_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=rfgoyLth9sQQ7kNvwHPPdWa&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQJ9mTscjU3IiAZkXUSd8vTpO19kwjw4x5dxYDrQUSSd_w&oe=6AA5BA9A&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/705662856_18590739706011679_7435553523935584255_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=rfgoyLth9sQQ7kNvwHPPdWa&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIrtRRJ5XFwDl5ddpLqszRBHMQqSWsayPIpVAC4utZFNQ&oe=6AA5BA9A&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/705662856_18590739706011679_7435553523935584255_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=rfgoyLth9sQQ7kNvwHPPdWa&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIYE4Nv94mt0rvZRWQ3FigEZiLiFnHD2oVTzBOZtU0Nxw&oe=6AA5BA9A&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by InfoMoney on May 23, 2026."
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphSidecar",
+                "id": "3566285770497352590",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "Behörden und Cybersicherheitsfachleute haben gravierende Sicherheitsbedenken gegen den chinesischen KI-Chatbot DeepSeek. Ein wesentlicher Kritikpunkt ist die Speicherung der Tastatureingaben. \n\nDeepSeek informiert in seinen Datenschutzhinweisen darüber, dass „Tastatureingabemuster oder -rhythmen“ erfasst werden – ein Verfahren, das zur Identifizierung von Nutzer:innen eingesetzt werden kann. „Auch Tastatureingaben innerhalb der App können womöglich mitgelesen werden, bevor sie abgeschickt werden“, sagt eine Sprecherin des Bundesamts für Sicherheit in der Informationstechnik (BSI) auf dpa-Anfrage. \n\nAbgesehen davon ist DeepSeek nach chinesischem Recht verpflichtet, sämtliche Daten in der Volksrepublik zu speichern. Das chinesische Geheimdienstgesetz wiederum verpflichtet Bevölkerung und Organisationen zur Kooperation mit den Sicherheitsbehörden. Der Gummiparagraf wird von etlichen China-Beobachter:innen als Zugriffsrecht des Spionageapparats auf sämtliche in der Volksrepublik gespeicherten Daten interpretiert. \n\nDie etablierte US-Konkurrenz von Open AI hingegen sichert zu, nicht aktiv nach persönlichen Daten zu suchen und keine öffentlichen Daten im Internet zum Aufbau persönlicher Profile zu verwenden. Allerdings gibt es auch ein US-Gesetz – den Cloud Act – das amerikanische Firmen verpflichtet, den Behörden Zugriff auf im Ausland gespeicherte Daten zu gewähren. \n\nDerzeit bereitet der Datenschutzbeauftragte von Rheinland-Pfalz ein Prüfverfahren gegen DeepSeek vor. „Mehrere deutsche Datenschutzaufsichtsbehörden gehen voraussichtlich parallel vor“, sagte eine Sprecherin auf Anfrage. Laut EU-Datenschutzgrundverordnung muss ein Unternehmen ohne Niederlassung in der EU zumindest einen gesetzlichen Vertreter benennen, was DeepSeek bislang offenbar nicht getan hat. \n\n#deepseek #cybersicherheit #ki #nachrichten #tagesschau"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DF9_gNmBmOO",
+                "edge_media_to_comment": {
+                  "count": 717
+                },
+                "taken_at_timestamp": 1739354414,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/476965028_1024175363081513_2986733222591667736_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=hwbhOfqmpOoQ7kNvwHAlqxO&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=MzU2NjI4NTc1NjIzNjU4OTgwOQ%3D%3D.3-ccb7-5&oh=00_AQIUWuup_RNBhtN5FjxcpA0X2AuvHmJyufCFFKKc0nTswQ&oe=6AA5C327&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 52439
+                },
+                "edge_media_preview_like": {
+                  "count": 52439
+                },
+                "owner": {
+                  "id": "1349651722"
+                },
+                "thumbnail_src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/476965028_1024175363081513_2986733222591667736_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=hwbhOfqmpOoQ7kNvwHAlqxO&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=MzU2NjI4NTc1NjIzNjU4OTgwOQ%3D%3D.3.c-ccb7-5&oh=00_AQJdXrr3t1u4eq7YblKSIAVNkVml61LpSuvWWGXffGYuJA&oe=6AA5C327&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/476965028_1024175363081513_2986733222591667736_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=hwbhOfqmpOoQ7kNvwHAlqxO&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJ-kpiYtP92Kdy8Adz2lAyVdLkQo55dxgXRyHswb40Qfg&oe=6AA5C327&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/476965028_1024175363081513_2986733222591667736_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=hwbhOfqmpOoQ7kNvwHAlqxO&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQLPqftHLJxboJWy2lEt4Zh_Ndcmcztl4QM4GXmCVnC4_Q&oe=6AA5C327&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/476965028_1024175363081513_2986733222591667736_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=hwbhOfqmpOoQ7kNvwHAlqxO&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQKNn3IRYmu5JnVGSxV0HpVLj1DHqBEEa2wFYcIz_Xu-mQ&oe=6AA5C327&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/476965028_1024175363081513_2986733222591667736_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=hwbhOfqmpOoQ7kNvwHAlqxO&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJyN9JMb5b9VXrvCWZpEvquxFug0NTzd9vL75jzaEGldA&oe=6AA5C327&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/476965028_1024175363081513_2986733222591667736_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=hwbhOfqmpOoQ7kNvwHAlqxO&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJdXrr3t1u4eq7YblKSIAVNkVml61LpSuvWWGXffGYuJA&oe=6AA5C327&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Zu sehen ist das Logo der chinesischen KI-App DeepSeek. Darunter steht: Kritik an chinesischem KI-Chatbot. Warum Fachleute vor DeepSeek warnen."
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphSidecar",
+                "id": "3906021888442788787",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "China is tightening control over its booming artificial intelligence sector, not just through technology but also by restricting the movement of the people building it. According to reports, Chinese authorities are now limiting overseas travel for top AI researchers, startup founders and executives working at companies like Alibaba and DeepSeek amid growing fears over foreign influence and national security risks.\n\nThe move comes after China reportedly blocked Meta from acquiring AI startup Manus AI and reflects Beijing’s escalating focus on winning the global AI race against the United States. Experts say the rivalry is no longer only about chips and software but also about controlling talent, expertise and access to cutting-edge innovation. \n\n#China #ArtificialIntelligence #DeepSeek #Alibaba  #IndiaTodayGlobal\n\n(China AI restrictions, DeepSeek China, Alibaba AI, Manus AI, US China tech rivalry, artificial intelligence race, Meta acquisition)"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DY0-jZpiGuz",
+                "edge_media_to_comment": {
+                  "count": 7
+                },
+                "taken_at_timestamp": 1779854116,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/708414723_18592752607030187_9061931922176991278_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=USVho4GmXDkQ7kNvwEd3u5D&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzkwNjAyMTY2NDc3MDY1MzUwMA%3D%3D.3-ccb7-5&oh=00_AQJyWfBIUpAmLZA37R0Yz3-gnKvoWkgK6-IX1aLbDckmfg&oe=6AA5DFD8&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 642
+                },
+                "edge_media_preview_like": {
+                  "count": 642
+                },
+                "owner": {
+                  "id": "1542430186"
+                },
+                "thumbnail_src": "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/708414723_18592752607030187_9061931922176991278_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=USVho4GmXDkQ7kNvwEd3u5D&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzkwNjAyMTY2NDc3MDY1MzUwMA%3D%3D.3.c-ccb7-5&oh=00_AQLMPy4v2rXVs40VNdvgoeABvgHoY3X0qrmZfMXXANT-vg&oe=6AA5DFD8&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/708414723_18592752607030187_9061931922176991278_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=USVho4GmXDkQ7kNvwEd3u5D&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKIA0-TaOytbQMF50T60iMF2t0YuLcIR1K51Bmhmg5JSw&oe=6AA5DFD8&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/708414723_18592752607030187_9061931922176991278_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=USVho4GmXDkQ7kNvwEd3u5D&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKBg8eswroVCzrFWUrtYZJSM3Ybr1PamWhGTNtCazHg0A&oe=6AA5DFD8&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/708414723_18592752607030187_9061931922176991278_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=USVho4GmXDkQ7kNvwEd3u5D&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQJMXC7Av0Jh_YGBmweJuoeVZgTbbtb1Yg3jvGUyakUMSA&oe=6AA5DFD8&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/708414723_18592752607030187_9061931922176991278_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=USVho4GmXDkQ7kNvwEd3u5D&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQLnMjo4DT2fHzC7cGM_RAR1Cw-l9uS1Wn6oyclUwCGPzA&oe=6AA5DFD8&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/708414723_18592752607030187_9061931922176991278_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=USVho4GmXDkQ7kNvwEd3u5D&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQLMPy4v2rXVs40VNdvgoeABvgHoY3X0qrmZfMXXANT-vg&oe=6AA5DFD8&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo shared by India Today on May 26, 2026 tagging @indiatodayglobal."
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "3560487781896217726",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "算命不求人\n\n#國產AI #DeepSeek #算命 #星島頭條時事\n\n↑↑STORY有詳細內容↑↑"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DFpZMX7CuR-",
+                "edge_media_to_comment": {
+                  "count": 13
+                },
+                "taken_at_timestamp": 1738663241,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/485341058_1062084572625524_4437539555802593180_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=tN7A_SjMe24Q7kNvwFwPcmF&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=MzU2MDQ4Nzc4MTg5NjIxNzcyNg%3D%3D.3-ccb7-5&oh=00_AQKlj8YUGqT99vS7SGvR5acqvPI4qBSjpSQEu4tT-HBakw&oe=6AA5E4FE&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 1253
+                },
+                "edge_media_preview_like": {
+                  "count": 1253
+                },
+                "owner": {
+                  "id": "1068828884"
+                },
+                "thumbnail_src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/485341058_1062084572625524_4437539555802593180_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=tN7A_SjMe24Q7kNvwFwPcmF&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=MzU2MDQ4Nzc4MTg5NjIxNzcyNg%3D%3D.3.c-ccb7-5&oh=00_AQJWpimdCM-rwI6peYjb_7GwGoAbQGGCfP-kBbXztbQkFQ&oe=6AA5E4FE&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/485341058_1062084572625524_4437539555802593180_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=tN7A_SjMe24Q7kNvwFwPcmF&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQIENfNqSdwuyQut2aMzis7N9eY0OUHK0BGiuhaAOE5tBg&oe=6AA5E4FE&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/485341058_1062084572625524_4437539555802593180_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=tN7A_SjMe24Q7kNvwFwPcmF&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQLlbGjRFQcJKYvFOfhUNd_Ymt6GQvWNs3mP5zvD8W-1IA&oe=6AA5E4FE&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/485341058_1062084572625524_4437539555802593180_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=tN7A_SjMe24Q7kNvwFwPcmF&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJt4xet6GwhOFDbJ9Wzb9yR2diZPkLDVbuzcOE2aHXxpg&oe=6AA5E4FE&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/485341058_1062084572625524_4437539555802593180_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=tN7A_SjMe24Q7kNvwFwPcmF&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJe9I23iAUJqPd5nH3O6J3FVllltX79xauk1kZ_OQG40w&oe=6AA5E4FE&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t39.30808-6/485341058_1062084572625524_4437539555802593180_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=tN7A_SjMe24Q7kNvwFwPcmF&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJWpimdCM-rwI6peYjb_7GwGoAbQGGCfP-kBbXztbQkFQ&oe=6AA5E4FE&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by 星島頭條 on February 04, 2025."
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphSidecar",
+                "id": "3559325906419859075",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "Rival do ChatGPT 📲 \"A forma como eles fizeram foi totalmente diferente da maioria das empresas de tecnologia\", diz Cleber Zanchettin, professor do Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE), montado na década de 1980 e hoje um dos líderes em pesquisa em inteligência artificial na América Latina.⁠\n⁠\nO chatbot de inteligência artificial chinês DeepSeek-R1 foi lançado discretamente em 20 de janeiro de 2025.⁠\n⁠\nÀ medida que os especialistas foram testando o modelo e entendendo como tinha sido construído, perceberam que de fato rivalizava com os das big techs americanas — e embaralhava a disputa entre EUA e China pelo posto de superpotência da tecnologia.⁠\n⁠\nUma semana depois, o Vale do Silício entrou em pânico. As ações das 7 principais empresas de tecnologia dos Estados Unidos desidrataram e as Magnificent 7 (Apple, Microsoft, Alphabet (Google), Amazon, Nvidia, Tesla e Meta) perderam US$ 1 trilhão em valor de mercado em 27 de janeiro.⁠\n⁠\nMas, para além da alta tensão na arena dos negócios e da geopolítica, a inovação em si trazida pela plataforma impressionou a comunidade científica, ressalta Zanchettin.⁠\n⁠\nEm entrevista à BBC News Brasil, o especialista mergulhou em quatro características que explicam porque o DeepSeek impressionou.⁠\n⁠\nA análise completa você encontra no nosso link da bio: @BBCBrasil⁠\n⁠\n📸: Getty⁠\n⁠\n#BBCBrasil #IA #AI #deepseek #chatgpt #inteligenciaartificial"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DFlRA3EAD6D",
+                "edge_media_to_comment": {
+                  "count": 196
+                },
+                "taken_at_timestamp": 1738524738,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/655587152_18100903120985227_4741322996434107927_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=6CNLTnHQIj0Q7kNvwE-x906&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzU1OTMyNTgwNDQxODIwNjgyMA%3D%3D.3-ccb7-5&oh=00_AQI1Jm5d3FqA8wf8p-Sps1idsY9lLiXurWFJbjA14VXQZw&oe=6AA5D154&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 16101
+                },
+                "edge_media_preview_like": {
+                  "count": 16101
+                },
+                "owner": {
+                  "id": "183660174"
+                },
+                "thumbnail_src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/655587152_18100903120985227_4741322996434107927_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=6CNLTnHQIj0Q7kNvwE-x906&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzU1OTMyNTgwNDQxODIwNjgyMA%3D%3D.3.c-ccb7-5&oh=00_AQKKLbJ8ZyM4f-cC1HtmtZObPKaiF-F9liSZKN5O9np9uA&oe=6AA5D154&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/655587152_18100903120985227_4741322996434107927_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=6CNLTnHQIj0Q7kNvwE-x906&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIn1CrJJcwmroXJSaIbsm4m9gSNv4PW-6ePFdzGdx15IQ&oe=6AA5D154&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/655587152_18100903120985227_4741322996434107927_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=6CNLTnHQIj0Q7kNvwE-x906&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQLpfAIG-xEVeXNcSWBCsCfH9GsY7iVHjV-p8qmPBaQXAQ&oe=6AA5D154&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/655587152_18100903120985227_4741322996434107927_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=6CNLTnHQIj0Q7kNvwE-x906&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQLiwELPuOWHkpktiHccycHw22b-bE_-V9Yzhaym89iZGA&oe=6AA5D154&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/655587152_18100903120985227_4741322996434107927_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=6CNLTnHQIj0Q7kNvwE-x906&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQJRglyIX2eniyqZfUiYJ6Z0CjRU1uSHquABI6HOw1iS7A&oe=6AA5D154&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-3.cdninstagram.com/v/t51.82787-15/655587152_18100903120985227_4741322996434107927_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=6CNLTnHQIj0Q7kNvwE-x906&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKKLbJ8ZyM4f-cC1HtmtZObPKaiF-F9liSZKN5O9np9uA&oe=6AA5D154&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by BBC News | Brasil on February 02, 2025."
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphSidecar",
+                "id": "3564262636750179075",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "OUTRAS POSSIBILIDADES OFERECIDAS PELO UNIVERSO DAS INTELIGÊNCIAS ARTIFICIAIS⁠\n⁠\nNo mundo em rápida evolução da inteligência artificial, uma das rivalidades mais notáveis é a entre o ChatGPT e o DeepSeek. Ambas as plataformas têm se destacado como líderes na geração de linguagem natural, cada uma oferecendo abordagens únicas e funcionalidades avançadas.⁠\n⁠\nNo entanto, o mundo da IA generativa não se restringe a essas duas ferramentas. Existem alternativas que podem atender bem às suas necessidades — mesmo que não sejam tão populares.⁠\n⁠\n🔗Saiba quais são elas no link da bio!⁠\n⁠\n(Imagens: Getty Images)⁠\n⁠\n#IA #ChatGPT #DeepSeek #Aplicativos #FerramentasIA #ForbesTech #ForbesBr"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DF2zfvdsQsD",
+                "edge_media_to_comment": {
+                  "count": 21
+                },
+                "taken_at_timestamp": 1739113241,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/656126979_18085183529211592_2195372583908414526_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WJCrKlsfuyQQ7kNvwEgyy_n&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzU2NDI2MjQ4MDk5MDU1NjIyMg%3D%3D.3-ccb7-5&oh=00_AQKDpECxTrFaZtI6x1hPeVNj9cyPSw_aL8KPFpNjFyCWEQ&oe=6AA5B0E6&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 3674
+                },
+                "edge_media_preview_like": {
+                  "count": 3674
+                },
+                "owner": {
+                  "id": "235069696"
+                },
+                "thumbnail_src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/656126979_18085183529211592_2195372583908414526_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WJCrKlsfuyQQ7kNvwEgyy_n&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzU2NDI2MjQ4MDk5MDU1NjIyMg%3D%3D.3.c-ccb7-5&oh=00_AQIQxv4AOWjBkrQlFCQ8PppbB7eSqgt25zi_3PY-3_Bk3w&oe=6AA5B0E6&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/656126979_18085183529211592_2195372583908414526_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WJCrKlsfuyQQ7kNvwEgyy_n&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIxisXCyTdUd8ICRdshEQ0iHtI2pUa2beosu1lvyK-3_g&oe=6AA5B0E6&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/656126979_18085183529211592_2195372583908414526_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WJCrKlsfuyQQ7kNvwEgyy_n&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIFeelGs19-L6_VUfG7PAbqklEdVvCEk3hvn4Dud4cq6A&oe=6AA5B0E6&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/656126979_18085183529211592_2195372583908414526_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WJCrKlsfuyQQ7kNvwEgyy_n&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQJiyyxV8moXykfG4movlb07f30RPNkoqwyG4rRDGTJs6w&oe=6AA5B0E6&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/656126979_18085183529211592_2195372583908414526_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WJCrKlsfuyQQ7kNvwEgyy_n&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIU1pOGMLwtN3ts7nYHZD02kJwUPN8yoygS2HozIxfxLA&oe=6AA5B0E6&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia5-1.cdninstagram.com/v/t51.82787-15/656126979_18085183529211592_2195372583908414526_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=WJCrKlsfuyQQ7kNvwEgyy_n&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIQxv4AOWjBkrQlFCQ8PppbB7eSqgt25zi_3PY-3_Bk3w&oe=6AA5B0E6&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by Forbes Brasil on February 09, 2025."
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "3565050065224945068",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "FUTUROS MODELOS\n\nA BYD anunciou nesta segunda (10) que planeja integrar software da DeepSeek nos veículos elétricos. Contudo, o anúncio não especificou a data da integração.\n\nNo início do ano, a startup chinesa surpreendeu os mercados de tecnologia com seu modelo de IA de código aberto e acirrar a disputa com a OpenAI.\n\nA fabricante chinesa ainda afirmou que vai habilitar recursos avançados de assistência ao motorista em quase todos os seus futuros modelos sem custo adicional para os compradores. \n\nUma das medidas será colocar o sistema de assistência ao motorista, chamado God’s Eye, em veículos com preços a partir de 100.000 yuan (US$ 13.688) na China e o incluirá em vários modelos de menor custo, como o popular hatchback Seagull.\n\nAs medidas são vistas como parte de uma estratégia para desafiar a Tesla, de Elon Musk, e rivais domésticos no competitivo mercado de veículos elétricos da China.\n\nSaiba mais no site do InfoMoney.\n\nFoto: Bloomberg\n\n#BYD #CarroElétrico #DeepSeek #IA #China"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DF5miVYN02s",
+                "edge_media_to_comment": {
+                  "count": 103
+                },
+                "taken_at_timestamp": 1739207107,
+                "dimensions": {
+                  "height": 1350,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/482251193_717181357309503_7864879702010580266_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=cxvuvPAJufgQ7kNvwHVcnR6&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=MzU2NTA1MDA2NTIyNDk0NTA2OA%3D%3D.3-ccb7-5&oh=00_AQJdahwlfSxxt-4eXAR2lsTri3b6tcaW51Oaqsu06T0Y5A&oe=6AA5B198&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 5841
+                },
+                "edge_media_preview_like": {
+                  "count": 5841
+                },
+                "owner": {
+                  "id": "208971678"
+                },
+                "thumbnail_src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/482251193_717181357309503_7864879702010580266_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=cxvuvPAJufgQ7kNvwHVcnR6&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&ig_cache_key=MzU2NTA1MDA2NTIyNDk0NTA2OA%3D%3D.3.c-ccb7-5&oh=00_AQJYx7eJfjZtMQnmaHCjUTheEIzBvj15oNtSQC5l7EVZWA&oe=6AA5B198&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/482251193_717181357309503_7864879702010580266_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=cxvuvPAJufgQ7kNvwHVcnR6&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQKdC337lCyKgn-Qp95ZnzqMHzFD8MrABWl5HzDw2czxQQ&oe=6AA5B198&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/482251193_717181357309503_7864879702010580266_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=cxvuvPAJufgQ7kNvwHVcnR6&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQIcT7eD3ukrapAQCGqb0FWCv6fsY2A7Eet_5xmjtZBpkg&oe=6AA5B198&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/482251193_717181357309503_7864879702010580266_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=cxvuvPAJufgQ7kNvwHVcnR6&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQLYxJr4m41EWg7Du2wWfr-whkPwt50YRrLwYrEq9pT6Ag&oe=6AA5B198&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/482251193_717181357309503_7864879702010580266_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=cxvuvPAJufgQ7kNvwHVcnR6&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQLai27PGQpbQkYgPuWuHrcfEye2_ctQT6PJxRpydTu-xA&oe=6AA5B198&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t39.30808-6/482251193_717181357309503_7864879702010580266_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=cxvuvPAJufgQ7kNvwHVcnR6&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIAAAAA&ccb=7-5&oh=00_AQJYx7eJfjZtMQnmaHCjUTheEIzBvj15oNtSQC5l7EVZWA&oe=6AA5B198&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by InfoMoney on February 10, 2025."
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "3600543051221018490",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "China is making waves in technology with its underwater data center, a groundbreaking move that could transform cloud computing and data storage. By placing data centers beneath the ocean, China aims to tackle major challenges in energy consumption, land usage, and environmental impact.\n\nOne of the biggest advantages is natural cooling. Traditional data centers require massive amounts of electricity to prevent overheating, but underwater facilities use the cold ocean water to keep servers at optimal temperatures. This can reduce energy consumption and cut operational costs significantly.\n\nAdditionally, underwater data centers free up valuable land space, making them a practical solution for densely populated cities. Since they are submerged near coastal areas, they can also enhance data transfer speeds for users in nearby urban hubs, reducing latency and improving efficiency.\n\nBeyond efficiency, this innovation is a step toward sustainability. With lower power consumption and a reduced carbon footprint, underwater data centers align with global efforts to create greener technology solutions. China’s move follows previous experiments, like Microsoft’s Project Natick, but on a larger scale, signaling potential mainstream adoption in the future.\n\nIf successful, China’s underwater data center could set a new industry standard, reshaping how the world stores and processes data. This futuristic approach might soon become the norm, paving the way for a more efficient, sustainable, and high-performance cloud computing era.\n.\n.\n.\n#thepagez #pagez #z #china #ai #datacenter #worldnews #updates #global #cloudcomputing #deepseek #ocean"
+                      }
+                    }
+                  ]
+                },
+                "shortcode": "DH3stQeh6d6",
+                "edge_media_to_comment": {
+                  "count": 102
+                },
+                "taken_at_timestamp": 1743438201,
+                "dimensions": {
+                  "height": 1349,
+                  "width": 1080
+                },
+                "display_url": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/487761443_17873623047315411_3793830511181091409_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=NnSj18kONv4Q7kNvwHyT8Lq&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzYwMDU0MzA1MTIyMTAxODQ5MA%3D%3D.3-ccb7-5&oh=00_AQLjYWjiHGocK5ut-K9KYjXJUXiEH6BXT-uzAucRYY4BHA&oe=6AA5D9DB&_nc_sid=49ed71",
+                "edge_liked_by": {
+                  "count": 15037
+                },
+                "edge_media_preview_like": {
+                  "count": 15037
+                },
+                "owner": {
+                  "id": "69555195410"
+                },
+                "thumbnail_src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/487761443_17873623047315411_3793830511181091409_n.jpg?stp=c0.168.1350.1350a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=NnSj18kONv4Q7kNvwHyT8Lq&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&ig_cache_key=MzYwMDU0MzA1MTIyMTAxODQ5MA%3D%3D.3.c-ccb7-5&oh=00_AQKDaA5Mt30dNLSqaOIAmwe3de6wPk4yNcGSVBtIRfoWpw&oe=6AA5D9DB&_nc_sid=49ed71",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/487761443_17873623047315411_3793830511181091409_n.jpg?stp=c0.168.1350.1350a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzUwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=NnSj18kONv4Q7kNvwHyT8Lq&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKBI8luexm5YR-q0cB6jOIayVXz5veJLU3Y0o6gdAlwvA&oe=6AA5D9DB&_nc_sid=49ed71",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/487761443_17873623047315411_3793830511181091409_n.jpg?stp=c0.168.1350.1350a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzUwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=NnSj18kONv4Q7kNvwHyT8Lq&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQIWddkD0ag3D5LNept8tr5PobvCMk1CE8ft2aCWoDVqRg&oe=6AA5D9DB&_nc_sid=49ed71",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/487761443_17873623047315411_3793830511181091409_n.jpg?stp=c0.168.1350.1350a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzUwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=NnSj18kONv4Q7kNvwHyT8Lq&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKFOVkinxS_3v6fDEqn4mxXJBdZV0iSB7-kyXAiihiLrg&oe=6AA5D9DB&_nc_sid=49ed71",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/487761443_17873623047315411_3793830511181091409_n.jpg?stp=c0.168.1350.1350a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzUwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=NnSj18kONv4Q7kNvwHyT8Lq&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKE9oaDL4GfLtmstyCbGMNbO0o_Z9xHoEgt_C3fWP4-Vg&oe=6AA5D9DB&_nc_sid=49ed71",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/487761443_17873623047315411_3793830511181091409_n.jpg?stp=c0.168.1350.1350a_dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzUwLnNkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHN7cRG8smKyAnm6mvyREiL3RrQwrzkk7W5XjFfXvshdNiBUROtsI0UyTaK0vX7NUU&_nc_ohc=NnSj18kONv4Q7kNvwHyT8Lq&_nc_gid=oIuFoTZWVo2MTZXtff4fcg&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AQKDaA5Mt30dNLSqaOIAmwe3de6wPk4yNcGSVBtIRfoWpw&oe=6AA5D9DB&_nc_sid=49ed71",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "is_video": false,
+                "accessibility_caption": "Photo by Page Z on March 31, 2025."
+              }
+            }
+          ]
+        },
+        "edge_hashtag_to_content_advisory": {
+          "count": 0,
+          "edges": []
+        },
+        "edge_hashtag_to_null_state": {
+          "edges": []
+        }
+      }
+    },
+    "status": "ok",
+    "attempts": 0
+  },
+  "recordTime": null
+}

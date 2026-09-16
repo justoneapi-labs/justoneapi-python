@@ -1,0 +1,62 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:11.509650+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:50",
+  "code": 0,
+  "message": null,
+  "data": {
+    "id": "bd76ac15154a7024a8adbcc2997efc8d",
+    "url_token": "ming-he-43-93",
+    "name": "洺河",
+    "use_default_avatar": false,
+    "avatar_url": "https://picx.zhimg.com/v2-60386d319ef90da6904da4fe604bc48f_xl.jpg?source=32738c0c&needBackground=1",
+    "avatar_url_template": "https://picx.zhimg.com/v2-60386d319ef90da6904da4fe604bc48f_l.jpg?source=32738c0c&needBackground=1",
+    "is_org": false,
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/ming-he-43-93",
+    "user_type": "people",
+    "headline": "IT工程师",
+    "headline_render": "IT工程师",
+    "gender": 1,
+    "is_advertiser": false,
+    "ip_info": "IP 属地未知",
+    "vip_info": {
+      "is_vip": false,
+      "vip_type": 0,
+      "rename_days": "0",
+      "entrance_v2": null,
+      "rename_frequency": 0,
+      "rename_await_days": 0
+    },
+    "kvip_info": {
+      "is_vip": false
+    },
+    "badge": [],
+    "badge_v2": {
+      "title": "",
+      "merged_badges": [],
+      "detail_badges": [],
+      "icon": "",
+      "night_icon": ""
+    },
+    "allow_message": true,
+    "is_following": false,
+    "is_followed": false,
+    "is_blocking": false,
+    "follower_count": 2829,
+    "follower_count_text": "2829",
+    "follower_count_num": "2829",
+    "follower_count_unit": "",
+    "answer_count": 9,
+    "articles_count": 87,
+    "project_count": 0,
+    "available_medals_count": 0,
+    "employments": [],
+    "org_verify_status": null,
+    "is_realname": true,
+    "has_applying_column": false,
+    "is_new_rename": false,
+    "has_agent_content": false,
+    "ai_assistant_info": null
+  },
+  "recordTime": null
+}

@@ -1,0 +1,202 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:38.433432+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:18",
+  "code": 0,
+  "message": null,
+  "data": {
+    "postsInfoByIds": [
+      {
+        "__typename": "SubredditPost",
+        "authorCommunityBadge": null,
+        "subreddit": {
+          "__typename": "Subreddit",
+          "id": "t5_2x2oy",
+          "name": "Whatcouldgowrong",
+          "prefixedName": "r/Whatcouldgowrong",
+          "isQuarantined": false,
+          "title": "What Could Possibly Go Wrong?",
+          "type": "PUBLIC",
+          "subscribersCount": 7976018.0,
+          "isNsfw": false,
+          "isSubscribed": false,
+          "isThumbnailsEnabled": true,
+          "styles": {
+            "icon": "https://a.thumbs.redditmedia.com/wk4DdnifrZxOjoVTiBzk1jsK8RqACLAQi6TO4JMxCx0.png",
+            "legacyIcon": {
+              "url": "https://a.thumbs.redditmedia.com/wk4DdnifrZxOjoVTiBzk1jsK8RqACLAQi6TO4JMxCx0.png"
+            },
+            "primaryColor": "#B8001F",
+            "backgroundColor": null,
+            "bannerBackgroundImage": "https://styles.redditmedia.com/t5_2x2oy/styles/bannerBackgroundImage_noc56x5mbi821.png?frame=1&auto=webp&s=1f3624576a44b55f140b70f788d5377147af899c",
+            "legacyPrimaryColor": "#222222"
+          },
+          "modPermissions": null,
+          "communityStatus": null,
+          "isTitleSafe": true,
+          "isUserBanned": false,
+          "tippingStatus": null,
+          "whitelistStatus": "ALL_ADS"
+        },
+        "crosspostRoot": null,
+        "id": "t3_1q4aqti",
+        "createdAt": "2026-01-05T03:30:19.779000+0000",
+        "editedAt": null,
+        "postTitle": "[ Removed by moderator ]",
+        "url": "https://www.reddit.com/r/Whatcouldgowrong/comments/1q4aqti/removed_by_moderator/",
+        "content": null,
+        "domain": "v.redd.it",
+        "isSpoiler": false,
+        "isNsfw": false,
+        "isCommercialCommunication": false,
+        "isLocked": true,
+        "isSaved": false,
+        "isReactAllowed": false,
+        "isHidden": false,
+        "isGildable": false,
+        "isCrosspostable": false,
+        "isScoreHidden": false,
+        "isArchived": false,
+        "isStickied": false,
+        "isPollIncluded": false,
+        "poll": null,
+        "isFollowed": false,
+        "awardingsInfo": null,
+        "awardings": [
+          {
+            "__typename": "AwardingTotal",
+            "award": {
+              "__typename": "Award",
+              "id": "award_free_popcorn_2",
+              "name": "Popcorn",
+              "tags": [
+                "award:legacy",
+                "award:unlimited_free",
+                "award:sort:50",
+                "award:quick_give"
+              ],
+              "static_icon_16": {
+                "__typename": "MediaSource",
+                "url": "https://i.redd.it/snoovatar/snoo_assets/marketing/Popcorn_16.png",
+                "dimensions": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "static_icon_24": {
+                "__typename": "MediaSource",
+                "url": "https://i.redd.it/snoovatar/snoo_assets/marketing/Popcorn_24.png",
+                "dimensions": {
+                  "width": 24,
+                  "height": 24
+                }
+              },
+              "static_icon_32": {
+                "__typename": "MediaSource",
+                "url": "https://i.redd.it/snoovatar/snoo_assets/marketing/Popcorn_32.png",
+                "dimensions": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "static_icon_48": {
+                "__typename": "MediaSource",
+                "url": "https://i.redd.it/snoovatar/snoo_assets/marketing/Popcorn_48.png",
+                "dimensions": {
+                  "width": 48,
+                  "height": 48
+                }
+              },
+              "static_icon_64": {
+                "__typename": "MediaSource",
+                "url": "https://i.redd.it/snoovatar/snoo_assets/marketing/Popcorn_64.png",
+                "dimensions": {
+                  "width": 64,
+                  "height": 64
+                }
+              }
+            },
+            "total": 5
+          }
+        ],
+        "isContestMode": false,
+        "distinguishedAs": null,
+        "voteState": "NONE",
+        "score": 32609,
+        "commentCount": 714,
+        "viewCount": null,
+        "authorFlair": null,
+        "flair": null,
+        "authorInfo": {
+          "__typename": "Redditor",
+          "id": "t2_144icfdwdo",
+          "name": "goswamitulsidas",
+          "isBlocked": false,
+          "isCakeDayNow": false,
+          "newIcon": {
+            "__typename": "MediaSource",
+            "url": "https://preview.redd.it/snoovatar/avatars/495a64a3-a7b9-4289-90a8-8bba16564b1b-headshot.png?auto=webp&s=fe2ac439bb6f9d827747f37a05dac029a8fce7a5",
+            "dimensions": {
+              "width": 256,
+              "height": 256
+            }
+          },
+          "iconSmall": {
+            "__typename": "MediaSource",
+            "url": "https://preview.redd.it/snoovatar/avatars/495a64a3-a7b9-4289-90a8-8bba16564b1b-headshot.png?width=50&height=50&auto=webp&s=8fbe87c6a54b0bb02d1fbd4c2289ec0698f23003",
+            "dimensions": {
+              "width": 50,
+              "height": 50
+            }
+          },
+          "snoovatarIcon": {
+            "__typename": "MediaSource",
+            "url": "https://i.redd.it/snoovatar/avatars/495a64a3-a7b9-4289-90a8-8bba16564b1b.png",
+            "dimensions": {
+              "width": 380,
+              "height": 600
+            }
+          },
+          "profile": {
+            "isNsfw": false
+          },
+          "accountType": "USER"
+        },
+        "isThumbnailEnabled": true,
+        "thumbnail": null,
+        "media": null,
+        "moderationInfo": null,
+        "suggestedCommentSort": "TOP",
+        "permalink": "/r/Whatcouldgowrong/comments/1q4aqti/removed_by_moderator/",
+        "isSelfPost": false,
+        "postHint": null,
+        "postEventInfo": null,
+        "gallery": null,
+        "devvit": null,
+        "outboundLink": {
+          "url": "https://www.reddit.com/r/Whatcouldgowrong/comments/1q4aqti/removed_by_moderator/",
+          "expiresAt": "2026-09-08T17:00:19.040127+0000"
+        },
+        "postStats": {
+          "viewCountTotal": null,
+          "shareAllTotal": 3233
+        },
+        "postStatsPrivate": {
+          "viewCountTotals": null
+        },
+        "isAuthorBlocked": false,
+        "upvoteRatio": 0.9703780024470345,
+        "reactedFrom": null,
+        "attributionInfo": null,
+        "crowdControlLevel": "OFF",
+        "isCrowdControlFilterEnabled": false,
+        "languageCode": "en",
+        "isTranslatable": false,
+        "isTranslated": false,
+        "translatedLanguage": null,
+        "removedByCategory": "MODERATOR",
+        "predictedRemovalSavedResponses": []
+      }
+    ]
+  },
+  "recordTime": null
+}

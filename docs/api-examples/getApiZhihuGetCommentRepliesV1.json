@@ -1,0 +1,2609 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:10.237951+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:48",
+  "code": 0,
+  "message": null,
+  "data": {
+    "counts": {
+      "total_counts": 35
+    },
+    "data": [
+      {
+        "id": "11100997024",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 2714592,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11100997024",
+        "hot": false,
+        "top": false,
+        "content": "我华为可以随便截啊，多长都行。。。",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738345774,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101427743",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 55,
+        "disliked": false,
+        "dislike_count": 2,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "3a53136d133e44aa517d287209c17ba8",
+          "url_token": "twodayswin",
+          "name": "Herman",
+          "avatar_url": "https://pic1.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/3a53136d133e44aa517d287209c17ba8",
+          "user_type": "people",
+          "headline": "心中要充满正义，目光要不断往返于规范与事实之间",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1502699219463389184",
+            "medal_name": "点赞科学 2022",
+            "avatar_url": "https://pica.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pica.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "description": "「向科学要答案 2022」活动期间，首次为相关领域下的优质黄标内容送出赞同",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://picx.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pica.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [
+          {
+            "type": "content_author",
+            "text": "作者",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": true,
+            "border_color": "#D3D3D3",
+            "border_night_color": "#2E2E2E"
+          }
+        ],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "广东",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101410513",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 129500575,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101410513",
+        "hot": false,
+        "top": false,
+        "content": "华为和荣耀手机，用指关节在屏幕上画一个S就可以长截图了",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738387887,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101373130",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 28,
+        "disliked": false,
+        "dislike_count": 1,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "982cc7466921f212049e87a7a545dcc0",
+          "url_token": "jiu-you-dong-zhu",
+          "name": "九幽洞主",
+          "avatar_url": "https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/982cc7466921f212049e87a7a545dcc0",
+          "user_type": "people",
+          "headline": "自由职业者",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "exposed_medal": {
+            "medal_id": "0",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://picx.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "四川",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101115655",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 171457677,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101115655",
+        "hot": false,
+        "top": false,
+        "content": "安卓不都可以吗",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738341471,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101373130",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 6,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "7f0eb5d5bd0c29df19f5d2d23d2ca8d7",
+          "url_token": "ni-bu-yong-zhi-dao-98",
+          "name": "兰亭发如雪",
+          "avatar_url": "https://picx.zhimg.com/v2-36faac7908e93e735f70c8ac301f30fa_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-36faac7908e93e735f70c8ac301f30fa_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/7f0eb5d5bd0c29df19f5d2d23d2ca8d7",
+          "user_type": "people",
+          "headline": "",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "972473506181627904",
+            "medal_name": "有求必应",
+            "avatar_url": "https://picx.zhimg.com/v2-eb9f18ea3399517802e9daea829df626_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-eb9f18ea3399517802e9daea829df626_r.jpg?source=06d4cd63",
+            "description": "受邀回答 3 个问题",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "四川",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11100943992",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 2714592,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11100943992",
+        "hot": false,
+        "top": false,
+        "content": "看图吧，普通截屏之后，华为也会弹出是否滚动截屏的选项，如果点击，就会在页面里自动滚屏下去继续截图<a href=\"https://picx.zhimg.com/v2-af4c6571ab797d45503ec87a7e8d3db5_qhd.jpg?source=1d2f5c51\" class=\"comment_img\" data-width=\"1260\" data-height=\"2720\">查看图片</a>",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738344985,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101145950",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 6,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "3a53136d133e44aa517d287209c17ba8",
+          "url_token": "twodayswin",
+          "name": "Herman",
+          "avatar_url": "https://pic1.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pica.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/3a53136d133e44aa517d287209c17ba8",
+          "user_type": "people",
+          "headline": "心中要充满正义，目光要不断往返于规范与事实之间",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1502699219463389184",
+            "medal_name": "点赞科学 2022",
+            "avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "description": "「向科学要答案 2022」活动期间，首次为相关领域下的优质黄标内容送出赞同",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://picx.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [
+          {
+            "type": "content_author",
+            "text": "作者",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": true,
+            "border_color": "#D3D3D3",
+            "border_night_color": "#2E2E2E"
+          }
+        ],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "广东",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101447804",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 36696037,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101447804",
+        "hot": false,
+        "top": false,
+        "content": "哈哈哈哈评论区怎么没有讨论剧情的，都在聊长截图[飙泪笑]",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738419381,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11100789728",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 5,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "d4a82ffc5ec7ce3068a6e3ba125126e7",
+          "url_token": "nian-lun-77",
+          "name": "年轮",
+          "avatar_url": "https://pica.zhimg.com/c552852d872898f6cd82a3b592f4ff43_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pica.zhimg.com/c552852d872898f6cd82a3b592f4ff43_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/d4a82ffc5ec7ce3068a6e3ba125126e7",
+          "user_type": "people",
+          "headline": "鼓手 电影学 传播学 生存狂 解构主义者",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "972462538273792000",
+            "medal_name": "乐于交流",
+            "avatar_url": "https://pic1.zhimg.com/v2-dd06ba4287e38df90b69b57a5901e271_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pic1.zhimg.com/v2-dd06ba4287e38df90b69b57a5901e271_r.jpg?source=06d4cd63",
+            "description": "评论 500 次",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": true,
+            "vip_icon": {
+              "url": "https://picx.zhimg.com/v2-4812630bc27d642f7cafcd6cdeca3d7a.jpg?source=88ceefae",
+              "night_mode_url": "https://pic1.zhimg.com/v2-c9686ff064ea3579730756ac6c289978.jpg?source=88ceefae"
+            },
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "浙江",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101232537",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 2714592,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101232537",
+        "hot": false,
+        "top": false,
+        "content": "滚动截屏不就行了吗，所有安卓都有，就苹果做不到吧[惊喜]",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738344311,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101373130",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 4,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "3a53136d133e44aa517d287209c17ba8",
+          "url_token": "twodayswin",
+          "name": "Herman",
+          "avatar_url": "https://pic1.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/3a53136d133e44aa517d287209c17ba8",
+          "user_type": "people",
+          "headline": "心中要充满正义，目光要不断往返于规范与事实之间",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1502699219463389184",
+            "medal_name": "点赞科学 2022",
+            "avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "description": "「向科学要答案 2022」活动期间，首次为相关领域下的优质黄标内容送出赞同",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://picx.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [
+          {
+            "type": "content_author",
+            "text": "作者",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": true,
+            "border_color": "#D3D3D3",
+            "border_night_color": "#2E2E2E"
+          }
+        ],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "广东",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101287939",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 2714592,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101287939",
+        "hot": false,
+        "top": false,
+        "content": "滚动截屏不就行了吗，所有安卓都有，就苹果做不到吧[惊喜]",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738344322,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101024808",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 4,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "3a53136d133e44aa517d287209c17ba8",
+          "url_token": "twodayswin",
+          "name": "Herman",
+          "avatar_url": "https://pica.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/3a53136d133e44aa517d287209c17ba8",
+          "user_type": "people",
+          "headline": "心中要充满正义，目光要不断往返于规范与事实之间",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1502699219463389184",
+            "medal_name": "点赞科学 2022",
+            "avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "description": "「向科学要答案 2022」活动期间，首次为相关领域下的优质黄标内容送出赞同",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "244ac05242c57fc1371f1a4fda5506bf",
+          "url_token": "55-30-91-21-20",
+          "name": "独立山头",
+          "avatar_url": "https://pic1.zhimg.com/v2-70d018efe5a937c110e77316d83451e9_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-70d018efe5a937c110e77316d83451e9_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/244ac05242c57fc1371f1a4fda5506bf",
+          "user_type": "people",
+          "headline": "三无小号不要关注，关注就拉黑",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [
+          {
+            "type": "content_author",
+            "text": "作者",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": true,
+            "border_color": "#D3D3D3",
+            "border_night_color": "#2E2E2E"
+          }
+        ],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "广东",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101232642",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 2714592,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101232642",
+        "hot": false,
+        "top": false,
+        "content": "是截屏之后选滚动截屏选项。。。<br><br>我用过的小米华为荣耀都可以啊",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738344840,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101145950",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 4,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "3a53136d133e44aa517d287209c17ba8",
+          "url_token": "twodayswin",
+          "name": "Herman",
+          "avatar_url": "https://picx.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/3a53136d133e44aa517d287209c17ba8",
+          "user_type": "people",
+          "headline": "心中要充满正义，目光要不断往返于规范与事实之间",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1502699219463389184",
+            "medal_name": "点赞科学 2022",
+            "avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "description": "「向科学要答案 2022」活动期间，首次为相关领域下的优质黄标内容送出赞同",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://picx.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://picx.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [
+          {
+            "type": "content_author",
+            "text": "作者",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": true,
+            "border_color": "#D3D3D3",
+            "border_night_color": "#2E2E2E"
+          }
+        ],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "广东",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101427743",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 287322372,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101427743",
+        "hot": false,
+        "top": false,
+        "content": "我知道，但是那个按钮在ds软件界面内是灰色的，没法使用，换成知乎立马恢复正常，小米实测。",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738345041,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101232642",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 3,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://picx.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://picx.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "3a53136d133e44aa517d287209c17ba8",
+          "url_token": "twodayswin",
+          "name": "Herman",
+          "avatar_url": "https://pic1.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/3a53136d133e44aa517d287209c17ba8",
+          "user_type": "people",
+          "headline": "心中要充满正义，目光要不断往返于规范与事实之间",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1502699219463389184",
+            "medal_name": "点赞科学 2022",
+            "avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "description": "「向科学要答案 2022」活动期间，首次为相关领域下的优质黄标内容送出赞同",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [
+          {
+            "type": "content_author",
+            "text": "作者",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": true,
+            "border_color": "#D3D3D3",
+            "border_night_color": "#2E2E2E"
+          }
+        ],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "山西",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101373130",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 287322372,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101373130",
+        "hot": false,
+        "top": false,
+        "content": "我也想知道你是怎么进行长截图的？[飙泪笑]",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738341214,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11100789728",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 2,
+        "disliked": false,
+        "dislike_count": 1,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://picx.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pic1.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "山西",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101052646",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 1217579641,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101052646",
+        "hot": false,
+        "top": false,
+        "content": "你用的网页版还是app啊",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738333687,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101284474",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 1,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "244ac05242c57fc1371f1a4fda5506bf",
+          "url_token": "55-30-91-21-20",
+          "name": "独立山头",
+          "avatar_url": "https://picx.zhimg.com/v2-70d018efe5a937c110e77316d83451e9_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-70d018efe5a937c110e77316d83451e9_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/244ac05242c57fc1371f1a4fda5506bf",
+          "user_type": "people",
+          "headline": "三无小号不要关注，关注就拉黑",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "dccd33c72946d99982da5d1050b78acd",
+          "url_token": "ling-gu-65-23",
+          "name": "陵谷",
+          "avatar_url": "https://picx.zhimg.com/v2-209459944ec54b9c4f57c27edc395e69_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-209459944ec54b9c4f57c27edc395e69_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/dccd33c72946d99982da5d1050b78acd",
+          "user_type": "people",
+          "headline": "想飞就飞说走就走",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "福建",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101052677",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 1217579641,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101052677",
+        "hot": false,
+        "top": false,
+        "content": "我昨天用了很多次，今天白天就没次数了。<br>晚上又给了次数，不知道这回能用几次",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738333754,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101284474",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 1,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "244ac05242c57fc1371f1a4fda5506bf",
+          "url_token": "55-30-91-21-20",
+          "name": "独立山头",
+          "avatar_url": "https://pic1.zhimg.com/v2-70d018efe5a937c110e77316d83451e9_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-70d018efe5a937c110e77316d83451e9_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/244ac05242c57fc1371f1a4fda5506bf",
+          "user_type": "people",
+          "headline": "三无小号不要关注，关注就拉黑",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "dccd33c72946d99982da5d1050b78acd",
+          "url_token": "ling-gu-65-23",
+          "name": "陵谷",
+          "avatar_url": "https://pica.zhimg.com/v2-209459944ec54b9c4f57c27edc395e69_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-209459944ec54b9c4f57c27edc395e69_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/dccd33c72946d99982da5d1050b78acd",
+          "user_type": "people",
+          "headline": "想飞就飞说走就走",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "福建",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11101369833",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 1217579641,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11101369833",
+        "hot": false,
+        "top": false,
+        "content": "我的深度思考次数用光了，[捂脸][捂脸]",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738332347,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11100789728",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 1,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "244ac05242c57fc1371f1a4fda5506bf",
+          "url_token": "55-30-91-21-20",
+          "name": "独立山头",
+          "avatar_url": "https://picx.zhimg.com/v2-70d018efe5a937c110e77316d83451e9_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-70d018efe5a937c110e77316d83451e9_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/244ac05242c57fc1371f1a4fda5506bf",
+          "user_type": "people",
+          "headline": "三无小号不要关注，关注就拉黑",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "福建",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11103200265",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 1228215728,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11103200265",
+        "hot": false,
+        "top": false,
+        "content": "我觉得都是问题啊，比邻星不是还有2500年才到吗",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1738595387,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11100789728",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 1,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "0171dfa0a8d1161110c5c6e0cac2ddec",
+          "url_token": "zzz-54-49-64",
+          "name": "知乎用户zzz",
+          "avatar_url": "https://pic1.zhimg.com/v2-2496453832dbad83154f8456541cc4a1_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-2496453832dbad83154f8456541cc4a1_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/0171dfa0a8d1161110c5c6e0cac2ddec",
+          "user_type": "people",
+          "headline": "左翼",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "972481762269622272",
+            "medal_name": "笔耕不辍",
+            "avatar_url": "https://pic1.zhimg.com/v2-288c7ef30025f4cd0862fb187d74914c_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pic1.zhimg.com/v2-288c7ef30025f4cd0862fb187d74914c_r.jpg?source=06d4cd63",
+            "description": "连续答题 5 天",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "浙江",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11108115921",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 164816654,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11108115921",
+        "hot": false,
+        "top": false,
+        "content": "<p>这个剧本真可以，你们惧怕死亡，却不知死亡才是进化的七点，有前进四的味道了！</p>",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1739253569,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11100789728",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 1,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "ee0846b3387ff3cb76ffe0d2eb50a700",
+          "url_token": "500-23-16",
+          "name": "500",
+          "avatar_url": "https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/ee0846b3387ff3cb76ffe0d2eb50a700",
+          "user_type": "people",
+          "headline": "",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "浙江",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11111061830",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 36424819,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11111061830",
+        "hot": false,
+        "top": false,
+        "content": "<p>剧情不错，但有BUG。1、 100年的时间到不了比邻星，比邻星原本就是流浪计划的终点，需要2500年的旅程，基于这一点，整个故事线的大背景就不成立。2、周喆直暗示是韩朵朵后代，这明显就是把周喆直的人设搞错了，这个不用说。</p>",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1739513781,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11100789728",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 0,
+        "disliked": false,
+        "dislike_count": 1,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "683e671e05d9cfd37b6a4cca32827fd1",
+          "url_token": "shan-ling-chu-hui-yao",
+          "name": "山岭出辉耀",
+          "avatar_url": "https://picx.zhimg.com/be3c3dfee1c6cbacf629829baa06692b_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/be3c3dfee1c6cbacf629829baa06692b_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/683e671e05d9cfd37b6a4cca32827fd1",
+          "user_type": "people",
+          "headline": "",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "湖北",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 3,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11425994462",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 2717547922,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11425994462",
+        "hot": false,
+        "top": false,
+        "content": "我是苹果的，想分享个东西还带截好几张[大哭]",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1772202105,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101232537",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 0,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "1021b5196186249abc2d571873cc26e3",
+          "url_token": "hrdzi3",
+          "name": "物是人非泪先流",
+          "avatar_url": "https://picx.zhimg.com/v2-21637e82afec74bffedf006d324a4e43_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-21637e82afec74bffedf006d324a4e43_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/1021b5196186249abc2d571873cc26e3",
+          "user_type": "people",
+          "headline": "四年青春，两座坟墓",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1859928198093099008",
+            "medal_name": "知识王者",
+            "avatar_url": "https://picx.zhimg.com/v2-add99c668ba74a8af88aca9e1204fc98_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-add99c668ba74a8af88aca9e1204fc98_r.jpg?source=06d4cd63",
+            "description": "在「知识王者」答题 PK 游戏中达成十级满星",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "3a53136d133e44aa517d287209c17ba8",
+          "url_token": "twodayswin",
+          "name": "Herman",
+          "avatar_url": "https://picx.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/3a53136d133e44aa517d287209c17ba8",
+          "user_type": "people",
+          "headline": "心中要充满正义，目光要不断往返于规范与事实之间",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1502699219463389184",
+            "medal_name": "点赞科学 2022",
+            "avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://picx.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+            "description": "「向科学要答案 2022」活动期间，首次为相关领域下的优质黄标内容送出赞同",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [
+          {
+            "type": "content_author",
+            "text": "作者",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": true,
+            "border_color": "#D3D3D3",
+            "border_night_color": "#2E2E2E"
+          }
+        ],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "河南",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11396187522",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 437963905,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11396187522",
+        "hot": false,
+        "top": false,
+        "content": "[思考]小米就是这样的，莫名其妙很多地方用不了长截屏，得找第三方软件",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1768744786,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101145950",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 0,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "0db1e87bf49dc56d13c9e94e92ad7810",
+          "url_token": "lu-lei-da",
+          "name": "吕雷达",
+          "avatar_url": "https://picx.zhimg.com/v2-2a6f0ecbf20bbdaff6afb5e9038aef2f_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-2a6f0ecbf20bbdaff6afb5e9038aef2f_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/0db1e87bf49dc56d13c9e94e92ad7810",
+          "user_type": "people",
+          "headline": "不理智的高中生",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": false
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "66697d317c5859686e42e00a5b706d5a",
+          "url_token": "ruo-kong-6",
+          "name": "若空",
+          "avatar_url": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pic1.zhimg.com/v2-0e41936e4d5e72d4a1b36bfd14f4094e_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/66697d317c5859686e42e00a5b706d5a",
+          "user_type": "people",
+          "headline": "AI coding/计算机/软件开发/求职/就业咨询",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "1877327423126786050",
+            "medal_name": "在乎过大年 2025",
+            "avatar_url": "https://pica.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pica.zhimg.com/v2-2666990ba7084b9cdaebb1d9a09bd586_r.jpg?source=06d4cd63",
+            "description": "「在乎过大年」活动纪念徽章",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "英国",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11248926566",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 7240107,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11248926566",
+        "hot": false,
+        "top": false,
+        "content": "谢谢，用了两个荣耀手机都不知道。",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1754191832,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11101410513",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 0,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "a84d11880cd895fec80d4b0d753f50d1",
+          "url_token": "ya-chang-chang",
+          "name": "鸦怅怅",
+          "avatar_url": "https://picx.zhimg.com/v2-4a203472882ec201219d81639e538663_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://pica.zhimg.com/v2-4a203472882ec201219d81639e538663_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/a84d11880cd895fec80d4b0d753f50d1",
+          "user_type": "people",
+          "headline": "胜利荣誉 命运羊肉",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": null,
+            "detail_badges": null
+          },
+          "exposed_medal": {
+            "medal_id": "972477022068568064",
+            "medal_name": "备受瞩目",
+            "avatar_url": "https://pic1.zhimg.com/v2-7565d834d652a9960da0cedd8d7952ee_r.jpg?source=06d4cd63",
+            "mini_avatar_url": "https://pic1.zhimg.com/v2-7565d834d652a9960da0cedd8d7952ee_r.jpg?source=06d4cd63",
+            "description": "被 100 个人关注",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "reply_to_author": {
+          "id": "982cc7466921f212049e87a7a545dcc0",
+          "url_token": "jiu-you-dong-zhu",
+          "name": "九幽洞主",
+          "avatar_url": "https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/982cc7466921f212049e87a7a545dcc0",
+          "user_type": "people",
+          "headline": "自由职业者",
+          "gender": 2,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "exposed_medal": {
+            "medal_id": "0",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "江苏",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      },
+      {
+        "id": "11109010780",
+        "type": "comment",
+        "resource_type": "answer",
+        "member_id": 63420154,
+        "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11109010780",
+        "hot": false,
+        "top": false,
+        "content": "<p>这个剧本不错啊</p>",
+        "score": 0,
+        "comment_type": 0,
+        "created_time": 1739344572,
+        "is_delete": false,
+        "collapsed": false,
+        "reviewing": false,
+        "reply_comment_id": "11100789728",
+        "reply_root_comment_id": "11100789728",
+        "liked": false,
+        "like_count": 0,
+        "disliked": false,
+        "dislike_count": 0,
+        "is_author": false,
+        "can_like": true,
+        "can_dislike": true,
+        "can_delete": false,
+        "can_reply": true,
+        "can_hot": false,
+        "can_author_top": false,
+        "is_author_top": false,
+        "can_collapse": false,
+        "can_share": true,
+        "can_unfold": false,
+        "can_truncate": false,
+        "can_more": true,
+        "author": {
+          "id": "86a08129041026615149b88586df92df",
+          "url_token": "qiao-tong-39-61",
+          "name": "Qiao-lian",
+          "avatar_url": "https://picx.zhimg.com/80b4d020e7c68fae57ffbf998a7c8ac6_l.jpg?source=06d4cd63",
+          "avatar_url_template": "https://picx.zhimg.com/80b4d020e7c68fae57ffbf998a7c8ac6_l.jpg?source=06d4cd63",
+          "is_org": false,
+          "type": "people",
+          "url": "https://www.zhihu.com/api/v4/comment_v5/people/86a08129041026615149b88586df92df",
+          "user_type": "people",
+          "headline": "审计，STEAM，魔兽，主机玩家，巴萨！！！",
+          "gender": 0,
+          "is_advertiser": false,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "exposed_medal": {
+            "medal_id": "0",
+            "medal_name": "",
+            "avatar_url": "",
+            "description": "",
+            "medal_avatar_frame": "",
+            "can_click": true
+          },
+          "vip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "kvip_info": {
+            "is_vip": false,
+            "target_url": null
+          },
+          "level_info": null,
+          "is_anonymous": false,
+          "ring_info": null
+        },
+        "author_tag": [],
+        "reply_author_tag": [],
+        "content_tag": [],
+        "comment_tag": [
+          {
+            "type": "ip_info",
+            "text": "北京",
+            "color": "#999999",
+            "night_color": "#999999",
+            "has_border": false
+          }
+        ],
+        "child_comment_count": 0,
+        "child_comment_next_offset": null,
+        "child_comments": [],
+        "is_visible_only_to_myself": false,
+        "_": null,
+        "level_tag": 2,
+        "is_gift": false,
+        "disclaimer_info": null
+      }
+    ],
+    "edit_status": {
+      "can_reply": true,
+      "toast": "彼此欣赏让讨论更加充实"
+    },
+    "paging": {
+      "is_end": false,
+      "is_start": true,
+      "next": "https://www.zhihu.com/api/v4/comment_v5/comment/11100789728/child_comment?limit=20&offset=5_11109010780_0&order_by=score",
+      "previous": "https://www.zhihu.com/api/v4/comment_v5/comment/11100789728/child_comment?limit=20&offset=976534822_11100997024_1&order_by=score",
+      "totals": 35
+    },
+    "plugin_info": null,
+    "root": {
+      "id": "11100789728",
+      "type": "comment",
+      "resource_type": "answer",
+      "member_id": 2714592,
+      "url": "https://www.zhihu.com/api/v4/comment_v5/comments/11100789728",
+      "hot": true,
+      "top": false,
+      "content": "其实我还让它弄了流浪地球3的剧本大纲[惊喜][惊喜]<a href=\"https://pic1.zhimg.com/v2-def7d20d065905982a8257cb970f3c72_qhd.jpg?source=1d2f5c51\" class=\"comment_img\" data-width=\"1260\" data-height=\"18739\">查看图片</a>",
+      "score": 0,
+      "comment_type": 0,
+      "created_time": 1738331209,
+      "is_delete": false,
+      "collapsed": false,
+      "reviewing": false,
+      "reply_comment_id": "0",
+      "reply_root_comment_id": "11100789728",
+      "liked": false,
+      "like_count": 415,
+      "disliked": false,
+      "dislike_count": 1,
+      "is_author": false,
+      "can_like": true,
+      "can_dislike": true,
+      "can_delete": false,
+      "can_reply": true,
+      "can_hot": false,
+      "can_author_top": false,
+      "is_author_top": true,
+      "can_collapse": false,
+      "can_share": true,
+      "can_unfold": false,
+      "can_truncate": false,
+      "can_more": true,
+      "author": {
+        "id": "3a53136d133e44aa517d287209c17ba8",
+        "url_token": "twodayswin",
+        "name": "Herman",
+        "avatar_url": "https://picx.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+        "avatar_url_template": "https://picx.zhimg.com/v2-a0c1b421a68aae1ab5d235a60b70bb65_l.jpg?source=06d4cd63",
+        "is_org": false,
+        "type": "people",
+        "url": "https://www.zhihu.com/api/v4/comment_v5/people/3a53136d133e44aa517d287209c17ba8",
+        "user_type": "people",
+        "headline": "心中要充满正义，目光要不断往返于规范与事实之间",
+        "gender": 2,
+        "is_advertiser": false,
+        "badge_v2": {
+          "title": "",
+          "merged_badges": null,
+          "detail_badges": null
+        },
+        "exposed_medal": {
+          "medal_id": "1502699219463389184",
+          "medal_name": "点赞科学 2022",
+          "avatar_url": "https://pic1.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+          "mini_avatar_url": "https://pic1.zhimg.com/v2-9251b676c9f4283fdc5e04261a7e534f_r.jpg?source=06d4cd63",
+          "description": "「向科学要答案 2022」活动期间，首次为相关领域下的优质黄标内容送出赞同",
+          "medal_avatar_frame": "",
+          "can_click": true
+        },
+        "vip_info": {
+          "is_vip": false,
+          "target_url": null
+        },
+        "kvip_info": {
+          "is_vip": false,
+          "target_url": null
+        },
+        "level_info": null,
+        "is_anonymous": false,
+        "ring_info": null
+      },
+      "author_tag": [
+        {
+          "type": "content_author",
+          "text": "作者",
+          "color": "#999999",
+          "night_color": "#999999",
+          "has_border": true,
+          "border_color": "#D3D3D3",
+          "border_night_color": "#2E2E2E"
+        }
+      ],
+      "reply_author_tag": [],
+      "content_tag": [],
+      "comment_tag": [
+        {
+          "type": "ip_info",
+          "text": "广东",
+          "color": "#999999",
+          "night_color": "#999999",
+          "has_border": false
+        },
+        {
+          "type": "author_top",
+          "text": "作者置顶",
+          "color": "#0084FF",
+          "night_color": "#0084FF",
+          "has_border": false
+        },
+        {
+          "type": "hot",
+          "text": "热评",
+          "color": "#FF9607",
+          "night_color": "#FF9607",
+          "has_border": false
+        }
+      ],
+      "child_comment_count": 35,
+      "child_comment_next_offset": null,
+      "child_comments": [],
+      "is_visible_only_to_myself": false,
+      "_": null,
+      "level_tag": 2,
+      "is_gift": false,
+      "disclaimer_info": null
+    },
+    "sorter": [
+      {
+        "type": "score",
+        "text": "默认"
+      },
+      {
+        "type": "ts",
+        "text": "时间"
+      }
+    ]
+  },
+  "recordTime": null
+}

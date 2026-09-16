@@ -1,0 +1,191 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:27.121772+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "id": "tt12037194",
+      "metacritic": {
+        "__typename": "Metacritic",
+        "metascore": {
+          "reviewCount": 64,
+          "score": 79
+        },
+        "url": "https://www.metacritic.com/movie/furiosa-a-mad-max-saga?ftag=MCD-06-10aaa1c",
+        "reviews": {
+          "edges": [
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "The chassis may look familiar but there is a very different engine driving Furiosa from that of Fury Road: it’s a rich, sprawling epic that only strengthens and deepens the Max-mythology. It shall ride eternal!"
+                },
+                "reviewer": "John Nugent",
+                "site": "Empire",
+                "score": 100,
+                "url": "https://www.empireonline.com/movies/reviews/furiosa-a-mad-max-saga/"
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "It’s hard to overstate how immaculately crafted Furiosa: A Mad Max Saga is, both as a prequel to Max Max: Fury Road and as a stand-alone story of how the Wasteland created a powerful character."
+                },
+                "reviewer": "Lex Briscuso",
+                "site": "IGN",
+                "score": 100,
+                "url": null
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "Director George Miller combines speed, grace and explosive violence, emulating Sam Peckinpah westerns and even, at times, the work of Charles Dickens – Furiosa is a bit like a young Artful Dodger, using her wits and courage to stay alive."
+                },
+                "reviewer": "Geoffrey Macnab",
+                "site": "The Independent",
+                "score": 100,
+                "url": "https://www.the-independent.com/arts-entertainment/films/reviews/furiosa-review-anya-taylor-joy-b2545368.html"
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "Such an internally combusting prequel might seem like a strange lead-in to a movie that spit fire in every direction, but don’t you worry: George Miller still has what it takes to make it epic."
+                },
+                "reviewer": "David Ehrlich",
+                "site": "IndieWire",
+                "score": 91,
+                "url": "https://www.indiewire.com/criticism/movies/furiosa-a-mad-max-saga-review-1235004341/"
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "So even as Furiosa is inevitably compared with Fury Road, both positively and negatively, put your trust in Miller’s weird, wild filmmaking."
+                },
+                "reviewer": "Rosie Knight",
+                "site": "Polygon",
+                "score": 85,
+                "url": "https://www.polygon.com/reviews/24157385/furiosa-review-no-spoilers-george-miller-anya-taylor-joy/"
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "Taylor-Joy also has to convey a tremendous amount of character arc in what is often a non-verbal performance (Miller recently revealed she only has 30 lines in the movie). No surprise, she absolutely kills it. But, miraculously, for a movie that doesn’t seem to leave the door open for further adventures, she’ll teasingly leave you wanting more."
+                },
+                "reviewer": "Gregory Ellwood",
+                "site": "The Playlist",
+                "score": 83,
+                "url": null
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "Is Furiosa as magnificent as Fury Road? No, though not because it’s the first Mad Max movie without Max, whose absence barely registers. At 140 minutes minus credits, it’s a touch unwieldy, while its lament for the inevitability of war and the emptiness of revenge feels hollow given the giddy excitement it stirs from just these things. But what can’t be disputed is that Miller, the Mad genius, has done it again, once more refusing to simply repeat himself and instead choosing to kick up dust rather than gather it as he forges a new path through the Wasteland in often spectacular fashion."
+                },
+                "reviewer": "Jamie Graham",
+                "site": "Total Film",
+                "score": 80,
+                "url": "https://www.gamesradar.com/entertainment/action-movies/furiosa-a-mad-max-saga-review/?utm_source=twitter.com&utm_medium=social&utm_content=gamesradar&utm_campaign=socialflow"
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "Taylor-Joy and Hemsworth are a great pairing and Taylor-Joy is an overwhelmingly convincing action heroine. She sells this sequel."
+                },
+                "reviewer": "Peter Bradshaw",
+                "site": "The Guardian",
+                "score": 80,
+                "url": "https://www.theguardian.com/film/article/2024/may/15/furiosa-a-mad-max-saga-review-anya-taylor-joy-is-tremendous-chris-hemsworth"
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "So tip your the greasy, dusty, battered hat to George Miller, who is pulling off some kind of ridiculous feat by turning these grungy action movies into a grand saga."
+                },
+                "reviewer": "Steve Pond",
+                "site": "TheWrap",
+                "score": 75,
+                "url": "https://www.thewrap.com/furiosa-a-mad-max-saga-review-anya-taylor-joy/"
+              }
+            },
+            {
+              "node": {
+                "quote": {
+                  "language": "en",
+                  "value": "Unfortunately, where the film falters is with its other star, the aforementioned Chris Hemsworth."
+                },
+                "reviewer": "Therese Lacson",
+                "site": "Collider",
+                "score": 70,
+                "url": "https://collider.com/furiosa-review/"
+              }
+            }
+          ]
+        }
+      },
+      "externalLinks": {
+        "__typename": "ExternalLinkConnection",
+        "total": 389,
+        "edges": [
+          {
+            "node": {
+              "label": "Roger Ebert [Robert Daniels]",
+              "url": "https://www.rogerebert.com/reviews/furiosa-movie-review-2024",
+              "externalLinkLanguages": null
+            }
+          },
+          {
+            "node": {
+              "label": "Sight & Sound [Beatrice Loayza]",
+              "url": "https://www.bfi.org.uk/sight-and-sound/reviews/furiosa-mad-max-saga-george-millers-ambitious-prequel-quickly-loses-steam",
+              "externalLinkLanguages": null
+            }
+          },
+          {
+            "node": {
+              "label": "150Film [Emre Cogulu]",
+              "url": "https://150film.blogspot.com/2024/05/furiosa-mad-max-saga.html",
+              "externalLinkLanguages": [
+                {
+                  "__typename": "DisplayableLanguage",
+                  "id": "tr",
+                  "text": "Turkish"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "label": "2 Film Critics [William Graebner, Dianne Bennett]",
+              "url": "https://www.2filmcritics.com/post/furiosa",
+              "externalLinkLanguages": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW16bjEuaW1kYi5pdGVtLjIzNjU4Njcz",
+          "endCursor": "YW16bjEuaW1kYi5pdGVtLjIzOTAwMTI4"
+        }
+      }
+    }
+  },
+  "recordTime": null
+}

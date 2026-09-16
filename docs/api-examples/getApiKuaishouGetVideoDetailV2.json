@@ -1,0 +1,394 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:35.358257+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:14",
+  "code": 0,
+  "message": null,
+  "data": {
+    "result": 1,
+    "photos": [
+      {
+        "longVideo": true,
+        "editInfo": {},
+        "photoReward": {
+          "favorGuideStrategy": 0,
+          "canFreeFavorAuthor": false,
+          "descNotClickText": "100 赞赏",
+          "rewardCount": 100
+        },
+        "supportType": 0,
+        "danmakuInfo": {
+          "disablePost": true,
+          "disableReasonTip": "该作品暂不支持弹幕功能",
+          "disableReasonKey": "SERVER_DISABLE",
+          "photoDanmakuGuide": false,
+          "paster": false
+        },
+        "inputPromptGuide": "这个视频质量不行",
+        "enableFullScreenPlay": false,
+        "showProgressEnterDetail": true,
+        "ptp": "",
+        "sourcePhotoPage": "sp",
+        "collect_count": 24007,
+        "hasVote": false,
+        "commentInfo": {
+          "permissions": 191,
+          "commentEducationGuide": {
+            "guideType": 1,
+            "triggerCharCount": 6
+          },
+          "commentCountSpecialEffect": true,
+          "commentIconType": 0,
+          "enableAIPresetGuide": false
+        },
+        "videoColdStartType": 0,
+        "savePlayProgressStrategy": 0,
+        "enableCoronaDetailPage": false,
+        "feedSwitches": {
+          "disableCommentLikeAnimation": false,
+          "disable61ActivityAnimation": true,
+          "enablePlayerPanel": false,
+          "enablePictureCommentForPhoto": true
+        },
+        "type": 1,
+        "duration": 89116,
+        "plcFeatureEntryAbFlag": 0,
+        "noNeedToRequestPLCApi": true,
+        "plcResponseTime": 1788868814172,
+        "plcHighPriorityThanBottomEntry": false,
+        "liked": 0,
+        "streamManifest": {
+          "version": "1.0.0",
+          "businessType": 2,
+          "mediaType": 2,
+          "videoId": "c7bd77a1ed6b1e2e",
+          "hideAuto": false,
+          "manualDefaultSelect": false,
+          "stereoType": 0,
+          "adaptationSet": [
+            {
+              "id": 1,
+              "duration": 89166,
+              "representation": [
+                {
+                  "id": 1,
+                  "url": "http://v2-zj-scct.kwaicdn.com/ksc1/_4X0jhEDlPPvk9aipNdrPpfwNkv6aIoREDo3KO2zmEhDO72121DIPvkgKb_zoA9sjxy4rOxqH5_R0ko46PD02GInlx_dvDCpxcCOXyeeBIssQAwulpaxgOsCDgPW9aEd.mp4?tag=1-1788868814-sp-0-ukd3fflyfu-5ea145d80d2d0f54&provider=self&clientCacheKey=3xg9avuebhtfcku_0e9ca006&di=7679c444&bp=14971&x-ks-ptid=178912366162&kwai-not-alloc=self-cdn&kcdntag=p:Sichuan;i:ChinaTelecom;ft:UNKNOWN;h:COLD;pn:kuaishouVideoProjection&Aecs=172.19.0.229&ocid=100000971&tt=sl200hd15&ss=vpm",
+                  "backupUrl": [
+                    "http://v23-3.kwaicdn.com/bs2/photo-video-mz/5251478817858568382_c7bd77a1ed6b1e2e_4267_sl200hd15.mp4?pkey=AAX80U0Tlk93T0KMnF4yevb2mNSzKaUhQEu2k41-kOsILMTb6Ah9bxAgUZgGABdTaaf3si5_RqodirOwSLbPSxK1FWNGFll7ayQjbl5cf91QM5E3sFpEZ5cRogj0JLXrJY0&tag=1-1788868814-sp-1-oqleoqezsm-d38ecd40e0b83a62&clientCacheKey=3xg9avuebhtfcku_0e9ca006&di=7679c444&bp=14971&kwai-not-alloc=0&type=cold&tt=sl200hd15&ss=vpm"
+                  ],
+                  "maxBitrate": 3800,
+                  "avgBitrate": 623,
+                  "width": 960,
+                  "height": 720,
+                  "frameRate": 30.000225,
+                  "quality": 1.5,
+                  "kvqScore": {
+                    "FR": -1.0,
+                    "NR": 3.4118,
+                    "FRPost": -1.0,
+                    "NRPost": -1.0,
+                    "kvqVersion": "v7",
+                    "nnvcScore": -1.0,
+                    "sharpness": 0.30090001225471497,
+                    "blur": 0.16110000014305115
+                  },
+                  "qualityType": "720p",
+                  "qualityLabel": "高清",
+                  "featureP2sp": false,
+                  "p2spCode": "{\"fRsn\":0,\"fixOpt\":-1,\"schTask\":\"\",\"schCode\":-1,\"schRes\":\"\",\"pushTask\":\"v=0&p=0&s=0&d=0\",\"pushCode\":-1}",
+                  "hidden": false,
+                  "disableAdaptive": false,
+                  "defaultSelect": false,
+                  "comment": "videoId=c7bd77a1ed6b1e2e/ttExplain=HEVC_SL200 Superslow_720P_高码率_Turbo/tt=sl200hd15",
+                  "hdrType": 0,
+                  "fileSize": 6952246,
+                  "bitratePattern": [
+                    894,
+                    590,
+                    1926,
+                    6,
+                    334
+                  ],
+                  "agc": true,
+                  "mute": false,
+                  "oriLoudness": -9.792,
+                  "makeupGain": 1.096,
+                  "realLoudness": -8.598,
+                  "realNormalizeGain": 1.0,
+                  "normalizeGain": 1.0,
+                  "volumeInfo": {
+                    "loudness": -9.5,
+                    "th": -19.5,
+                    "lra": 2.3,
+                    "lraTh": -29.5,
+                    "lraLow": -10.7,
+                    "lraHigh": -8.5,
+                    "tp": 0.3
+                  },
+                  "colorInfo": {}
+                },
+                {
+                  "id": 2,
+                  "url": "http://v2-zj-scct.kwaicdn.com/ksc1/ZUMTb3heEDDa6GOHlP6ad0gJMCaMiDB5UIzih5G7CLzxhXa050bALL2uv03mGO66X-1iyqfooA5thAid39OzpTYkiNlN7q7PWKCmh7d8Rvts0UXWkSMRJ8KL90u-Ey46.mp4?tag=1-1788868814-sp-0-j6vhun6kyf-5ce93853debcf38c&provider=self&clientCacheKey=3xg9avuebhtfcku_0d0c94fe&di=7679c444&bp=14971&x-ks-ptid=178912366162&kwai-not-alloc=self-cdn&kcdntag=p:Sichuan;i:ChinaTelecom;ft:UNKNOWN;h:COLD;pn:kuaishouVideoProjection&Aecs=172.19.0.229&ocid=100000971&tt=avcxp1&ss=vpm",
+                  "backupUrl": [
+                    "http://v23-3.kwaicdn.com/bs2/photo-video-mz/5251478817858568382_c7bd77a1ed6b1e2e_2039_avcxp1.mp4?pkey=AAV-ALX0LvnSPM5bg2TEyrqSsqHpprg718510j2TaQHa3IJWpZkZlanBK1ZHUxdsYc7cvTpMcV02yAk6FgTUc03kU-AwdnA4SknFxVayt9VUn6yehNvy_AjZq-LbxwUMcdA&tag=1-1788868814-sp-1-oumah4zfzg-a908fd65314fbcb8&clientCacheKey=3xg9avuebhtfcku_0d0c94fe&di=7679c444&bp=14971&kwai-not-alloc=0&type=cold&tt=avcxp1&ss=vpm"
+                  ],
+                  "maxBitrate": 1100,
+                  "avgBitrate": 730,
+                  "width": 768,
+                  "height": 576,
+                  "frameRate": 30.000225,
+                  "quality": 1.4,
+                  "kvqScore": {
+                    "FR": -1.0,
+                    "NR": -1.0,
+                    "FRPost": -1.0,
+                    "NRPost": -1.0,
+                    "nnvcScore": -1.0
+                  },
+                  "qualityType": "576p",
+                  "qualityLabel": "标清",
+                  "featureP2sp": false,
+                  "p2spCode": "{\"fRsn\":0,\"fixOpt\":-1,\"schTask\":\"\",\"schCode\":-1,\"schRes\":\"\",\"pushTask\":\"v=0&p=0&s=0&d=0\",\"pushCode\":-1}",
+                  "hidden": false,
+                  "disableAdaptive": false,
+                  "defaultSelect": false,
+                  "comment": "videoId=c7bd77a1ed6b1e2e/ttExplain=AVC_VeryFast_576P_高码率/tt=avcxp1",
+                  "hdrType": 0,
+                  "fileSize": 8138200,
+                  "bitratePattern": [
+                    1033,
+                    664,
+                    1684,
+                    6,
+                    349
+                  ],
+                  "agc": false,
+                  "mute": false,
+                  "oriLoudness": 0.0,
+                  "makeupGain": 0.0,
+                  "realLoudness": -9.557,
+                  "realNormalizeGain": 1.0,
+                  "normalizeGain": 0.0,
+                  "volumeInfo": {
+                    "loudness": -9.5,
+                    "th": -19.5,
+                    "lra": 2.3,
+                    "lraTh": -29.5,
+                    "lraLow": -10.7,
+                    "lraHigh": -8.5,
+                    "tp": 0.3
+                  }
+                }
+              ]
+            }
+          ],
+          "playInfo": {
+            "bizType": 0,
+            "cdnTimeRangeLevel": 0,
+            "strategyBus": "{ }"
+          },
+          "videoFeature": {
+            "blurProbability": 0.07058105617761612,
+            "blockyProbability": 0.4799562990665436,
+            "avgEntropy": 10.712367331981659,
+            "mosScore": 0.659912109375,
+            "contrast": 0.0823742,
+            "underExposed": 0.058705155,
+            "overExposed": 4.6801568e-05,
+            "capSrc": 3.286302e-05
+          },
+          "audioFeature": {
+            "audioQuality": 75.1139,
+            "musicProbability": 0.6723,
+            "dialogProbability": 0.3277,
+            "backgroundSoundProbability": 0.0,
+            "stereophonicRichness": 0.0,
+            "audioClip": 0.0008,
+            "audioSnr": 60.0,
+            "effectiveBandwidthInHz": 13818.859
+          }
+        },
+        "main_mv_urls": [
+          {
+            "cdn": "v23-3.kwaicdn.com",
+            "url": "http://v23-3.kwaicdn.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_b_Bb746847c3d9d15d75f5855a10b89c00f.mp4?pkey=AAUBrnO37-zK2LIbCCGfe8aWG5Bt9ZvTKMnIQ0Zo1KlgNp-J_ycHCnFA98CqI-AdZt4t6kplX90Ny5I1S5PP9rPiyz98yBXUJJeUGgGrVq9J3K_hV2GApFWaCAH3TTgZj9s&tag=1-1788868814-sp-0-f0szy8rdrk-30ecfbac7b7ebdef&type=hot&clientCacheKey=3xg9avuebhtfcku_b.mp4&tt=b&di=7679c444&bp=14971"
+          },
+          {
+            "cdn": "v4.kwaicdn.com",
+            "url": "http://v4.kwaicdn.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_b_Bb746847c3d9d15d75f5855a10b89c00f.mp4?pkey=AAUD5So1EyVomyoPzwgLYAk4tNuQqFz-hCM4GxydwnB7gAxn4yb3FHdIMZVVnsvqtN92Ue6yd7236ZDnNvo4mHUYnYX3CW_OV_JTVtkuCHO79TuoeYK_76B5JibWr2wdZWg&tag=1-1788868814-sp-1-bimyrvofpc-71beb0588340eac6&type=hot&clientCacheKey=3xg9avuebhtfcku_b.mp4&tt=b&di=7679c444&bp=14971"
+          }
+        ],
+        "cover_thumbnail_urls": [
+          {
+            "cdn": "zj66.a.kwimgs.com",
+            "url": "http://zj66.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_low_B94b4fc72eff0e93affe1ba7839171dec.webp?tag=1-1788868814-sp-0-levfq1nwqg-22647c7ecfd5d448&type=hot&clientCacheKey=3xg9avuebhtfcku_low.webp&di=7679c444&bp=14971"
+          },
+          {
+            "cdn": "ali2.a.kwimgs.com",
+            "url": "http://ali2.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_low_B94b4fc72eff0e93affe1ba7839171dec.webp?tag=1-1788868814-sp-1-2x01bs5i7c-2f8eae7ea633fc94&type=hot&clientCacheKey=3xg9avuebhtfcku_low.webp&di=7679c444&bp=14971"
+          }
+        ],
+        "ff_cover_thumbnail_urls": [
+          {
+            "cdn": "zj66.a.kwimgs.com",
+            "url": "http://zj66.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_ff_B6e5a5331277f49ab226f0c989202eed1.kpg?tag=1-1788868814-sp-0-mtihghb7yv-9bba36ee6e4edae0&type=hot&clientCacheKey=3xg9avuebhtfcku_ff.kpg&di=7679c444&bp=14971"
+          },
+          {
+            "cdn": "ali2.a.kwimgs.com",
+            "url": "http://ali2.a.kwimgs.com/upic/2025/11/02/19/BMjAyNTExMDIxOTAxMzVfMzIzNzkxMjUyMV8xNzg5MTIzNjYxNjJfMl8z_ff_B6e5a5331277f49ab226f0c989202eed1.kpg?tag=1-1788868814-sp-1-fbtpzuvpov-7073be1a1fc73090&type=hot&clientCacheKey=3xg9avuebhtfcku_ff.kpg&di=7679c444&bp=14971"
+          }
+        ],
+        "us_c": 0,
+        "comment_count": 764,
+        "slideCommentEntryDisabled": false,
+        "frameStyle": 0,
+        "photoTextLocationInfo": {
+          "leftRatio": 0.00694,
+          "topRatio": 0.01574,
+          "widthRatio": 0.63333,
+          "heightRatio": 0.89166
+        },
+        "verified": false,
+        "kwaiId": "Boluocut",
+        "following": 0,
+        "user_name": "苏暮尘",
+        "headurls": [
+          {
+            "cdn": "p2.a.yximgs.com",
+            "url": "http://p2.a.yximgs.com/uhead/AB/2025/11/01/23/BMjAyNTExMDEyMzA2NDJfMzIzNzkxMjUyMV8yX2hkNjQxXzIwNg==_s.jpg"
+          },
+          {
+            "cdn": "p4.a.yximgs.com",
+            "url": "http://p4.a.yximgs.com/uhead/AB/2025/11/01/23/BMjAyNTExMDEyMzA2NDJfMzIzNzkxMjUyMV8yX2hkNjQxXzIwNg==_s.jpg"
+          }
+        ],
+        "user_sex": "M",
+        "us_l": true,
+        "location": {},
+        "time": "2025-11-02 19:02:28",
+        "timestamp": 1762081348963,
+        "originalPhotoId": "3xg9avuebhtfcku",
+        "like_count": 114911,
+        "caption": "独属国人的浪漫 #神仙剪刀手  #诗句 #电影美学 #混剪",
+        "forward_count": 0,
+        "view_count": 1111493,
+        "share_count": 7060,
+        "photo_id": 5251478817858568382,
+        "photo_status": 0,
+        "shareGuide": {
+          "photoShareGuide": false,
+          "minPlayDurationInSeconds": 15,
+          "textDisplayDurationInSeconds": 4,
+          "playTimes": 2
+        },
+        "us_d": 0,
+        "share_info": "userId=3xj6kcxepn3n3eg&photoId=3xg9avuebhtfcku",
+        "forward_stats_params": {
+          "et": ""
+        },
+        "enableShareToStory": true,
+        "recoTags": [],
+        "soundTrack": {
+          "name": "苏暮尘的作品原声",
+          "duration": 89,
+          "user": {
+            "following": false,
+            "kwaiId": "Boluocut",
+            "user_id": 3237912521,
+            "user_name": "苏暮尘",
+            "profilePagePrefetchInfo": {
+              "profilePageType": 1
+            },
+            "headurl": "http://p2.a.yximgs.com/uhead/AB/2025/11/01/23/BMjAyNTExMDEyMzA2NDJfMzIzNzkxMjUyMV8yX2hkNjQxXzIwNg==_s.jpg",
+            "user_sex": "M",
+            "eid": "3xj6kcxepn3n3eg",
+            "visitorBeFollowed": false,
+            "headurls": [
+              {
+                "cdn": "p2.a.yximgs.com",
+                "url": "http://p2.a.yximgs.com/uhead/AB/2025/11/01/23/BMjAyNTExMDEyMzA2NDJfMzIzNzkxMjUyMV8yX2hkNjQxXzIwNg==_s.jpg"
+              },
+              {
+                "cdn": "p4.a.yximgs.com",
+                "url": "http://p4.a.yximgs.com/uhead/AB/2025/11/01/23/BMjAyNTExMDEyMzA2NDJfMzIzNzkxMjUyMV8yX2hkNjQxXzIwNg==_s.jpg"
+              }
+            ]
+          },
+          "photoId": 5251478817858568382,
+          "imageUrls": [
+            {
+              "cdn": "hw.a.yximgs.com",
+              "url": "http://hw.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
+            },
+            {
+              "cdn": "ali2.a.yximgs.com",
+              "url": "http://ali2.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
+            }
+          ],
+          "avatarUrls": [
+            {
+              "cdn": "hw.a.yximgs.com",
+              "url": "http://hw.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
+            },
+            {
+              "cdn": "ali2.a.yximgs.com",
+              "url": "http://ali2.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.jpg"
+            }
+          ],
+          "artist": "苏暮尘",
+          "audioUrls": [
+            {
+              "cdn": "hw.a.yximgs.com",
+              "url": "http://hw.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.m4a"
+            },
+            {
+              "cdn": "ali2.a.yximgs.com",
+              "url": "http://ali2.a.yximgs.com/bs2/ost/MTc4OTEyMzY2MTYyXzMyMzc5MTI1MjE.m4a"
+            }
+          ],
+          "id": "5xsbyu3yuxeme3e",
+          "type": 9,
+          "loudness": -15.0,
+          "finalStatus": 0,
+          "genreId": 0,
+          "audioType": 1,
+          "isOffline": false,
+          "hasCopyright": true,
+          "disableEnhancedEntry": true
+        },
+        "tag_hash_type": 1,
+        "tags": [],
+        "sameFrame": {
+          "allow": true,
+          "availableDepth": 7
+        },
+        "adminTags": [],
+        "user_id": 3237912521,
+        "ext_params": {
+          "mtype": 3,
+          "color": "653D20",
+          "w": 960,
+          "sound": 89119,
+          "h": 720,
+          "interval": 60,
+          "video": 89116
+        },
+        "serverExpTag": "",
+        "profilePagePrefetchInfo": {
+          "profilePageType": 1
+        },
+        "exp_tag": "",
+        "followShoot": {
+          "isLipsSyncPhoto": false
+        },
+        "feedLogCtx": {
+          "stidContainer": "CjgxfDIwMTAwNTg1MDMyODQzMjU0NDF8cGhvdG86NTI1MTQ3ODgxNzg1ODU2ODM4Mnx8eyJyIjowfQ==",
+          "stExParams": "",
+          "logParams": "{}"
+        }
+      }
+    ],
+    "host-name": "public-bjmt-c56-kce-node199.idchb1az4.hb1.kwaidc.com"
+  },
+  "recordTime": null
+}

@@ -1,0 +1,1975 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:37.756843+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:15",
+  "code": 0,
+  "message": null,
+  "data": {
+    "data": [
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 50,
+        "num_comments": 450,
+        "num_empathy": 35,
+        "num_entertainments": 9,
+        "num_interests": 69,
+        "num_likes": 1670,
+        "num_praises": 24,
+        "num_reactions": 1857,
+        "num_reposts": 88,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7502080571335155713/",
+        "posted": "2026-09-05 19:09:50",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7502080570181586944",
+        "text": "Toilets—and the sanitation systems that support them—have saved an incredible number of lives. They’re just one of many examples of how far the world has come. Check your answer: https://b-gat.es/4gHZUt6",
+        "time": "2 days ago",
+        "urn": "7502080571335155713"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 88,
+        "num_comments": 688,
+        "num_empathy": 194,
+        "num_entertainments": 5,
+        "num_interests": 309,
+        "num_likes": 6452,
+        "num_praises": 103,
+        "num_reactions": 7151,
+        "num_reposts": 616,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7501738402128715777/",
+        "posted": "2026-09-04 20:30:10",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7501738238043213826",
+        "text": "I’ve had a number of thoughtful and engaging conversations since sharing my memo on AI. Here are some of the most interesting questions I’ve received:",
+        "time": "3 days ago",
+        "urn": "7501738402128715777",
+        "video": {
+          "duration": 161800,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGTP6iYa3kteg/mp4-720p-30fp-crf28/B4EaBuHLjnKUCA-/0/1788553798432?e=1789477200&v=beta&t=x_ZFKMzL4-4gWqiTUK3C0E46wloZBPSCMda7ObLv9Cs"
+        }
+      },
+      {
+        "article_subtitle": "washingtonpost.com",
+        "article_target_url": "https://www.washingtonpost.com/health/2026/08/24/fda-approves-blood-test-detect-alzheimers-disease/",
+        "article_title": "FDA approves a new blood test to detect signs of Alzheimer’s",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 53,
+        "num_comments": 353,
+        "num_empathy": 142,
+        "num_entertainments": 2,
+        "num_interests": 41,
+        "num_likes": 2813,
+        "num_praises": 227,
+        "num_reactions": 3278,
+        "num_reposts": 270,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7501466755261820928/",
+        "posted": "2026-09-04 02:30:44",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7501466754402058240",
+        "text": "This is great news in the fight against Alzheimer’s. Until recently, testing was a long, invasive process involving expensive brain scans and painful spinal taps. New blood tests like this one could help families get answers sooner and more easily:",
+        "time": "4 days ago",
+        "urn": "7501466755261820928"
+      },
+      {
+        "attributes": [],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQGkPXCFsnymZA/feedshare-shrink_1280/B56aBgb6jyIMAM-/0/1788324325849?e=1790208000&v=beta&t=OOTNTqRKpcbLYk_Nuqz5yEZxTOJAIGVjT1dLMHeoySE"
+          }
+        ],
+        "num_appreciations": 24,
+        "num_comments": 61,
+        "num_empathy": 75,
+        "num_interests": 5,
+        "num_likes": 918,
+        "num_praises": 175,
+        "num_reactions": 1197,
+        "num_reposts": 242,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7500783342284488704/",
+        "posted": "2026-09-02 05:15:06",
+        "poster_linkedin_url": "https://www.linkedin.com/company/unaids",
+        "repost_stats": {
+          "num_appreciations": 9,
+          "num_comments": 71,
+          "num_empathy": 37,
+          "num_entertainments": 2,
+          "num_interests": 7,
+          "num_likes": 643,
+          "num_maybe": 0,
+          "num_praises": 59,
+          "num_reactions": 757,
+          "num_reposts": 30
+        },
+        "repost_urn": "7501456193794633729",
+        "reposted": "2026-09-04 01:48:46",
+        "reshared": true,
+        "resharer_comment": "This is incredible progress. It shows that with sustained country momentum, an end to the AIDS epidemic could be closer than we think.",
+        "share_urn": "7500775877010468866",
+        "text": "Good news! 11 countries have achieved the 95-95-95 HIV testing and treatment targets in 2025!\n\nDespite the progress, disparities continue to exist: between men and women, and children and adults.\n\nEnding AIDS requires achieving the targets across all populations.\n\nFor more HIV data: https://lnkd.in/d8arzjPR",
+        "time": "6 days ago",
+        "urn": "7500783342284488704"
+      },
+      {
+        "attributes": [
+          {
+            "company_id": "19141006",
+            "name": "Breakthrough Energy",
+            "public_id": "breakthrough-energy",
+            "type": "company"
+          },
+          {
+            "company_id": "18826348",
+            "name": "Fervo Energy",
+            "public_id": "fervo-energy",
+            "type": "company"
+          },
+          {
+            "company_id": "74207036",
+            "name": "Antora Energy",
+            "public_id": "antora-energy",
+            "type": "company"
+          },
+          {
+            "company_id": "18161797",
+            "name": "Redwood Materials",
+            "public_id": "redwood-materials",
+            "type": "company"
+          }
+        ],
+        "images": [],
+        "num_appreciations": 22,
+        "num_comments": 118,
+        "num_empathy": 40,
+        "num_interests": 16,
+        "num_likes": 1242,
+        "num_praises": 49,
+        "num_reactions": 1369,
+        "num_reposts": 101,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7501455180396208128/",
+        "posted": "2026-09-04 01:44:45",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7501455115690848256",
+        "text": "Breakthrough Energy-backed companies like Fervo Energy, Antora Energy, and Redwood Materials are creating jobs and supporting the talent that brings innovation to life.​",
+        "time": "4 days ago",
+        "urn": "7501455180396208128",
+        "video": {
+          "duration": 45966,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGwe0fvQ8mSWQ/mp4-720p-30fp-crf28/B4EaBqFrpkHkB4-/0/1788486279014?e=1789477200&v=beta&t=KqC8QXQ0sTWDbOZnlVCZ6bkvR14r7RuHWgZFevK-yOo"
+        }
+      },
+      {
+        "article_subtitle": "economist.com",
+        "article_target_url": "https://www.economist.com/science-and-technology/2026/08/19/contrail-free-flying-could-help-the-climate",
+        "article_title": "Contrail-free flying could help the climate",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 14,
+        "num_comments": 187,
+        "num_empathy": 33,
+        "num_entertainments": 3,
+        "num_interests": 19,
+        "num_likes": 816,
+        "num_praises": 30,
+        "num_reactions": 915,
+        "num_reposts": 62,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7501053794470780928/",
+        "posted": "2026-09-02 23:09:47",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7501053793770524672",
+        "text": "A small change with a big impact. This trial brings together many partners to test whether a small flight route diversion can help reduce aviation’s climate impact:",
+        "time": "5 days ago",
+        "urn": "7501053794470780928"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 42,
+        "num_comments": 265,
+        "num_empathy": 75,
+        "num_entertainments": 4,
+        "num_interests": 41,
+        "num_likes": 1896,
+        "num_praises": 57,
+        "num_reactions": 2115,
+        "num_reposts": 166,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7500659184615727104/",
+        "posted": "2026-09-01 21:01:45",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7500659080445730817",
+        "text": "Toilets and clean water save thousands of lives every day—even if they rarely make headlines. Here’s how:​",
+        "time": "6 days ago",
+        "urn": "7500659184615727104",
+        "video": {
+          "duration": 87333,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQH96WGHI25xcg/mp4-720p-30fp-crf28/B4EaBexsWxIgB4-/0/1788296496812?e=1789477200&v=beta&t=JIEgTkp_tIa1nv79vaYs2rfNjHLRpd1Sw1WToijdnPM"
+        }
+      },
+      {
+        "attributes": [],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHyp6wj776yNA/feedshare-image-high-res/B4EaBTTbuGHoAU-/0/1788103998721?e=1790208000&v=beta&t=OfUuyjxgJHAaaZVLtD4ZgT4WTd-2n0HcvDaVYCtWh0A"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEV4hwy1DGOOQ/feedshare-image-high-res/B4EaBTTbsfJMAU-/0/1788103998595?e=1790208000&v=beta&t=lfQsMFznyb1saya0g0yJuErsAalvUfZENpnO2o9Q6bQ"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHpBBwc37UZ9g/feedshare-image-high-res/B4EaBTTbyCHEAU-/0/1788103998945?e=1790208000&v=beta&t=0v0UuJ8jumH1IXXj4IHrGswzHZ6ye8yINvOfvttusfM"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHwPKa8B2Hdlw/feedshare-image-high-res/B4EaBTTbwvHYAU-/0/1788103998815?e=1790208000&v=beta&t=dIOFEUIxLw6tQgxUPu7FRj4y7jkHvhox3MEfjBgyeOM"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEvbduEUvQE_A/feedshare-shrink_1280/B4EaBTTb2qIUAQ-/0/1788103999258?e=1790208000&v=beta&t=MMor-aAyOkzqc0Rfoq5P0DUiEV-E4x6cw9MOpcsKftc"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGCFZPwg9AOfA/feedshare-shrink_1280/B4EaBTTb0iIUAM-/0/1788103999042?e=1790208000&v=beta&t=_N5SOYdeN9wNf8kz0rXI1zJbrDgcxnE4V9cwVWG5DWY"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQF7eAAlTXcQpA/feedshare-shrink_1280/B4EaBTTbxFIgAM-/0/1788103998837?e=1790208000&v=beta&t=EwUJaDtbW3SZjoyPI_AgqYImU-58kPhC6jQ6ZmuXY3s"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHWNElwSpJHlA/feedshare-shrink_1280/B4EaBTTbyqHYAM-/0/1788103998942?e=1790208000&v=beta&t=z07Y_Xte6BlF5Dj5emjsYbEa-K69Vk61wHmb-AVGGTY"
+          }
+        ],
+        "num_appreciations": 307,
+        "num_comments": 2113,
+        "num_empathy": 2768,
+        "num_entertainments": 82,
+        "num_interests": 90,
+        "num_likes": 32916,
+        "num_praises": 1682,
+        "num_reactions": 37845,
+        "num_reposts": 724,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7499851762841927680/",
+        "posted": "2026-08-30 15:33:20",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7499851761705218048",
+        "text": "Happy birthday, Warren Buffett!​\n​\nWarren turns 96 this month and I’ve been thinking about how to sum up almost 35 years of our friendship. ​\n​\nIt was a deep friendship from our very first conversation. And I’ve never stopped learning from him since. I think his jokes are all funny. His dietary habits are excellent. He once told me he looked at the data and figured out that first graders have the best actuarial odds, so he decided to eat like one. He was only half joking. ​\n​\nHe’s gifted at investing in people. Warren has always found time to nurture friendships like few other people I know. He’s one of the most patient people I’ve ever met. I’m still amazed by his ability to draw people in and he makes it fun to learn from him. ​\n​\nHe sticks to what he believes in. I once wrote him a letter about the example he set by sticking to what he believes in. That’s stuck with me for all these years. ​\n​\nWe never run out of things to talk or laugh about. And if there’s one thing Warren has taught me, it’s what friendship is really all about. In short, I’m a fan. ​\n​\nHappy 96th birthday, my friend.​",
+        "time": "1 week ago",
+        "urn": "7499851762841927680"
+      },
+      {
+        "article_description": "The need for energy that is affordable, reliable, and clean is now impossible to ignore. It sits underneath the next wave of industrial growth, and ev",
+        "article_subtitle": "Breakthrough Energy",
+        "article_target_url": "https://www.linkedin.com/pulse/powering-local-economies-breakthrough-energy-jezhe?trackingId=1yFkByGrLoHhcnGBqmQ%2BTg%3D%3D",
+        "article_title": "Powering Local Economies",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 1,
+        "num_comments": 15,
+        "num_empathy": 10,
+        "num_interests": 4,
+        "num_likes": 119,
+        "num_praises": 2,
+        "num_reactions": 136,
+        "num_reposts": 8,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7497763050746322944/",
+        "posted": "2026-08-24 21:13:32",
+        "poster_linkedin_url": "https://www.linkedin.com/company/breakthrough-energy",
+        "repost_stats": {
+          "num_appreciations": 19,
+          "num_comments": 125,
+          "num_empathy": 35,
+          "num_interests": 11,
+          "num_likes": 720,
+          "num_maybe": 0,
+          "num_praises": 15,
+          "num_reactions": 800,
+          "num_reposts": 44
+        },
+        "repost_urn": "7499466490363006976",
+        "reposted": "2026-08-29 14:02:24",
+        "reshared": true,
+        "resharer_comment": "Breakthrough Energy companies are creating value close to home with projects that create good jobs, strengthen local economies, and help energy innovations reach more people.",
+        "share_urn": "7497763050284826624",
+        "text": "The best energy companies aren’t just deploying technologies that deliver affordable, reliable, clean energy. They are building in ways that create value where that work happens.\n\nAcross our portfolio, that value looks different from place to place: advanced manufacturing jobs, workforce training, local business growth, school partnerships, community health investments, new markets, and more. We’re proud of how our companies are adding value to local communities.\n\nWe look at how energy innovation can help people capture more of the upside from growth, and why companies that engage and build with communities are better positioned to create stronger projects, stronger markets, and healthier local economies.",
+        "time": "2 weeks ago",
+        "urn": "7497763050746322944"
+      },
+      {
+        "article_subtitle": "gatesnotes.com",
+        "article_target_url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+        "article_title": "The choices we make about AI now are critical | Bill Gates",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 84,
+        "num_comments": 542,
+        "num_empathy": 64,
+        "num_entertainments": 6,
+        "num_interests": 158,
+        "num_likes": 2039,
+        "num_praises": 42,
+        "num_reactions": 2393,
+        "num_reposts": 284,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7499207432896700416/",
+        "posted": "2026-08-28 20:53:00",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7499207432070406144",
+        "text": "The world needs a plan to ensure that AI’s benefits outweigh the harm it causes, and we need to start now. It’s a monumental challenge that requires us to create new domestic and international organizations, create protections for workers, change our tax code, and much more. Our plan needs to be shaped by people whose voices aren’t often heard in this kind of discussion, including workers, college students, community leaders, religious leaders, parents, and educators. ​\n​\nIf we get it right, the payoff for humanity will be phenomenal and the world will be a more equitable place:",
+        "time": "1 week ago",
+        "urn": "7499207432896700416"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 113,
+        "num_comments": 805,
+        "num_empathy": 211,
+        "num_entertainments": 9,
+        "num_interests": 399,
+        "num_likes": 6365,
+        "num_praises": 94,
+        "num_reactions": 7191,
+        "num_reposts": 915,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7498545384043036672/",
+        "posted": "2026-08-27 01:02:15",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7498545255173165056",
+        "text": "This unprecedented technology demands an unprecedented response.",
+        "time": "1 week ago",
+        "urn": "7498545384043036672",
+        "video": {
+          "duration": 111433,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGAbFMPsIlAxQ/mp4-720p-30fp-crf28/B4EaBAvLgaH0B4-/0/1787792529535?e=1789477200&v=beta&t=KqLQdJ8Ir8lR11yyVf6PGYp50hygaAIOKOaYHNbEIGs"
+        }
+      },
+      {
+        "article_description": "We need a plan to ensure that the good outweighs the bad. The transition to the AI era will be one of the most turbulent times in human history. Right",
+        "article_subtitle": "Bill Gates",
+        "article_target_url": "https://www.linkedin.com/pulse/turbulent-ai-era-here-choices-we-make-now-critical-bill-gates-kkmze?trackingId=VBZA42QgB3iioxzGwcyDBg%3D%3D",
+        "article_title": "The turbulent AI era is here. The choices we make now are critical.",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 203,
+        "num_comments": 2058,
+        "num_empathy": 367,
+        "num_entertainments": 21,
+        "num_interests": 1308,
+        "num_likes": 8364,
+        "num_praises": 175,
+        "num_reactions": 10438,
+        "num_reposts": 922,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7498273886308966401/",
+        "posted": "2026-08-26 07:03:25",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7498273885877084161",
+        "text": "AI will either be the greatest equalizer ever invented, or the worst source of injustice. Even under the best circumstances, the transition to this new AI era will be one of the most turbulent times in human history. How will we use this technology to make the world a fairer place and keep it from widening the divide between rich and poor? How will we protect the people who are most vulnerable to the harms caused by artificial intelligence, including those who lose their livelihoods and the sense that they are in control of their future?\n\nAnswering these questions and acting on the answers should be the world’s top priority. If the world takes the right steps, AI will be a force for good and leave everyone better off.",
+        "time": "1 week ago",
+        "urn": "7498273886308966401"
+      },
+      {
+        "article_subtitle": "nytimes.com",
+        "article_target_url": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
+        "article_title": "A City Mobilizes Against a Stubborn Health Threat: Mosquitoes",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 37,
+        "num_comments": 162,
+        "num_empathy": 48,
+        "num_entertainments": 1,
+        "num_interests": 16,
+        "num_likes": 1125,
+        "num_praises": 22,
+        "num_reactions": 1249,
+        "num_reposts": 78,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7497818529442742272/",
+        "posted": "2026-08-25 00:54:00",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7497818011052138496",
+        "text": "After a major surge in dengue fever, the Brazilian city of Belém went all in to fight the virus. The result? They cut mosquito-borne diseases by 70% compared to the year prior:",
+        "time": "2 weeks ago",
+        "urn": "7497818529442742272"
+      },
+      {
+        "article_subtitle": "gatesnotes.com",
+        "article_target_url": "https://www.gatesnotes.com/the-art-and-science-of-listening",
+        "article_title": "The art and science of listening | Bill Gates",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 25,
+        "num_comments": 62,
+        "num_empathy": 25,
+        "num_entertainments": 1,
+        "num_interests": 6,
+        "num_likes": 442,
+        "num_praises": 13,
+        "num_reactions": 512,
+        "num_reposts": 36,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7497770271387459584/",
+        "posted": "2026-08-24 21:42:14",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7497770270691287040",
+        "text": "We have the opportunity to usher in a future where no more children die from malaria. Let’s seize it: https://lnkd.in/e8JT_QF4\n​",
+        "time": "2 weeks ago",
+        "urn": "7497770271387459584"
+      },
+      {
+        "article_subtitle": "nytimes.com",
+        "article_target_url": "https://www.nytimes.com/2026/08/04/us/politics/mosquito-africa-anopheles-stephensi.html",
+        "article_title": "An Invasive Mosquito Is Spreading With Alarming Speed, Threatening Africa’s Cities",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 23,
+        "num_comments": 139,
+        "num_empathy": 40,
+        "num_entertainments": 4,
+        "num_interests": 39,
+        "num_likes": 898,
+        "num_praises": 11,
+        "num_reactions": 1015,
+        "num_reposts": 65,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7497530070492770304/",
+        "posted": "2026-08-24 05:47:46",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7497530069855170560",
+        "text": "Malaria is an ever-evolving challenge. But better monitoring, data, and new tools can help us stay ahead—even as mosquitoes adapt and transmission patterns change:",
+        "time": "2 weeks ago",
+        "urn": "7497530070492770304"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 37,
+        "num_comments": 194,
+        "num_empathy": 88,
+        "num_interests": 17,
+        "num_likes": 1812,
+        "num_praises": 56,
+        "num_reactions": 2010,
+        "num_reposts": 121,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7496954467196518400/",
+        "posted": "2026-08-22 15:40:31",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7496954243921408000",
+        "text": "I’m so impressed by Dr. Lina Finda’s work to ensure that African communities have a voice in how the world fights malaria.",
+        "time": "2 weeks ago",
+        "urn": "7496954467196518400",
+        "video": {
+          "duration": 217633,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGWIetkMJAxmg/mp4-720p-30fp-crf28/B4EaAqIKePIUB4-/0/1787413225430?e=1789477200&v=beta&t=3aF62AKkMPclvr0B4b7Vc7gz8kBxDwboclPZ6cSZj_g"
+        }
+      },
+      {
+        "article_subtitle": "gatesnotes.com",
+        "article_target_url": "https://www.gatesnotes.com/the-art-and-science-of-listening",
+        "article_title": "The art and science of listening | Bill Gates",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 17,
+        "num_comments": 108,
+        "num_empathy": 43,
+        "num_entertainments": 2,
+        "num_interests": 7,
+        "num_likes": 802,
+        "num_praises": 24,
+        "num_reactions": 895,
+        "num_reposts": 49,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7496663489826955264/",
+        "posted": "2026-08-21 20:24:17",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7496663488917069824",
+        "text": "Dr. Lina Finda says her job is to “listen,” but her work goes far beyond that. She’s making sure the people who are most affected by malaria have a say in how the disease is fought:",
+        "time": "2 weeks ago",
+        "urn": "7496663489826955264"
+      },
+      {
+        "article_subtitle": "polioeradication.org",
+        "article_target_url": "https://polioeradication.org/news/five-african-countries-end-polio-outbreaks/",
+        "article_title": "Five African countries end polio outbreaks",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 26,
+        "num_comments": 146,
+        "num_empathy": 71,
+        "num_entertainments": 1,
+        "num_interests": 10,
+        "num_likes": 1463,
+        "num_praises": 120,
+        "num_reactions": 1691,
+        "num_reposts": 97,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7496603472088305664/",
+        "posted": "2026-08-21 16:25:47",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7496603471199166464",
+        "text": "Good news alert: Five countries in Africa just successfully stopped polio outbreaks. This is an incredible achievement for the region—and a direct result of the commitment of governments, health workers, and the affected communities themselves.\n\nWe're closer than ever to ending polio, and moments like this make me believe we can get there:",
+        "time": "2 weeks ago",
+        "urn": "7496603472088305664"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 132,
+        "num_comments": 490,
+        "num_empathy": 457,
+        "num_entertainments": 7,
+        "num_interests": 70,
+        "num_likes": 8993,
+        "num_praises": 670,
+        "num_reactions": 10329,
+        "num_reposts": 519,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7496352788071813121/",
+        "posted": "2026-08-20 23:49:40",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7496352703493877760",
+        "text": "It’s the smallest country in South America with some big news: Suriname is officially malaria-free. It’s amazing progress to celebrate this World Mosquito Day.",
+        "time": "2 weeks ago",
+        "urn": "7496352788071813121",
+        "video": {
+          "duration": 44000,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFMXyfTZ6Bzrg/mp4-720p-30fp-crf28/B4EaAhlEPIHwB4-/0/1787269771379?e=1789477200&v=beta&t=DZB4MiATjoq0snzAwD4beTV4k2dzQchVm5o0lM9iZ6E"
+        }
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 27,
+        "num_comments": 162,
+        "num_empathy": 63,
+        "num_entertainments": 2,
+        "num_interests": 54,
+        "num_likes": 1488,
+        "num_praises": 29,
+        "num_reactions": 1663,
+        "num_reposts": 131,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7496014727186259968/",
+        "posted": "2026-08-20 01:26:20",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7496014643237244928",
+        "text": "A solution from the 1960s could be key to ending malaria.  ",
+        "time": "2 weeks ago",
+        "urn": "7496014727186259968",
+        "video": {
+          "duration": 60066,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHpTksrswulWw/mp4-720p-30fp-crf28/B4EaAcxmgAH0B4-/0/1787189175061?e=1789477200&v=beta&t=b8vWpjN7Y-vUjXJdl_pb1etfiMKynvWczBv-nRXE_y0"
+        }
+      },
+      {
+        "article_description": "What do humans and cows have in common? Among other things, we’re both victims of tiny insects. For cows, the latest culprit is the New World screwwor",
+        "article_subtitle": "Bill Gates",
+        "article_target_url": "https://www.linkedin.com/pulse/small-bugs-big-breakthroughs-bill-gates-rq4qe?trackingId=vsH4VY%2BtbbdyhMqZx3vBgg%3D%3D",
+        "article_title": "Small bugs, big breakthroughs",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 69,
+        "num_comments": 375,
+        "num_empathy": 110,
+        "num_entertainments": 6,
+        "num_interests": 128,
+        "num_likes": 2896,
+        "num_praises": 40,
+        "num_reactions": 3249,
+        "num_reposts": 124,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7496004593810706432/",
+        "posted": "2026-08-20 00:46:04",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7496004593273819136",
+        "text": "Each year, hundreds of thousands of people die from a disease spread by an insect smaller than my fingernail: the mosquito. Protecting people from something so tiny is a lot more challenging than it seems.",
+        "time": "2 weeks ago",
+        "urn": "7496004593810706432"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 131,
+        "num_comments": 298,
+        "num_empathy": 106,
+        "num_entertainments": 6,
+        "num_interests": 24,
+        "num_likes": 2525,
+        "num_praises": 49,
+        "num_reactions": 2841,
+        "num_reposts": 206,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7495689371027845120/",
+        "posted": "2026-08-19 03:53:29",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7495689252085690368",
+        "text": "A child dies from malaria almost every minute, but I’m hopeful that new interventions will help us make it a disease of the past.  ​",
+        "time": "2 weeks ago",
+        "urn": "7495689371027845120",
+        "video": {
+          "duration": 103933,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHPIffKcotrIw/mp4-720p-30fp-crf28/B4EaAYJqSCIgB4-/0/1787111597962?e=1789477200&v=beta&t=Blv5pCSrnb2eUrYk_q2xbbNP4SyXNWg_u25xhT4HU5I"
+        }
+      },
+      {
+        "attributes": [],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQFB3Fu4WX6R3A/feedshare-image-high-res/B4EaAXFw4MJMAY-/0/1787093793394?e=1790208000&v=beta&t=Zz8JbGUI5TN9C69jW_E_VQVkOYWDE_zedkC8F0Kpang"
+          }
+        ],
+        "num_appreciations": 51,
+        "num_comments": 143,
+        "num_empathy": 61,
+        "num_entertainments": 2,
+        "num_interests": 15,
+        "num_likes": 1238,
+        "num_praises": 24,
+        "num_reactions": 1391,
+        "num_reposts": 116,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7495614672470171648/",
+        "posted": "2026-08-18 22:56:39",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7495614671350108160",
+        "text": "There’s been remarkable progress in the malaria R&D pipeline. Here are some breakthroughs that could help ensure no child ever dies from the disease again: https://lnkd.in/eRVdKCXk",
+        "time": "2 weeks ago",
+        "urn": "7495614672470171648"
+      },
+      {
+        "attributes": [
+          {
+            "company_id": "18701098",
+            "name": "Alamar Biosciences, Inc.",
+            "public_id": "alamar-biosciences-inc",
+            "type": "company"
+          },
+          {
+            "company_id": "1352331",
+            "name": "Gates Ventures",
+            "public_id": "gatesventures",
+            "type": "company"
+          },
+          {
+            "company_id": "100538280",
+            "name": "Global Neurodegeneration Proteomics Consortium",
+            "public_id": "neuro-proteome",
+            "type": "company"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGGtj57apnMag/feedshare-shrink_1280/B4EZ_thiPrHwAM-/0/1786396419328?e=1790208000&v=beta&t=3B6ZEQOcb29heqXVST9Pdp9NoTn4oQDPRAdXiF5DRhg"
+          }
+        ],
+        "num_appreciations": 2,
+        "num_comments": 0,
+        "num_empathy": 2,
+        "num_interests": 1,
+        "num_likes": 49,
+        "num_praises": 3,
+        "num_reactions": 57,
+        "num_reposts": 12,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7492912846050217985/",
+        "posted": "2026-08-11 12:00:34",
+        "poster_linkedin_url": "https://www.linkedin.com/company/alzheimersdata",
+        "repost_stats": {
+          "num_appreciations": 19,
+          "num_comments": 76,
+          "num_empathy": 23,
+          "num_interests": 6,
+          "num_likes": 415,
+          "num_maybe": 0,
+          "num_praises": 13,
+          "num_reactions": 476,
+          "num_reposts": 28
+        },
+        "repost_urn": "7495485367349833728",
+        "reposted": "2026-08-18 14:22:50",
+        "reshared": true,
+        "resharer_comment": "Advances in blood biomarkers have already helped accelerate Alzheimer’s research, and this partnership could take those insights even deeper. Making the dataset broadly available will also give researchers across the field the opportunity to build on those findings and push the science further.",
+        "share_urn": "7492689647991574528",
+        "text": "We’re expanding a partnership with Alamar Biosciences, Inc., supported by Gates Ventures, to add multiplex protein profiling of 80,000+ additional plasma samples to the NULISA NeuroData Commons – a 2025 initiative that has already profiled more than 40,000 biosamples. The combined dataset is projected to represent the largest population-scale study of neurodegenerative disease. \n \nThe additional samples will be profiled with Alamar’s newest neurology panel, NULISAseq™ Neuro 220. By measuring 220 biomarkers from a small blood or CSF sample, including eMTBR-Tau, the panel enables simultaneous blood-based capture of both hallmark Alzheimer's pathologies alongside p-Tau217 for the first time. \n \nThe goal is to help enable researchers to understand how Alzheimer’s differs from person to person and use that to change how we treat and prevent it. Data will be shared with the global research community through AD Workbench, the same secure infrastructure leveraged by the Global Neurodegeneration Proteomics Consortium. \n \nRead the full announcement: https://lnkd.in/ezTfSZ-Y",
+        "time": "3 weeks ago",
+        "urn": "7492912846050217985"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 37,
+        "num_comments": 377,
+        "num_empathy": 99,
+        "num_entertainments": 5,
+        "num_interests": 34,
+        "num_likes": 2283,
+        "num_praises": 60,
+        "num_reactions": 2518,
+        "num_reposts": 181,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7494923689482862592/",
+        "posted": "2026-08-17 01:10:56",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7494923606934806528",
+        "text": "In the 1960s, a lot of experts thought mass famine was inevitable. But incredible innovations like high-yield crops and better fertilizers changed the course of history and saved a billion people from starvation.",
+        "time": "3 weeks ago",
+        "urn": "7494923689482862592",
+        "video": {
+          "duration": 65500,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGOlDF7HKw78g/mp4-720p-30fp-crf28/B4EaANRT3DKMB4-/0/1786929050282?e=1789477200&v=beta&t=oyhPJZsVJPKerajA_dBB8-Onx7A7dJo3uy0UzvkAfwM"
+        }
+      },
+      {
+        "attributes": [
+          {
+            "company_id": "13027754",
+            "name": "Heart Aerospace",
+            "public_id": "heart-aerospace",
+            "type": "company"
+          },
+          {
+            "company_id": "2380",
+            "name": "United Airlines",
+            "public_id": "united-airlines",
+            "type": "company"
+          },
+          {
+            "company_id": "4737",
+            "name": "Air Canada",
+            "public_id": "air-canada",
+            "type": "company"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEfnAOyhq5XJQ/feedshare-image-high-res/B4EZ_79iKHJQAU-/0/1786638640592?e=1790208000&v=beta&t=MAOGeBRdS2NE0uckOjnUzIwiO1gPVwtxASHtHNa0UA4"
+          }
+        ],
+        "num_appreciations": 3,
+        "num_comments": 37,
+        "num_empathy": 36,
+        "num_interests": 13,
+        "num_likes": 731,
+        "num_praises": 67,
+        "num_reactions": 850,
+        "num_reposts": 53,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7493705598782586881/",
+        "posted": "2026-08-13 16:30:41",
+        "poster_linkedin_url": "https://www.linkedin.com/company/breakthrough-energy",
+        "repost_stats": {
+          "num_appreciations": 16,
+          "num_comments": 293,
+          "num_empathy": 72,
+          "num_entertainments": 1,
+          "num_interests": 80,
+          "num_likes": 1656,
+          "num_maybe": 0,
+          "num_praises": 68,
+          "num_reactions": 1893,
+          "num_reposts": 120
+        },
+        "repost_urn": "7494196361807073280",
+        "reposted": "2026-08-15 01:00:48",
+        "reshared": true,
+        "resharer_comment": "A battery-electric aircraft flying on about $5 of electricity is an amazing glimpse into what’s possible: cleaner, more affordable flights and stronger regional connections. \n\nCongrats to Breakthrough Energy-backed Heart Aerospace. This is a major milestone for sustainable aviation.",
+        "share_urn": "7493705597624774656",
+        "text": "Heart Aerospace has flown X1, the largest battery-electric aircraft ever to take off. Over 100 feet wing to wing, more than 12 tons, megawatt-class power, and about $5 of electricity for the whole flight.\n\nX1 is proving out the technology for Heart's ES-30 regional airliner, which has customer commitments from United Airlines and Air Canada. Notably, the ES-30 is hybrid-electric—batteries and fuel working together—which is the shape of aviation's future: not one solution, but the right mix. It's why we back electric propulsion and sustainable aviation fuels alike.\n\nWhen better energy wins on cost, whole industries change. This flight is what that progress looks like. \n\nhttps://lnkd.in/eYv2Yehy",
+        "time": "3 weeks ago",
+        "urn": "7493705598782586881"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 39,
+        "num_comments": 716,
+        "num_empathy": 145,
+        "num_entertainments": 50,
+        "num_interests": 89,
+        "num_likes": 3007,
+        "num_praises": 37,
+        "num_reactions": 3367,
+        "num_reposts": 144,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7493752035234897920/",
+        "posted": "2026-08-13 19:35:12",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7493752034366517249",
+        "text": "Not enough people know about this progress—but I think they should: https://lnkd.in/eUcSpbAG",
+        "time": "3 weeks ago",
+        "urn": "7493752035234897920"
+      },
+      {
+        "attributes": [
+          {
+            "company_id": "11076301",
+            "name": "Commonwealth Fusion Systems",
+            "public_id": "commonwealth-fusion-systems",
+            "type": "company"
+          }
+        ],
+        "images": [],
+        "num_appreciations": 48,
+        "num_comments": 424,
+        "num_empathy": 122,
+        "num_entertainments": 2,
+        "num_interests": 59,
+        "num_likes": 3487,
+        "num_praises": 128,
+        "num_reactions": 3846,
+        "num_reposts": 302,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7493344342842134528/",
+        "posted": "2026-08-12 16:35:10",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7493344212348899328",
+        "text": "Last year, I got to visit Commonwealth Fusion Systems while they were building the first ever prototype to generate electricity using the same process that powers the stars. Today, the company is closer than ever to bringing this affordable, reliable clean energy to the grid. ​",
+        "time": "3 weeks ago",
+        "urn": "7493344342842134528",
+        "video": {
+          "duration": 117000,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG1FRSuQYjfyA/mp4-720p-30fp-crf28/B4EZ_2027mHsB8-/0/1786552504665?e=1789477200&v=beta&t=Bqd2tabFxr5u1yrlOseLrqqkgfTsSuzhI8e8IBLCJ7A"
+        }
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 75,
+        "num_comments": 272,
+        "num_empathy": 133,
+        "num_entertainments": 3,
+        "num_interests": 24,
+        "num_likes": 2409,
+        "num_praises": 53,
+        "num_reactions": 2697,
+        "num_reposts": 190,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7492705926039375872/",
+        "posted": "2026-08-10 22:18:20",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7492705854828498944",
+        "text": "Since 2000, the lives of over 40 million children have been saved. Most people have no idea it happened.  ​",
+        "time": "1 month ago",
+        "urn": "7492705926039375872",
+        "video": {
+          "duration": 49100,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQETbSLTXVOTUw/mp4-720p-30fp-crf28/B4EZ_twRrbH8B4-/0/1786400292380?e=1789477200&v=beta&t=GL80QQidGmreELkbzpejrtJlAe3jWiMQzNKJPWhom84"
+        }
+      },
+      {
+        "attributes": [
+          {
+            "company_id": "11076301",
+            "name": "Commonwealth Fusion Systems",
+            "public_id": "commonwealth-fusion-systems",
+            "type": "company"
+          },
+          {
+            "company_id": "74207036",
+            "name": "Antora Energy",
+            "public_id": "antora-energy",
+            "type": "company"
+          },
+          {
+            "company_id": "105053468",
+            "name": "Mariana Minerals",
+            "public_id": "mariana-minerals",
+            "type": "company"
+          },
+          {
+            "company_id": "77765389",
+            "name": "Lydian",
+            "public_id": "lydianlabs",
+            "type": "company"
+          },
+          {
+            "company_id": "317420",
+            "name": "oneworld Alliance",
+            "public_id": "oneworld-alliance",
+            "type": "company"
+          }
+        ],
+        "images": [],
+        "num_appreciations": 1,
+        "num_comments": 4,
+        "num_empathy": 2,
+        "num_interests": 2,
+        "num_likes": 90,
+        "num_praises": 7,
+        "num_reactions": 102,
+        "num_reposts": 5,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7491583834854084608/",
+        "posted": "2026-08-07 19:59:33",
+        "poster_linkedin_url": "https://www.linkedin.com/company/breakthrough-energy",
+        "repost_stats": {
+          "num_appreciations": 10,
+          "num_comments": 69,
+          "num_empathy": 14,
+          "num_interests": 18,
+          "num_likes": 504,
+          "num_maybe": 0,
+          "num_praises": 21,
+          "num_reactions": 567,
+          "num_reposts": 32
+        },
+        "repost_urn": "7492700901460168705",
+        "reposted": "2026-08-10 21:58:22",
+        "reshared": true,
+        "resharer_comment": "This progress is incredible! And it's a testament to the teams working around the clock to build a future where everyone has access to affordable, reliable, clean energy. ​",
+        "share_urn": "7491583832488497152",
+        "text": "Look at what happened in just one week.\n\n▪️ Commonwealth Fusion Systems raised $1 billion for its first commercial fusion plant. The investors? Pension funds, sovereign wealth funds, infrastructure funds. https://lnkd.in/exs5XqSA\n▪️ Antora Energy closed a $550 million Series C. Their thermal batteries are built by welders and machinists in San Jose, with a second factory on the way. https://lnkd.in/efMRJFnC\n▪️ Mariana Minerals raised $310 million. This is the team that restarted a Utah copper mine in just four months. https://lnkd.in/eEf9EC4k\n▪️ Lydian became the first announced investment from the oneworld Alliance BEV Fund, which we created with global airlines to expand aviation's fuel supply. https://lnkd.in/ezbi82-k\n\nNearly $2 billion in one week, across fusion, storage, minerals, fuels, and flight. And behind every one of these milestones are people—scientists, welders, engineers, pilots—doing the work.\n\nThis is momentum. Five companies in five different industries hitting real milestones in the same seven days—raising serious capital, winning customers, putting hardware in the ground and in the air. Affordable, reliable, clean energy is beating business as usual. Weeks like this used to be rare. The builders we back are changing that.",
+        "time": "1 month ago",
+        "urn": "7491583834854084608"
+      },
+      {
+        "article_description": "Sometimes when I tell people I’m optimistic about the future, they look at me like I’m crazy. How could I say that when there’s so much violence in th",
+        "article_subtitle": "Bill Gates",
+        "article_target_url": "https://www.linkedin.com/pulse/bad-news-isnt-only-bill-gates-tl0bc?trackingId=c%2Bid7kHQqC4%2BvcIF2kxHjw%3D%3D",
+        "article_title": "Bad news isn’t the only news",
+        "attributes": [
+          {
+            "company_id": "8736",
+            "name": "Gates Foundation",
+            "public_id": "gates-foundation",
+            "type": "company"
+          }
+        ],
+        "images": [],
+        "num_appreciations": 155,
+        "num_comments": 758,
+        "num_empathy": 213,
+        "num_entertainments": 7,
+        "num_interests": 63,
+        "num_likes": 3537,
+        "num_praises": 87,
+        "num_reactions": 4062,
+        "num_reposts": 129,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7492601339206631425/",
+        "posted": "2026-08-10 15:22:45",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7492601338669957121",
+        "text": "Sometimes, when I tell people I’m optimistic about the future, they’re skeptical. How can I say that when so much seems to be going wrong in the world? ​\n​\nI see all these problems too, but through my work with the Gates Foundation and other organizations, I also get to witness proof of progress that helps me stay optimistic. ​\n​\nFor example, in the past 50 years, childhood vaccines have saved 154 million lives; child mortality has fallen by more than half since 2000; and, for the first time ever, we have a blood test to detect Alzheimer’s disease and drugs that may slow its progress. ​\n​\nI love these facts and stats—not just because they’re impressive, but because they represent real people whose lives have been transformed thanks to the hard work of scientists, health workers, and countless others.",
+        "time": "1 month ago",
+        "urn": "7492601339206631425"
+      },
+      {
+        "article_subtitle": "npr.org",
+        "article_target_url": "https://www.npr.org/2026/07/23/g-s1-134929/ai-artificial-intelligence-healthcare",
+        "article_title": "This AI tool promises a 'second pair of eyes' to clinicians. Did patients benefit?",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 18,
+        "num_comments": 295,
+        "num_empathy": 53,
+        "num_entertainments": 3,
+        "num_interests": 56,
+        "num_likes": 1429,
+        "num_praises": 22,
+        "num_reactions": 1581,
+        "num_reposts": 103,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7491704804486963200/",
+        "posted": "2026-08-08 04:00:14",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7491704803690090496",
+        "text": "A tool like AI Consult has exciting potential to act as a second set of eyes by reviewing doctors’ notes in real time. But to get the most out of these innovations, we need to measure real-world outcomes and ensure they’re actually benefiting the communities they serve.",
+        "time": "1 month ago",
+        "urn": "7491704804486963200"
+      },
+      {
+        "attributes": [],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHPOArwuh0wCQ/feedshare-shrink_1280/B4EZ_TuzXOGoAQ-/0/1785963689671?e=1790208000&v=beta&t=wQVZQmoAquoYN6E7CerD4glb1Sx6mLjN9ajveVvvq2k"
+          }
+        ],
+        "num_appreciations": 33,
+        "num_comments": 314,
+        "num_empathy": 83,
+        "num_entertainments": 4,
+        "num_interests": 18,
+        "num_likes": 1556,
+        "num_praises": 46,
+        "num_reactions": 1740,
+        "num_reposts": 130,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7490874650621612032/",
+        "posted": "2026-08-05 21:01:30",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7490874648948158465",
+        "text": "It can be hard to stay hopeful about the future, but through my work with the Gates Foundation and other organizations, I get to see so much proof of progress that helps me stay optimistic.  While the bad news can’t be ignored, my trick is to search for the people doing something about it—and the incredible, underrated, life-saving success they’re often having. Here are my favorite examples: \nhttps://lnkd.in/e_xWBjmy",
+        "time": "1 month ago",
+        "urn": "7490874650621612032"
+      },
+      {
+        "attributes": [
+          {
+            "first": "Ratul",
+            "headline": "Founder, BEMPU - Building Tech to Save Babies | TIME's Top Inventor | Echoing Green Fellow | USAID, Gates, GCC Awardee | Stanford University",
+            "last": "Narain",
+            "public_id": "ratulnarain",
+            "type": "profile",
+            "urn": "ACoAAACt0ksBCz2z_rL5jvWsr0WubgE168xQJiM"
+          }
+        ],
+        "images": [],
+        "num_appreciations": 33,
+        "num_comments": 187,
+        "num_empathy": 87,
+        "num_entertainments": 1,
+        "num_interests": 18,
+        "num_likes": 1587,
+        "num_praises": 56,
+        "num_reactions": 1782,
+        "num_reposts": 138,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7490198711457853440/",
+        "posted": "2026-08-04 00:15:33",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7490198639605161984",
+        "text": "Ratul Narain and his team developed TempWatch, a small, wearable bracelet that helps detect hypothermia in newborns early so families can act quickly. It's a simple idea with the potential to save the most vulnerable babies. ​",
+        "time": "1 month ago",
+        "urn": "7490198711457853440",
+        "video": {
+          "duration": 60000,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQF0lv2J3WDS4A/mp4-720p-30fp-crf28/B4EZ_KH.iqKUB4-/0/1785802526669?e=1789477200&v=beta&t=UAMaC6IpIAzxZc8OupA9HRvnNCHKKNgGLsgmOHJpaYs"
+        }
+      },
+      {
+        "article_subtitle": "wsj.com",
+        "article_target_url": "https://bth-energy.com/4yLzn6H",
+        "article_title": "Heineken Is Trying a Heat Battery to Generate Steam for Its Brewing",
+        "attributes": [
+          {
+            "company_id": "3131",
+            "name": "The HEINEKEN Company",
+            "public_id": "heineken",
+            "type": "company"
+          },
+          {
+            "company_id": "67208353",
+            "name": "Rondo Energy",
+            "public_id": "rondo-energy",
+            "type": "company"
+          },
+          {
+            "company_id": "74207036",
+            "name": "Antora Energy",
+            "public_id": "antora-energy",
+            "type": "company"
+          },
+          {
+            "company_id": "113042991",
+            "name": "Tempo Innovations",
+            "public_id": "tempoinnovations",
+            "type": "company"
+          }
+        ],
+        "images": [],
+        "num_comments": 12,
+        "num_empathy": 1,
+        "num_interests": 3,
+        "num_likes": 92,
+        "num_praises": 4,
+        "num_reactions": 100,
+        "num_reposts": 5,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7486499153456369664/",
+        "posted": "2026-07-24 19:14:50",
+        "poster_linkedin_url": "https://www.linkedin.com/company/breakthrough-energy",
+        "repost_stats": {
+          "num_appreciations": 13,
+          "num_comments": 165,
+          "num_empathy": 28,
+          "num_entertainments": 6,
+          "num_interests": 36,
+          "num_likes": 1074,
+          "num_maybe": 0,
+          "num_praises": 47,
+          "num_reactions": 1204,
+          "num_reposts": 49
+        },
+        "repost_urn": "7489894675928027136",
+        "reposted": "2026-08-03 04:07:26",
+        "reshared": true,
+        "resharer_comment": "I’ll raise a glass for lower emissions.",
+        "share_urn": "7486499152172990464",
+        "text": "Brewing beer takes a lot of heat. And at its Portugal brewery, The HEINEKEN Company is testing a new way to supply it using Rondo Energy heat batteries to store wind and solar power in clay bricks at up to 1,500°C. That heat is then used to generate steam for brewing and pasteurization.\n\nIndustrial heat is a major energy challenge because factories need dependable heat at the exact moment when their processes require it. Thermal batteries give manufacturers an alternative: using clean electricity when it’s available and delivering stored heat back into the plant when needed.\n\nCompanies like Rondo, Antora Energy, and Tempo Innovations in our portfolio are building for that industrial reality with better approaches that are competitive on cost, reliable when production needs it, and clean.\n\nhttps://lnkd.in/evtmxqEj",
+        "time": "1 month ago",
+        "urn": "7486499153456369664"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 66,
+        "num_comments": 375,
+        "num_empathy": 136,
+        "num_entertainments": 11,
+        "num_interests": 28,
+        "num_likes": 3304,
+        "num_praises": 150,
+        "num_reactions": 3695,
+        "num_reposts": 263,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7489380268617805826/",
+        "posted": "2026-08-01 18:03:21",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7489380167732142080",
+        "text": "Protecting yourself from HIV used to require a daily pill, and you couldn’t miss a single dose or the protection would stop. Now, there is a simple injection that protects you for six months at a time. In places where the barriers to accessing these preventive tools stack up quickly, this breakthrough is massive. ​",
+        "time": "1 month ago",
+        "urn": "7489380268617805826",
+        "video": {
+          "duration": 66200,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE82R3I9JiV0Q/mp4-720p-30fp-crf28/B4EZ..flOvH4B8-/0/1785607391205?e=1789477200&v=beta&t=fK5fNjPYCQl5G-fWf0r3NCMJSbKnPVxV_XghtGszL5E"
+        }
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 42,
+        "num_comments": 345,
+        "num_empathy": 148,
+        "num_entertainments": 5,
+        "num_interests": 83,
+        "num_likes": 4124,
+        "num_praises": 51,
+        "num_reactions": 4453,
+        "num_reposts": 210,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7489028937075896321/",
+        "posted": "2026-07-31 18:47:18",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7489028814854057985",
+        "text": "My standard for something that belongs on a “summer best” list is simple: It has to be something that completely grabbed my attention. ",
+        "time": "1 month ago",
+        "urn": "7489028937075896321",
+        "video": {
+          "duration": 90133,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEgw-hgnmoriQ/mp4-720p-30fp-crf28/B4EZ.5gBz_HsB8-/0/1785523622524?e=1789477200&v=beta&t=k11shf24uL5FxXWOkWqhcuertUqT5eX35zp0cirWBPQ"
+        }
+      },
+      {
+        "article_description": "It’s hard to beat summer here in Seattle. The days are long, sunny, and warm, and you’re never far from Puget Sound or a lake. Something about the sea",
+        "article_subtitle": "Bill Gates",
+        "article_target_url": "https://www.linkedin.com/pulse/best-things-i-read-listened-watched-year-bill-gates-saopc?trackingId=TLvYwTYs7saZF3h7akj1dw%3D%3D",
+        "article_title": "The best things I read, listened to, and watched this year",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 27,
+        "num_comments": 453,
+        "num_empathy": 133,
+        "num_entertainments": 3,
+        "num_interests": 79,
+        "num_likes": 3011,
+        "num_praises": 42,
+        "num_reactions": 3295,
+        "num_reposts": 90,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7488618410256523265/",
+        "posted": "2026-07-30 15:36:00",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7488618409841074176",
+        "text": "Summer is the best time of the year to relax with a good book or show. (Though to be fair, I feel that way every other season of the year, too.) Here are a few favorites I enjoyed recently:",
+        "time": "1 month ago",
+        "urn": "7488618410256523265"
+      },
+      {
+        "article_description": "I just got back from the most incredible week in Rwanda. My favorite trips are always the ones that leave me feeling inspired and energized. And if yo",
+        "article_subtitle": "Bill Gates",
+        "article_target_url": "https://www.linkedin.com/pulse/memories-from-inspiring-trip-rwanda-bill-gates-ojyye?trackingId=bWH%2Be8ZSjbvvWRSlhtlwLg%3D%3D",
+        "article_title": "Memories from an inspiring trip to Rwanda",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 60,
+        "num_comments": 608,
+        "num_empathy": 211,
+        "num_entertainments": 5,
+        "num_interests": 29,
+        "num_likes": 4477,
+        "num_praises": 123,
+        "num_reactions": 4905,
+        "num_reposts": 153,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7487189920416108544/",
+        "posted": "2026-07-26 16:59:42",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7487189920013344768",
+        "text": "Over the last 25 years, Rwanda has delivered one of Africa’s most remarkable health transformations. This week, I was lucky enough to meet many of the local leaders and innovators driving that progress.",
+        "time": "1 month ago",
+        "urn": "7487189920416108544"
+      },
+      {
+        "attributes": [],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGJwOi0xOCXNg/feedshare-image-high-res/B4EZ.aIADUHAAU-/0/1784997217036?e=1790208000&v=beta&t=Ry76VeqiGlYbsCactne5fn8RoMoRqJCO2pOqSR5zhVA"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQElOgTbLPkusQ/feedshare-image-high-res/B4EZ.aIAH5HAAY-/0/1784997217164?e=1790208000&v=beta&t=SSMfwuTRlUQxapms20pcXjkvpYv48HwsmIAeXAHjL00"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQFNMRzqIcITGQ/feedshare-image-high-res/B4EZ.aIAHZIAAU-/0/1784997217054?e=1790208000&v=beta&t=dQUaDmafoDMKBSY84B5tBfQDQxp5h9Py5auW8xAfTBo"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGh_08qEeCujg/feedshare-image-high-res/B4EZ.aIABcIcAU-/0/1784997217449?e=1790208000&v=beta&t=bthHooRtsPFgTf1t6OoQ8EuWf7ksTJt6fzvEQB06J0M"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHoERmeVpI0FA/feedshare-image-high-res/B4EZ.aIAD8H8AY-/0/1784997218745?e=1790208000&v=beta&t=Zh7kCVEPQGLPfQ6KzHsmJzC_DPYFqXDaTpwLHnVUSLQ"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQENunIvNggrWg/feedshare-shrink_1280/B4EZ.aIAOSJIAM-/0/1784997217848?e=1790208000&v=beta&t=yD2OFqGzYwhyQkdgf6HpIO16hPrqqIdEc5_nzfKwe1s"
+          }
+        ],
+        "num_appreciations": 65,
+        "num_comments": 464,
+        "num_empathy": 174,
+        "num_entertainments": 3,
+        "num_interests": 26,
+        "num_likes": 4759,
+        "num_praises": 115,
+        "num_reactions": 5142,
+        "num_reposts": 244,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7486820978292072449/",
+        "posted": "2026-07-25 16:33:39",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7486820977411145728",
+        "text": "My time in Rwanda reminded me how much progress is possible when innovation reaches the people who need it most. Across the country, scientists, entrepreneurs, and governments are driving breakthroughs that are practical, affordable, and designed for local needs. The results so far are remarkable, and there are plenty more to come: https://lnkd.in/ef8KpZ-j",
+        "time": "1 month ago",
+        "urn": "7486820978292072449"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 69,
+        "num_comments": 454,
+        "num_empathy": 232,
+        "num_entertainments": 2,
+        "num_interests": 35,
+        "num_likes": 5481,
+        "num_praises": 172,
+        "num_reactions": 5991,
+        "num_reposts": 524,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7486548883721084928/",
+        "posted": "2026-07-24 22:32:27",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7486548768285163520",
+        "text": "I had the most incredible week in Rwanda. It was inspiring to hear from the next generation of leaders. Rwanda has already achieved remarkable progress with even greater opportunities ahead, and its young people are poised to shape not only the African continent, but the world.",
+        "time": "1 month ago",
+        "urn": "7486548883721084928",
+        "video": {
+          "duration": 65066,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHbH9OwgxQ9cQ/mp4-720p-30fp-crf28/B4EZ.WQcC0JIB8-/0/1784932340985?e=1789477200&v=beta&t=aI7PmGC3vfJBmZ232_QUzrBwB3GuOVrAlIphdG0sp04"
+        }
+      },
+      {
+        "attributes": [
+          {
+            "company_id": "108868051",
+            "name": "The Consortium of Medical Schools-Africa (COMS-A)",
+            "public_id": "coms-a",
+            "type": "company"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQE3Q4n10xJ_VQ/feedshare-image-high-res/B4DZ.LMGLGKsAU-/0/1784746632464?e=1790208000&v=beta&t=ftAeOpk7jnpW6wlFGDiIV4nyypKnbaS9I7bDyH0exec"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQH2kvVKmFE8yQ/feedshare-image-high-res/B4DZ.LMGLHGkAU-/0/1784746632419?e=1790208000&v=beta&t=A-tSAS9cnOG-afBe6fmdczyR1iMBAMbm6OqIyfDB7PE"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQGGQJWuoJLwAw/feedshare-image-high-res/B4DZ.LMGAFI8AU-/0/1784746631796?e=1790208000&v=beta&t=uHyD_QXd-gHJ_kOx5vEDuiWTlbxO-kCtJ6K17R4MRcM"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQFHVq-4r5u96g/feedshare-image-high-res/B4DZ.LMFtTKsAU-/0/1784746630552?e=1790208000&v=beta&t=VOgAh3bul2778JqCo8JxCLEEDhSjumvDyvsjnoa1SvU"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQE2BrMMlTq9tg/feedshare-image-high-res/B4DZ.LMJHHJAAU-/0/1784746645129?e=1790208000&v=beta&t=9pjCb7wDpAChGjAMDJ6cnmOyjHxfS1kxfxm_jAGdpOs"
+          }
+        ],
+        "num_appreciations": 3,
+        "num_comments": 10,
+        "num_empathy": 15,
+        "num_entertainments": 1,
+        "num_interests": 2,
+        "num_likes": 292,
+        "num_praises": 5,
+        "num_reactions": 318,
+        "num_reposts": 31,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7485770001480871938/",
+        "posted": "2026-07-22 18:57:27",
+        "poster_linkedin_url": "https://www.linkedin.com/company/ughe",
+        "repost_stats": {
+          "num_appreciations": 26,
+          "num_comments": 180,
+          "num_empathy": 66,
+          "num_interests": 16,
+          "num_likes": 1463,
+          "num_maybe": 0,
+          "num_praises": 48,
+          "num_reactions": 1619,
+          "num_reposts": 89
+        },
+        "repost_urn": "7485916097398063104",
+        "reposted": "2026-07-23 04:37:59",
+        "reshared": true,
+        "resharer_comment": "It was wonderful to learn from the next generation of leaders at the University of Global Health Equity. Building on my friend Paul Farmer’s vision of health equity, institutions like UGHE are helping train the next generation of doctors and public health leaders to strengthen the health systems their communities rely on, while networks like COMS-A are helping elevate these ideas across the continent.",
+        "share_urn": "7485769998355816450",
+        "text": "At the inaugural Paul E. Farmer #ButaroDialogues on Health Equity and Innovation, Mr. Bill Gates reflected on the legacy of Paul Farmer, whose vision and commitment continue to shape the work and spirit of Butaro. \n\nRecalling his journey with Dr. Paul, including visits to health facilities such as Rwinkwavu Hospital, Mr. Gates paid tribute to Dr. Paul’s enduring belief that “where you live should never determine whether you live.” He described UGHE as a testament to what Paul believed was possible and shared that, while he deeply misses Paul, it is comforting to see his legacy continue here in Butaro. \n\nIn his lecture, Mr. Gates also recognized Rwanda’s remarkable progress in strengthening health systems, including significant reductions in child mortality and maternal deaths. He commended the country’s leadership in healthcare innovation and highlighted the importance of working together to ensure that proven solutions reach the people who need them most. \n\n“It is not a mystery what we need to do. We understand the challenge, and we have the tools to act.” \n\nAcknowledging that the world is facing a difficult period for global health, he noted that leaders must find ways to achieve more with fewer resources. He also warned that emerging technologies, including artificial intelligence, must not become concentrated in wealthier countries or benefit only those who already have access. \n\n“AI should not only be available to those who already have access; we should bring AI to those who need it most.” \n\nMr. Gates commended #UGHE’s One Health approach to making health more equitable and highlighted The Consortium of Medical Schools-Africa (COMS-A) as an important platform bringing medical schools together for better outcomes. He emphasized that institutions like UGHE can play a critical role in ensuring that innovation is developed, taught, and implemented equitably, helping transform health systems and expand access to life-saving solutions.\n\n#HealthEquity #HealthInnovation",
+        "time": "1 month ago",
+        "urn": "7485770001480871938"
+      },
+      {
+        "attributes": [
+          {
+            "company_id": "8736",
+            "name": "Gates Foundation",
+            "public_id": "gates-foundation",
+            "type": "company"
+          }
+        ],
+        "images": [],
+        "num_appreciations": 69,
+        "num_comments": 417,
+        "num_empathy": 181,
+        "num_entertainments": 2,
+        "num_interests": 23,
+        "num_likes": 4039,
+        "num_praises": 130,
+        "num_reactions": 4444,
+        "num_reposts": 414,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7484834733399457792/",
+        "posted": "2026-07-20 05:01:01",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7484834609805893632",
+        "text": "I'm excited to be in Rwanda this week to learn more about the country’s progress in health, agriculture, and digital public infrastructure.\n\nOver the last 25 years, Rwanda has delivered one of Africa’s most remarkable health transformations. The country shows what is possible when governments not only invest in life-saving technologies but focus on getting those technologies into the hands of the people who need them most. For more than two decades, the Gates Foundation has partnered with Rwanda and other countries across Africa to support them in these efforts. \n\nI'm looking forward to the conversations ahead, and to learning more from the people and institutions helping shape Africa's future.",
+        "time": "1 month ago",
+        "urn": "7484834733399457792",
+        "video": {
+          "duration": 48466,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFSNzmNxy2gTA/mp4-720p-30fp-crf28/B4EZ995eIoIkB4-/0/1784523653845?e=1789477200&v=beta&t=UfHVjBUYU_aiumvdmbYngspaaPD_8C9kgYb9RKrWl0w"
+        }
+      },
+      {
+        "attributes": [],
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEMS3ACBRtn2w/feedshare-image-high-res/B4EZ935SMFJkAU-/0/1784422933488?e=1790208000&v=beta&t=_BGhYfmm0bG_JodZTWuYGbX_gR3CXjPe-ZGAE0lJgiQ"
+          }
+        ],
+        "num_appreciations": 58,
+        "num_comments": 347,
+        "num_empathy": 157,
+        "num_entertainments": 12,
+        "num_interests": 58,
+        "num_likes": 4189,
+        "num_praises": 234,
+        "num_reactions": 4708,
+        "num_reposts": 207,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7484412249844060160/",
+        "posted": "2026-07-19 01:02:14",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7484412248917065728",
+        "text": "Every World Cup is a reminder of how much can change in four years. ​\n​\nSince 2002, the world has made huge progress protecting kids from diseases like pneumonia, diarrhea, and measles. That’s a win worth celebrating, even if no trophy is involved.",
+        "time": "1 month ago",
+        "urn": "7484412249844060160"
+      },
+      {
+        "attributes": [
+          {
+            "company_id": "278788",
+            "name": "Grassroot Soccer",
+            "public_id": "grassroot-soccer",
+            "type": "company"
+          }
+        ],
+        "images": [],
+        "num_appreciations": 42,
+        "num_comments": 124,
+        "num_empathy": 62,
+        "num_entertainments": 2,
+        "num_interests": 17,
+        "num_likes": 1340,
+        "num_praises": 19,
+        "num_reactions": 1482,
+        "num_reposts": 71,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7484333855999610880/",
+        "posted": "2026-07-18 19:50:43",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7484333685022887936",
+        "text": "Grassroot Soccer uses the popularity of soccer to help young people navigate some of their toughest health challenges. With local youth serving as coaches and trusted mentors, they’re learning important skills like how to stop the spread of HIV and improve their mental health.",
+        "time": "1 month ago",
+        "urn": "7484333855999610880",
+        "video": {
+          "duration": 70000,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHLdSM63m929w/mp4-720p-30fp-crf28/B4EZ92x6x8JUB4-/0/1784404236329?e=1789477200&v=beta&t=kDFzSOuZCvsuZSqgW8WLtrVpBVrJHiNzmvhiuoFlEGc"
+        }
+      },
+      {
+        "attributes": [
+          {
+            "first": "Andrew Ross",
+            "headline": "Columnist & Editor-at-Large, New York Times / Anchor, CNBC’s Squawk Box,Author, 1929 & Too Big To Fail. Founder, @DealBook. CoCreator, BILLIONS @Showtime. Proud Dad.",
+            "last": "Sorkin",
+            "public_id": "andrew-ross-sorkin-b52a69",
+            "type": "profile",
+            "urn": "ACoAAAAoIS4BO_kCIr4574BuUqiHs-kNa_HbPuE"
+          }
+        ],
+        "document": {
+          "page_count": 4,
+          "title": "The Best Things I Read, Listened to, and Watched This Year",
+          "url": "https://media.licdn.com/dms/document/media/v2/D4E1FAQGa2PlKl4Ppew/feedshare-document-url-metadata-scrapper-pdf/B4EZ9yn_t.JMA4-/0/1784334516191?e=1789477200&v=beta&t=qhjmhbguDf4yb9F8pH0fSH2sLbOJqwaaj09AXKAXwNM"
+        },
+        "images": [],
+        "num_appreciations": 20,
+        "num_comments": 296,
+        "num_empathy": 79,
+        "num_entertainments": 2,
+        "num_interests": 32,
+        "num_likes": 2042,
+        "num_praises": 56,
+        "num_reactions": 2231,
+        "num_reposts": 97,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7484042312315191296/",
+        "posted": "2026-07-18 00:32:14",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7484042310297673728",
+        "text": "My “summer best” list is a mix of books (and one show) that I've enjoyed lately: ​\n​\n•1929 by Andrew Ross Sorkin: An incredibly well-researched book about the historic Wall Street crash of 1929, and a rundown of all the players involved.  ​\n\n•Culpability by Bruce Holsinger: A fast-paced novel that explores the aftermath of one family’s tragedy and the big questions of responsibility that new technologies can pose.\n ​\n•Gray Matters by Theodore H. Schwartz: A biography of brain surgery that does a fantastic job of explaining our most complex organ and what it’s like to be a neurosurgeon.  ​\n\n•The Pitt, Season 2: Set across a single 15-hour shift in a Pittsburgh emergency room, this show is a fascinating look at the complex human dynamics involved in an ER. ​\n​\nIf you check any of these out this summer, I hope at least one grabs your attention the way they grabbed mine: https://lnkd.in/ehNcR8ap",
+        "time": "1 month ago",
+        "urn": "7484042312315191296"
+      },
+      {
+        "article_subtitle": "who.int",
+        "article_target_url": "https://b-gat.es/4hgjte0",
+        "article_title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 33,
+        "num_comments": 227,
+        "num_empathy": 57,
+        "num_entertainments": 1,
+        "num_interests": 12,
+        "num_likes": 1562,
+        "num_praises": 73,
+        "num_reactions": 1738,
+        "num_reposts": 78,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7483353300503973888/",
+        "posted": "2026-07-16 02:54:20",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7483353299736301568",
+        "text": "In 2025, more girls than ever received the HPV vaccine. At a time when coverage has stalled for basic childhood vaccines, millions more girls are now protected from developing cervical cancer later in life. That’s incredible, and a reason to stay hopeful.",
+        "time": "1 month ago",
+        "urn": "7483353300503973888"
+      },
+      {
+        "article_subtitle": "digitaleconomy.stanford.edu",
+        "article_target_url": "https://stanford.io/4w3IxJM",
+        "article_title": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transformation - Stanford Digital Economy Lab",
+        "attributes": [
+          {
+            "first": "Erik",
+            "headline": "Professor, Writer, Speaker, Inventor",
+            "last": "Brynjolfsson",
+            "public_id": "erikbrynjolfsson",
+            "type": "profile",
+            "urn": "ACoAAAACxGUB_UQKrUg2khdIgag0S3gCfbUz7Bw"
+          },
+          {
+            "first": "Ajay",
+            "headline": "Professor, Rotman School of Management, University of Toronto; Founder, CDL; Co-Founder, Intrepid; Co-Founder, NEXT Canada; Co-Founder, Sanctuary AI; Co-Founder, Kindred Robotics",
+            "last": "Agrawal",
+            "public_id": "professor-ajay-agrawal",
+            "type": "profile",
+            "urn": "ACoAABa8DsUBn4VXH9NmAw1-g88zWhitlQxmzxk"
+          },
+          {
+            "first": "Anton",
+            "headline": "Professor of Economics, University of Virginia and Faculty Director, Economics of Transformative AI Initiative (EconTAI)",
+            "last": "Korinek",
+            "public_id": "akorinek",
+            "type": "profile",
+            "urn": "ACoAAABBBrAB8gkNi0PuWMDTbd4bLb7dIVjsYCk"
+          },
+          {
+            "first": "Tom",
+            "headline": "Econ/AI/safety at METR",
+            "last": "Cunningham",
+            "public_id": "tom-cunningham-a9433",
+            "type": "profile",
+            "urn": "ACoAAAABDVABAN7eJwyOhcXR6-M9Uv14Wgyaa30"
+          }
+        ],
+        "images": [],
+        "num_appreciations": 50,
+        "num_comments": 495,
+        "num_empathy": 71,
+        "num_entertainments": 5,
+        "num_interests": 104,
+        "num_likes": 2522,
+        "num_praises": 41,
+        "num_reactions": 2793,
+        "num_reposts": 221,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7482913819275657217/",
+        "posted": "2026-07-14 21:48:00",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7482913818197557248",
+        "text": "AI is moving too quickly to be treated as a future problem. We need urgent, coordinated action now to make sure the benefits of this technology reach as many people as possible while reducing the disruption along the way. I’m glad Erik Brynjolfsson, Ajay Agrawal, Anton Korinek, and Tom Cunningham are pushing this conversation forward. I’ve been thinking a lot about many of these same questions, and I will be sharing more about my perspective soon.",
+        "time": "1 month ago",
+        "urn": "7482913819275657217"
+      },
+      {
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 40,
+        "num_comments": 386,
+        "num_empathy": 116,
+        "num_entertainments": 6,
+        "num_interests": 137,
+        "num_likes": 3781,
+        "num_praises": 50,
+        "num_reactions": 4130,
+        "num_reposts": 308,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7482647567445495808/",
+        "posted": "2026-07-14 04:10:00",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7482647261441773568",
+        "text": "Nuclear fission and fusion could give the world virtually unlimited clean energy. This is how they work:",
+        "time": "2 months ago",
+        "urn": "7482647567445495808",
+        "video": {
+          "duration": 152733,
+          "stream_url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQH6d0bGo9mY7Q/mp4-720p-30fp-crf28/B4EZ9e0LtJIsB4-/0/1784002195494?e=1789477200&v=beta&t=4iJByEPCJ-U7_y6pIarW4AZF7GcVqLo0Lfc_PYYVghE"
+        }
+      },
+      {
+        "article_description": "In 2007, Wendo Aszed was in her twenties and enjoying life in Nakuru, a city in her native Kenya. One day, her best friend, someone Wendo said she “wo",
+        "article_subtitle": "Bill Gates",
+        "article_target_url": "https://www.linkedin.com/pulse/aids-free-generation-empty-promise-bill-gates-hbvue?trackingId=jQ4rkRXzSO4KD2L4oHzIBA%3D%3D",
+        "article_title": "\"AIDS-free\" generation is no empty promise",
+        "attributes": [],
+        "images": [],
+        "num_appreciations": 152,
+        "num_comments": 475,
+        "num_empathy": 136,
+        "num_entertainments": 4,
+        "num_interests": 31,
+        "num_likes": 3059,
+        "num_praises": 74,
+        "num_reactions": 3456,
+        "num_reposts": 109,
+        "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7482120227305177090/",
+        "posted": "2026-07-12 17:14:33",
+        "poster": {
+          "first": "Bill",
+          "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+          "image_url": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1790208000&v=beta&t=sBDgTfkrl3a81Wf36MDNxtA54Mz6gC6xweZqA2N3xbc",
+          "last": "Gates",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+          "public_id": "williamhgates",
+          "urn": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+        },
+        "poster_linkedin_url": "https://www.linkedin.com/in/williamhgates",
+        "reshared": false,
+        "share_urn": "7482120226894036993",
+        "text": "The world has already made huge progress in the fight against HIV, thanks to decades of work from scientists, health workers, and governments. With breakthroughs like lenacapavir and the possibility of a single-shot cure, ending the AIDS pandemic is within reach. But progress depends on sustained investment. If we continue backing innovations that got us this far, we could cut AIDS-related deaths and new HIV infections by 90% by the late 2040s.",
+        "time": "2 months ago",
+        "urn": "7482120227305177090"
+      }
+    ],
+    "paging": {
+      "count": 50,
+      "pagination_token": "dXJuOmxpOmFjdGl2aXR5Ojc0ODIxMjAyMjczMDUxNzcwOTAtMTc4Mzg3NjQ3MzIzNQ==",
+      "start": 0
+    }
+  },
+  "recordTime": null
+}

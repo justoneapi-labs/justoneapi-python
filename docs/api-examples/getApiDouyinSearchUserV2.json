@@ -1,0 +1,1166 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:24.157845+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:06",
+  "code": 0,
+  "message": null,
+  "data": {
+    "business_data": [
+      {
+        "data_id": "0",
+        "type": 999,
+        "data": {
+          "sub_card_list": null,
+          "show_tab": null,
+          "card_style_type": 4,
+          "music_info_list": null,
+          "ops": null,
+          "shoot_position_list": null,
+          "provider_doc_id_str": "1151887044784543",
+          "card_type": 4,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "card_id": "douyin.doctype_aweme_user",
+          "provider_doc_id": 1151887044784543,
+          "ecom_goods_list": null,
+          "height": 80,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "origin_type": 4,
+          "raw_data": "{\"user_info\":{\"uid\":\"1151887044784543\",\"nickname\":\"美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_362a4157febd9196864f6d5d24d067ff\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_362a4157febd9196864f6d5d24d067ff.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_362a4157febd9196864f6d5d24d067ff\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_362a4157febd9196864f6d5d24d067ff.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_362a4157febd9196864f6d5d24d067ff\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_362a4157febd9196864f6d5d24d067ff.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":1247270,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"Lxjxiaokeai123\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAx-mH1oMVAHDSCU4YM-_AnJyAK7wYYxYQeGniL_dmZw4BBbkZ-rLoRxon6WTbjrRd\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：Lxjxiaokeai123\",\"card_entries\":null,\"display_info\":[{\"title\":\"美女\"},{\"text\":\"粉丝: 124.7万\"},{\"text\":\"抖音号：Lxjxiaokeai123\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.1151887044784543.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_result_id\":\"1151887044784543\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "card_type_name": "channel_user",
+          "type": 999,
+          "log_data": {
+            "dcm": "search.natural.discover.1151887044784543.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "tab": null,
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "send_back": "",
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user"
+            }
+          },
+          "qishui_music_list": null,
+          "doc_type": 150
+        },
+        "log": {
+          "dcm": "search.natural.discover.1151887044784543.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "1",
+        "type": 999,
+        "data": {
+          "provider_doc_id_str": "879209677588541",
+          "show_tab": null,
+          "ecom_goods_list": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80
+            }
+          },
+          "doc_type": 150,
+          "sub_card_list": null,
+          "card_style_type": 4,
+          "music_info_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "card_type_name": "channel_user",
+          "provider_doc_id": 879209677588541,
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "card_type": 4,
+          "card_id": "douyin.doctype_aweme_user",
+          "shoot_position_list": null,
+          "type": 999,
+          "log_data": {
+            "dcm": "search.natural.discover.879209677588541.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "tab": null,
+          "send_back": "",
+          "ops": null,
+          "qishui_music_list": null,
+          "height": 80,
+          "origin_type": 4,
+          "raw_data": "{\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"879209677588541\",\"nickname\":\"美女\",\"gender\":2,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_owAIwE8A9XgEpANfbAg2DzdkFexDAEFYeShE3Z\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_owAIwE8A9XgEpANfbAg2DzdkFexDAEFYeShE3Z.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-i-0813c000-ce_owAIwE8A9XgEpANfbAg2DzdkFexDAEFYeShE3Z\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_owAIwE8A9XgEpANfbAg2DzdkFexDAEFYeShE3Z.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-i-0813c000-ce_owAIwE8A9XgEpANfbAg2DzdkFexDAEFYeShE3Z\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_owAIwE8A9XgEpANfbAg2DzdkFexDAEFYeShE3Z.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":592003,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"62896771383\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAA7Gm8cin5cuaOgf87-2H5XYMF4sgqUihpIhjWWkYfFVQ\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：62896771383\",\"card_entries\":null,\"display_info\":[{\"title\":\"美女\"},{\"text\":\"粉丝: 59.2万\"},{\"text\":\"抖音号：62896771383\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.879209677588541.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_result_id\":\"879209677588541\",\"token_type\":\"person\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null}"
+        },
+        "log": {
+          "dcm": "search.natural.discover.879209677588541.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "2",
+        "type": 999,
+        "data": {
+          "send_back": "",
+          "card_style_type": 4,
+          "card_id": "douyin.doctype_aweme_user",
+          "origin_type": 4,
+          "log_data": {
+            "dcm": "search.natural.discover.62847193928.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "provider_doc_id": 62847193928,
+          "show_tab": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp"
+            }
+          },
+          "qishui_music_list": null,
+          "raw_data": "{\"user_info\":{\"uid\":\"62847193928\",\"nickname\":\"难言言（不看美女版）\",\"gender\":0,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_0e159c9fa1a5ee3828858ef7747beb65\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_0e159c9fa1a5ee3828858ef7747beb65.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_0e159c9fa1a5ee3828858ef7747beb65\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0e159c9fa1a5ee3828858ef7747beb65.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_0e159c9fa1a5ee3828858ef7747beb65\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_0e159c9fa1a5ee3828858ef7747beb65.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":22229494,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"Nanyanx\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAKEHc0s6hRNYg4MKyAaV--Kp1sLBUoK0xHnnxQkEY_Ts\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：Nanyanx\",\"card_entries\":null,\"display_info\":[{\"title\":\"难言言（不看美女版）\"},{\"text\":\"粉丝: 2222.9万\"},{\"text\":\"游戏主播\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.62847193928.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"token_type\":\"person\",\"search_result_id\":\"62847193928\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{\\\"label_style\\\":3,\\\"label_text\\\":\\\"游戏主播\\\"}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "height": 80,
+          "sub_card_list": null,
+          "tab": null,
+          "card_type": 4,
+          "ecom_goods_list": null,
+          "ops": null,
+          "card_type_name": "channel_user",
+          "type": 999,
+          "doc_type": 150,
+          "provider_doc_id_str": "62847193928",
+          "debug_diff_info": {},
+          "music_info_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "shoot_position_list": null,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "aweme_list": null
+        },
+        "log": {
+          "dcm": "search.natural.discover.62847193928.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "3",
+        "type": 999,
+        "data": {
+          "tab": null,
+          "card_style_type": 4,
+          "ops": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80
+            }
+          },
+          "type": 999,
+          "show_tab": null,
+          "card_type": 4,
+          "ecom_goods_list": null,
+          "qishui_music_list": null,
+          "raw_data": "{\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"101133737198\",\"nickname\":\"不知名美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_120b1190bf98cb86d1c1e05fd5178887\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_120b1190bf98cb86d1c1e05fd5178887.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_120b1190bf98cb86d1c1e05fd5178887\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_120b1190bf98cb86d1c1e05fd5178887.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_120b1190bf98cb86d1c1e05fd5178887\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_120b1190bf98cb86d1c1e05fd5178887.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":2225605,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"Jessica1247\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAodb7F4q04zcGWevRr2AuzqA95PTgBxJ8d_HQK6Jtruc\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：Jessica1247\",\"card_entries\":null,\"display_info\":[{\"title\":\"不知名美女\"},{\"text\":\"粉丝: 222.6万\"},{\"text\":\"抖音号：Jessica1247\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.101133737198.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"is_aladdin\":\"0\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"search_result_id\":\"101133737198\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null}}",
+          "origin_type": 4,
+          "height": 80,
+          "sub_card_list": null,
+          "provider_doc_id": 101133737198,
+          "aweme_list": null,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "provider_doc_id_str": "101133737198",
+          "debug_diff_info": {},
+          "send_back": "",
+          "music_info_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "shoot_position_list": null,
+          "card_type_name": "channel_user",
+          "doc_type": 150,
+          "log_data": {
+            "dcm": "search.natural.discover.101133737198.20260908200007B6C92B726C1E5E101AB1"
+          }
+        },
+        "log": {
+          "dcm": "search.natural.discover.101133737198.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "4",
+        "type": 999,
+        "data": {
+          "type": 999,
+          "doc_type": 150,
+          "show_tab": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp"
+            }
+          },
+          "qishui_music_list": null,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "height": 80,
+          "provider_doc_id": 1154964325926745,
+          "aweme_list": null,
+          "card_type": 4,
+          "music_info_list": null,
+          "ops": null,
+          "origin_type": 4,
+          "card_type_name": "channel_user",
+          "sub_card_list": null,
+          "debug_diff_info": {},
+          "send_back": "",
+          "card_style_type": 4,
+          "ecom_goods_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "card_id": "douyin.doctype_aweme_user",
+          "log_data": {
+            "dcm": "search.natural.discover.1154964325926745.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "provider_doc_id_str": "1154964325926745",
+          "tab": null,
+          "shoot_position_list": null,
+          "raw_data": "{\"user_info\":{\"uid\":\"1154964325926745\",\"nickname\":\"Gí豆（不爱看美女）\",\"gender\":0,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_eafdb4bd2f82351b153d8c10f8ac5b45\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_eafdb4bd2f82351b153d8c10f8ac5b45.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_eafdb4bd2f82351b153d8c10f8ac5b45\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_eafdb4bd2f82351b153d8c10f8ac5b45.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_eafdb4bd2f82351b153d8c10f8ac5b45\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_eafdb4bd2f82351b153d8c10f8ac5b45.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":2371703,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"81026462783\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAATlhEyS8Eu639o_MrbhFRrf9BrboAaJHa0ZpZLYjmwRst3FdNr_UDdTx6yOzr1iWz\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：81026462783\",\"card_entries\":null,\"display_info\":[{\"title\":\"Gí豆（不爱看美女）\"},{\"text\":\"粉丝: 237.2万\"},{\"text\":\"抖音号：81026462783\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.1154964325926745.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"is_aladdin\":\"0\",\"search_result_id\":\"1154964325926745\",\"token_type\":\"person\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}"
+        },
+        "log": {
+          "dcm": "search.natural.discover.1154964325926745.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "5",
+        "type": 999,
+        "data": {
+          "tab": null,
+          "send_back": "",
+          "card_type": 4,
+          "music_info_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "card_id": "douyin.doctype_aweme_user",
+          "origin_type": 4,
+          "type": 999,
+          "doc_type": 150,
+          "show_tab": null,
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "card_style_type": 4,
+          "ops": null,
+          "raw_data": "{\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"92905082356\",\"nickname\":\"美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_adc715ebf81cb705f77f2a0d448e2d24\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_adc715ebf81cb705f77f2a0d448e2d24.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_adc715ebf81cb705f77f2a0d448e2d24\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_adc715ebf81cb705f77f2a0d448e2d24.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_adc715ebf81cb705f77f2a0d448e2d24\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_adc715ebf81cb705f77f2a0d448e2d24.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":183358,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"meinv.Zw\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAA2DK7XLz1u3wB_A5g8FCh693k22ehCxnRerQYWTxymXs\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：meinv.Zw\",\"card_entries\":null,\"display_info\":[{\"title\":\"美女\"},{\"text\":\"粉丝: 18.3万\"},{\"text\":\"抖音号：meinv.Zw\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"92905082356\",\"token_type\":\"person\"},\"dcm\":\"search.natural.discover.92905082356.20260908200007B6C92B726C1E5E101AB1\"},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false}",
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.92905082356.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "qishui_music_list": null,
+          "shoot_position_list": null,
+          "height": 80,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "card_type_name": "channel_user",
+          "provider_doc_id_str": "92905082356",
+          "ecom_goods_list": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80
+            }
+          },
+          "provider_doc_id": 92905082356
+        },
+        "log": {
+          "dcm": "search.natural.discover.92905082356.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "6",
+        "type": 999,
+        "data": {
+          "debug_diff_info": {},
+          "card_style_type": 4,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "doc_type": 150,
+          "show_tab": null,
+          "aweme_list": null,
+          "send_back": "",
+          "card_type": 4,
+          "ecom_goods_list": null,
+          "qishui_music_list": null,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "provider_doc_id": 1965541528709160,
+          "music_info_list": null,
+          "ops": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.1965541528709160.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "provider_doc_id_str": "1965541528709160",
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user"
+            }
+          },
+          "shoot_position_list": null,
+          "raw_data": "{\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"1965541528709160\",\"nickname\":\"张美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-i-0813_b4fe44b73ac346ce963f0028f344788a\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_b4fe44b73ac346ce963f0028f344788a.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-i-0813_b4fe44b73ac346ce963f0028f344788a\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_b4fe44b73ac346ce963f0028f344788a.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-i-0813_b4fe44b73ac346ce963f0028f344788a\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_b4fe44b73ac346ce963f0028f344788a.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":268973,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"DY244235048\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAV-uIeFox206HM8jZIL4gtx8r7ySreWC8iuTxgEqhIdMsnkOKKnZLE0dbkfc2uAWb\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：DY244235048\",\"card_entries\":null,\"display_info\":[{\"title\":\"张美女\"},{\"text\":\"粉丝: 26.9万\"},{\"text\":\"抖音号：DY244235048\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.1965541528709160.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_result_id\":\"1965541528709160\",\"token_type\":\"person\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null}",
+          "card_type_name": "channel_user",
+          "height": 80,
+          "type": 999,
+          "origin_type": 4,
+          "tab": null
+        },
+        "log": {
+          "dcm": "search.natural.discover.1965541528709160.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "7",
+        "type": 999,
+        "data": {
+          "provider_doc_id": 6689773712,
+          "provider_doc_id_str": "6689773712",
+          "tab": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "origin_type": 4,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "raw_data": "{\"is_red_phone_number\":null,\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"6689773712\",\"nickname\":\"超级哇塞大美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_bc5800138f9d79b4abfc4d4658262eb0\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_bc5800138f9d79b4abfc4d4658262eb0.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_bc5800138f9d79b4abfc4d4658262eb0\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bc5800138f9d79b4abfc4d4658262eb0.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_bc5800138f9d79b4abfc4d4658262eb0\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_bc5800138f9d79b4abfc4d4658262eb0.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":597325,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"Vtian617\",\"room_id\":7683052152004758287,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAwvzf4TSdxgheIlTUE1_98Heq-JzqWFtr8TknGluCFJE\",\"need_points\":null,\"homepage_bottom_toast\":null,\"room_data\":\"{\\\"id\\\":7683052152004758287,\\\"id_str\\\":\\\"7683052152004758287\\\",\\\"owner_user_id\\\":6689773712,\\\"user_count\\\":20,\\\"extra\\\":{},\\\"os_type\\\":1,\\\"client_version\\\":400000,\\\"stream_id\\\":696508443276869662,\\\"stream_id_str\\\":\\\"696508443276869662\\\",\\\"stream_url\\\":{\\\"id\\\":696508443276869662,\\\"id_str\\\":\\\"696508443276869662\\\",\\\"resolution_name\\\":{\\\"FULL_HD1\\\":\\\"蓝光\\\",\\\"HD1\\\":\\\"超清\\\",\\\"ORIGION\\\":\\\"原画\\\",\\\"SD1\\\":\\\"标清\\\",\\\"SD2\\\":\\\"高清\\\"},\\\"default_resolution\\\":\\\"HD1\\\",\\\"extra\\\":{\\\"height\\\":1920,\\\"width\\\":1088},\\\"rtmp_pull_url\\\":\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662.flv?keeptime=00093a80\\\\u0026wsSecret=4aaa2db14de8bcbf8e9337d0a06fcc59\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_flv\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\",\\\"flv_pull_url\\\":{\\\"FULL_HD1\\\":\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662.flv?keeptime=00093a80\\\\u0026wsSecret=4aaa2db14de8bcbf8e9337d0a06fcc59\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_flv\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\",\\\"HD1\\\":\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662_hd5.flv?keeptime=00093a80\\\\u0026wsSecret=a8973c6612b975aa74808223c90bf3c6\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_flv_hd5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\",\\\"SD1\\\":\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000ld5.flv?keeptime=00093a80\\\\u0026wsSecret=9ecb016a820cd06abc0f3dfaf2185d9d\\\\u0026wsTime=6a9ff8c8\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026arch_hrchy=c1\\\\u0026unique_id=stream-696508443276869662_30_flv_Stage0T000ld5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\",\\\"SD2\\\":\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000sd5.flv?keeptime=00093a80\\\\u0026wsSecret=0b19be13deaef742644dce84dc2d8009\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_flv_Stage0T000sd5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\"},\\\"candidate_resolution\\\":[\\\"SD1\\\",\\\"SD2\\\",\\\"HD1\\\"],\\\"hls_pull_url\\\":\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=528fc87adb68d9b8ae0da7e736e6089c\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\",\\\"hls_pull_url_params\\\":\\\"{\\\\\\\"SEICheck\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"BufferDataMs\\\\\\\":1000,\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\":1,\\\\\\\"NotifyCompletedImmediately\\\\\\\":1,\\\\\\\"EnableNTPByApp\\\\\\\":1,\\\\\\\"LiveIOConfig\\\\\\\":{\\\\\\\"EnablePcdnSchedule\\\\\\\":0},\\\\\\\"VCodec\\\\\\\":\\\\\\\"bytevc1\\\\\\\",\\\\\\\"EnableLowLatencyFLV\\\\\\\":1,\\\\\\\"NNSR\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\":0,\\\\\\\"LongerSideUpperBound\\\\\\\":1280,\\\\\\\"ShorterSideUpperBound\\\\\\\":600,\\\\\\\"FrameRateUpperBound\\\\\\\":20},\\\\\\\"PlayingIntervalMs\\\\\\\":20000,\\\\\\\"FastOpenDuration\\\\\\\":-1800,\\\\\\\"NetworkAdapt\\\\\\\":{\\\\\\\"SlowSpeed\\\\\\\":0.9,\\\\\\\"SlowTime\\\\\\\":1,\\\\\\\"HurrySpeed\\\\\\\":1.1,\\\\\\\"HurryType\\\\\\\":0,\\\\\\\"HurryStartMs\\\\\\\":4000,\\\\\\\"HurryStopType\\\\\\\":1,\\\\\\\"HurryTime\\\\\\\":4,\\\\\\\"SlowMillisecond\\\\\\\":90,\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"HurryMillisecond\\\\\\\":3500},\\\\\\\"EnableGetTimeOptimize\\\\\\\":1,\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\":4000,\\\\\\\"P2PFastOpenDuration\\\\\\\":-1500}\\\",\\\"rtmp_pull_url_params\\\":\\\"{\\\\\\\"SEICheck\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"BufferDataMs\\\\\\\":1000,\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\":1,\\\\\\\"NotifyCompletedImmediately\\\\\\\":1,\\\\\\\"EnableNTPByApp\\\\\\\":1,\\\\\\\"LiveIOConfig\\\\\\\":{\\\\\\\"EnablePcdnSchedule\\\\\\\":0},\\\\\\\"VCodec\\\\\\\":\\\\\\\"bytevc1\\\\\\\",\\\\\\\"EnableLowLatencyFLV\\\\\\\":1,\\\\\\\"NNSR\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\":0,\\\\\\\"LongerSideUpperBound\\\\\\\":1280,\\\\\\\"ShorterSideUpperBound\\\\\\\":600,\\\\\\\"FrameRateUpperBound\\\\\\\":20},\\\\\\\"PlayingIntervalMs\\\\\\\":20000,\\\\\\\"FastOpenDuration\\\\\\\":-1800,\\\\\\\"NetworkAdapt\\\\\\\":{\\\\\\\"SlowSpeed\\\\\\\":0.9,\\\\\\\"SlowTime\\\\\\\":1,\\\\\\\"HurrySpeed\\\\\\\":1.1,\\\\\\\"HurryType\\\\\\\":0,\\\\\\\"HurryStartMs\\\\\\\":4000,\\\\\\\"HurryStopType\\\\\\\":1,\\\\\\\"HurryTime\\\\\\\":4,\\\\\\\"SlowMillisecond\\\\\\\":90,\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"HurryMillisecond\\\\\\\":3500},\\\\\\\"EnableGetTimeOptimize\\\\\\\":1,\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\":4000,\\\\\\\"P2PFastOpenDuration\\\\\\\":-1500}\\\",\\\"flv_pull_url_params\\\":{\\\"HD1\\\":\\\"{\\\\\\\"LiveIOConfig\\\\\\\":{\\\\\\\"EnablePcdnSchedule\\\\\\\":0},\\\\\\\"NNSR\\\\\\\":{\\\\\\\"ShorterSideUpperBound\\\\\\\":600,\\\\\\\"FrameRateUpperBound\\\\\\\":20,\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\":0,\\\\\\\"LongerSideUpperBound\\\\\\\":1280},\\\\\\\"BufferDataMs\\\\\\\":1000,\\\\\\\"VCodec\\\\\\\":\\\\\\\"bytevc1\\\\\\\",\\\\\\\"FastOpenDuration\\\\\\\":-1800,\\\\\\\"NotifyCompletedImmediately\\\\\\\":1,\\\\\\\"SEICheck\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\":1,\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\":4000,\\\\\\\"PlayingIntervalMs\\\\\\\":20000,\\\\\\\"EnableNTPByApp\\\\\\\":1,\\\\\\\"NetworkAdapt\\\\\\\":{\\\\\\\"HurryTime\\\\\\\":4,\\\\\\\"SlowMillisecond\\\\\\\":90,\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"HurryMillisecond\\\\\\\":3500,\\\\\\\"HurryStartMs\\\\\\\":4000,\\\\\\\"HurryStopType\\\\\\\":1,\\\\\\\"HurrySpeed\\\\\\\":1.1,\\\\\\\"HurryType\\\\\\\":0,\\\\\\\"SlowSpeed\\\\\\\":0.9,\\\\\\\"SlowTime\\\\\\\":1},\\\\\\\"EnableGetTimeOptimize\\\\\\\":1,\\\\\\\"EnableLowLatencyFLV\\\\\\\":1,\\\\\\\"P2PFastOpenDuration\\\\\\\":-1500}\\\",\\\"SD1\\\":\\\"{\\\\\\\"BufferDataMs\\\\\\\":1000,\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\":4000,\\\\\\\"NetworkAdapt\\\\\\\":{\\\\\\\"HurryStartMs\\\\\\\":4000,\\\\\\\"HurryStopType\\\\\\\":1,\\\\\\\"HurryTime\\\\\\\":4,\\\\\\\"SlowMillisecond\\\\\\\":90,\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"HurryMillisecond\\\\\\\":3500,\\\\\\\"SlowSpeed\\\\\\\":0.9,\\\\\\\"SlowTime\\\\\\\":1,\\\\\\\"HurrySpeed\\\\\\\":1.1,\\\\\\\"HurryType\\\\\\\":0},\\\\\\\"NotifyCompletedImmediately\\\\\\\":1,\\\\\\\"PlayingIntervalMs\\\\\\\":20000,\\\\\\\"EnableLowLatencyFLV\\\\\\\":1,\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\":1,\\\\\\\"SEICheck\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"FastOpenDuration\\\\\\\":-1800,\\\\\\\"LiveIOConfig\\\\\\\":{\\\\\\\"EnablePcdnSchedule\\\\\\\":0},\\\\\\\"NNSR\\\\\\\":{\\\\\\\"FrameRateUpperBound\\\\\\\":20,\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\":0,\\\\\\\"LongerSideUpperBound\\\\\\\":1280,\\\\\\\"ShorterSideUpperBound\\\\\\\":600},\\\\\\\"VCodec\\\\\\\":\\\\\\\"bytevc1\\\\\\\",\\\\\\\"EnableGetTimeOptimize\\\\\\\":1,\\\\\\\"P2PFastOpenDuration\\\\\\\":-1500,\\\\\\\"EnableNTPByApp\\\\\\\":1}\\\",\\\"SD2\\\":\\\"{\\\\\\\"P2PFastOpenDuration\\\\\\\":-1500,\\\\\\\"PlayingIntervalMs\\\\\\\":20000,\\\\\\\"VCodec\\\\\\\":\\\\\\\"bytevc1\\\\\\\",\\\\\\\"EnableLowLatencyFLV\\\\\\\":1,\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\":1,\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\":4000,\\\\\\\"NotifyCompletedImmediately\\\\\\\":1,\\\\\\\"BufferDataMs\\\\\\\":1000,\\\\\\\"FastOpenDuration\\\\\\\":-1800,\\\\\\\"LiveIOConfig\\\\\\\":{\\\\\\\"EnablePcdnSchedule\\\\\\\":0},\\\\\\\"EnableGetTimeOptimize\\\\\\\":1,\\\\\\\"SEICheck\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"NetworkAdapt\\\\\\\":{\\\\\\\"HurrySpeed\\\\\\\":1.1,\\\\\\\"HurryType\\\\\\\":0,\\\\\\\"SlowSpeed\\\\\\\":0.9,\\\\\\\"SlowTime\\\\\\\":1,\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"HurryMillisecond\\\\\\\":3500,\\\\\\\"HurryStartMs\\\\\\\":4000,\\\\\\\"HurryStopType\\\\\\\":1,\\\\\\\"HurryTime\\\\\\\":4,\\\\\\\"SlowMillisecond\\\\\\\":90},\\\\\\\"NNSR\\\\\\\":{\\\\\\\"ShorterSideUpperBound\\\\\\\":600,\\\\\\\"FrameRateUpperBound\\\\\\\":20,\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\":0,\\\\\\\"LongerSideUpperBound\\\\\\\":1280},\\\\\\\"EnableNTPByApp\\\\\\\":1}\\\"},\\\"live_core_sdk_data\\\":{\\\"pull_data\\\":{\\\"stream_data\\\":\\\"{\\\\\\\"common\\\\\\\":{\\\\\\\"ts\\\\\\\":\\\\\\\"1788868808\\\\\\\",\\\\\\\"session_id\\\\\\\":\\\\\\\"173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"stream\\\\\\\":\\\\\\\"696508443276869662\\\\\\\",\\\\\\\"version\\\\\\\":0,\\\\\\\"rule_ids\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"ab_version_trace\\\\\\\\\\\\\\\":null,\\\\\\\\\\\\\\\"sched\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"result\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"hit\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"default\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"cdn\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\":38}}\\\\\\\\\\\\\\\"}\\\\\\\",\\\\\\\"common_trace\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"StrategyTrace\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Neptune\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"PlayStream\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"ids\\\\\\\\\\\\\\\":null}}},\\\\\\\\\\\\\\\"VpaasFunctionIDS\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"VpaasABOptionIDS\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"BusinessType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"default_business\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"BigeventAnchorLevel\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"BizType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"show_room\\\\\\\\\\\\\\\"}\\\\\\\",\\\\\\\"secret_key\\\\\\\":\\\\\\\"e9fb70a5-947c-4d8a9f849cb3fae0ca873452ea168cd004c07a151c8da4b05e274347d0c733a971f54c644442740d4f4b5113dc84d4db7e\\\\\\\",\\\\\\\"app_id\\\\\\\":\\\\\\\"100100\\\\\\\",\\\\\\\"major_anchor_level\\\\\\\":\\\\\\\"common\\\\\\\",\\\\\\\"mode\\\\\\\":\\\\\\\"Normal\\\\\\\",\\\\\\\"lines\\\\\\\":{\\\\\\\"main\\\\\\\":\\\\\\\"line_38\\\\\\\"},\\\\\\\"p2p_params\\\\\\\":{\\\\\\\"PcdnIsolationConfig\\\\\\\":{\\\\\\\"IsolationName\\\\\\\":\\\\\\\"isolation1\\\\\\\",\\\\\\\"FsV4Domain\\\\\\\":\\\\\\\"signal-t1-v4-az1.rtcxyz.com\\\\\\\",\\\\\\\"FsV6Domain\\\\\\\":\\\\\\\"signal-t1-v6-az1.rtcxyz.com\\\\\\\",\\\\\\\"FsHttpsDomain\\\\\\\":\\\\\\\"vcl-brain-http.ndcpp.com\\\\\\\",\\\\\\\"HoleV6Domain\\\\\\\":\\\\\\\"signal-t3-v6-az1.rtcxyz.com\\\\\\\",\\\\\\\"StunV4Domain\\\\\\\":\\\\\\\"vc-mirror.ndcpp.com\\\\\\\",\\\\\\\"StunV6Domain\\\\\\\":\\\\\\\"vc-mirror-v6.ndcpp.com\\\\\\\",\\\\\\\"HoleV4Domain\\\\\\\":\\\\\\\"signal-t3-v4-az1.rtcxyz.com\\\\\\\"}},\\\\\\\"label\\\\\\\":{\\\\\\\"peer_labels\\\\\\\":{},\\\\\\\"labels\\\\\\\":{}},\\\\\\\"stream_data_content_encoding\\\\\\\":\\\\\\\"default\\\\\\\",\\\\\\\"common_sdk_params\\\\\\\":{\\\\\\\"main\\\\\\\":\\\\\\\"{}\\\\\\\"},\\\\\\\"stream_name\\\\\\\":\\\\\\\"stream-696508443276869662\\\\\\\",\\\\\\\"main_push_id\\\\\\\":30,\\\\\\\"backup_push_id\\\\\\\":0},\\\\\\\"data\\\\\\\":{\\\\\\\"ao\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662.flv?keeptime=00093a80\\\\u0026wsSecret=4aaa2db14de8bcbf8e9337d0a06fcc59\\\\u0026wsTime=6a9ff8c8\\\\u0026exp_hrchy=c1\\\\u0026arch_hrchy=c1\\\\u0026only_audio=1\\\\u0026eupf_relay_mode=err\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_flv\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"h264\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280,\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600,\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20},\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500,\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9},\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":28}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":false}},\\\\\\\"sd\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000sd5.flv?keeptime=00093a80\\\\u0026wsSecret=0b19be13deaef742644dce84dc2d8009\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_flv_Stage0T000sd5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000sd5/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=45814c650f4ed924b2443786e303758a\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"http://pull-lls-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000sd5.sdp?keeptime=00093a80\\\\u0026wsSecret=160b63b9332a90cdc1200708fa62ef12\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_lls_Stage0T000sd5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"bytevc1\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500,\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90},\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600,\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280},\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":1600000,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"540x952\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":28}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":false}},\\\\\\\"md\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"https://pull-flv-l1-admin.douyincdn.com/stage/stream-696508443276869662_md.flv?keeptime=00093a80\\\\u0026wsSecret=c50deb9284a438a666a072f50dc62ef5\\\\u0026wsTime=6a9ff8c8\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026arch_hrchy=c1\\\\u0026unique_id=stream-696508443276869662_30_flv_md\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662_md/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=edf54b8df7c431ee3dbb091366889d9e\\\\u0026wsTime=6a9ff8c8\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026arch_hrchy=c1\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"http://pull-lls-l1.douyincdn.com/stage/stream-696508443276869662_md.sdp?keeptime=00093a80\\\\u0026wsSecret=64008bb90e1465f2779de9d14c7a2aff\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_lls_md\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600,\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280},\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500,\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9},\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"h264\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":250000,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"240x423\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":15}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":false}},\\\\\\\"hd\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662_hd5.flv?keeptime=00093a80\\\\u0026wsSecret=a8973c6612b975aa74808223c90bf3c6\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_flv_hd5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662_hd5/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=1f8cb133acf998a9d90dfd4db698a09a\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"http://pull-lls-l1.douyincdn.com/stage/stream-696508443276869662_hd5.sdp?keeptime=00093a80\\\\u0026wsSecret=07d2faeec724f59cb88c7da8c2940543\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_lls_hd5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600,\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280},\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"bytevc1\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500,\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":2000000,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"720x1270\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":28}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":false}},\\\\\\\"origin\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662.flv?keeptime=00093a80\\\\u0026wsSecret=4aaa2db14de8bcbf8e9337d0a06fcc59\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_flv\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=528fc87adb68d9b8ae0da7e736e6089c\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"http://pull-lls-l1.douyincdn.com/stage/stream-696508443276869662.sdp?keeptime=00093a80\\\\u0026wsSecret=6cb0e841afadbae42c9a4bc28e99c112\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_lls\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"bytevc1\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280,\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600,\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20},\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500},\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":158000,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"1088x1920\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":28}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":true}},\\\\\\\"ld\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"http://pull-flv-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000ld5.flv?keeptime=00093a80\\\\u0026wsSecret=9ecb016a820cd06abc0f3dfaf2185d9d\\\\u0026wsTime=6a9ff8c8\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026arch_hrchy=c1\\\\u0026unique_id=stream-696508443276869662_30_flv_Stage0T000ld5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000ld5/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=3d5ad54c091ebc8f48e84641cb323bea\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"http://pull-lls-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000ld5.sdp?keeptime=00093a80\\\\u0026wsSecret=cdaf53c36137547c6177b39f169b06e6\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696508443276869662_30_lls_Stage0T000ld5\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500,\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280,\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600},\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"bytevc1\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":1000000,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"480x847\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":28}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":false}}}}\\\",\\\"options\\\":{\\\"default_quality\\\":{\\\"name\\\":\\\"蓝光\\\",\\\"sdk_key\\\":\\\"origin\\\",\\\"v_codec\\\":\\\"bytevc1\\\",\\\"resolution\\\":\\\"1088x1920\\\",\\\"level\\\":4},\\\"qualities\\\":[{\\\"name\\\":\\\"标清\\\",\\\"sdk_key\\\":\\\"ld\\\",\\\"v_codec\\\":\\\"bytevc1\\\",\\\"resolution\\\":\\\"480x847\\\",\\\"level\\\":1,\\\"v_bit_rate\\\":1000000,\\\"fps\\\":28},{\\\"name\\\":\\\"高清\\\",\\\"sdk_key\\\":\\\"sd\\\",\\\"v_codec\\\":\\\"bytevc1\\\",\\\"resolution\\\":\\\"540x952\\\",\\\"level\\\":2,\\\"v_bit_rate\\\":1600000,\\\"fps\\\":28},{\\\"name\\\":\\\"超清\\\",\\\"sdk_key\\\":\\\"hd\\\",\\\"v_codec\\\":\\\"bytevc1\\\",\\\"resolution\\\":\\\"720x1270\\\",\\\"level\\\":3,\\\"v_bit_rate\\\":2000000,\\\"fps\\\":28},{\\\"name\\\":\\\"蓝光\\\",\\\"sdk_key\\\":\\\"origin\\\",\\\"v_codec\\\":\\\"bytevc1\\\",\\\"resolution\\\":\\\"1088x1920\\\",\\\"level\\\":4,\\\"v_bit_rate\\\":158000,\\\"fps\\\":28}],\\\"quality_strategy\\\":\\\"default\\\"}},\\\"push_data\\\":{\\\"push_stream_level\\\":4}},\\\"hls_pull_url_map\\\":{\\\"FULL_HD1\\\":\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=528fc87adb68d9b8ae0da7e736e6089c\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\",\\\"HD1\\\":\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662_hd5/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=1f8cb133acf998a9d90dfd4db698a09a\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\",\\\"SD1\\\":\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000ld5/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=3d5ad54c091ebc8f48e84641cb323bea\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\",\\\"SD2\\\":\\\"http://pull-hls-l1.douyincdn.com/stage/stream-696508443276869662_Stage0T000sd5/playlist.m3u8?keeptime=00093a80\\\\u0026wsSecret=45814c650f4ed924b2443786e303758a\\\\u0026wsTime=6a9ff8c8\\\\u0026arch_hrchy=c1\\\\u0026exp_hrchy=c1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-YHiL7S\\\"},\\\"stream_control_type\\\":4,\\\"stream_orientation\\\":1,\\\"play\\\":{\\\"horizontal\\\":\\\"main\\\",\\\"vertical\\\":\\\"main\\\"}},\\\"live_type_normal\\\":true,\\\"paid_live_data\\\":{},\\\"ecom_data\\\":{\\\"room_cart_v2\\\":{\\\"show_cart\\\":2}},\\\"pack_meta\\\":{\\\"scene\\\":\\\"aweme_head_struct(prod_single_dc/rpc/topo)\\\",\\\"env\\\":\\\"prod\\\",\\\"dc\\\":\\\"hl\\\",\\\"cluster\\\":\\\"feed\\\"},\\\"others\\\":{\\\"anchor_together_live\\\":{\\\"scene\\\":1,\\\"is_show\\\":true},\\\"labels\\\":{\\\"bandwidth_level\\\":{\\\"value\\\":\\\"3\\\",\\\"ttl\\\":604800},\\\"bandwidth_level_double\\\":{\\\"value\\\":\\\"3.0\\\",\\\"value_type\\\":1,\\\"ttl\\\":604800},\\\"brightness\\\":{\\\"value\\\":\\\"5\\\"},\\\"contrast\\\":{\\\"value\\\":\\\"58\\\"},\\\"is_pk_anchor\\\":{\\\"value\\\":\\\"1\\\"},\\\"live_room_acu_after_10m\\\":{\\\"value\\\":\\\"2.55\\\",\\\"value_type\\\":1},\\\"live_room_acu_after_30m\\\":{\\\"value\\\":\\\"2.64\\\",\\\"value_type\\\":1},\\\"live_room_acu_after_5m\\\":{\\\"value\\\":\\\"1.22\\\",\\\"value_type\\\":1},\\\"live_room_acu_after_60m\\\":{\\\"value\\\":\\\"2.64\\\",\\\"value_type\\\":1},\\\"live_room_duration_after_10m\\\":{\\\"value\\\":\\\"2.55\\\",\\\"value_type\\\":1},\\\"live_room_duration_after_30m\\\":{\\\"value\\\":\\\"2.61\\\",\\\"value_type\\\":1},\\\"live_room_duration_after_5m\\\":{\\\"value\\\":\\\"1.11\\\",\\\"value_type\\\":1},\\\"live_room_duration_after_60m\\\":{\\\"value\\\":\\\"2.67\\\",\\\"value_type\\\":1},\\\"live_room_pcu_after_10m\\\":{\\\"value\\\":\\\"2.94\\\",\\\"value_type\\\":1},\\\"live_room_pcu_after_30m\\\":{\\\"value\\\":\\\"3.08\\\",\\\"value_type\\\":1},\\\"live_room_pcu_after_5m\\\":{\\\"value\\\":\\\"1.25\\\",\\\"value_type\\\":1},\\\"live_room_pcu_after_60m\\\":{\\\"value\\\":\\\"3.09\\\",\\\"value_type\\\":1},\\\"resolution\\\":{\\\"value\\\":\\\"ld\\\",\\\"value_type\\\":3},\\\"saturation\\\":{\\\"value\\\":\\\"55\\\"},\\\"sharpness\\\":{\\\"value\\\":\\\"60\\\"}}},\\\"pico_info\\\":{\\\"virtual_live_bg_images\\\":{}},\\\"game_data\\\":{\\\"game_tag_info\\\":{\\\"is_game\\\":2}}}\",\"can_set_geofencing\":null,\"room_id_str\":\"7683052152004758287\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：Vtian617\",\"card_entries\":null,\"display_info\":[{\"title\":\"超级哇塞大美女\"},{\"text\":\"粉丝: 59.7万\"},{\"text\":\"抖音号：Vtian617\"}],\"live_status\":1,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"enable_inner_live\":false,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.6689773712.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"6689773712\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null}",
+          "send_back": "",
+          "card_style_type": 4,
+          "ecom_goods_list": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user"
+            }
+          },
+          "type": 999,
+          "sub_card_list": null,
+          "show_tab": null,
+          "aweme_list": null,
+          "music_info_list": null,
+          "ops": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "shoot_position_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.6689773712.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "debug_diff_info": {},
+          "card_type": 4,
+          "qishui_music_list": null,
+          "card_type_name": "channel_user",
+          "height": 80,
+          "doc_type": 150
+        },
+        "log": {
+          "dcm": "search.natural.discover.6689773712.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "8",
+        "type": 999,
+        "data": {
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "send_back": "",
+          "ops": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp"
+            }
+          },
+          "card_style_type": 4,
+          "ecom_goods_list": null,
+          "shoot_position_list": null,
+          "raw_data": "{\"user_info\":{\"uid\":\"58835471584\",\"nickname\":\"冯大美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_a48e4768aa0535d40306f2d324e514c3\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_a48e4768aa0535d40306f2d324e514c3.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_a48e4768aa0535d40306f2d324e514c3\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a48e4768aa0535d40306f2d324e514c3.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_a48e4768aa0535d40306f2d324e514c3\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_a48e4768aa0535d40306f2d324e514c3.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":1577120,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"6906641\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAqVc4On8T-XYtCDkQCB-h61PhDMfKt3FYea_tTgQLiqU\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：6906641\",\"card_entries\":null,\"display_info\":[{\"title\":\"冯大美女\"},{\"text\":\"粉丝: 157.7万\"},{\"text\":\"抖音号：6906641\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.58835471584.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"58835471584\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "card_type_name": "channel_user",
+          "log_data": {
+            "dcm": "search.natural.discover.58835471584.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "tab": null,
+          "card_type": 4,
+          "music_info_list": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "qishui_music_list": null,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "type": 999,
+          "doc_type": 150,
+          "provider_doc_id": 58835471584,
+          "provider_doc_id_str": "58835471584",
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "height": 80,
+          "origin_type": 4,
+          "sub_card_list": null,
+          "show_tab": null
+        },
+        "log": {
+          "dcm": "search.natural.discover.58835471584.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "9",
+        "type": 999,
+        "data": {
+          "origin_type": 4,
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.1257450920221783.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "provider_doc_id_str": "1257450920221783",
+          "show_tab": null,
+          "card_type": 4,
+          "card_style_type": 4,
+          "ecom_goods_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "type": 999,
+          "doc_type": 150,
+          "provider_doc_id": 1257450920221783,
+          "tab": null,
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "send_back": "",
+          "ops": null,
+          "music_info_list": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user"
+            }
+          },
+          "qishui_music_list": null,
+          "raw_data": "{\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"1257450920221783\",\"nickname\":\"美女\",\"gender\":2,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-i-0813c001_oQEV2A7BEBAf4IBrAUAAezE2GEFe9V1Dq7rF1t\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c001_oQEV2A7BEBAf4IBrAUAAezE2GEFe9V1Dq7rF1t.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-i-0813c001_oQEV2A7BEBAf4IBrAUAAezE2GEFe9V1Dq7rF1t\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oQEV2A7BEBAf4IBrAUAAezE2GEFe9V1Dq7rF1t.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-i-0813c001_oQEV2A7BEBAf4IBrAUAAezE2GEFe9V1Dq7rF1t\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_oQEV2A7BEBAf4IBrAUAAezE2GEFe9V1Dq7rF1t.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":132953,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"14567821zd\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAVD5JjpKZrRX9VWx6rSeNI5EAb5BEPGgpQO-b6dpT0HdR-EzqQ_FbmXjh00GbuyWR\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：14567821zd\",\"card_entries\":null,\"display_info\":[{\"title\":\"美女\"},{\"text\":\"粉丝: 13.3万\"},{\"text\":\"抖音号：14567821zd\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.1257450920221783.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"is_aladdin\":\"0\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"search_result_id\":\"1257450920221783\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false}",
+          "card_type_name": "channel_user",
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "height": 80,
+          "card_id": "douyin.doctype_aweme_user",
+          "shoot_position_list": null
+        },
+        "log": {
+          "dcm": "search.natural.discover.1257450920221783.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "10",
+        "type": 999,
+        "data": {
+          "send_back": "",
+          "music_info_list": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "height": 80,
+          "provider_doc_id": 3549645282227964,
+          "tab": null,
+          "card_style_type": 4,
+          "ecom_goods_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80
+            }
+          },
+          "shoot_position_list": null,
+          "origin_type": 4,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "ops": null,
+          "qishui_music_list": null,
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.3549645282227964.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "provider_doc_id_str": "3549645282227964",
+          "show_tab": null,
+          "card_type": 4,
+          "raw_data": "{\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"3549645282227964\",\"nickname\":\"笨蛋美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_b799626d5c9d9bd8c97335089864ead8\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_b799626d5c9d9bd8c97335089864ead8.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_b799626d5c9d9bd8c97335089864ead8\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b799626d5c9d9bd8c97335089864ead8.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_b799626d5c9d9bd8c97335089864ead8\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_b799626d5c9d9bd8c97335089864ead8.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":816243,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"70859911303\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAARvCyGnDG2GMVhXYOv8CS5kdOiVfj6dryqh_s0_P7Hr1jzBg0RoOlrf7zNaImeHim\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：70859911303\",\"card_entries\":null,\"display_info\":[{\"title\":\"笨蛋美女\"},{\"text\":\"粉丝: 81.6万\"},{\"text\":\"抖音号：70859911303\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.3549645282227964.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"3549645282227964\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null}",
+          "card_type_name": "channel_user",
+          "type": 999,
+          "doc_type": 150
+        },
+        "log": {
+          "dcm": "search.natural.discover.3549645282227964.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "11",
+        "type": 999,
+        "data": {
+          "log_data": {
+            "dcm": "search.natural.discover.4503661915699726.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "tab": null,
+          "card_type": 4,
+          "height": 80,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "card_style_type": 4,
+          "raw_data": "{\"user_info\":{\"uid\":\"4503661915699726\",\"nickname\":\"小美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_owPN6Ah0ReA7QEQqEnFfEEwTUIfAB8IP9AD0Av\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_owPN6Ah0ReA7QEQqEnFfEEwTUIfAB8IP9AD0Av.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-i-0813c000-ce_owPN6Ah0ReA7QEQqEnFfEEwTUIfAB8IP9AD0Av\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_owPN6Ah0ReA7QEQqEnFfEEwTUIfAB8IP9AD0Av.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-i-0813c000-ce_owPN6Ah0ReA7QEQqEnFfEEwTUIfAB8IP9AD0Av\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_owPN6Ah0ReA7QEQqEnFfEEwTUIfAB8IP9AD0Av.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":594795,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"ghjhfhkjfhkjfkkh\",\"room_id\":0,\"verification_type\":0,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAsOS4HuxsXEA338zvNs6sq6n-gNf6LOQoELtA2eHGq2bfNCYCV-Z09TbfduBW5o_T\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：ghjhfhkjfhkjfkkh\",\"card_entries\":null,\"display_info\":[{\"title\":\"小美女\"},{\"text\":\"粉丝: 59.5万\"},{\"text\":\"抖音号：ghjhfhkjfhkjfkkh\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.4503661915699726.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"4503661915699726\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "doc_type": 150,
+          "show_tab": null,
+          "card_type_name": "channel_user",
+          "provider_doc_id": 4503661915699726,
+          "ecom_goods_list": null,
+          "music_info_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "card_id": "douyin.doctype_aweme_user",
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp"
+            }
+          },
+          "qishui_music_list": null,
+          "origin_type": 4,
+          "send_back": "",
+          "type": 999,
+          "sub_card_list": null,
+          "provider_doc_id_str": "4503661915699726",
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "ops": null,
+          "shoot_position_list": null
+        },
+        "log": {
+          "dcm": "search.natural.discover.4503661915699726.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "12",
+        "type": 999,
+        "data": {
+          "qishui_music_list": null,
+          "type": 999,
+          "doc_type": 150,
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.97096831782.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "show_tab": null,
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "ecom_goods_list": null,
+          "provider_doc_id": 97096831782,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "ops": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80
+            }
+          },
+          "card_type_name": "channel_user",
+          "height": 80,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "origin_type": 4,
+          "provider_doc_id_str": "97096831782",
+          "send_back": "",
+          "music_info_list": null,
+          "shoot_position_list": null,
+          "raw_data": "{\"user_info\":{\"uid\":\"97096831782\",\"nickname\":\"俄罗斯美女\",\"gender\":2,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-i-0813_c1a89dc5aa374dbe92861c759bca328b\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813_c1a89dc5aa374dbe92861c759bca328b.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-i-0813_c1a89dc5aa374dbe92861c759bca328b\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_c1a89dc5aa374dbe92861c759bca328b.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-i-0813_c1a89dc5aa374dbe92861c759bca328b\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_c1a89dc5aa374dbe92861c759bca328b.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":717236,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"Rz99830225666\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAUJfgE2aXXkrrsI24IBSo-O2Zj0hfXG3KwNwBAEKTVHs\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：Rz99830225666\",\"card_entries\":null,\"display_info\":[{\"title\":\"俄罗斯美女\"},{\"text\":\"粉丝: 71.7万\"},{\"text\":\"抖音号：Rz99830225666\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.97096831782.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"token_type\":\"person\",\"search_result_id\":\"97096831782\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "tab": null,
+          "card_type": 4,
+          "card_style_type": 4,
+          "card_id": "douyin.doctype_aweme_user"
+        },
+        "log": {
+          "dcm": "search.natural.discover.97096831782.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "13",
+        "type": 999,
+        "data": {
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "log_data": {
+            "dcm": "search.natural.discover.91668367604.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "show_tab": null,
+          "qishui_music_list": null,
+          "origin_type": 4,
+          "card_type_name": "channel_user",
+          "card_style_type": 4,
+          "raw_data": "{\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"91668367604\",\"nickname\":\"美女集中营\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_04292adbb01edc3b11f9855f5b581def\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_04292adbb01edc3b11f9855f5b581def.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_04292adbb01edc3b11f9855f5b581def\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_04292adbb01edc3b11f9855f5b581def.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_04292adbb01edc3b11f9855f5b581def\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_04292adbb01edc3b11f9855f5b581def.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":3148152,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"289523582\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAA9LPVyPnMkYaQ2_Q67Z3FbxH2QljWMESqurySPUO0hEc\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：289523582\",\"card_entries\":null,\"display_info\":[{\"title\":\"美女集中营\"},{\"text\":\"粉丝: 314.8万\"},{\"text\":\"抖音号：289523582\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.91668367604.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"token_type\":\"person\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"91668367604\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null}",
+          "doc_type": 150,
+          "sub_card_list": null,
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "music_info_list": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "provider_doc_id": 91668367604,
+          "card_type": 4,
+          "ops": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80,
+              "type": 999
+            }
+          },
+          "height": 80,
+          "send_back": "",
+          "type": 999,
+          "provider_doc_id_str": "91668367604",
+          "tab": null,
+          "ecom_goods_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "shoot_position_list": null
+        },
+        "log": {
+          "dcm": "search.natural.discover.91668367604.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "14",
+        "type": 999,
+        "data": {
+          "raw_data": "{\"user_info\":{\"uid\":\"4243767925672203\",\"nickname\":\"美女?\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_0efd2c998efff743b6c878003b087bff\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_0efd2c998efff743b6c878003b087bff.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_0efd2c998efff743b6c878003b087bff\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0efd2c998efff743b6c878003b087bff.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_0efd2c998efff743b6c878003b087bff\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_0efd2c998efff743b6c878003b087bff.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":126228,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"qer07729\",\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":1,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAA-ts9I8R0bZudAUZo0QBDIsWKcgbsRgxxEDcM16RGR7iWmPDW-pyQl-fc8K-EB--m\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"white_cover_url\":null,\"user_tags\":[{\"description\":\"私密账号\",\"icon_url\":\"\",\"type\":\"secret_label\"}],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：qer07729\",\"card_entries\":null,\"display_info\":[{\"title\":\"美女?\"},{\"tag\":[{\"description\":\"私密账号\",\"icon_url\":\"\",\"type\":\"secret_label\"}]},{\"text\":\"粉丝: 12.6万\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.4243767925672203.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"is_aladdin\":\"0\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"token_type\":\"person\",\"search_result_id\":\"4243767925672203\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "type": 999,
+          "card_style_type": 4,
+          "doc_type": 150,
+          "debug_diff_info": {},
+          "send_back": "",
+          "card_type": 4,
+          "music_info_list": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "card_type_name": "channel_user",
+          "height": 80,
+          "provider_doc_id": 4243767925672203,
+          "provider_doc_id_str": "4243767925672203",
+          "tab": null,
+          "show_tab": null,
+          "aweme_list": null,
+          "ecom_goods_list": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "qishui_music_list": null,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.4243767925672203.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "ops": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80
+            }
+          },
+          "shoot_position_list": null,
+          "origin_type": 4
+        },
+        "log": {
+          "dcm": "search.natural.discover.4243767925672203.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "15",
+        "type": 999,
+        "data": {
+          "type": 999,
+          "aweme_list": null,
+          "card_style_type": 4,
+          "ecom_goods_list": null,
+          "music_info_list": null,
+          "qishui_music_list": null,
+          "card_type_name": "channel_user",
+          "height": 80,
+          "card_type": 4,
+          "origin_type": 4,
+          "doc_type": 150,
+          "provider_doc_id_str": "2885562301678926",
+          "send_back": "",
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80
+            }
+          },
+          "raw_data": "{\"user_info\":{\"uid\":\"2885562301678926\",\"nickname\":\"何美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_oEiqbPpvOxQigBMAxEEAAAb5Aa2IAASnEl27B\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_oEiqbPpvOxQigBMAxEEAAAb5Aa2IAASnEl27B.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-i-0813c000-ce_oEiqbPpvOxQigBMAxEEAAAb5Aa2IAASnEl27B\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oEiqbPpvOxQigBMAxEEAAAb5Aa2IAASnEl27B.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-i-0813c000-ce_oEiqbPpvOxQigBMAxEEAAAb5Aa2IAASnEl27B\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_oEiqbPpvOxQigBMAxEEAAAb5Aa2IAASnEl27B.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":272586,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"wjn1787751\",\"room_id\":7683132292528753408,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAAaY6h1bpB2hD124aclK3dsM3Jy40XOulv8HGFmW1HZ3RnbyZTPe1-BwzYfo2_HYO\",\"need_points\":null,\"homepage_bottom_toast\":null,\"room_data\":\"{\\\"id\\\":7683132292528753408,\\\"id_str\\\":\\\"7683132292528753408\\\",\\\"owner_user_id\\\":2885562301678926,\\\"user_count\\\":2,\\\"extra\\\":{},\\\"os_type\\\":2,\\\"client_version\\\":400300,\\\"stream_id\\\":696509695052219050,\\\"stream_id_str\\\":\\\"696509695052219050\\\",\\\"stream_url\\\":{\\\"id\\\":696509695052219050,\\\"id_str\\\":\\\"696509695052219050\\\",\\\"resolution_name\\\":{\\\"FULL_HD1\\\":\\\"蓝光\\\",\\\"HD1\\\":\\\"超清\\\",\\\"ORIGION\\\":\\\"原画\\\",\\\"SD1\\\":\\\"标清\\\",\\\"SD2\\\":\\\"高清\\\"},\\\"default_resolution\\\":\\\"FULL_HD1\\\",\\\"extra\\\":{\\\"height\\\":864,\\\"width\\\":480},\\\"rtmp_pull_url\\\":\\\"http://pull-flv-f11.douyincdn.com/stage/stream-696509695052219050.flv?expire=1789473608\\\\u0026sign=2144fe7b7e57ed8024c1bfe38a56b691\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696509695052219050_682_flv\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\",\\\"flv_pull_url\\\":{\\\"FULL_HD1\\\":\\\"http://pull-flv-f11.douyincdn.com/stage/stream-696509695052219050.flv?expire=1789473608\\\\u0026sign=2144fe7b7e57ed8024c1bfe38a56b691\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696509695052219050_682_flv\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\"},\\\"hls_pull_url\\\":\\\"http://pull-hls-f11.douyincdn.com/stage/stream-696509695052219050.m3u8?expire=1789473608\\\\u0026sign=49134376f046341d19bd2cfe4d3d71fc\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\",\\\"hls_pull_url_params\\\":\\\"{\\\\\\\"NotifyCompletedImmediately\\\\\\\":1,\\\\\\\"BufferDataMs\\\\\\\":1000,\\\\\\\"EnableNTPByApp\\\\\\\":1,\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\":4000,\\\\\\\"P2PFastOpenDuration\\\\\\\":-1500,\\\\\\\"NetworkAdapt\\\\\\\":{\\\\\\\"HurryType\\\\\\\":0,\\\\\\\"SlowSpeed\\\\\\\":0.9,\\\\\\\"SlowTime\\\\\\\":1,\\\\\\\"HurrySpeed\\\\\\\":1.1,\\\\\\\"HurryMillisecond\\\\\\\":3500,\\\\\\\"HurryStartMs\\\\\\\":4000,\\\\\\\"HurryStopType\\\\\\\":1,\\\\\\\"HurryTime\\\\\\\":4,\\\\\\\"SlowMillisecond\\\\\\\":90,\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"SEICheck\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\":1,\\\\\\\"EnableGetTimeOptimize\\\\\\\":1,\\\\\\\"EnableLowLatencyFLV\\\\\\\":1,\\\\\\\"FastOpenDuration\\\\\\\":-1800,\\\\\\\"VCodec\\\\\\\":\\\\\\\"bytevc1\\\\\\\",\\\\\\\"PlayingIntervalMs\\\\\\\":20000,\\\\\\\"LiveIOConfig\\\\\\\":{\\\\\\\"EnablePcdnSchedule\\\\\\\":0},\\\\\\\"NNSR\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\":0,\\\\\\\"LongerSideUpperBound\\\\\\\":1280,\\\\\\\"ShorterSideUpperBound\\\\\\\":600,\\\\\\\"FrameRateUpperBound\\\\\\\":20}}\\\",\\\"rtmp_pull_url_params\\\":\\\"{\\\\\\\"NotifyCompletedImmediately\\\\\\\":1,\\\\\\\"BufferDataMs\\\\\\\":1000,\\\\\\\"EnableNTPByApp\\\\\\\":1,\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\":4000,\\\\\\\"P2PFastOpenDuration\\\\\\\":-1500,\\\\\\\"NetworkAdapt\\\\\\\":{\\\\\\\"HurryType\\\\\\\":0,\\\\\\\"SlowSpeed\\\\\\\":0.9,\\\\\\\"SlowTime\\\\\\\":1,\\\\\\\"HurrySpeed\\\\\\\":1.1,\\\\\\\"HurryMillisecond\\\\\\\":3500,\\\\\\\"HurryStartMs\\\\\\\":4000,\\\\\\\"HurryStopType\\\\\\\":1,\\\\\\\"HurryTime\\\\\\\":4,\\\\\\\"SlowMillisecond\\\\\\\":90,\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"SEICheck\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1},\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\":1,\\\\\\\"EnableGetTimeOptimize\\\\\\\":1,\\\\\\\"EnableLowLatencyFLV\\\\\\\":1,\\\\\\\"FastOpenDuration\\\\\\\":-1800,\\\\\\\"VCodec\\\\\\\":\\\\\\\"bytevc1\\\\\\\",\\\\\\\"PlayingIntervalMs\\\\\\\":20000,\\\\\\\"LiveIOConfig\\\\\\\":{\\\\\\\"EnablePcdnSchedule\\\\\\\":0},\\\\\\\"NNSR\\\\\\\":{\\\\\\\"Enabled\\\\\\\":1,\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\":0,\\\\\\\"LongerSideUpperBound\\\\\\\":1280,\\\\\\\"ShorterSideUpperBound\\\\\\\":600,\\\\\\\"FrameRateUpperBound\\\\\\\":20}}\\\",\\\"live_core_sdk_data\\\":{\\\"pull_data\\\":{\\\"stream_data\\\":\\\"{\\\\\\\"common\\\\\\\":{\\\\\\\"ts\\\\\\\":\\\\\\\"1788868808\\\\\\\",\\\\\\\"session_id\\\\\\\":\\\\\\\"173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\\\\\",\\\\\\\"stream\\\\\\\":\\\\\\\"696509695052219050\\\\\\\",\\\\\\\"version\\\\\\\":0,\\\\\\\"rule_ids\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"ab_version_trace\\\\\\\\\\\\\\\":null,\\\\\\\\\\\\\\\"sched\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ids\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\":[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ex_1558(Weight:15)\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ex_4144(Weight:0)\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ex_4041(Weight:0)\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"ex_4156(Weight:0)\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"],\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"result\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"hit\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"default\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"cdn\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\":956}}\\\\\\\\\\\\\\\"}\\\\\\\",\\\\\\\"common_trace\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"StrategyTrace\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Neptune\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"PlayStream\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"ids\\\\\\\\\\\\\\\":null}}},\\\\\\\\\\\\\\\"VpaasFunctionIDS\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"VpaasABOptionIDS\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"BusinessType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"default_business\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"BigeventAnchorLevel\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"BizType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"show_room\\\\\\\\\\\\\\\"}\\\\\\\",\\\\\\\"secret_key\\\\\\\":\\\\\\\"c6c7a179-a675-49b10622081721d47f8aae5380aeaa7999c311d95abe34ff119aa9800eadea4f4d1e3569d9bdc37f2b75385422e9370c3f\\\\\\\",\\\\\\\"app_id\\\\\\\":\\\\\\\"100100\\\\\\\",\\\\\\\"major_anchor_level\\\\\\\":\\\\\\\"common\\\\\\\",\\\\\\\"mode\\\\\\\":\\\\\\\"Normal\\\\\\\",\\\\\\\"lines\\\\\\\":{\\\\\\\"main\\\\\\\":\\\\\\\"line_956\\\\\\\"},\\\\\\\"p2p_params\\\\\\\":{\\\\\\\"PcdnIsolationConfig\\\\\\\":{\\\\\\\"IsolationName\\\\\\\":\\\\\\\"isolation1\\\\\\\",\\\\\\\"FsV4Domain\\\\\\\":\\\\\\\"signal-t1-v4-az1.rtcxyz.com\\\\\\\",\\\\\\\"FsV6Domain\\\\\\\":\\\\\\\"signal-t1-v6-az1.rtcxyz.com\\\\\\\",\\\\\\\"FsHttpsDomain\\\\\\\":\\\\\\\"vcl-brain-http.ndcpp.com\\\\\\\",\\\\\\\"HoleV6Domain\\\\\\\":\\\\\\\"signal-t3-v6-az1.rtcxyz.com\\\\\\\",\\\\\\\"StunV4Domain\\\\\\\":\\\\\\\"vc-mirror.ndcpp.com\\\\\\\",\\\\\\\"StunV6Domain\\\\\\\":\\\\\\\"vc-mirror-v6.ndcpp.com\\\\\\\",\\\\\\\"HoleV4Domain\\\\\\\":\\\\\\\"signal-t3-v4-az1.rtcxyz.com\\\\\\\"}},\\\\\\\"label\\\\\\\":{\\\\\\\"peer_labels\\\\\\\":{},\\\\\\\"labels\\\\\\\":{}},\\\\\\\"stream_data_content_encoding\\\\\\\":\\\\\\\"default\\\\\\\",\\\\\\\"common_sdk_params\\\\\\\":{\\\\\\\"main\\\\\\\":\\\\\\\"{}\\\\\\\"},\\\\\\\"stream_name\\\\\\\":\\\\\\\"stream-696509695052219050\\\\\\\",\\\\\\\"main_push_id\\\\\\\":682,\\\\\\\"backup_push_id\\\\\\\":0},\\\\\\\"data\\\\\\\":{\\\\\\\"md\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"https://pull-flv-f11-admin.douyincdn.com/stage/stream-696509695052219050_md.flv?expire=1789473608\\\\u0026sign=3dd0dbc18db343a1eb591fa1a16a18fd\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696509695052219050_682_flv_md\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"http://pull-hls-f11.douyincdn.com/stage/stream-696509695052219050_md.m3u8?expire=1789473608\\\\u0026sign=6e755d68a61163958ce88560c4f34a9d\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"http://pull-lls-f11.douyincdn.com/stage/stream-696509695052219050_md.sdp?expire=1789473608\\\\u0026sign=116249db5b8171b0e1234c7348714b4b\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696509695052219050_682_lls_md\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"h264\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500,\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9},\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280,\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600,\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":250000,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"240x432\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":14}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":false}},\\\\\\\"ao\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"http://pull-flv-f11.douyincdn.com/stage/stream-696509695052219050.flv?expire=1789473608\\\\u0026sign=2144fe7b7e57ed8024c1bfe38a56b691\\\\u0026only_audio=1\\\\u0026eupf_relay_mode=err\\\\u0026major_anchor_level=common\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026unique_id=stream-696509695052219050_682_flv\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500,\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4},\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280,\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600,\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20},\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"h264\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":14}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":false}},\\\\\\\"origin\\\\\\\":{\\\\\\\"main\\\\\\\":{\\\\\\\"flv\\\\\\\":\\\\\\\"http://pull-flv-f11.douyincdn.com/stage/stream-696509695052219050.flv?expire=1789473608\\\\u0026sign=2144fe7b7e57ed8024c1bfe38a56b691\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696509695052219050_682_flv\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\\\\\",\\\\\\\"hls\\\\\\\":\\\\\\\"http://pull-hls-f11.douyincdn.com/stage/stream-696509695052219050.m3u8?expire=1789473608\\\\u0026sign=49134376f046341d19bd2cfe4d3d71fc\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\\\\\",\\\\\\\"cmaf\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"dash\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"lls\\\\\\\":\\\\\\\"http://pull-lls-f11.douyincdn.com/stage/stream-696509695052219050.sdp?expire=1789473608\\\\u0026sign=3854741df37aa6dc2e32c1f0c2f3f604\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026unique_id=stream-696509695052219050_682_lls\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\\\\\",\\\\\\\"tsl\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"tile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"http_ts\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"ll_hls\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"sdk_params\\\\\\\":\\\\\\\"{\\\\\\\\\\\\\\\"NotifyCompletedImmediately\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"BufferDataMs\\\\\\\\\\\\\\\":1000,\\\\\\\\\\\\\\\"EnableNTPByApp\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"DroppingRepeatingDataDTSMaxDiff\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"P2PFastOpenDuration\\\\\\\\\\\\\\\":-1500,\\\\\\\\\\\\\\\"NetworkAdapt\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"HurryType\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"SlowSpeed\\\\\\\\\\\\\\\":0.9,\\\\\\\\\\\\\\\"SlowTime\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurrySpeed\\\\\\\\\\\\\\\":1.1,\\\\\\\\\\\\\\\"HurryMillisecond\\\\\\\\\\\\\\\":3500,\\\\\\\\\\\\\\\"HurryStartMs\\\\\\\\\\\\\\\":4000,\\\\\\\\\\\\\\\"HurryStopType\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"HurryTime\\\\\\\\\\\\\\\":4,\\\\\\\\\\\\\\\"SlowMillisecond\\\\\\\\\\\\\\\":90,\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"SEICheck\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1},\\\\\\\\\\\\\\\"DroppingRepeatingDataEnabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"EnableGetTimeOptimize\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"EnableLowLatencyFLV\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"FastOpenDuration\\\\\\\\\\\\\\\":-1800,\\\\\\\\\\\\\\\"VCodec\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"bytevc1\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"PlayingIntervalMs\\\\\\\\\\\\\\\":20000,\\\\\\\\\\\\\\\"LiveIOConfig\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"EnablePcdnSchedule\\\\\\\\\\\\\\\":0},\\\\\\\\\\\\\\\"NNSR\\\\\\\\\\\\\\\":{\\\\\\\\\\\\\\\"Enabled\\\\\\\\\\\\\\\":1,\\\\\\\\\\\\\\\"VBitrateLowerBoundInKbps\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"LongerSideUpperBound\\\\\\\\\\\\\\\":1280,\\\\\\\\\\\\\\\"ShorterSideUpperBound\\\\\\\\\\\\\\\":600,\\\\\\\\\\\\\\\"FrameRateUpperBound\\\\\\\\\\\\\\\":20},\\\\\\\\\\\\\\\"vbitrate\\\\\\\\\\\\\\\":1134592,\\\\\\\\\\\\\\\"resolution\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"480x864\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"gop\\\\\\\\\\\\\\\":2,\\\\\\\\\\\\\\\"drType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"sdr\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"fps\\\\\\\\\\\\\\\":14}\\\\\\\",\\\\\\\"enableEncryption\\\\\\\":true,\\\\\\\"templateRealTimeInfo\\\\\\\":{\\\\\\\"name\\\\\\\":\\\\\\\"origin\\\\\\\",\\\\\\\"bitrateKbps\\\\\\\":1148.14,\\\\\\\"updatedTime\\\\\\\":1788868802278}}}}}\\\",\\\"options\\\":{\\\"default_quality\\\":{\\\"name\\\":\\\"标清\\\",\\\"sdk_key\\\":\\\"origin\\\",\\\"v_codec\\\":\\\"bytevc1\\\",\\\"resolution\\\":\\\"480x864\\\",\\\"level\\\":1},\\\"qualities\\\":[{\\\"name\\\":\\\"标清\\\",\\\"sdk_key\\\":\\\"origin\\\",\\\"v_codec\\\":\\\"bytevc1\\\",\\\"resolution\\\":\\\"480x864\\\",\\\"level\\\":1,\\\"v_bit_rate\\\":1134592,\\\"fps\\\":14}],\\\"quality_strategy\\\":\\\"default\\\"}},\\\"push_data\\\":{\\\"push_stream_level\\\":1}},\\\"hls_pull_url_map\\\":{\\\"FULL_HD1\\\":\\\"http://pull-hls-f11.douyincdn.com/stage/stream-696509695052219050.m3u8?expire=1789473608\\\\u0026sign=49134376f046341d19bd2cfe4d3d71fc\\\\u0026arch_hrchy=w1\\\\u0026exp_hrchy=w1\\\\u0026major_anchor_level=common\\\\u0026t_id=173-20260908200007B6C92B726C1E5E101AB1-lJF4VG\\\"},\\\"stream_control_type\\\":4,\\\"stream_orientation\\\":1,\\\"play\\\":{\\\"horizontal\\\":\\\"main\\\",\\\"vertical\\\":\\\"main\\\"}},\\\"live_type_normal\\\":true,\\\"visibility_range\\\":4,\\\"paid_live_data\\\":{},\\\"ecom_data\\\":{\\\"room_cart_v2\\\":{\\\"show_cart\\\":2}},\\\"pack_meta\\\":{\\\"scene\\\":\\\"aweme_head_struct(prod_single_dc/rpc/topo)\\\",\\\"env\\\":\\\"prod\\\",\\\"dc\\\":\\\"hl\\\",\\\"cluster\\\":\\\"feed\\\"},\\\"others\\\":{\\\"anchor_together_live\\\":{\\\"scene\\\":1,\\\"is_show\\\":true},\\\"labels\\\":{\\\"bandwidth_level\\\":{\\\"value\\\":\\\"3\\\",\\\"ttl\\\":604800},\\\"bandwidth_level_double\\\":{\\\"value\\\":\\\"3.0\\\",\\\"value_type\\\":1,\\\"ttl\\\":604800},\\\"is_pk_anchor\\\":{\\\"value\\\":\\\"1\\\"}}},\\\"pico_info\\\":{\\\"virtual_live_bg_images\\\":{}},\\\"game_data\\\":{\\\"game_tag_info\\\":{\\\"is_game\\\":2}}}\",\"can_set_geofencing\":null,\"room_id_str\":\"7683132292528753408\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：wjn1787751\",\"card_entries\":null,\"display_info\":[{\"title\":\"何美女\"},{\"text\":\"粉丝: 27.3万\"},{\"text\":\"抖音号：wjn1787751\"}],\"live_status\":1,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"enable_inner_live\":false,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.2885562301678926.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"2885562301678926\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.2885562301678926.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "ops": null,
+          "provider_doc_id": 2885562301678926,
+          "tab": null,
+          "show_tab": null,
+          "debug_diff_info": {},
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "card_id": "douyin.doctype_aweme_user",
+          "shoot_position_list": null
+        },
+        "log": {
+          "dcm": "search.natural.discover.2885562301678926.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "16",
+        "type": 999,
+        "data": {
+          "send_back": "",
+          "card_type": 4,
+          "card_style_type": 4,
+          "shoot_position_list": null,
+          "doc_type": 150,
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "music_info_list": null,
+          "qishui_music_list": null,
+          "provider_doc_id": 4076608192777661,
+          "ecom_goods_list": null,
+          "ops": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "card_type_name": "channel_user",
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "origin_type": 4,
+          "type": 999,
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.4076608192777661.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "tab": null,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80
+            }
+          },
+          "raw_data": "{\"phone_number_encrypted\":null,\"user_info\":{\"uid\":\"4076608192777661\",\"nickname\":\"刘雅婧\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_04ccb2aac1726b7d0ff61d9da02bb9f9\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_04ccb2aac1726b7d0ff61d9da02bb9f9.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_04ccb2aac1726b7d0ff61d9da02bb9f9\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_04ccb2aac1726b7d0ff61d9da02bb9f9.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_04ccb2aac1726b7d0ff61d9da02bb9f9\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_04ccb2aac1726b7d0ff61d9da02bb9f9.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":5415265,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"125207LYJ\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAA151LLX3cTAWRP5bUprP6iHv14v7KXWPW9k5kqYncIWlc4725-8epZayVXRHghSdN\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[{\"description\":\"发过相关视频\",\"icon_url\":\"\",\"type\":\"click_query_label\"}],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：125207LYJ\",\"card_entries\":null,\"display_info\":[{\"title\":\"刘雅婧\"},{\"tag\":[{\"description\":\"发过相关视频\",\"icon_url\":\"\",\"type\":\"click_query_label\"}]},{\"text\":\"粉丝: 541.5万\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.4076608192777661.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"4076608192777661\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null}",
+          "height": 80,
+          "provider_doc_id_str": "4076608192777661",
+          "show_tab": null
+        },
+        "log": {
+          "dcm": "search.natural.discover.4076608192777661.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "17",
+        "type": 999,
+        "data": {
+          "sub_card_list": null,
+          "ecom_goods_list": null,
+          "music_info_list": null,
+          "qishui_music_list": null,
+          "provider_doc_id_str": "55457531960",
+          "tab": null,
+          "show_tab": null,
+          "debug_diff_info": {},
+          "aweme_list": null,
+          "card_type": 4,
+          "origin_type": 4,
+          "raw_data": "{\"user_info\":{\"uid\":\"55457531960\",\"nickname\":\"大美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_9891779dbf5dc03a796e34393919e40f\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_9891779dbf5dc03a796e34393919e40f.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_9891779dbf5dc03a796e34393919e40f\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9891779dbf5dc03a796e34393919e40f.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_9891779dbf5dc03a796e34393919e40f\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_9891779dbf5dc03a796e34393919e40f.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":243557,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"3438727\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAm0fQBp636gMy5xArlDzSlVY7vVJgCbmVray6UxyYXgM\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：3438727\",\"card_entries\":null,\"display_info\":[{\"title\":\"大美女\"},{\"text\":\"粉丝: 24.4万\"},{\"text\":\"抖音号：3438727\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.55457531960.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"55457531960\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "send_back": "",
+          "card_style_type": 4,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "card_id": "douyin.doctype_aweme_user",
+          "height": 80,
+          "doc_type": 150,
+          "log_data": {
+            "dcm": "search.natural.discover.55457531960.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "provider_doc_id": 55457531960,
+          "ops": null,
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80,
+              "type": 999
+            }
+          },
+          "shoot_position_list": null,
+          "card_type_name": "channel_user",
+          "type": 999,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp"
+        },
+        "log": {
+          "dcm": "search.natural.discover.55457531960.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "18",
+        "type": 999,
+        "data": {
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "qishui_music_list": null,
+          "shoot_position_list": null,
+          "height": 80,
+          "show_tab": null,
+          "card_type": 4,
+          "card_style_type": 4,
+          "music_info_list": null,
+          "origin_type": 4,
+          "type": 999,
+          "aweme_list": null,
+          "send_back": "",
+          "ecom_goods_list": null,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "card_type_name": "channel_user",
+          "raw_data": "{\"user_info\":{\"uid\":\"4174175873545791\",\"nickname\":\"美女集中营\",\"gender\":0,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_d2dbc2a56b8761ce93ec9a088417b8e9\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_d2dbc2a56b8761ce93ec9a088417b8e9.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_d2dbc2a56b8761ce93ec9a088417b8e9\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_d2dbc2a56b8761ce93ec9a088417b8e9.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_d2dbc2a56b8761ce93ec9a088417b8e9\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_d2dbc2a56b8761ce93ec9a088417b8e9.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":454335,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"88242186297\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAA19av3pXwhQL1l6S1EPMAlCM-g3RiT3JuvvmlIuVIaIWJF5V7uN8o_UxDuXP3ouMa\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：88242186297\",\"card_entries\":null,\"display_info\":[{\"title\":\"美女集中营\"},{\"text\":\"粉丝: 45.4万\"},{\"text\":\"抖音号：88242186297\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.4174175873545791.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"token_type\":\"person\",\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"4174175873545791\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"account_cert_info\":\"{}\",\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "log_data": {
+            "dcm": "search.natural.discover.4174175873545791.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "provider_doc_id_str": "4174175873545791",
+          "tab": null,
+          "debug_diff_info": {},
+          "ops": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+              "height": 80,
+              "type": 999
+            }
+          },
+          "doc_type": 150,
+          "sub_card_list": null,
+          "provider_doc_id": 4174175873545791
+        },
+        "log": {
+          "dcm": "search.natural.discover.4174175873545791.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      },
+      {
+        "data_id": "19",
+        "type": 999,
+        "data": {
+          "aweme_list": null,
+          "send_back": "",
+          "card_type": 4,
+          "card_style_type": 4,
+          "debug_data": {
+            "filter_debug_info_list": null
+          },
+          "type": 999,
+          "music_info_list": null,
+          "ops": null,
+          "card_id": "douyin.doctype_aweme_user",
+          "card_protocal_struct": {
+            "render_type": 1,
+            "render_extra": {
+              "height": 80,
+              "type": 999,
+              "card_type_name": "channel_user",
+              "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp"
+            }
+          },
+          "qishui_music_list": null,
+          "shoot_position_list": null,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "height": 80,
+          "sub_card_list": null,
+          "log_data": {
+            "dcm": "search.natural.discover.1722298498813242.20260908200007B6C92B726C1E5E101AB1"
+          },
+          "provider_doc_id_str": "1722298498813242",
+          "origin_type": 4,
+          "doc_type": 150,
+          "provider_doc_id": 1722298498813242,
+          "ecom_goods_list": null,
+          "raw_data": "{\"user_info\":{\"uid\":\"1722298498813242\",\"nickname\":\"美女\",\"gender\":1,\"avatar_larger\":{\"uri\":\"1080x1080/aweme-avatar/tos-cn-avt-0015_ea2f6760f77e5a92d4b45636c598ca01\",\"url_list\":[\"https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_ea2f6760f77e5a92d4b45636c598ca01.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_thumb\":{\"uri\":\"100x100/aweme-avatar/tos-cn-avt-0015_ea2f6760f77e5a92d4b45636c598ca01\",\"url_list\":[\"https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ea2f6760f77e5a92d4b45636c598ca01.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"avatar_medium\":{\"uri\":\"720x720/aweme-avatar/tos-cn-avt-0015_ea2f6760f77e5a92d4b45636c598ca01\",\"url_list\":[\"https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_ea2f6760f77e5a92d4b45636c598ca01.jpeg?from=2956013662\"],\"width\":720,\"height\":720},\"follow_status\":0,\"follower_count\":87043,\"weibo_verify\":\"\",\"custom_verify\":\"\",\"unique_id\":\"70730140435\",\"room_id\":0,\"verification_type\":1,\"enterprise_verify_reason\":\"\",\"followers_detail\":null,\"platform_sync_info\":null,\"secret\":0,\"geofencing\":null,\"follower_status\":0,\"cover_url\":null,\"item_list\":null,\"new_story_cover\":null,\"is_star\":false,\"type_label\":null,\"ad_cover_url\":null,\"relative_users\":null,\"cha_list\":null,\"sec_uid\":\"MS4wLjABAAAAgaoerOpBxTDQtnt3Hxsqq4eaE8S9jSJ7vLXHs5hatXjL4C4gZ3CwSHRFnRE8CeBV\",\"need_points\":null,\"homepage_bottom_toast\":null,\"can_set_geofencing\":null,\"room_id_str\":\"0\",\"white_cover_url\":null,\"user_tags\":[],\"ban_user_functions\":null,\"versatile_display\":\"抖音号：70730140435\",\"card_entries\":null,\"display_info\":[{\"title\":\"美女\"},{\"text\":\"粉丝: 8.7万\"},{\"text\":\"抖音号：70730140435\"}],\"live_status\":0,\"card_entries_not_display\":null,\"card_sort_priority\":null,\"interest_tags\":null,\"link_item_list\":null,\"user_permissions\":null,\"offline_info_list\":null,\"signature_extra\":null,\"personal_tag_list\":null,\"cf_list\":null,\"im_role_ids\":null,\"not_seen_item_id_list\":null,\"follower_list_secondary_information_struct\":null,\"endorsement_info_list\":null,\"text_extra\":null,\"contrail_list\":null,\"data_label_list\":null,\"not_seen_item_id_list_v2\":null,\"special_people_labels\":null,\"familiar_visitor_user\":null,\"avatar_schema_list\":null,\"profile_mob_params\":null,\"verification_permission_ids\":null,\"dcm_info\":{\"dcm\":\"search.natural.discover.1722298498813242.20260908200007B6C92B726C1E5E101AB1\",\"dcm_extra\":{\"search_id\":\"20260908200007B6C92B726C1E5E101AB1\",\"is_aladdin\":\"0\",\"search_result_id\":\"1722298498813242\",\"token_type\":\"person\"}},\"batch_unfollow_relation_desc\":null,\"batch_unfollow_contain_tabs\":null,\"creator_tag_list\":null,\"private_relation_list\":null,\"follower_count_str\":\"\",\"identity_labels\":null,\"profile_component_disabled\":null,\"profile_signature_components\":null,\"webcast_preview_labels\":null},\"is_nickname_recall\":null,\"is_red_uniqueid\":false,\"is_private_letter\":null,\"is_red_phone_number\":null,\"phone_number_encrypted\":null}",
+          "card_type_name": "channel_user",
+          "tab": null,
+          "show_tab": null,
+          "debug_diff_info": {}
+        },
+        "log": {
+          "dcm": "search.natural.discover.1722298498813242.20260908200007B6C92B726C1E5E101AB1"
+        },
+        "card_id": "douyin.doctype_aweme_user"
+      }
+    ],
+    "render_info": [
+      {
+        "render_id": "0",
+        "render_type": 1,
+        "render_extra": {
+          "card_type_name": "channel_user",
+          "type": 999,
+          "schema": "aweme://lynxview/?channel=morphling_high&bundle=channel_user%2Findex%2Ftemplate.js&group=morphling_high&dynamic=0&surl=https%3A%2F%2Flf-dy-gr-sourcecdn.bytegecko.com%2Fobj%2Fbyte-gurd-source-gr%2Fsearch%2Ffe%2Fdouyin%2Fmorphling_high%2Fchannel_user%2Findex%2Ftemplate.js&fe_enable_preserve_data=1&ab_params=channel_user_use_user_cell,channel_user_unified,follower_count_str_exp",
+          "height": 80
+        },
+        "ui_info": null
+      }
+    ],
+    "struct": {
+      "id": "00",
+      "layout_type": 1,
+      "children": [
+        {
+          "id": "0",
+          "data_id": "0",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "1",
+          "data_id": "1",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "2",
+          "data_id": "2",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "3",
+          "data_id": "3",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "4",
+          "data_id": "4",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "5",
+          "data_id": "5",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "6",
+          "data_id": "6",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "7",
+          "data_id": "7",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "8",
+          "data_id": "8",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "9",
+          "data_id": "9",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "10",
+          "data_id": "10",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "11",
+          "data_id": "11",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "12",
+          "data_id": "12",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "13",
+          "data_id": "13",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "14",
+          "data_id": "14",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "15",
+          "data_id": "15",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "16",
+          "data_id": "16",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "17",
+          "data_id": "17",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "18",
+          "data_id": "18",
+          "render_id": "0",
+          "fp": ""
+        },
+        {
+          "id": "19",
+          "data_id": "19",
+          "render_id": "0",
+          "fp": ""
+        }
+      ],
+      "fp": ""
+    },
+    "business_config": {
+      "keyword": "美女",
+      "has_more": 1,
+      "is_filter_search": 0,
+      "search_nil_info": null,
+      "next_page": {
+        "keyword": "美女",
+        "search_request_id": "20260908200007B6C92B726C1E5E101AB1",
+        "search_id": "20260908200007B6C92B726C1E5E101AB1",
+        "cursor": 20,
+        "poi_search_info": ""
+      },
+      "card_count": 20,
+      "extra_fresh_struct": null,
+      "ad_info": null,
+      "filter_bar": null,
+      "extra": {
+        "is_filter_search": 0,
+        "hidden_filter": false,
+        "req_start_ts": 1788868807734
+      },
+      "feedback": {
+        "text_first": "找不到想找的帐号？",
+        "text_second": "告诉我们",
+        "url": "aweme://webview/?url=https%3A%2F%2Faweme.snssdk.com%2Ffalcon%2Ffe_app_react%2Fquestionnaire%2Findex.html%3Fcontainer_bgcolor%3D00000000%26do_not_remove_card_after_feedback%3D0%26enable_new_feedback_ui%3D2%26enter_from%3Dsearch_result%26experimental_adjust_pan%3D1%26experimental_fix_status_bar%3D1%26feedback_rank%3Dfeedback_rank_value%26fid%3D100021%26forbidden_anim%3D1%26hide_loading%3D1%26hide_nav_bar%3D1%26hide_status_bar%3D1%26initialQuestionNum%3D6%26is_aladdin%3D0%26loading_bgcolor%3D00000000%26log_pb%3D%257B%2522impr_id%2522%253A%252220260908200007B6C92B726C1E5E101AB1%2522%257D%26search_content_type%3Daweme_user_page%26search_id%3D20260908200007B6C92B726C1E5E101AB1%26search_keyword%3D%2525E7%2525BE%25258E%2525E5%2525A5%2525B3%26search_score%3D0%26should_full_screen%3D1&forbidden_anim=1"
+      },
+      "pre_loadmore_config": null,
+      "poi_search_info": ""
+    },
+    "global_config": {
+      "hidden_filter": false
+    },
+    "status_code": 0,
+    "log_pb": {
+      "impr_id": "20260908200007B6C92B726C1E5E101AB1"
+    },
+    "extra": {
+      "now": 1788868808000,
+      "logid": "20260908200007B6C92B726C1E5E101AB1",
+      "fatal_item_ids": [],
+      "search_request_id": "",
+      "device_score": 0,
+      "scenes": null
+    },
+    "log": {
+      "search_id": "20260908200007B6C92B726C1E5E101AB1",
+      "impr_id": "20260908200007B6C92B726C1E5E101AB1",
+      "search_keyword": "美女"
+    },
+    "time_cost": {
+      "stream_inner": 655
+    },
+    "path": "/aweme/v2/search/discover/",
+    "mock_recall_path": "/aweme/v2/search/discover/",
+    "success": true
+  },
+  "recordTime": null
+}

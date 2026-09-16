@@ -1,0 +1,273 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:11.278551+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:50",
+  "code": 0,
+  "message": null,
+  "data": {
+    "paging": {
+      "is_end": true,
+      "totals": 1,
+      "previous": "http://www.zhihu.com/api/v4/members/jzwa/included-articles?user_url_token=jzwa&limit=20&offset=0&include=data%5B%2A%5D.comment_count%2Csuggest_edit%2Cis_normal%2Cthumbnail_extra_info%2Cthumbnail%2Ccan_comment%2Ccomment_permission%2Cadmin_closed_comment%2Ccontent%2Cvoteup_count%2Ccreated%2Cupdated%2Cupvoted_followees%2Cvoting%2Creview_info%2Creaction_instruction%2Cis_labeled%2Clabel_info%2Creaction%2Cvessay_info%3Bdata%5B%2A%5D.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%2A%5D.author.kvip_info%3Bdata%5B%2A%5D.author.vip_info%3B&ws_qiangzhisafe=0&sort_by=included",
+      "is_start": true,
+      "next": "http://www.zhihu.com/api/v4/members/jzwa/included-articles?user_url_token=jzwa&limit=20&offset=20&include=data%5B%2A%5D.comment_count%2Csuggest_edit%2Cis_normal%2Cthumbnail_extra_info%2Cthumbnail%2Ccan_comment%2Ccomment_permission%2Cadmin_closed_comment%2Ccontent%2Cvoteup_count%2Ccreated%2Cupdated%2Cupvoted_followees%2Cvoting%2Creview_info%2Creaction_instruction%2Cis_labeled%2Clabel_info%2Creaction%2Cvessay_info%3Bdata%5B%2A%5D.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%2A%5D.author.kvip_info%3Bdata%5B%2A%5D.author.vip_info%3B&ws_qiangzhisafe=0&sort_by=included"
+    },
+    "data": [
+      {
+        "is_navigator": false,
+        "label_info": {
+          "icon_url": "https://picx.zhimg.com/v2-d66dabdf15e6f8f42919ccb29e8e2ecb_r.png?source=d16d100b",
+          "foreground_color": {
+            "alpha": 1.0,
+            "group": "GYL02A"
+          },
+          "type": "roundtable",
+          "text": "圆桌精选"
+        },
+        "excerpt": "<b>元宇宙的起源</b> 似乎只要一提到<b>元宇宙</b>Metaverse，我们就会把雪崩【SNOW CRASH】搬出来，因为“元宇宙”这个词首先出现于这本小说，一本由科幻小说家Neal Stephenson在1992年创作的小说。 这本书一共306页，提到了（元宇宙）Metaverse119次。第一次出现Metaver…",
+        "admin_closed_comment": false,
+        "article_type": "normal",
+        "force_login_when_click_read_more": false,
+        "reaction_instruction": {},
+        "id": "434381388",
+        "vote_next_step": "vote",
+        "upvoted_followees": [],
+        "title": "全文7k字，详尽展示什么是“元宇宙”",
+        "content": "<p></p><p></p><figure data-size=\"normal\"><noscript><img src=\"https://pica.zhimg.com/v2-1e73ae3efc8cbe8947f4241765b4529b_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"255\" data-rawheight=\"391\" class=\"content_image\" width=\"255\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='255'%20height='391'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"255\" data-rawheight=\"391\" class=\"content_image lazy\" width=\"255\" data-actualsrc=\"https://pica.zhimg.com/v2-1e73ae3efc8cbe8947f4241765b4529b_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><h2><b>元宇宙的起源</b></h2><p><br></p><p data-pid=\"T4sO0sqK\">似乎只要一提到<b>元宇宙</b>Metaverse，我们就会把雪崩【SNOW CRASH】搬出来，因为“元宇宙”这个词首先出现于这本小说，一本由科幻小说家Neal Stephenson在1992年创作的小说。 <br></p><p><br></p><p data-pid=\"v1Q7UDws\">这本书一共306页，提到了（元宇宙）Metaverse119次。</p><p data-pid=\"4DSRc_2L\">第一次出现Metaverse是这一段： </p><p data-pid=\"g4fh99Ep\">On the back is gibberish explaining how he may be reached: a telephone number. A half electronic communications nets. And <b>an address in the Metaverse</b>. </p><p data-pid=\"o2pvUH0k\">即一个Metaverse中的地址，用来联系某个人的地址，与电话号码和半电子通讯网并列的一个联系方式。 </p><p data-pid=\"Bg4MiMaA\">在后续的描写中，Metaverse是一个<b>虚拟的城市环境</b>，这个虚拟世界中的土地可以被购买，并在上面开发建筑。</p><p data-pid=\"M5ZHwjX9\">Metaverse的用户可以通过高质量的个人虚拟现实眼镜（VR眼镜），或通过低质量的公共VR眼镜进入，并与彼此或软件客户端进行交互，Metaverse的用户以第一人称视角进行体验。</p><p data-pid=\"5hcD8jkK\">在Metaverse中，个人用户可以作为任何形式的化身出现，唯一的限制是<b>高度</b>——“以防止人们把他们的化身变成一英里高”。而交通工具仅限于步行或车，与现实中的一样。 </p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-1ba800617c5bcd4e92de79b4e5f2b60b_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://picx.zhimg.com/v2-1ba800617c5bcd4e92de79b4e5f2b60b_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='800'%20height='450'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://picx.zhimg.com/v2-1ba800617c5bcd4e92de79b4e5f2b60b_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-1ba800617c5bcd4e92de79b4e5f2b60b_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><h2><b>元宇宙的今世</b></h2><p data-pid=\"30UmX_9m\">关于元宇宙的定义，我更倾向于Matthew Ball的定义：</p><p data-pid=\"6SgxQdIM\">“<i>The Metaverse is a <b>massively scaled </b>and <b>interoperable network of real-time rendered 3D virtual worlds</b> which can be <b>experienced synchronously </b>and <b>persistently </b>by an <b>effectively unlimited number of users</b> with an <b>individual sense of presence</b>, and with <b>continuity of data</b>, such as identity, history, entitlements, objects, communications, and payments.</i>”</p><p data-pid=\"L0_7VSkW\">翻译版本：元宇宙是一个超大规模的<b>可扩展和可交互</b>的网络渲染<i>3D</i>虚拟环境，可以在其中体验与真实的无限用户进行同步和持续的交互，这个用户都拥有独立的呈现和数据的连续性，后者包括身份，历史，权力，对象，通讯和交易。</p><p data-pid=\"4B4uD4rj\">作者同样提到，元宇宙并不是一个凭空出现的技术，说它是<b>“移动互联网的后继者”</b>可能更适合，因为元宇宙并不是从根本上取代互联网，而是在互联网的基础上进行迭代改造。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-165d8464e386669f83b30d2dc06e4986_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"563\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://picx.zhimg.com/v2-165d8464e386669f83b30d2dc06e4986_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='563'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"563\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://picx.zhimg.com/v2-165d8464e386669f83b30d2dc06e4986_r.jpg?source=d16d100b\" data-actualsrc=\"https://pic1.zhimg.com/v2-165d8464e386669f83b30d2dc06e4986_720w.jpg?source=d16d100b\"></figure><p><br></p><p data-pid=\"1EVByltk\">就跟移动互联网是1960年代到1990年代创立的互联网的“后继者”一样，移动互联网并没有从根本上改变互联网的底层架构。比如说数据的交互仍旧依靠基础传输和管理设备，但互联网的访问方式、地点、时间和访问设备已经发生了翻天覆地般的变化。</p><p data-pid=\"7CBHIaDK\"><br>元宇宙也会具有类似的变革性，会<b>逐步地进化并改变</b>我们的日常生活。</p><p data-pid=\"JDowe0ST\">关于元宇宙也有很多的误解，最常见的就是把虚拟现实（VR）当作元宇宙。事实上，VR仅仅只是体验元宇宙的一个途径之一，这种错误的认知就相当于把一个个手机APP当作移动互联网一样。实际上有几亿人在没有VR设备的前提下，每天花费几个小时通过手机参与到虚拟世界中，未来手机也会是参与元宇宙的一个重要途径之一。</p><p data-pid=\"dI1rqTAe\">另一个误解就是将元宇宙等同于游戏，这其实是一种非常片面的看法，游戏肯定是元宇宙的一个重要应用之一，但是并不意味着它是唯一。元宇宙作为现实的镜像，人们可以在其中进行社交、生活、办公、生产等。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-149682c3805ad12b567993a1a32c46b6_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"447\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-149682c3805ad12b567993a1a32c46b6_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='447'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"447\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-149682c3805ad12b567993a1a32c46b6_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-149682c3805ad12b567993a1a32c46b6_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><h2><b>元宇宙的几个特征</b> </h2><p><br></p><p data-pid=\"joCV67iy\">其实元宇宙在其他人的笔下有很多的名字，比如后设宇宙、形上宇宙、元界、超感空间、虚空间等，但它们的本质是一样的——<b>未来持久化</b>和<b>去中心化</b>的<b>在线三维虚拟环境。</b> </p><p data-pid=\"HGkqV7X9\"><b>未来持久化：</b>持久化（Persistence），即把数据（如内存中的对象）保存到可永久保存的存储设备中（如磁盘）。多了“未来”二字也就是意味着这个动作是持续性的，不断地将产生的数据进行保存。 </p><p data-pid=\"iiTZY-S1\"><b>去中心化：</b>对于这个特征，我们可以拿支付系统来做比喻。比如我们要进行转账，现有的方法无非是银行卡直接转账或者通过微信支付宝等支付方式，但是他们的共同特征是都需要一个中心化的机构，才能实现转账。对去中心化来说，最主要的差别就是不需要中心化机构，所有的交互都只需要交互双方，无需中心的辅助。 </p><p data-pid=\"7Lx1V9sI\"><b>在线三维虚拟环境：</b>这个相对来说很直观，元宇宙在当前的设定下基本是现实世界的镜像，因此3D是大概率的，所谓的虚拟环境也就是现实世界的虚拟化产物。 </p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-0f8e91651614ee3a28024f1dda4cc56d_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"628\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-0f8e91651614ee3a28024f1dda4cc56d_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='628'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"628\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-0f8e91651614ee3a28024f1dda4cc56d_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-0f8e91651614ee3a28024f1dda4cc56d_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p data-pid=\"YdqANeSf\"><b>元宇宙的核心技术</b></p><p data-pid=\"bPD1MGyN\">元宇宙的创建将需要无数新技术、协议、公司、创新和发现通力合作。不太会有纯粹的“前元宇宙时代”和“后元宇宙时代”。</p><p data-pid=\"PMgpBvBX\"><br>相反，随着不同产品、服务和功能的集成和融合，它会随着时间的推移慢慢出现。乐观估计也需要几十年后才会成熟地出现在大众生活中。最简单的一个例子，双十一购物节的流量都会让互联网巨头宕机，更何况几百万人同时在线的同步共享持久模拟呢？</p><p data-pid=\"WpSrTrdb\"><b>八个核心技术：</b>对于元宇宙来说，以下8个技术基本构成其主要的框架：硬件、网络、计算、虚拟平台、交换工具和标准、支付、内容服务和资产，以及最后的用户行为。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7366c18e6254ed43e5bc4f51c47624cc_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pica.zhimg.com/v2-7366c18e6254ed43e5bc4f51c47624cc_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='800'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pica.zhimg.com/v2-7366c18e6254ed43e5bc4f51c47624cc_r.jpg?source=d16d100b\" data-actualsrc=\"https://pic1.zhimg.com/v2-7366c18e6254ed43e5bc4f51c47624cc_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><h3><b>1.【硬件】</b></h3><p data-pid=\"LDicdfM4\">硬件可以分为消费端硬件和非消费端硬件</p><p><br></p><p data-pid=\"NcnLFiPD\"><b>消费端硬件：</b>这部分是常见的手机，手表，VR耳机和VR眼镜等。这些硬件在不断的发展中，朝着更好更强大的传感器、更高性能的电池、更清晰的屏幕、更多样和更灵敏的触觉及更清楚的摄像头等方向发展，其本质就是为了提高用户的沉浸感。但要达到完整版本的元宇宙设备，提升空间还很大，比如说人类的视觉范围有210°，但绝大多数的VR眼镜只有60°左右。</p><p data-pid=\"mG5TLDzi\"><b>非消费端硬件：</b>在创建元宇宙的时候，会不可避免地去“复刻”现实世界的场景，那么工业级别的工业相机、投影和跟踪系统以及扫描传感器等就派上用场了，它以远超人眼的能力以更精细的方式去捕捉各种建筑场景等。此外包括但不限于 GPU 芯片和服务器，以及特定于网络的硬件，例如光纤电缆或无线芯片组等。</p><p><br></p><h3><b>2.【网络】</b></h3><p data-pid=\"cQ7wOCDN\">这里网络定义为由主供应商、网络、交换中心和在它们之间路由的服务以及管理“最后一英里”数据给消费者的服务提供持久的、实时的连接、高带宽和分布式的数据传输。</p><p data-pid=\"_87FEcMx\">其中带宽、延迟和可靠性是三个最重要的指标。</p><p><br></p><p data-pid=\"uOVE6gti\"><b>带宽：</b>单位时间内可以传输的数据量。</p><p data-pid=\"UKGUh1at\"><b>延迟：</b>延迟是指数据从一个点传输到另一个点并返回所需的时间。</p><p data-pid=\"Eeqf1rcp\"><b>可靠性：</b>这是一个整体的指标，取决于整体的服务质量。</p><p><br></p><p data-pid=\"4yoIPuFJ\">用高速公路形容这三个指标，带宽就是车道的数量，车道的数量越多，可以同时开的车数量也就越多。延迟可以比喻成高速的收费站，ETC的延迟就要比人工审核快的多，如果通行的车辆数量巨大，那么这一点时间差就会被放大到难以接受的地步。</p><p><br></p><p data-pid=\"0Tf7gLOU\">可靠性取决于高速公路团队的整体运营，如果公路某个路段地面不平，及时的修缮能够带来很高的可靠性，而放任不管的公路可靠性无疑很差。</p><p><br></p><h3><b>3.【计算】</b></h3><p data-pid=\"Ei0qLY-j\">计算能力将是元宇宙一切行为的“燃料”，无论是物理计算、渲染、数据协调和同步、人工智能、投影、动作捕捉和翻译等多样化和苛刻的功能，计算都是必不可少的。比如将触觉传感器的信号转化成元宇宙相应的动作，那么其中复杂的转换就需要计算能力的参与。</p><p><br></p><p data-pid=\"sl1oAyTa\">元宇宙将拥有人类历史上最大的持续计算需求，计算能力将决定元宇宙规模的上限，因为计算能力不足的话，几万人同时在线的元宇宙只可能是天方夜谭。毕竟现在所有种类的计算资源都很稀缺，CPU如此，更别说被深度学习御用的GPU。因此，分布式计算、云计算，隐私计算和边缘计算等，还有很长的路要走。</p><p><br></p><h3><b>4.【虚拟平台】</b></h3><p data-pid=\"L05l8zR6\">定义为沉浸式数字体验，通常是 3D 的模拟、环境和世界的开发以及运营方，用户和企业可以在其中探索、创造、社交和参与各种体验（例如赛车、绘画、上课，听音乐），并从事经济活动。</p><p><br></p><p data-pid=\"G6ZuoQEq\">这与现在的各种软件平台（手机应用商店）和游戏平台（如Steam）非常相似，不同的地方主要在于规模，元宇宙的虚拟平台包含数量更为巨大的开发者和内容生产者。</p><p><br></p><p data-pid=\"3wezqYkf\">虚拟平台必须具备（相对不受约束的）创作（引擎+工作室+工具）的技术能力、支持它的服务（预制件和资产市场、语音聊天、玩家账户、支付服务），并运营多方面的经济（支出和收入等）。</p><p><br></p><p data-pid=\"CORwwQ5_\">成功的标志是平台会产生<b>良性循环</b>，更好的技术和工具以带来更好的体验，这会带来更多用户，意味着可以产生更多平台利润，通过它可以产生更好的技术和工具，以及通过创造者/开发者获得更大的利润，可以通过它获得更好的体验产生，从而吸引了更多的开发者和更多的用户等。</p><p><br></p><h3><b>5.【交换工具和标准】</b></h3><p data-pid=\"efo_hKwR\">可以理解为编程语言的语法和工具库，作为一个编程语言，一定有一套标准的语法规则和工具库，只有这样所有的开发者才能在同样的环境进行开发。</p><p><br></p><p data-pid=\"iCqbrj9e\">这些工具和标准，将用于元宇宙的创建、操作和持续改进，同时支持渲染、物理计算和人工智能等活动、经济活动、以及信息管理等。</p><p><br></p><p data-pid=\"KEafuAj9\">在这个部分，如何形成具有共识的工具和标准无疑是非常重要的，不然的话未来就会有多个小宇宙，而每个小宇宙的标准可能不尽相同，甚至区别很大，那么这两者之间进行交互就会产生巨大的困难。</p><p><br></p><h3><b>6.【支付】</b></h3><p data-pid=\"4poiSwcX\">对数字支付流程、平台和运营的支持，其中包括对纯数字货币和金融服务的法定入口，包括加密货币，例如比特币、以太坊和其他区块链技术。</p><p><br></p><p data-pid=\"wGRKOOHb\">元宇宙作为移动互联网的继承者，又被定位为人类休闲、劳动和生存的平台。这一愿景的成功取决于元宇宙是否拥有繁荣的经济。那么现实生活存在的经济活动在元宇宙也同样存在，企业竞争和不断的颠覆/替代循环、大量盈利企业（尤其是中小型企业）、资本流动、强劲的消费者支出。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-1b0585bcc25e0658c5050c1383fc565b_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"525\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-1b0585bcc25e0658c5050c1383fc565b_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='525'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"525\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-1b0585bcc25e0658c5050c1383fc565b_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-1b0585bcc25e0658c5050c1383fc565b_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p><br></p><p data-pid=\"0_fyy2Q0\">提到支付，就不得不提到区块链，区块链仿佛是为了元宇宙而创作的。简单来说，它具有去中心化，也就是无需中介产生的额外费用；透明，每笔交易透明公开；不可篡改；可溯源机制；效率高；可长期保存。</p><p><br></p><p data-pid=\"wTBIg9Ha\">但是当前的区块链有一个很致命的缺点，那就是gas费，可以理解为服务费太高，这就造成了经济活动的降温，不过现在侧链、跨链技术的出现都是向着降低gas费的方向前进，相信在不远的未来gas费会降到一个可以接受的地步。</p><p><br></p><h3><b>7.【内容、服务和资产】</b></h3><p data-pid=\"RC9alXsT\">定义为与用户数据和身份相关的数字资产（例如虚拟商品和货币）的设计/创建、销售、转售、存储、安全保护和财务管理。</p><p><br></p><p data-pid=\"1AFL_hjj\">这个定义非常广泛，既包含了创作者的创作内容，同时也包含了消费者产生的消费内容等。</p><p><br></p><p data-pid=\"vakj5AVy\">因为元宇宙能否发展起来，还是要看内容，只有足够多的优质内容才能吸引更多的用户，只有更多的用户才能产生更多的需求，从而达到创作者与消费者的良性循环。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-8d2aae4c38f500973fbacf586ec86708_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"563\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://picx.zhimg.com/v2-8d2aae4c38f500973fbacf586ec86708_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='563'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"563\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://picx.zhimg.com/v2-8d2aae4c38f500973fbacf586ec86708_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-8d2aae4c38f500973fbacf586ec86708_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p><br></p><h3><b>8.【用户行为】</b></h3><p data-pid=\"1IJwe4nT\">这是一个广义的概念，包含了元宇宙所有“人”的各种行为，包括支出与投资、花费的时间和注意力、决策和能力等。从时间范畴上来讲，可以分为短期行为改变和长期行为改变。</p><p><br></p><p data-pid=\"aZpaS21G\">短期行为改变：这个从疫情开始以来就有很明显的变化，比如人们在虚拟世界的时间明显更长了，远程学习，在线办公，各种虚拟游戏等。</p><p><br></p><p data-pid=\"ocsobC8p\">长期行为改变：元宇宙作为一种新的生活方式，必将在一些方面永久改变人类的习惯，比如说未来的休闲娱乐方式等。</p><p><br></p><h2><b>一个核心原则</b></h2><p><br></p><p data-pid=\"wWitweCe\">木桶效应在元宇宙体现的将会非常明显，元宇宙是极为复杂的概念，融合了几乎所有的高新技术。这对元宇宙的发展有好有坏，好处在于元宇宙可以同时融合多种最顶尖的技术，创造凝聚人类智慧结晶的产品；坏处在于元宇宙的最终价值在于体验，如果在融合过程中有任意一项技术未达体验的预期，都将会对元宇宙的实现产生毁灭式的影响。 </p><p><br></p><p data-pid=\"m0oMdakz\">比如说VR的分辨率没有达到预期，网络延迟问题迟迟得不到解决，那么最终都无法达到完整版的元宇宙。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2f072bc59948ae369ec9ba10521e4777_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"485\" class=\"origin_image zh-lightbox-thumb\" width=\"862\" data-original=\"https://pic1.zhimg.com/v2-2f072bc59948ae369ec9ba10521e4777_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='862'%20height='485'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"485\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"862\" data-original=\"https://pic1.zhimg.com/v2-2f072bc59948ae369ec9ba10521e4777_r.jpg?source=d16d100b\" data-actualsrc=\"https://pic1.zhimg.com/v2-2f072bc59948ae369ec9ba10521e4777_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p><br></p><h2><b>元宇宙的核心应用</b></h2><p><br></p><p data-pid=\"Mtrb_iOl\">元宇宙目前依旧处于概念阶段，最终形态永远在变化当中，所以结局是不可测的。按照目前的看法，元宇宙将包括4大核心应用，游戏、艺术、工作和生活。</p><p><br></p><h3><b>【游戏】</b></h3><p data-pid=\"i4AN_r0P\">游戏的属性与元宇宙完美匹配，从我们从小玩过的游戏就可以看到，从原来的2D到2.5D再到现在的3D，不管是玩家还是创作者，都是致力于让游戏角色从二维的扁平角色站起来，从第三人称视角到第一人称视角也一样，都是为了更“真实”。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-daeacb3e85657ff31d79187b6d7d987a_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1078\" data-rawheight=\"1342\" class=\"origin_image zh-lightbox-thumb\" width=\"1078\" data-original=\"https://picx.zhimg.com/v2-daeacb3e85657ff31d79187b6d7d987a_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1078'%20height='1342'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1078\" data-rawheight=\"1342\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1078\" data-original=\"https://picx.zhimg.com/v2-daeacb3e85657ff31d79187b6d7d987a_r.jpg?source=d16d100b\" data-actualsrc=\"https://pic1.zhimg.com/v2-daeacb3e85657ff31d79187b6d7d987a_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p><br></p><p data-pid=\"-Lff8_sb\">从来自newzoo的这一份报告可以看到，沉浸式虚拟世界的发展早已开始：</p><p><br></p><p data-pid=\"e0mMfwAh\">发展到现在，最有名的当属《Roblox》，它是全球最大的互动社区之一以及大型多人游戏创作平台。为什么说是平台呢，因为平台用户既可以是用户也可以是作者，因为平台提供了开发工具和配套的教程，所以每个人既可以体验别人制作的游戏，也可以自己制作游戏供别人玩，特别要注意的是，你可以通过自己创作的游戏盈利。</p><p><br></p><p data-pid=\"XERusw_R\">Roblox短期内获得了巨大成功，它主要具备了以下几个特性：</p><p><br></p><ul><li data-pid=\"IY78FDJq\">开发门槛低：很多的开发者都是十几岁的小孩</li><li data-pid=\"Dbfrx69a\">开发者的自由度高：完善的创作平台几乎可以让创作者制作任何想做的游戏</li><li data-pid=\"BjYcCqdR\">奖励机制完善：开发者获取激励的机制十分明确</li></ul><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-688ac5dee3ed552625e03212f2632b38_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"564\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-688ac5dee3ed552625e03212f2632b38_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='564'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"564\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-688ac5dee3ed552625e03212f2632b38_r.jpg?source=d16d100b\" data-actualsrc=\"https://pic1.zhimg.com/v2-688ac5dee3ed552625e03212f2632b38_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p data-pid=\"ldn4aoMr\">元宇宙游戏将具有几个特性：</p><p><br></p><p data-pid=\"o8lJWyUW\"><b>平台性：</b>整个游戏就是一个开放性平台，不仅包含了游戏，还会包含大量的非游戏内容，比如社区活动，音乐节和生日聚会等等。</p><p data-pid=\"flllVIwI\"><b>用户创作：</b>作为一个开放性平台，用户将具有极高的自由度，可以创作大量的内容。</p><p data-pid=\"kWWY6awh\"><b>虚实结合：</b>元宇宙不是空中楼阁，大多数现实场景也会同步映射到元宇宙中。</p><p data-pid=\"btVnITLO\"><b>持久身份：</b>同现实世界一样，身处元宇宙中的用户也是唯一的，因此与ta关联的一切资产也拥有唯一恒久归属权。</p><p data-pid=\"o0HUfHrh\"><b>区块链加成：</b>区块链的不可修改，唯一归属权属性恰好适配上一条持久身份，因此区块链与元宇宙的联系也会在元宇宙游戏中体现得更为深刻。</p><p><br></p><h3><b>【艺术】</b></h3><p data-pid=\"myTVLjr7\">元宇宙的艺术方面发展其实还处于非常原始粗暴的阶段，其本质就是NFT，是Non-Fungible Tokens 的缩写，意为不可互换的代币/非同质化代币，具有不可分割、不可替代、独一无二等特点。可互换的的代币具有相同的属性及价格，就像是你的 1 比特币和我的 1 比特币的本质是一样的。</p><p data-pid=\"QNWg4eIP\"><br>但 NFT 都是独一无二的，NFT 可以代表一幅画、一首歌、一项专利、一段影片、一张照片，或者其他的知识产权。在这个领域里，NFT 起到的是专利局的作用——帮助每一个独一无二的东西进行版权登记，帮助其识别专利。</p><p><br></p><p data-pid=\"PDoqpnpq\">当前的所谓元宇宙艺术基本上都是NFT的变种，本质上还是NFT。在我看来，这与真正的元宇宙艺术距离还很远，因为本质上还是线下创作+上链。也就是所有的艺术创作都是线下的，不管是将艺术品数字化再上链，还是直接创作数字艺术品，本质上都是在现实中加工，只不过换了一个新的展示平台。</p><p><br></p><p data-pid=\"cT57RnZj\">而最终形态的元宇宙艺术大概率是直接在元宇宙中进行的，而不仅仅只是现实艺术品的“链上搬运”。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-b50f3e3fc9f083120df8996b55f55de2_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"599\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pica.zhimg.com/v2-b50f3e3fc9f083120df8996b55f55de2_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='599'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"599\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pica.zhimg.com/v2-b50f3e3fc9f083120df8996b55f55de2_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-b50f3e3fc9f083120df8996b55f55de2_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p><br></p><h3><b>【工作】</b></h3><p data-pid=\"4GSVmYDI\">工作方向在元宇宙的几个应用中可以说是应运而生，这个“运”就是新冠疫情，这一场波及全球的疫情造成了全世界的交通宕机，也就使得以前的会议、论坛和演讲从线下自然而然地转移到了线上。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-9eb4c7523ba2954eae689e73a6b35701_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"602\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pica.zhimg.com/v2-9eb4c7523ba2954eae689e73a6b35701_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='602'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"602\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pica.zhimg.com/v2-9eb4c7523ba2954eae689e73a6b35701_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-9eb4c7523ba2954eae689e73a6b35701_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p data-pid=\"c-WyLmwr\">疫情的这两年，各种线上会议软件的需求激增了几十倍，即使现在疫情的影响已经可控，但是不少会议也还是在线上，或以线上线下结合的形式。</p><p><br></p><p data-pid=\"-IozC18h\">但视频会议的缺点也不少，那就是缺乏真实感，很多经历了长达一年自我隔离的人普遍反应，长时间的面对摄像头其实造成了社交能力的严重下滑。</p><p><br></p><p data-pid=\"EPQ79TTt\">Facebook（现已更名Meta）和英伟达NVIDIA已经推出了他们的元宇宙工作应用，主要的设备为VR。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-89a1e9f2f4da1867783104b525a0a51d_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"665\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-89a1e9f2f4da1867783104b525a0a51d_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='665'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"665\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-89a1e9f2f4da1867783104b525a0a51d_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-89a1e9f2f4da1867783104b525a0a51d_720w.jpg?source=d16d100b\"></figure><p><br></p><p data-pid=\"Hoh-MMvW\">Facebook推出的是infinite office，主要目的是创建虚拟办公空间，提高工作效率，成员可以通过手势等辅助手段表达自己的观点，同时还有白板应用，完全模仿现实的办公场景。这一应用解决了不同物理位置员工之间的协作问题。</p><p><br></p><p data-pid=\"tOrRdoyT\">英伟达推出的是Omniverse平台，这是为了虚拟协作和物理属性模拟打造的开放式平台。英伟达与宝马公司达成了意向，使用该平台用来协调全球31座工厂的生成，预计能提高其30%的生产规划效率。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-108e95da6db384e6d3eb49b8dd4a12f1_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"604\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-108e95da6db384e6d3eb49b8dd4a12f1_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='604'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"604\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-108e95da6db384e6d3eb49b8dd4a12f1_r.jpg?source=d16d100b\" data-actualsrc=\"https://pic1.zhimg.com/v2-108e95da6db384e6d3eb49b8dd4a12f1_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p><br></p><h3><b>【生活】</b></h3><p data-pid=\"0rwPGH4E\">生活应用在当前的元宇宙中体现得还不是很明显，乐观估计会花费较长的时间才会有成熟的生活体验应用。</p><p><br></p><p data-pid=\"fIggFBBb\">但从元宇宙的技术特性分析，元宇宙兼具中心化应用与去中心化应用的特征，可以广泛用于数字身份、用户界面、金融服务、娱乐、社交等领域。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1aacb229906cbf088a8e0db83ea3f0d4_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1033\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pica.zhimg.com/v2-1aacb229906cbf088a8e0db83ea3f0d4_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='1033'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1033\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pica.zhimg.com/v2-1aacb229906cbf088a8e0db83ea3f0d4_r.jpg?source=d16d100b\" data-actualsrc=\"https://pic1.zhimg.com/v2-1aacb229906cbf088a8e0db83ea3f0d4_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p><br></p><h2><b>元宇宙当前面临的困难</b></h2><p><br></p><p data-pid=\"Z3PB1dSD\">这个又要说回到之前提到的木桶效应了，元宇宙作为一个集众多高新科技为一体的复杂项目，其技术的高度上线不可知，但是其技术的下限是由其短板决定的。</p><p><br></p><p data-pid=\"NuMnP79U\">在目前看来元宇宙最大的短板，也就是短期的最大突破口在于VR和AR设备。为什么这么说，因为已有的芯片、通信、AI、区块链等，都可以基本满足初步的元宇宙建设。但是VR/AR设备作为元宇宙的重要入口，技术仍需完善。</p><p><br></p><p data-pid=\"NmJ1SOoU\">现在的VR/AR设备仍需要通过降低游戏的码率（清晰度，真实度）来满足基本的流畅感，比如Roblox的方块颗粒感。但是“真实感”这种体验，一定是要足够强力的VR/AR才能带来的。</p><p><br></p><p data-pid=\"akLUKnwo\">从上述的表格中可以看到，大多数需要的技术已经出现并达到了基本的使用要求，但是相对来说VR/AR设备的研发还远远不满足需要。不仅仅是技术的深度，供货量也远远不足。</p><p><br></p><p data-pid=\"PELE5V8R\"><b>元宇宙的趋势</b></p><p><br></p><p data-pid=\"do3VG3sk\">元宇宙的发展趋势可以分为短期和长期，个人认为在短期内，娱乐游戏、办公和工作场景相关的元宇宙，长期的话生活社交场景一定会充斥在元宇宙中。</p><p><br></p><p data-pid=\"dp3g5Q4J\">VR/AR的发展作为木桶效应的短板，在短期内是会形成虹吸效应，大量的资本涌入以及技术升级，特别是对于VR/AR设备，以下五个因素目测将会在集体努力下迅速解决。</p><p><br></p><p data-pid=\"s1XvX-Kr\">长期趋势看来，元宇宙的几大核心技术也会呈现迅速发展的态势，比如软硬件，网络，计算等。</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/v2-83e2cb1e430964c2fc8b07b424f8a105_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"557\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-83e2cb1e430964c2fc8b07b424f8a105_r.jpg?source=d16d100b\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='557'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"557\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-83e2cb1e430964c2fc8b07b424f8a105_r.jpg?source=d16d100b\" data-actualsrc=\"https://picx.zhimg.com/v2-83e2cb1e430964c2fc8b07b424f8a105_720w.jpg?source=d16d100b\"></figure><p><br></p><p><br></p><p><br></p><p data-pid=\"T9wh22Y0\">比如说网络代表5G，现在仅仅少部分民用，大多数的应用场景并未找到，而元宇宙就是一个非常适合的应用场景，元宇宙对于数据传输能力要求极高，这体现在数据传输的量级、速率以及稳定性等方面。</p><p><br></p><p data-pid=\"poZQvdJI\">计算能力也是元宇宙急需的，那么芯片就是一个实现手段，不仅仅是CPU和GPU，其他种类的特定运算芯片也会大放异彩，比如DPU 芯片（数据处理芯片）和其他的异构芯片等。<br></p><p><br></p><p><br></p><p data-pid=\"4ZjyxnSo\">- End -</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+        "comment_count": 17,
+        "content_need_truncated": false,
+        "voteup_count": 233,
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        },
+        "updated": 1637236458,
+        "is_labeled": true,
+        "copyright_permission": "need_review",
+        "vessay_info": {
+          "enable_video_translate": false
+        },
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "paid_info": {},
+        "created": 1637134916,
+        "url": "http://zhuanlan.zhihu.com/p/434381388",
+        "comment_permission": "all",
+        "author": {
+          "avatar_url_template": "https://picx.zhimg.com/v2-9f81432bb5f397e14ec2c65e949eb0d3.jpg?source=d16d100b",
+          "badge_v2": {
+            "icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "detail_badges": [
+              {
+                "description": "新知答主",
+                "title": "年度新知答主",
+                "url": "https://www.zhihu.com/question/510340037",
+                "sources": [
+                  {
+                    "avatar_path": "",
+                    "name": "",
+                    "url": "",
+                    "priority": 2024,
+                    "token": "",
+                    "avatar_url": "",
+                    "type": "year",
+                    "id": "2024",
+                    "description": ""
+                  }
+                ],
+                "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+                "detail_type": "zhihu_yearly_answerer",
+                "type": "reward",
+                "icon": "https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c"
+              },
+              {
+                "description": "英语等 6 个话题下的优秀答主",
+                "title": "优秀答主",
+                "url": "https://www.zhihu.com/question/48509984",
+                "sources": [
+                  {
+                    "avatar_path": "v2-b8fbf9268139ebce2210d83ee652b888",
+                    "name": "英语",
+                    "url": "https://www.zhihu.com/topic/19553528",
+                    "priority": 0,
+                    "token": "19553528",
+                    "avatar_url": "https://picx.zhimg.com/v2-b8fbf9268139ebce2210d83ee652b888_720w.jpg?source=32738c0c",
+                    "type": "topic",
+                    "id": "19553528",
+                    "description": ""
+                  },
+                  {
+                    "avatar_path": "v2-27b8ba1e647956fa6f1a2a8ad90138ef",
+                    "name": "编程",
+                    "url": "https://www.zhihu.com/topic/19554298",
+                    "priority": 0,
+                    "token": "19554298",
+                    "avatar_url": "https://picx.zhimg.com/v2-27b8ba1e647956fa6f1a2a8ad90138ef_720w.jpg?source=32738c0c",
+                    "type": "topic",
+                    "id": "19554298",
+                    "description": ""
+                  },
+                  {
+                    "avatar_path": "v2-40e779d5c5e6bcebda41e92d50594618",
+                    "name": "大模型",
+                    "url": "https://www.zhihu.com/topic/25402720",
+                    "priority": 0,
+                    "token": "25402720",
+                    "avatar_url": "https://picx.zhimg.com/v2-40e779d5c5e6bcebda41e92d50594618_720w.jpg?source=32738c0c",
+                    "type": "topic",
+                    "id": "25402720",
+                    "description": ""
+                  },
+                  {
+                    "avatar_path": "v2-f94b3093434c09b4501b056d142025e0",
+                    "name": "科研",
+                    "url": "https://www.zhihu.com/topic/19556895",
+                    "priority": 0,
+                    "token": "19556895",
+                    "avatar_url": "https://pica.zhimg.com/v2-f94b3093434c09b4501b056d142025e0_720w.jpg?source=32738c0c",
+                    "type": "topic",
+                    "id": "19556895",
+                    "description": ""
+                  },
+                  {
+                    "avatar_path": "v2-17256bdee3ce72a338455853bb80eca1",
+                    "name": "AIGC",
+                    "url": "https://www.zhihu.com/topic/26215901",
+                    "priority": 0,
+                    "token": "26215901",
+                    "avatar_url": "https://picx.zhimg.com/v2-17256bdee3ce72a338455853bb80eca1_720w.jpg?source=32738c0c",
+                    "type": "topic",
+                    "id": "26215901",
+                    "description": ""
+                  },
+                  {
+                    "avatar_path": "v2-c41d10d22173d515740c43c70f885705",
+                    "name": "人工智能",
+                    "url": "https://www.zhihu.com/topic/19551275",
+                    "priority": 0,
+                    "token": "19551275",
+                    "avatar_url": "https://picx.zhimg.com/v2-c41d10d22173d515740c43c70f885705_720w.jpg?source=32738c0c",
+                    "type": "topic",
+                    "id": "19551275",
+                    "description": ""
+                  }
+                ],
+                "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+                "detail_type": "best_answerer",
+                "type": "best",
+                "icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c"
+              },
+              {
+                "description": "知势榜影响力榜科技互联网领域上榜答主",
+                "title": "社区成就",
+                "url": "",
+                "sources": [
+                  {
+                    "avatar_path": "",
+                    "name": "知势榜8月",
+                    "url": "",
+                    "priority": 27,
+                    "token": "",
+                    "avatar_url": "",
+                    "type": "content_potential_category",
+                    "id": "27",
+                    "description": ""
+                  }
+                ],
+                "night_icon": "https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+                "detail_type": "super_activity",
+                "type": "reward",
+                "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c"
+              }
+            ],
+            "night_icon": "https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "merged_badges": [
+              {
+                "description": "新知答主",
+                "title": "年度新知答主",
+                "url": "https://www.zhihu.com/question/510340037",
+                "sources": [],
+                "night_icon": "",
+                "detail_type": "best",
+                "type": "best",
+                "icon": ""
+              }
+            ],
+            "title": "新知答主"
+          },
+          "user_type": "people",
+          "headline": "英国大学讲师（AP）｜AI｜专栏作家｜pingfan.me",
+          "url_token": "jzwa",
+          "id": "a0265e93117d3d366adda36310194727",
+          "kvip_info": {
+            "target_url": "",
+            "is_vip": false,
+            "vip_icon": {
+              "url": "",
+              "night_mode_url": ""
+            }
+          },
+          "type": "people",
+          "name": "平凡",
+          "url": "http://www.zhihu.com/api/v4/people/a0265e93117d3d366adda36310194727",
+          "gender": 1,
+          "is_advertiser": false,
+          "avatar_url": "https://picx.zhimg.com/v2-9f81432bb5f397e14ec2c65e949eb0d3_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [
+                {
+                  "name": "编程",
+                  "url": "http://www.zhihu.com/api/v4/topics/19554298",
+                  "excerpt": "编程是编写程序的中文简称，就是让计算机代为解决某个问题，对某个计算体系规定一定的运算方式，是计算体系按照该计算方式运行，并最终得到相应结果的过程。为了使计算机能够理解人的意图，人类就必须将需解决的问题的思路、方法和手段通过计算机能够理解的形式告诉计算机，使得计算机能够根据人的指令一步一步去工作，完成某种特定的任务。这种人和计算体系之间交流的过程就是编程。编程：设计具备逻辑流动作用的一种“可控体系…",
+                  "introduction": "编程是编写程序的中文简称，就是让计算机代为解决某个问题，对某个计算体系规定一定的运算方式，是计算体系按照该计算方式运行，并最终得到相应结果的过程。为了使计算机能够理解人的意图，人类就必须将需解决的问题的思路、方法和手段通过计算机能够理解的形式告诉计算机，使得计算机能够根据人的指令一步一步去工作，完成某种特定的任务。这种人和计算体系之间交流的过程就是编程。编程：设计具备逻辑流动作用的一种“可控体系”【注：编程不一定是针对计算机程序而言的，针对具备逻辑计算力的体系，都可以算编程。】",
+                  "followers_count": 523838,
+                  "avatar_url": "https://pica.zhimg.com/v2-4030982b9aed71d12b350a4c3ba5078d_l.png?source=d16d100b",
+                  "type": "topic",
+                  "id": "19554298",
+                  "questions_count": 162067
+                },
+                {
+                  "name": "AIGC",
+                  "url": "http://www.zhihu.com/api/v4/topics/26215901",
+                  "excerpt": "人工智能生成内容",
+                  "introduction": "<p>人工智能生成内容</p>",
+                  "followers_count": 3403,
+                  "avatar_url": "https://picx.zhimg.com/v2-c919b37971176088d83469f3984740cc_l.jpg?source=d16d100b",
+                  "type": "topic",
+                  "id": "26215901",
+                  "questions_count": 3241
+                },
+                {
+                  "name": "英语",
+                  "url": "http://www.zhihu.com/api/v4/topics/19553528",
+                  "excerpt": "英语（English /ˈɪŋɡlɪʃ/）又称为英文，是一种西日耳曼语言，诞生于中世纪早期的英格兰，如今具有全球通用语的地位。“英语”一词源于迁居英格兰的日耳曼部落盎格鲁（Angles），而“盎格鲁”得名于临波罗的海的半岛盎格里亚（Anglia）。弗里西语是与英语最相近的语言。英语词汇在中世纪早期受到了其他日耳曼族语言的大量影响，后来受罗曼族语言尤其是法语的影响。英语是将近六十个国家唯一的官方语言或官方语言…",
+                  "introduction": "<p>英语（English /ˈɪŋɡlɪʃ/）又称为英文，是一种西日耳曼语言，诞生于中世纪早期的英格兰，如今具有全球通用语的地位。“英语”一词源于迁居英格兰的日耳曼部落盎格鲁（Angles），而“盎格鲁”得名于临波罗的海的半岛盎格里亚（Anglia）。弗里西语是与英语最相近的语言。英语词汇在中世纪早期受到了其他日耳曼族语言的大量影响，后来受罗曼族语言尤其是法语的影响。英语是将近六十个国家唯一的官方语言或官方语言之一，也是全世界最多国家的官方语言。它是英国、爱尔兰、美国、加拿大、澳大利亚和新西兰最常用的语言，也在加勒比、非洲及南亚的部分地区被广泛使用。</p>",
+                  "followers_count": 2170654,
+                  "avatar_url": "https://picx.zhimg.com/ee1b9f4af266b8acaea6d014d7176043_l.jpg?source=d16d100b",
+                  "type": "topic",
+                  "id": "19553528",
+                  "questions_count": 298457
+                }
+              ],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "image_url": "https://picx.zhimg.com/v2-f959706b3b559a809fdfae6261a0d2db_r.png?source=d16d100b",
+        "excerpt_title": "",
+        "voting": 0,
+        "navigator_vote": false,
+        "is_normal": true
+      }
+    ]
+  },
+  "recordTime": null
+}

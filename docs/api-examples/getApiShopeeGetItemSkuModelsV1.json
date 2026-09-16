@@ -1,0 +1,49 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:40.485963+08:00",
+  "_sourceCheckedAt": "2026-08-12T13:56:28",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "semantics": {
+      "identity_level": "review_observed_model",
+      "complete_catalog": false,
+      "authoritative_inventory_included": false,
+      "price_included": false
+    },
+    "query": {
+      "shop_id": 526184774,
+      "item_id": 24428454365,
+      "offset": 0,
+      "limit": 20,
+      "rating_type": 0
+    },
+    "page": {
+      "shop_reviews_returned": 20,
+      "target_observations": 1,
+      "unique_models": 1
+    },
+    "models": [
+      {
+        "model_id": 49769518024,
+        "model_names": [
+          "馭系列-旋風攪粉針-58MM通用"
+        ],
+        "review_observations": 1
+      }
+    ],
+    "observations": [
+      {
+        "cmtid": 107064663259,
+        "ctime": 1786506928,
+        "rating_star": 5,
+        "model_id": 49769518024,
+        "model_name": "馭系列-旋風攪粉針-58MM通用",
+        "snapshot_id": 290141791909,
+        "is_snapshot": 1
+      }
+    ]
+  },
+  "recordTime": "2026-08-12T13:56:27.934543396"
+}

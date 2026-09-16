@@ -1,0 +1,228 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:25.400473+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:08",
+  "code": 0,
+  "message": null,
+  "data": {
+    "results": [
+      {
+        "post_id": "10117844921640781",
+        "type": "post",
+        "url": "https://www.facebook.com/reel/1370929081132805/",
+        "message": "I believe everyone should have access to superintelligence, and I wrote a long piece about Meta's philosophy and values for building a positive future for everyone. Check it out here: meta.com/thefutureisforeveryone",
+        "message_rich": "I believe everyone should have access to superintelligence, and I wrote a long piece about Meta's philosophy and values for building a positive future for everyone. Check it out here: meta.com/thefutureisforeveryone",
+        "timestamp": 1786356329,
+        "comments_count": 65142,
+        "reactions_count": 348259,
+        "reshare_count": 16929,
+        "reactions": {
+          "angry": 900,
+          "care": 4445,
+          "haha": 2300,
+          "like": 308671,
+          "love": 30866,
+          "sad": 162,
+          "wow": 915
+        },
+        "author": {
+          "id": "4",
+          "name": "Mark Zuckerberg",
+          "url": "https://www.facebook.com/zuck",
+          "profile_picture_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/632598281_10117314650513371_3238643608998008744_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx711x711&ctp=s40x40&_nc_cat=1&ccb=1-7&_nc_sid=1d2534&_nc_ohc=7_27smuPbeAQ7kNvwFurcUt&_nc_oc=AdqyoCNM0CI8hb9eDWB0rQx5kOUYC2FsXJXPajhg53u3r6uPjpLjDRK5M6kyE3Qgnh4&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQI2hhMqXEk6NPfOat8x0vzlDnsCHsTGpUhkmR4ITJRy3g&oe=6AA5B30B",
+          "delegate_page_id": "111895498378878"
+        },
+        "authors": [
+          {
+            "id": "4",
+            "name": "Mark Zuckerberg",
+            "url": "https://www.facebook.com/zuck",
+            "profile_picture_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/632598281_10117314650513371_3238643608998008744_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx711x711&ctp=s40x40&_nc_cat=1&ccb=1-7&_nc_sid=1d2534&_nc_ohc=7_27smuPbeAQ7kNvwFurcUt&_nc_oc=AdqyoCNM0CI8hb9eDWB0rQx5kOUYC2FsXJXPajhg53u3r6uPjpLjDRK5M6kyE3Qgnh4&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQI2hhMqXEk6NPfOat8x0vzlDnsCHsTGpUhkmR4ITJRy3g&oe=6AA5B30B",
+            "delegate_page_id": "111895498378878"
+          }
+        ],
+        "author_title": null,
+        "image": null,
+        "video": "https://www.facebook.com/reel/1370929081132805/",
+        "video_view_count": 3420047,
+        "album_preview": null,
+        "video_files": {
+          "video_sd_file": "https://video.fbeg4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQOUKPm407qIWHnmj9VSRGhrxtZpapofekuzUUF1Z1KC9gDDf-6CndzSHWp2edupi_iFQr1qljUsqCqJs1OjRtagQpvQ2rollxVsNU8BwA.mp4?_nc_cat=111&_nc_oc=AdoRerQ_0hUgZnBVyFaPpLYyTGYg9rOgvuKD_9DPD8bCsf4QihWa5yEr6exsY-iIs1E&_nc_sid=8bf8fe&_nc_ht=video.fbeg4-1.fna.fbcdn.net&_nc_ohc=kYWk0fQZT1oQ7kNvwFT25l5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA1ODc4NTg4MzI5OTIzOCwiYXNzZXRfYWdlX2RheXMiOjI5LCJ2aV91c2VjYXNlX2lkIjoxMDEyMywiZHVyYXRpb25fcyI6ODMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&_nc_zt=28&oh=00_AQISpjqgi9qUq4Rjhdwec5xhj3N3N7uC6PEsP9765CYhEg&oe=6AA5CA93&bitrate=287857&tag=sve_sd",
+          "video_hd_file": "https://video.fbeg4-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOduN1lsOV3GA36UCWpXUmW2WKl-u4e9W3iz5C0v8e3PpnrmYy5IWewWZLGNTzId8O-nKz5QtyIqIGMzS7l6pYrhlbS012kYX7C894p3g3bng.mp4?_nc_cat=107&_nc_oc=Adr-CTy14MVr2QQA4TOhLLK3BA2VZa0zk4uTZh51eKCLwrU6RD-RXB2HyMFIUlmjVf4&_nc_sid=5e9851&_nc_ht=video.fbeg4-1.fna.fbcdn.net&_nc_ohc=1tLTVd5QXeQQ7kNvwFaFXh2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNTg3ODU4ODMyOTkyMzgsImFzc2V0X2FnZV9kYXlzIjoyOSwidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjgzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e13238175caaae9d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQjQ0QkNCMzNBOTMzNDU3MEVEMzgxRDhCOUExREM4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M4NDBDRDZFQkE1OThCMzkxNjVEMjVCNjU5OTI1N0IyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM9rzHub3hAxUCKAJDMywXQFTan752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZaeAQA&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&_nc_zt=28&oh=00_AQILvcOk-3aeIMsOoTk1jQzzX-P7SpEAW4MWO7QLY3rtNg&oe=6AA5C55D&bitrate=1618942&tag=dash_h264-basic-gen2_720p"
+        },
+        "video_thumbnail": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t15.5256-10/771956132_27737797462555577_1816491239227951202_n.jpg?stp=dst-jpg_tt6&cstp=mx576x1024&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=9dlBGnh4uDYQ7kNvwGxQbN3&_nc_oc=AdpRTEcinD2j9iLmSVkYZq3YNQjxb3zI0vFVTsMBMRGklHjvwb3LVANX0nuVIiSmVsI&_nc_zt=23&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQIUs0PNO7-nZTSJbSsFy28ixC1Zfi8jxbL2vHvKYAe25w&oe=6AA5D8EB",
+        "external_url": null,
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "10117844921640781",
+        "shares_id": "10117844921640781",
+        "associated_group_id": null,
+        "associated_group": null,
+        "images_count": null,
+        "top_comments": [
+          {
+            "type": "top_comment",
+            "id": "Y29tbWVudDoxMDExNzg0NDkyMTY0MDc4MV8xNTYwMjg1MTAyNTAzOTc1",
+            "legacy_fb_id": "1560285102503975",
+            "text": "Làm vì đam mê anh ơi, tôi rất ấn tượng với cách bạn trình bày về tương lai của siêu trí tuệ nhân tạo và cách Meta đang nỗ lực để biến nó trở nên tích cực cho mọi người. Bạn có thể chia sẻ thêm về cách chúng ta có thể đóng góp vào dự án này?",
+            "author": {
+              "id": "61592341902068",
+              "name": "Tien LE",
+              "url": "https://www.facebook.com/61592341902068",
+              "gender": "MALE",
+              "profile_image_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/776554137_122107041579411396_3027631583455454448_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1056x1049&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_ohc=tT6eF7i0W2sQ7kNvwHtUv5_&_nc_oc=Ado09WZj4QQQ3q8irBDbWytEFUo865KiGT2pLKgzZD3Tct73UfIi5NQjCkPWT67TeKk&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQIkLbvFSCREVs4dbOQiHN0ieK0Bznzd8i7P1NTO0rxzuw&oe=6AA5DC94"
+            },
+            "created_time": 1786356933
+          }
+        ]
+      },
+      {
+        "post_id": "10117842672742591",
+        "type": "post",
+        "url": "https://www.facebook.com/reel/1543367060316993/",
+        "message": "Back on the barge with Merab \"The Machine\" Dvalishvili. Round 2.",
+        "message_rich": "Back on the barge with Merab \"The Machine\" Dvalishvili. Round 2.",
+        "timestamp": 1786294849,
+        "comments_count": 23907,
+        "reactions_count": 171499,
+        "reshare_count": 6967,
+        "reactions": {
+          "angry": 108,
+          "care": 1845,
+          "haha": 19586,
+          "like": 134270,
+          "love": 13651,
+          "sad": 58,
+          "wow": 1981
+        },
+        "author": {
+          "id": "4",
+          "name": "Mark Zuckerberg",
+          "url": "https://www.facebook.com/zuck",
+          "profile_picture_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/632598281_10117314650513371_3238643608998008744_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx711x711&ctp=s40x40&_nc_cat=1&ccb=1-7&_nc_sid=1d2534&_nc_ohc=7_27smuPbeAQ7kNvwFurcUt&_nc_oc=AdqyoCNM0CI8hb9eDWB0rQx5kOUYC2FsXJXPajhg53u3r6uPjpLjDRK5M6kyE3Qgnh4&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQI2hhMqXEk6NPfOat8x0vzlDnsCHsTGpUhkmR4ITJRy3g&oe=6AA5B30B",
+          "delegate_page_id": "111895498378878"
+        },
+        "authors": [
+          {
+            "id": "4",
+            "name": "Mark Zuckerberg",
+            "url": "https://www.facebook.com/zuck",
+            "profile_picture_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/632598281_10117314650513371_3238643608998008744_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx711x711&ctp=s40x40&_nc_cat=1&ccb=1-7&_nc_sid=1d2534&_nc_ohc=7_27smuPbeAQ7kNvwFurcUt&_nc_oc=AdqyoCNM0CI8hb9eDWB0rQx5kOUYC2FsXJXPajhg53u3r6uPjpLjDRK5M6kyE3Qgnh4&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQI2hhMqXEk6NPfOat8x0vzlDnsCHsTGpUhkmR4ITJRy3g&oe=6AA5B30B",
+            "delegate_page_id": "111895498378878"
+          }
+        ],
+        "author_title": null,
+        "image": null,
+        "video": "https://www.facebook.com/reel/1543367060316993/",
+        "video_view_count": 4308164,
+        "album_preview": null,
+        "video_files": {
+          "video_sd_file": "https://video.fbeg4-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQPdAsPkmUGY-DJgCDJCJ1RCqsiARhXEdpCwxhIX7C1R5Od_VTRdjMc5FWLvc9ynPvzyjNHU0lr8sMD9IuMrOcEnnVo-44v5ZWJMoK5Jaw.mp4?_nc_cat=110&_nc_oc=Adq39_MSUbyBhORGt4j35lj_Xb2n3sIZ2cIp43yesmJ7Sei4uRwHUqe1vnnw4qYRHgA&_nc_sid=8bf8fe&_nc_ht=video.fbeg4-1.fna.fbcdn.net&_nc_ohc=vDd41RmOcy4Q7kNvwH_AVqv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDc1NjMzMDk4NDY1NDA2MywiYXNzZXRfYWdlX2RheXMiOjI5LCJ2aV91c2VjYXNlX2lkIjoxMDEyMywiZHVyYXRpb25fcyI6OTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&_nc_zt=28&oh=00_AQLSszL3F8nECMVviNh96zaWBLMY2FNWNQAcL-2SgKgbDg&oe=6AA5D2A4&bitrate=597233&tag=sve_sd",
+          "video_hd_file": "https://video.fbeg4-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMNhtkE7qm3ubFAG0cCDSeMj_I9g8S6iKX7Vff_ZVxxGK8ZVl0yqogKqmIqfNr_Y6lpHewmRhU_5bjCeEJXwTyGJh58V_l_F2Ccy1ORBu71IA.mp4?_nc_cat=103&_nc_oc=AdoacojIw_Jm-S86lMZ0g4ZlzaJCbTHjDnUjMB7VZPdAG5ZvTeHypRUOCi8J2r_Zfhg&_nc_sid=5e9851&_nc_ht=video.fbeg4-1.fna.fbcdn.net&_nc_ohc=XXZeT4HmYHYQ7kNvwHGVMBp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ3NTYzMzA5ODQ2NTQwNjMsImFzc2V0X2FnZV9kYXlzIjoyOSwidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjkzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ab4a53513e968b2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QjRGMzg2NkQ3ODM4NEFGQTVDOTBCMDFGNDQwNDk5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VCNDE1RkQ0REI0MTAxMjZDRkMyRDhCQzU4N0Q0OTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbek7Ks8_byEBUCKAJDMywXQFdGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZaeAQA&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&_nc_zt=28&oh=00_AQLtRpWKJHbpfoUq8imyAXKzQjONYUrSduiOjvbdz1X9oQ&oe=6AA5C8ED&bitrate=2778731&tag=dash_h264-basic-gen2_720p"
+        },
+        "video_thumbnail": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t15.5256-10/769189169_1408385554482957_236017562078150010_n.jpg?stp=dst-jpg_tt6&cstp=mx708x1024&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=NCahdzEdtVAQ7kNvwEB1Huz&_nc_oc=Adpx44rqldHYmeK0KUIqmGUz7KuA8W3JLWVe3Kh5Ppt4YQhtJdQxQhJcZtmP967rYFU&_nc_zt=23&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQJkbwUWbpE1uVJHxC4pI6gTh8e6LLhfqDZsUym3FxIi3w&oe=6AA5CC6C",
+        "external_url": null,
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "10117842672742591",
+        "shares_id": "10117842672742591",
+        "associated_group_id": null,
+        "associated_group": null,
+        "images_count": null,
+        "top_comments": [
+          {
+            "type": "top_comment",
+            "id": "Y29tbWVudDoxMDExNzg0MjY3Mjc0MjU5MV8xNzQ1NzUwODMwMTc0NTU5",
+            "legacy_fb_id": "1745750830174559",
+            "text": "Always great sparring and training with you Bro!  🦾⚔️",
+            "author": {
+              "id": "100045225303544",
+              "name": "Merab \"The Machine\" Dvalishvili",
+              "url": "https://www.facebook.com/100045225303544",
+              "gender": "MALE",
+              "profile_image_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/460394051_1063759978474836_5650829826644568898_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1684x1684&ctp=s32x32&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=aIDirz7noIkQ7kNvwEp9-as&_nc_oc=AdrKMZw2iy6AcyvhFCDucDd9MOSPW5paXqyew-uraU3h7DJjhf9C4kSqenVb6gcbRk4&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQLHzqLcCJeudKKm48yl5ZGXenP4h1-rgkWAe8sUwUslOw&oe=6AA5C881"
+            },
+            "created_time": 1786295860
+          }
+        ]
+      },
+      {
+        "post_id": "10117809362341901",
+        "type": "post",
+        "url": "https://www.facebook.com/zuck/posts/pfbid0zpN8nms1W8afC7BimNKiXXP77gCGWzaD9JUZhepHSZngQpeKiwkcf4L3dWcPiwRfl",
+        "message": "I just shared Meta's quarterly earnings report. AI is accelerating our core business today, powering our next generation of products, and opening the door to entirely new enterprise opportunities. The results are already showing, and I'm optimistic about the potential ahead. Here's the transcript of what I said on the call: \n\nWe had a strong quarter for our community and business with 3.6 billion people using at least one of our apps each day. We reached several milestones. Instagram reached 2 billion daily actives. Threads crossed 500 million monthly actives, making it the fastest growing conversation app ever. Facebook has reached more than 2 billion daily actives for a while now. WhatsApp just hit an all-time messaging record, peaking at 30 million messages sent per second during the World Cup final. And also, Kunal Shah just joined as our new head of WhatsApp. He built one of India's most important payment companies and will be a great addition to the team. We also shipped some strong new models from Meta Superintelligence Labs and released new glasses. Overall, the scale and reach of our community across our apps is pretty remarkable, and it gives us a strong platform for delivering new innovations to billions of people.\n\nThe opportunity in front of us is massive. First, we are now at a point where our investments in AI are accelerating every major part of our core business. They're improving the experience for people using our apps, driving better performance for advertisers, and helping our teams build new experiences and ship faster. Second, we're developing new personal agents that will be the foundation for our next wave of products and revenue lines in the months and years ahead. Third, we see a large enterprise opportunity to sell to businesses, including APIs, business agents, potentially selling compute directly, and other services that we're building for large customers. I'm going to spend some time today laying out exactly how our investments are delivering results today and the opportunities that we see over time.\n\nFor accelerating our core business, we're seeing strong and promising results in several areas.\n\nIn Instagram and Facebook, I'm very optimistic about our work to integrate large language models into our recommendation systems. LLMs add a first-principles understanding of what the content is about and why it is compelling, as well as a deeper understanding of what people are interested in and what their goals are when they're using our apps. This means we can show more relevant and engaging content that better reflects people's goals and interests.\n\nOur new Muse Image and Muse Video models will also dramatically expand the universe of content that people can discover across our platforms. There are already two large sets of content to draw from -- first from your friends and the people you follow, and second from creators you don't follow -- but now there is going to be a whole new and nearly infinite universe of personalized content. This is going to make our services a lot more useful and engaging for people.\n\nFor ads, we are using LLMs to improve how our systems predict and rank the ads that we show. We've expanded the context we can take into account around a person's organic and ads activity to determine an ad's relevance, driving significant increases in relevance and conversions on both Facebook and Instagram. On a dollar basis, our ads business is reporting faster year-over-year revenue growth than any other company's reported ad business -- so these AI investments are paying off. \n\nWe are also seeing a lot of demand for our new AI-powered creative tools. 9 million small businesses on our platforms are now using at least one of our AI ad creative tools, and we're rolling out new end-to-end creative solutions that help advertisers translate performance data into their creative decisions. Muse Image is going to supercharge this. The model can analyze images, improve its own work, and produce better ad variations based on advertiser inputs. We're getting great feedback on this so far.\n\nWe also just launched Meta One, a new subscription offering that provides more tools and AI features across our apps. As demand grows, we're going to offer a variety of different tiers and pricing options there as well.\n\nI'm also excited about how AI is helping our teams speed up product development. Earlier this year we shipped Instagram Instants. We also just launched Forum, a standalone Groups app, and Seller, a standalone Marketplace app. I expect it to become a lot easier to ship new apps, so we're planning to build out more ideas and use our recommendation systems to scale them to the people who will find them interesting, as we've done with Threads.\n\nIt's been a little more than a year since we launched Meta Superintelligence Labs and our trajectory is strong. In the last month we shipped Muse Spark 1.1 and Muse Image. Since we rebuilt Meta AI and integrated Muse Spark, we've seen a 60% increase in the number of people interacting with the assistant each day and that continues to grow quickly week over week.\n\nMuse Spark 1.1 is a strong agentic and coding model that is very efficient and excels at computer use, tool use, and multimodal understanding. It's available through our new public API, and we're ramping up distribution through partner channels and more coding agents over the coming weeks. We're also building out features to make it easier for enterprises to adopt Muse Spark and that is an area we expect to continue focusing on.\n\nOne reason we're so focused on making Muse Spark great at agentic capabilities is that we think there's a very big opportunity to ship a few types of agents that are aligned with our mission and business.\n\nThe first is personal agents. Soon, we will have agents that can work 24/7 on your behalf to help achieve your goals and improve your life, your health, your relationships, your finances -- whatever you want. The first domain that agents have really taken off in is coding, but engineers are more technical and willing to spend time making those agents work. To build great personal agents, this needs to be a great consumer product that just works out of the box and is easy enough for billions of people to adopt and use. I'm very excited about this and we'll have more to share soon.\n\nAs we move towards a future where we're all interacting with multiple agents, I think that WhatsApp and our other messaging surfaces are going to become increasingly important. WhatsApp is already the leading surface where people engage with Meta AI -- and as we build out a platform for more agents across our messaging apps, we're going to innovate on how to deliver a private and secure AI experience. We launched incognito mode this quarter on WhatsApp and the Meta AI app, allowing people to have private conversations with their AI assistant that even Meta can't see. We're planning to make strong privacy and security a fundamental part of the agents we're building as well.\n\nI'm also very excited about our progress with business agents. We made Meta Business Agents available globally this quarter on WhatsApp and Messenger, and there are already more than 1 million businesses using them to talk to their customers or complete sales every week. We're rolling business agents out on Instagram now too. One interesting thing about having an agent talk to your customers every day is that it learns over time and can bring all those insights back to you. So we're building more agentic capabilities to summarize all the conversations, digest what happened overnight, and surface what customers are asking for. Soon, it'll go further, including suggesting ways to grow your business, giving you competitive intelligence and real-time insights into what's working and what's not. And over time, we'd like to build this into a business-in-a-box service that can help you start and run a whole business using Meta's platforms.\n\nIn terms of how we'll monetize these, we have a mix of subscriptions, volume-based pricing, and I expect that we're going to continue to evolve more of these products to be like our ad systems where businesses only pay us when we achieve results for them. Over time, that will let us run an efficient auction over our compute, similar to how we do that for advertisers today.\n\nAs AI usage in our products and business continues to ramp, we continue to invest aggressively in infrastructure to meet the demand. Yesterday, as part of our Meta Compute effort, we announced a new strategic venture with BlackRock to develop a new 1GW data center in El Paso, Texas.\n\nOverall, we expect that a significant portion of our compute is going to go towards training our models, growing our core business, and delivering personal agents and new products. But we also expect to grow a large business serving large customers as well. We've built our API, we're rolling out business agents, we're getting a lot of offers for compute at a significant premium over what we paid for it, and we have more coding and productivity tools on our roadmap as well. And we'll have more to share on all of this soon.\n\nAs we get closer to personal superintelligence, we're also going to need hardware that allows you to seamlessly interact with it. Glasses are the ideal form factor since they can be with you throughout the day and they can assist you without pulling you away from the moment. Our glasses remain one of the fastest-growing consumer electronics of all time, and we continue adding to the line-up.\n\nWe just released our own line of Meta Glasses in collaboration with EssilorLuxottica, including a style we designed with Kylie Jenner. They're the first glasses to ship with Muse Spark out of the box so that they can understand what you're seeing and give even more helpful answers. Early sales have been strong, exceeding our expectations. We'll have more to share on our glasses line-up at this year's Connect conference on September 23rd, so I encourage you to tune in then.\n\nBefore I wrap, I want to mention that I just published an op-ed about why I'm so optimistic that we're building a positive future for everyone. At Meta, we've always built technology to put power in people's hands so that they can connect with the people they care about and shape their world in the ways they want. It's why we've always focused on making our products affordable and accessible to everyone. And it's a strategy that has served both our community and our business well. \n\nAs we enter this next chapter, that same philosophy is guiding how we approach developing AI. We're the only major company building AI with the primary goal of putting superintelligence directly into people's hands. Rather than centralizing superintelligence, we're focused on distributing it widely and giving everyone the ability to direct it towards what matters to them. That's the way that society has always made progress. I think these are the right values for building a positive AI future. And if we help build this, then I think we'll continue to build a very strong business as well.\n\nThat's everything I wanted to cover up front today. AI is improving our core business -- it's making our apps more relevant, and delivering better results for businesses. We're starting to deliver more novel products, and we'll have a lot more there soon as well. We're investing aggressively because the potential is huge and we know there are many ways to deliver value here. As always, I'm grateful to all of you for being on this journey with us.",
+        "message_rich": "I just shared Meta's quarterly earnings report. AI is accelerating our core business today, powering our next generation of products, and opening the door to entirely new enterprise opportunities. The results are already showing, and I'm optimistic about the potential ahead. Here's the transcript of what I said on the call: \n\nWe had a strong quarter for our community and business with 3.6 billion people using at least one of our apps each day. We reached several milestones. Instagram reached 2 billion daily actives. Threads crossed 500 million monthly actives, making it the fastest growing conversation app ever. Facebook has reached more than 2 billion daily actives for a while now. WhatsApp just hit an all-time messaging record, peaking at 30 million messages sent per second during the World Cup final. And also, Kunal Shah just joined as our new head of WhatsApp. He built one of India's most important payment companies and will be a great addition to the team. We also shipped some strong new models from Meta Superintelligence Labs and released new glasses. Overall, the scale and reach of our community across our apps is pretty remarkable, and it gives us a strong platform for delivering new innovations to billions of people.\n\nThe opportunity in front of us is massive. First, we are now at a point where our investments in AI are accelerating every major part of our core business. They're improving the experience for people using our apps, driving better performance for advertisers, and helping our teams build new experiences and ship faster. Second, we're developing new personal agents that will be the foundation for our next wave of products and revenue lines in the months and years ahead. Third, we see a large enterprise opportunity to sell to businesses, including APIs, business agents, potentially selling compute directly, and other services that we're building for large customers. I'm going to spend some time today laying out exactly how our investments are delivering results today and the opportunities that we see over time.\n\nFor accelerating our core business, we're seeing strong and promising results in several areas.\n\nIn Instagram and Facebook, I'm very optimistic about our work to integrate large language models into our recommendation systems. LLMs add a first-principles understanding of what the content is about and why it is compelling, as well as a deeper understanding of what people are interested in and what their goals are when they're using our apps. This means we can show more relevant and engaging content that better reflects people's goals and interests.\n\nOur new Muse Image and Muse Video models will also dramatically expand the universe of content that people can discover across our platforms. There are already two large sets of content to draw from -- first from your friends and the people you follow, and second from creators you don't follow -- but now there is going to be a whole new and nearly infinite universe of personalized content. This is going to make our services a lot more useful and engaging for people.\n\nFor ads, we are using LLMs to improve how our systems predict and rank the ads that we show. We've expanded the context we can take into account around a person's organic and ads activity to determine an ad's relevance, driving significant increases in relevance and conversions on both Facebook and Instagram. On a dollar basis, our ads business is reporting faster year-over-year revenue growth than any other company's reported ad business -- so these AI investments are paying off. \n\nWe are also seeing a lot of demand for our new AI-powered creative tools. 9 million small businesses on our platforms are now using at least one of our AI ad creative tools, and we're rolling out new end-to-end creative solutions that help advertisers translate performance data into their creative decisions. Muse Image is going to supercharge this. The model can analyze images, improve its own work, and produce better ad variations based on advertiser inputs. We're getting great feedback on this so far.\n\nWe also just launched Meta One, a new subscription offering that provides more tools and AI features across our apps. As demand grows, we're going to offer a variety of different tiers and pricing options there as well.\n\nI'm also excited about how AI is helping our teams speed up product development. Earlier this year we shipped Instagram Instants. We also just launched Forum, a standalone Groups app, and Seller, a standalone Marketplace app. I expect it to become a lot easier to ship new apps, so we're planning to build out more ideas and use our recommendation systems to scale them to the people who will find them interesting, as we've done with Threads.\n\nIt's been a little more than a year since we launched Meta Superintelligence Labs and our trajectory is strong. In the last month we shipped Muse Spark 1.1 and Muse Image. Since we rebuilt Meta AI and integrated Muse Spark, we've seen a 60% increase in the number of people interacting with the assistant each day and that continues to grow quickly week over week.\n\nMuse Spark 1.1 is a strong agentic and coding model that is very efficient and excels at computer use, tool use, and multimodal understanding. It's available through our new public API, and we're ramping up distribution through partner channels and more coding agents over the coming weeks. We're also building out features to make it easier for enterprises to adopt Muse Spark and that is an area we expect to continue focusing on.\n\nOne reason we're so focused on making Muse Spark great at agentic capabilities is that we think there's a very big opportunity to ship a few types of agents that are aligned with our mission and business.\n\nThe first is personal agents. Soon, we will have agents that can work 24/7 on your behalf to help achieve your goals and improve your life, your health, your relationships, your finances -- whatever you want. The first domain that agents have really taken off in is coding, but engineers are more technical and willing to spend time making those agents work. To build great personal agents, this needs to be a great consumer product that just works out of the box and is easy enough for billions of people to adopt and use. I'm very excited about this and we'll have more to share soon.\n\nAs we move towards a future where we're all interacting with multiple agents, I think that WhatsApp and our other messaging surfaces are going to become increasingly important. WhatsApp is already the leading surface where people engage with Meta AI -- and as we build out a platform for more agents across our messaging apps, we're going to innovate on how to deliver a private and secure AI experience. We launched incognito mode this quarter on WhatsApp and the Meta AI app, allowing people to have private conversations with their AI assistant that even Meta can't see. We're planning to make strong privacy and security a fundamental part of the agents we're building as well.\n\nI'm also very excited about our progress with business agents. We made Meta Business Agents available globally this quarter on WhatsApp and Messenger, and there are already more than 1 million businesses using them to talk to their customers or complete sales every week. We're rolling business agents out on Instagram now too. One interesting thing about having an agent talk to your customers every day is that it learns over time and can bring all those insights back to you. So we're building more agentic capabilities to summarize all the conversations, digest what happened overnight, and surface what customers are asking for. Soon, it'll go further, including suggesting ways to grow your business, giving you competitive intelligence and real-time insights into what's working and what's not. And over time, we'd like to build this into a business-in-a-box service that can help you start and run a whole business using Meta's platforms.\n\nIn terms of how we'll monetize these, we have a mix of subscriptions, volume-based pricing, and I expect that we're going to continue to evolve more of these products to be like our ad systems where businesses only pay us when we achieve results for them. Over time, that will let us run an efficient auction over our compute, similar to how we do that for advertisers today.\n\nAs AI usage in our products and business continues to ramp, we continue to invest aggressively in infrastructure to meet the demand. Yesterday, as part of our Meta Compute effort, we announced a new strategic venture with BlackRock to develop a new 1GW data center in El Paso, Texas.\n\nOverall, we expect that a significant portion of our compute is going to go towards training our models, growing our core business, and delivering personal agents and new products. But we also expect to grow a large business serving large customers as well. We've built our API, we're rolling out business agents, we're getting a lot of offers for compute at a significant premium over what we paid for it, and we have more coding and productivity tools on our roadmap as well. And we'll have more to share on all of this soon.\n\nAs we get closer to personal superintelligence, we're also going to need hardware that allows you to seamlessly interact with it. Glasses are the ideal form factor since they can be with you throughout the day and they can assist you without pulling you away from the moment. Our glasses remain one of the fastest-growing consumer electronics of all time, and we continue adding to the line-up.\n\nWe just released our own line of Meta Glasses in collaboration with EssilorLuxottica, including a style we designed with Kylie Jenner. They're the first glasses to ship with Muse Spark out of the box so that they can understand what you're seeing and give even more helpful answers. Early sales have been strong, exceeding our expectations. We'll have more to share on our glasses line-up at this year's Connect conference on September 23rd, so I encourage you to tune in then.\n\nBefore I wrap, I want to mention that I just published an op-ed about why I'm so optimistic that we're building a positive future for everyone. At Meta, we've always built technology to put power in people's hands so that they can connect with the people they care about and shape their world in the ways they want. It's why we've always focused on making our products affordable and accessible to everyone. And it's a strategy that has served both our community and our business well. \n\nAs we enter this next chapter, that same philosophy is guiding how we approach developing AI. We're the only major company building AI with the primary goal of putting superintelligence directly into people's hands. Rather than centralizing superintelligence, we're focused on distributing it widely and giving everyone the ability to direct it towards what matters to them. That's the way that society has always made progress. I think these are the right values for building a positive AI future. And if we help build this, then I think we'll continue to build a very strong business as well.\n\nThat's everything I wanted to cover up front today. AI is improving our core business -- it's making our apps more relevant, and delivering better results for businesses. We're starting to deliver more novel products, and we'll have a lot more there soon as well. We're investing aggressively because the potential is huge and we know there are many ways to deliver value here. As always, I'm grateful to all of you for being on this journey with us.",
+        "timestamp": 1785357999,
+        "comments_count": 24114,
+        "reactions_count": 83622,
+        "reshare_count": 5629,
+        "reactions": {
+          "angry": 318,
+          "care": 1769,
+          "haha": 393,
+          "like": 69182,
+          "love": 11522,
+          "sad": 79,
+          "wow": 359
+        },
+        "author": {
+          "id": "4",
+          "name": "Mark Zuckerberg",
+          "url": "https://www.facebook.com/zuck",
+          "profile_picture_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/632598281_10117314650513371_3238643608998008744_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx711x711&ctp=s40x40&_nc_cat=1&ccb=1-7&_nc_sid=1d2534&_nc_ohc=7_27smuPbeAQ7kNvwFurcUt&_nc_oc=AdqyoCNM0CI8hb9eDWB0rQx5kOUYC2FsXJXPajhg53u3r6uPjpLjDRK5M6kyE3Qgnh4&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQI2hhMqXEk6NPfOat8x0vzlDnsCHsTGpUhkmR4ITJRy3g&oe=6AA5B30B",
+          "delegate_page_id": "111895498378878"
+        },
+        "authors": [
+          {
+            "id": "4",
+            "name": "Mark Zuckerberg",
+            "url": "https://www.facebook.com/zuck",
+            "profile_picture_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/632598281_10117314650513371_3238643608998008744_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx711x711&ctp=s40x40&_nc_cat=1&ccb=1-7&_nc_sid=1d2534&_nc_ohc=7_27smuPbeAQ7kNvwFurcUt&_nc_oc=AdqyoCNM0CI8hb9eDWB0rQx5kOUYC2FsXJXPajhg53u3r6uPjpLjDRK5M6kyE3Qgnh4&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQI2hhMqXEk6NPfOat8x0vzlDnsCHsTGpUhkmR4ITJRy3g&oe=6AA5B30B",
+            "delegate_page_id": "111895498378878"
+          }
+        ],
+        "author_title": null,
+        "image": null,
+        "video": null,
+        "video_view_count": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": null,
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "10117809362341901",
+        "shares_id": "10117809362341901",
+        "associated_group_id": null,
+        "associated_group": null,
+        "images_count": null,
+        "top_comments": [
+          {
+            "type": "top_comment",
+            "id": "Y29tbWVudDoxMDExNzgwOTM2MjM0MTkwMV8yMjU4Mjk2ODYxNjM3NzQy",
+            "legacy_fb_id": "2258296861637742",
+            "text": "AI sangat membantu untuk menggantikan tugas manusia dalam beberapa hal kelemahan nya hanya 1 tidak bisa menggantikan yang asli secanggih canggih teknologi yang tidak asli dengan yang asli tetap kelihatan  thanks atas pemahaman yang kita dapatkan dari sini AI tetap bisa membuat semuanya menjadi lebih mudah",
+            "author": {
+              "id": "100007022550050",
+              "name": "Mahliana Ana",
+              "url": "https://www.facebook.com/100007022550050",
+              "gender": "FEMALE",
+              "profile_image_url": "https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-1/358104280_3591947201049330_5760679950860799983_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s32x32&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=QWzp_hVwN1AQ7kNvwHYCRn8&_nc_oc=AdrS2RiVeIzNoigs8HZFTHWK1uUvm6z3p6I5S5uEOzMeaJQ43pBIlJ5uIapXrRJiC5Q&_nc_zt=24&_nc_ht=scontent.fbeg4-1.fna&_nc_gid=7mpNP-3qUjYL8YqMcgafbw&_nc_ss=7d289&oh=00_AQJyeZ6gDHmFJduF6TekVIDvyger71HI_EFmCuAEV9kfMw&oe=6AA5C9B4"
+            },
+            "created_time": 1785372870
+          }
+        ]
+      }
+    ],
+    "cursor": "Cg8Ob3JnYW5pY19jdXJzb3IJAAACGkFRSFR0eDdjXzZuaWJQSmhwUXZpdE9zRUhGVFhTV0hRZkxnZFR6TVQ2R0FRWjVsdDZuNUlndnp1QmtiRjhNd1N6RXhpTGQ3aHFjTVNLMDdsTjlMVm40R1UwendvdjlqUlB5alFUVThWYnpRa3VKcHRYbmJmRjBsMkp2R2FyRnAwR0s3YkhuV1J2dndkamFOdnlrNUNPSFhnV2JVMXIxb3ZzUFRwdnB4eWp3V0p5dnk2YWJoWFJJVjdJQnVxWlR2WVNBVDROMDViVFFsXzdPQVJTdG9ZR2dGWHdrLTVlVDRxbXdMMVJIUzF3ZlppLWhGb1lsd05QNmgtWW0tbmhlbnJkNHhzanMwZlFaZG1SdFRZOWRYd3BXOUt2S0VOeVFjNkM4dnV1RXpxVnF5QXM1T3I4U2oyZjhreXJMbHc1NDlaZy1tMTVHY21iakI0SDFWRXl0S1dqa2FwRWNTdGJfLV8zd3JORGVxVkFMZFF2STU0NTZxM1BzUkJ6VDZSUy1ya0tnbXFNRTQ1bGxRNXBuWGY2d3VYU1hKa1ZlRjdUZlBXQ2syWFI4NDN4SWM2Y19INnlpcS1xdS1LajE3M2t4WmpOVUFOVmZYSF9BNjQyNlZqX3RmWTU0R2tyY0wxYkVLNHR0bXROTWpWNXJvN0wtZ0FQVUpiMThVV3dMVk1Nbk4wR3JOVmdGNkliMWhiQUZwQlBzM3N5NUxUMHcPCWFkX2N1cnNvcg4PD2dsb2JhbF9wb3NpdGlvbgIADwZvZmZzZXQCAA8QbGFzdF9hZF9wb3NpdGlvbgL/AQ=="
+  },
+  "recordTime": null
+}

@@ -1,0 +1,215 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:27.738605+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "__typename": "Title",
+      "id": "tt12037194",
+      "titleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "originalTitleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "releaseYear": {
+        "__typename": "YearRange",
+        "year": 2024,
+        "endYear": null
+      },
+      "releaseDate": {
+        "__typename": "ReleaseDate",
+        "month": 5,
+        "day": 24,
+        "year": 2024,
+        "country": {
+          "id": "US"
+        },
+        "restriction": null,
+        "attributes": [],
+        "displayableProperty": {
+          "qualifiersInMarkdownList": null
+        }
+      },
+      "titleType": {
+        "__typename": "TitleType",
+        "id": "movie",
+        "text": "Movie",
+        "categories": [
+          {
+            "id": "movie",
+            "text": "Movie",
+            "value": "movie"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "isEpisode": false,
+        "isSeries": false,
+        "displayableProperty": {
+          "value": {
+            "plainText": ""
+          }
+        }
+      },
+      "primaryImage": {
+        "__typename": "Image",
+        "id": "rm645622785",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg",
+        "height": 4096,
+        "width": 2764
+      },
+      "runtime": {
+        "seconds": 8880
+      },
+      "akas": {
+        "__typename": "AkaConnection",
+        "edges": [
+          {
+            "node": {
+              "attributes": [
+                {
+                  "id": "alternativeTitle",
+                  "text": "Alternative Title"
+                }
+              ],
+              "country": {
+                "__typename": "DisplayableCountry",
+                "id": "AU",
+                "text": "Australia"
+              },
+              "language": null,
+              "displayableProperty": {
+                "__typename": "DisplayableTitleAkaProperty",
+                "value": {
+                  "id": "Furiosa",
+                  "plainText": "Furiosa"
+                }
+              }
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "MA==",
+          "endCursor": "MA=="
+        },
+        "total": 40
+      },
+      "alternateVersions": {
+        "__typename": "AlternateVersionConnection",
+        "edges": [],
+        "total": 0,
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": false,
+          "hasPreviousPage": false,
+          "startCursor": null,
+          "endCursor": null
+        }
+      },
+      "countriesOfOrigin": {
+        "countries": [
+          {
+            "__typename": "CountryOfOrigin",
+            "id": "AU",
+            "text": "Australia"
+          },
+          {
+            "__typename": "CountryOfOrigin",
+            "id": "US",
+            "text": "United States"
+          }
+        ]
+      },
+      "filmingLocations": {
+        "__typename": "FilmingLocationConnection",
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "bGMyMTYzOTQy",
+          "endCursor": "bGMyMTYzOTQy"
+        },
+        "total": 7,
+        "edges": [
+          {
+            "node": {
+              "id": "lc2163942",
+              "displayableProperty": {
+                "__typename": "DisplayableTitleFilmingLocationProperty",
+                "value": {
+                  "id": "Broken Hill, New South Wales, Australia",
+                  "plainText": "Broken Hill, New South Wales, Australia"
+                }
+              },
+              "attributes": [],
+              "interestScore": {
+                "__typename": "InterestScore",
+                "usersInterested": 23,
+                "usersVoted": 23
+              }
+            }
+          }
+        ]
+      },
+      "officialLinks": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "ExternalLink",
+              "url": "https://www.furiosaamadmaxsaga.com/",
+              "label": "Official Site",
+              "externalLinkRegion": null
+            }
+          }
+        ]
+      },
+      "spokenLanguages": {
+        "spokenLanguages": [
+          {
+            "__typename": "SpokenLanguage",
+            "id": "en",
+            "text": "English",
+            "displayableProperty": {
+              "__typename": "DisplayableTitleSpokenLanguageProperty",
+              "value": {
+                "id": "English",
+                "plainText": "English"
+              }
+            }
+          },
+          {
+            "__typename": "SpokenLanguage",
+            "id": "ro",
+            "text": "Romanian",
+            "displayableProperty": {
+              "__typename": "DisplayableTitleSpokenLanguageProperty",
+              "value": {
+                "id": "Romanian",
+                "plainText": "Romanian"
+              }
+            }
+          },
+          {
+            "__typename": "SpokenLanguage",
+            "id": "it",
+            "text": "Italian",
+            "displayableProperty": {
+              "__typename": "DisplayableTitleSpokenLanguageProperty",
+              "value": {
+                "id": "Italian",
+                "plainText": "Italian"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": null
+}

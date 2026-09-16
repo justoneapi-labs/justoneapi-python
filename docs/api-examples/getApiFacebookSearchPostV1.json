@@ -1,0 +1,372 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:25.478000+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:08",
+  "code": 0,
+  "message": null,
+  "data": {
+    "results": [
+      {
+        "post_id": "1522719676557008",
+        "type": "post",
+        "url": "https://www.facebook.com/Techmeme/posts/pfbid02UuEXKZja8ubxF11CizLh3UJYTsXP5hNYrhhBB1mgqiLmsmvPRupuEZeM1gy74K4Al",
+        "message": "DeepSeek says it is seeking ~150 senior engineers in an \"unprecedented\" hiring spree to overhaul its backend systems, strained by high user demand and AI agents\n\nFull context: https://techme.me/f1k6",
+        "message_rich": "DeepSeek says it is seeking ~150 senior engineers in an \"unprecedented\" hiring spree to overhaul its backend systems, strained by high user demand and AI agents\n\nFull context: https://techme.me/f1k6",
+        "timestamp": 1788862241,
+        "comments_count": 0,
+        "reactions_count": 1,
+        "reshare_count": 0,
+        "reactions": {
+          "angry": 0,
+          "care": 0,
+          "haha": 0,
+          "like": 1,
+          "love": 0,
+          "sad": 0,
+          "wow": 0
+        },
+        "author": {
+          "id": "100064569706103",
+          "name": "Techmeme",
+          "url": "https://www.facebook.com/Techmeme",
+          "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/382237100_707940961368221_5245722985730491693_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4iWD4h0PTSEQ7kNvwEuM4Va&_nc_oc=AdpBvp6he0CpJmiFqJLS7OSGy0CtmKS9B_RR_1hivNxom7ytzDx-eshIHCMQp5RLAWs&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLLNBvmu-fTGo2o4hIyW6yqpqgvxqyFk5h34QpVaY4SNA&oe=6AA5CE31",
+          "delegate_page_id": "20302481344"
+        },
+        "authors": [
+          {
+            "id": "100064569706103",
+            "name": "Techmeme",
+            "url": "https://www.facebook.com/Techmeme",
+            "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/382237100_707940961368221_5245722985730491693_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4iWD4h0PTSEQ7kNvwEuM4Va&_nc_oc=AdpBvp6he0CpJmiFqJLS7OSGy0CtmKS9B_RR_1hivNxom7ytzDx-eshIHCMQp5RLAWs&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLLNBvmu-fTGo2o4hIyW6yqpqgvxqyFk5h34QpVaY4SNA&oe=6AA5CE31",
+            "delegate_page_id": "20302481344"
+          }
+        ],
+        "author_title": null,
+        "image": null,
+        "video": null,
+        "video_view_count": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": "https://www.scmp.com/tech/big-tech/article/3366740/deepseek-embarks-unprecedented-hiring-spree-it-overhauls-backend-systems",
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "1522719676557008",
+        "shares_id": "1522719676557008",
+        "associated_group_id": null,
+        "associated_group": null,
+        "images_count": null,
+        "top_comments": []
+      },
+      {
+        "post_id": "1403934185203314",
+        "type": "post",
+        "url": "https://www.facebook.com/groups/aivietnam1/posts/1403934185203314/",
+        "message": "# **DeepSeek vừa mở một cánh cửa mà chính họ cũng chưa muốn ai để ý.**\n\nSáng nay có một tweet lan truyền trong giới dev: DeepSeek đã âm thầm bật nội test cho V4.1 Flash — không thông báo chính thức, không trang landing page, chỉ cần đổi tên model trong request API\n\nChi tiết khiến nó thú vị không nằm ở tính năng, mà ở cách họ đặt tên: `deepseek-v4.1-flash-expires-on-0910`. Một model có \"ngày hết hạn\" ngay trong ID gọi API — kiểu build test tự huỷ sau vài ngày, không cần ai đi tắt thủ công.\n\nVề mặt kỹ thuật, đây được cho là lần đầu DeepSeek đưa đa phương thức vào thẳng kiến trúc lõi, thay vì gắn thêm \"chế độ vision\" như ở bản V4 cũ. Đối thủ như Gemini, GPT đã làm điều này từ nhiều thế hệ trước.\n\nNhưng thực tế là: giá giữ nguyên như V4 Flash, và họ chỉ mở 20 luồng request song song mỗi tài khoản — một quy mô test rất nhỏ, gần như chỉ đủ cho vài nhóm dev thân cận.\n\nĐiều này cho thấy một chiến thuật đang phổ biến ở các lab Trung Quốc: thử nghiệm kín, thu feedback nhanh, và chỉ công bố rầm rộ khi đã chắc tay — trái ngược hoàn toàn với kiểu launch ồn ào của OpenAI hay Google.\n\n**Bạn có nghĩ kiểu ra mắt lặng lẽ này sẽ trở thành chuẩn mới cho các lab AI, thay vì những buổi keynote hoành tráng?**",
+        "message_rich": "DeepSeek vừa mở một cánh cửa mà chính họ cũng chưa muốn ai để ý.\nSáng nay có một tweet lan truyền trong giới dev: DeepSeek đã âm thầm bật nội test cho V4.1 Flash — không thông báo chính thức, không trang landing page, chỉ cần đổi tên model trong request API\n\nChi tiết khiến nó thú vị không nằm ở tính năng, mà ở cách họ đặt tên: deepseek-v4.1-flash-expires-on-0910. Một model có \"ngày hết hạn\" ngay trong ID gọi API — kiểu build test tự huỷ sau vài ngày, không cần ai đi tắt thủ công.\n\nVề mặt kỹ thuật, đây được cho là lần đầu DeepSeek đưa đa phương thức vào thẳng kiến trúc lõi, thay vì gắn thêm \"chế độ vision\" như ở bản V4 cũ. Đối thủ như Gemini, GPT đã làm điều này từ nhiều thế hệ trước.\n\nNhưng thực tế là: giá giữ nguyên như V4 Flash, và họ chỉ mở 20 luồng request song song mỗi tài khoản — một quy mô test rất nhỏ, gần như chỉ đủ cho vài nhóm dev thân cận.\n\nĐiều này cho thấy một chiến thuật đang phổ biến ở các lab Trung Quốc: thử nghiệm kín, thu feedback nhanh, và chỉ công bố rầm rộ khi đã chắc tay — trái ngược hoàn toàn với kiểu launch ồn ào của OpenAI hay Google.\n\nBạn có nghĩ kiểu ra mắt lặng lẽ này sẽ trở thành chuẩn mới cho các lab AI, thay vì những buổi keynote hoành tráng?",
+        "timestamp": 1788860294,
+        "comments_count": 0,
+        "reactions_count": 8,
+        "reshare_count": 1,
+        "reactions": {
+          "angry": 0,
+          "care": 0,
+          "haha": 2,
+          "like": 6,
+          "love": 0,
+          "sad": 0,
+          "wow": 0
+        },
+        "author": {
+          "id": "100048497362837",
+          "name": "Phạm Ngọc Quý",
+          "url": "https://www.facebook.com/ngocquy.pham.3910",
+          "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/710279803_1522185526074678_238488748191877739_n.jpg?stp=cp6_dst-jpg_s80x80_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=d6wUd4z8uscQ7kNvwEuHpas&_nc_oc=Adorx-E50lOt5ZcFjHiWokzyAX098MjS1ilJ9s7SVeWoINyYMLXAmicci1zlPDu4BOY&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLSBn9gDDwvvofXQZKKAwlqXYuOc4cU7KM5-HLihNte_g&oe=6AA5DCC4",
+          "delegate_page_id": "122883240741773"
+        },
+        "authors": [
+          {
+            "id": "100048497362837",
+            "name": "Phạm Ngọc Quý",
+            "url": "https://www.facebook.com/ngocquy.pham.3910",
+            "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/710279803_1522185526074678_238488748191877739_n.jpg?stp=cp6_dst-jpg_s80x80_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=d6wUd4z8uscQ7kNvwEuHpas&_nc_oc=Adorx-E50lOt5ZcFjHiWokzyAX098MjS1ilJ9s7SVeWoINyYMLXAmicci1zlPDu4BOY&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLSBn9gDDwvvofXQZKKAwlqXYuOc4cU7KM5-HLihNte_g&oe=6AA5DCC4",
+            "delegate_page_id": "122883240741773"
+          }
+        ],
+        "author_title": null,
+        "image": null,
+        "video": null,
+        "video_view_count": null,
+        "album_preview": [
+          {
+            "type": "photo",
+            "image_file_uri": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/799772011_1605466697746560_5747321154736950780_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=V1vM_2mltOMQ7kNvwGwXURQ&_nc_oc=Adqn_7CJOBFvECGMTY0LNLidy4buLNvStc22b17XRwiVs-nVV4kCaXGoB6a337J588c&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLTDVDaYLF3fV5ZOcDIOrfH-Jj-rtTooZ7izV74wU4Wow&oe=6AA5E1E3",
+            "url": "https://www.facebook.com/photo.php?fbid=1605466694413227&set=gm.1403934178536648&type=3",
+            "id": "1605466694413227"
+          },
+          {
+            "type": "photo",
+            "image_file_uri": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/800718871_1605466861079877_193186732869551586_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=RdU8J5I0nbcQ7kNvwGsVOLW&_nc_oc=AdrBJzDAbKov3bU255ORSZ-SPev8jiQecazpY_gzvXCqDwvYjWxvZigqFaW9a8GAIF8&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQK8NNEGqMYu3lPdaz8eBvntHcHEwkRztkXPS7LR6m41_Q&oe=6AA5D2CE",
+            "url": "https://www.facebook.com/photo.php?fbid=1605466857746544&set=gm.1403934181869981&type=3",
+            "id": "1605466857746544"
+          }
+        ],
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": null,
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "1403934185203314",
+        "shares_id": "1403934185203314",
+        "associated_group_id": "1326310676298999",
+        "associated_group": {
+          "group_id": "1326310676298999",
+          "name": "AI Việt Nam | Trợ lý AI, ứng dụng AI vào công việc",
+          "url": "https://www.facebook.com/groups/aivietnam1/",
+          "work_foreign_entity_info": null,
+          "is_multi_company_group": false,
+          "work_official_status": "UNOFFICIAL"
+        },
+        "images_count": 2,
+        "top_comments": []
+      },
+      {
+        "post_id": "1482863160534942",
+        "type": "post",
+        "url": "https://www.facebook.com/arageek/posts/pfbid069DFPuWiXRS23i4R1s3pcRNVSspD2TZMZxjXQstzrMEbaj2MuLijsJhqWCMhxPFml",
+        "message": "DeepSeek كشفت خطوة لافتة في سباق الذكاء الاصطناعي، بعدما أتاحت نموذجها البصري الجديد V4-Flash-Vision-Exp كمصدر مفتوح على Hugging Face. الفكرة هنا ليست مجرد نموذج يفهم الصور، بل نظام يستطيع قراءة الشاشة وفهم الواجهات الرقمية واتخاذ خطوة عملية بعدها.\n\nوهذا يوضح أن المنافسة لم تعد تدور فقط حول الدردشة الذكية، بل حول إنجاز المهام داخل المواقع والبرامج كما يفعل المستخدم نفسه.\n\nما يميز هذا النموذج أنه موجه لوكلاء الذكاء الاصطناعي، أي أنه لا يكتفي بوصف ما يراه، بل يحلل الواجهات والمخططات ولقطات الويب ثم يحول الفهم إلى أفعال عبر الأدوات المناسبة.\n\nوهذا يقربه أكثر من فكرة المساعد التنفيذي الرقمي، خاصة في بيئات العمل التي ما زالت تعتمد على الأزرار والنوافذ والنماذج أكثر من اعتمادها على واجهات برمجية مباشرة.\n\nالأهم من الإعلان نفسه أن DeepSeek فتحت الأوزان الخاصة بالنموذج، ما يمنح المطورين والشركات مساحة أكبر للتجربة والتخصيص والتحكم، خصوصاً في المشاريع التي تحتاج إلى خصوصية أعلى أو بنية تشغيل محلية.\n\nوهذا يكشف أيضاً عن استراتيجية واضحة، إذ بدأت الشركة بإطلاق النموذج كخدمة أولاً ثم فتحت الأوزان لاحقاً، في خطوة تجمع بين الحذر التجاري وروح المصدر المفتوح.\n\nأما من ناحية الأداء، فالأرقام تشير إلى أن النموذج اقترب فعلاً من أدوات قوية في السوق، بل تفوق في بعض الاختبارات، مع الحفاظ على مستوى جيد في المهام النصية رغم إضافة القدرات البصرية.\n\nوهذا مهم لأن كثيراً من النماذج تتراجع في بعض الجوانب عندما تتوسع إلى تعدد الوسائط، بينما يبدو أن DeepSeek تحاول تقديم توازن عملي بين الفهم البصري والأداء العام.\n\nومن حيث التكلفة، يبدو النموذج مغرياً جداً، لأنه يقدم أداء قريباً من منافسين أكبر لكن بسعر أقل بكثير، وإن كان ذلك يأتي على حساب سرعة الاستجابة التي ما زالت أبطأ نسبياً.\n\nوهذا يعني أن النموذج قد يكون خياراً ممتازاً للمشاريع التي تركز على خفض التكلفة، بينما قد تظل النماذج الأسرع مفضلة في الحالات التي تحتاج إلى تفاعل لحظي.\n\nاللافت أيضاً أن المجتمع التقني تحرك بسرعة بعد الإطلاق، وظهرت نسخ مهيأة للتشغيل على أدوات معروفة خلال ساعات، ما يدل على أن النموذج لم يبق مجرد خبر، بل تحول فوراً إلى أداة قابلة للتجربة.\n\nوهذا يعكس شيئاً أكبر في السوق، وهو أن المرحلة المقبلة لن تكون لمن يقدم إجابة أفضل فقط، بل لمن يستطيع فهم ما يظهر على الشاشة وإنجاز العمل فعلياً بأقل تكلفة وبمرونة أكبر.",
+        "message_rich": "DeepSeek كشفت خطوة لافتة في سباق الذكاء الاصطناعي، بعدما أتاحت نموذجها البصري الجديد V4-Flash-Vision-Exp كمصدر مفتوح على Hugging Face. الفكرة هنا ليست مجرد نموذج يفهم الصور، بل نظام يستطيع قراءة الشاشة وفهم الواجهات الرقمية واتخاذ خطوة عملية بعدها.\n\nوهذا يوضح أن المنافسة لم تعد تدور فقط حول الدردشة الذكية، بل حول إنجاز المهام داخل المواقع والبرامج كما يفعل المستخدم نفسه.\n\nما يميز هذا النموذج أنه موجه لوكلاء الذكاء الاصطناعي، أي أنه لا يكتفي بوصف ما يراه، بل يحلل الواجهات والمخططات ولقطات الويب ثم يحول الفهم إلى أفعال عبر الأدوات المناسبة.\n\nوهذا يقربه أكثر من فكرة المساعد التنفيذي الرقمي، خاصة في بيئات العمل التي ما زالت تعتمد على الأزرار والنوافذ والنماذج أكثر من اعتمادها على واجهات برمجية مباشرة.\n\nالأهم من الإعلان نفسه أن DeepSeek فتحت الأوزان الخاصة بالنموذج، ما يمنح المطورين والشركات مساحة أكبر للتجربة والتخصيص والتحكم، خصوصاً في المشاريع التي تحتاج إلى خصوصية أعلى أو بنية تشغيل محلية.\n\nوهذا يكشف أيضاً عن استراتيجية واضحة، إذ بدأت الشركة بإطلاق النموذج كخدمة أولاً ثم فتحت الأوزان لاحقاً، في خطوة تجمع بين الحذر التجاري وروح المصدر المفتوح.\n\nأما من ناحية الأداء، فالأرقام تشير إلى أن النموذج اقترب فعلاً من أدوات قوية في السوق، بل تفوق في بعض الاختبارات، مع الحفاظ على مستوى جيد في المهام النصية رغم إضافة القدرات البصرية.\n\nوهذا مهم لأن كثيراً من النماذج تتراجع في بعض الجوانب عندما تتوسع إلى تعدد الوسائط، بينما يبدو أن DeepSeek تحاول تقديم توازن عملي بين الفهم البصري والأداء العام.\n\nومن حيث التكلفة، يبدو النموذج مغرياً جداً، لأنه يقدم أداء قريباً من منافسين أكبر لكن بسعر أقل بكثير، وإن كان ذلك يأتي على حساب سرعة الاستجابة التي ما زالت أبطأ نسبياً.\n\nوهذا يعني أن النموذج قد يكون خياراً ممتازاً للمشاريع التي تركز على خفض التكلفة، بينما قد تظل النماذج الأسرع مفضلة في الحالات التي تحتاج إلى تفاعل لحظي.\n\nاللافت أيضاً أن المجتمع التقني تحرك بسرعة بعد الإطلاق، وظهرت نسخ مهيأة للتشغيل على أدوات معروفة خلال ساعات، ما يدل على أن النموذج لم يبق مجرد خبر، بل تحول فوراً إلى أداة قابلة للتجربة.\n\nوهذا يعكس شيئاً أكبر في السوق، وهو أن المرحلة المقبلة لن تكون لمن يقدم إجابة أفضل فقط، بل لمن يستطيع فهم ما يظهر على الشاشة وإنجاز العمل فعلياً بأقل تكلفة وبمرونة أكبر.",
+        "timestamp": 1788282065,
+        "comments_count": 11,
+        "reactions_count": 539,
+        "reshare_count": 72,
+        "reactions": {
+          "angry": 0,
+          "care": 2,
+          "haha": 0,
+          "like": 513,
+          "love": 23,
+          "sad": 0,
+          "wow": 1
+        },
+        "author": {
+          "id": "100064338175710",
+          "name": "AraGeek - أراجيك",
+          "url": "https://www.facebook.com/arageek",
+          "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/274236188_7054846261252893_7481434598263264834_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=2HSM5c467xsQ7kNvwFtTRzW&_nc_oc=Adojzi3qFmVrq5D0rsLJtmOZXNI8hu0sK9Z46C7-7puI5rEHZyUx-F-UcUHBIzUtlCo&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLvcEb_kxdd7_UX48X65LIGVnFkvgqvpU0I3LkkeGbZmw&oe=6AA5D05D",
+          "delegate_page_id": "215206155216972"
+        },
+        "authors": [
+          {
+            "id": "100064338175710",
+            "name": "AraGeek - أراجيك",
+            "url": "https://www.facebook.com/arageek",
+            "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/274236188_7054846261252893_7481434598263264834_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=2HSM5c467xsQ7kNvwFtTRzW&_nc_oc=Adojzi3qFmVrq5D0rsLJtmOZXNI8hu0sK9Z46C7-7puI5rEHZyUx-F-UcUHBIzUtlCo&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLvcEb_kxdd7_UX48X65LIGVnFkvgqvpU0I3LkkeGbZmw&oe=6AA5D05D",
+            "delegate_page_id": "215206155216972"
+          }
+        ],
+        "author_title": null,
+        "image": {
+          "uri": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/792069984_1482863117201613_2837702975826794519_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rOKyOjQ4dsoQ7kNvwG6Rm2U&_nc_oc=AdrUWSIkMcgxDyDtRX2Y3J433FN4RXtoAzQLlKIyMNg61bndZfl34Hj8kjTmQW7z7Sg&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQJx8QJhB-UVa0U38iJP3S_ddDiSC5TwpWF9Y_oyp4NAGQ&oe=6AA5E3DF",
+          "height": 1350,
+          "width": 1080,
+          "id": "1482863113868280"
+        },
+        "video": null,
+        "video_view_count": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": null,
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "1482863160534942",
+        "shares_id": "1482863160534942",
+        "associated_group_id": null,
+        "associated_group": null,
+        "images_count": null,
+        "top_comments": []
+      },
+      {
+        "post_id": "122172663026718003",
+        "type": "post",
+        "url": "https://www.facebook.com/JeenthaiBusinessInside/posts/pfbid02gVkSdbPj2zdnpZnbpzEnTgn1LcSydcCXK3AY77GDZLeF3nybyPwPq9f4YceEbURBl",
+        "message": "โมเดล Open-Weight จีนรุกเวทีโลก ต่อยอดพัฒนา AI ในหลายประเทศ\n.\nโมเดล AI แบบ Open-Weight (โมเดลที่เปิดให้เราสามารถเข้าไปดาวน์โหลด AI มาใช้งานได้ แต่ไม่มีการเปิดโคดให้แก้ไขหรือเปิดสถาปัตยกรรมการฝึกทั้งหมด) ของจีน เช่น Kimi และ DeepSeek กำลังขยายบทบาทในเวทีโลกมากขึ้น หลังบริษัท AI ในต่างประเทศเริ่มนำโมเดลจีนไปฝึกฝนเพิ่มเติม เพื่อต่อยอดเป็นโมเดลและผลิตภัณฑ์ของตนเอง ทั้งการใช้เป็นโมเดลพื้นฐาน แหล่งสร้างข้อมูลสังเคราะห์ รวมถึงใช้เป็นต้นแบบด้านสถาปัตยกรรมและวิธีการฝึก โดยโมเดล AI ของจีนกำลังเข้าไปมีบทบาทในห่วงโซ่อุตสาหกรรม AI ระดับโลกมากขึ้น\n.\nล่าสุด Harvey สตาร์ตอัป AI ด้านกฎหมายชั้นนำจากสหรัฐฯ เปิดตัว “Tenet” โมเดล Open-Weight รุ่นแรกของบริษัทที่ผ่านการฝึกเพิ่มเติม โดยพัฒนาบนพื้นฐานของ “Kimi K3” โมเดล Open-Weight รุ่นล่าสุดจาก Moonshot AI (月之暗面) ของจีน\n.\nHarvey เปิดเผยว่า “Tenet” ได้รับการฝึกฝนให้สอดคล้องกับการทำงานจริงในแวดวงกฎหมาย โดยใช้สภาพแวดล้อมของ AI Agent เฉพาะทางด้านกฎหมายราว 1,750 รูปแบบในการฝึกและปรับปรุงโมเดลต่อเนื่องนานประมาณ 2 เดือน เพื่อเพิ่มประสิทธิภาพการทำงานด้านกฎหมาย ขณะที่ผลทดสอบพบว่าโมเดล AI ทั่วไปส่วนใหญ่ในตลาด สามารถทำงานด้านกฎหมายได้ครบถ้วนตามเกณฑ์มาตรฐานไม่ถึง 10%\n.\nหลังการฝึกเฉพาะทาง Tenet สามารถทำงานด้านกฎหมายได้ครบถ้วนเกือบ 2 เท่าเมื่อเทียบกับ Kimi K3 ขณะที่งานร่าง ตรวจทาน และเจรจาสัญญา มีจำนวนงานที่ทำได้ครบถ้วนเพิ่มขึ้นราว 20% พร้อมยังคงความสามารถด้านความรู้กฎหมายทั่วไปของโมเดลเดิมไว้ได้เกือบทั้งหมด\n.\nกรณีนี้ไม่ใช่เพียงตัวอย่างเดียวที่โมเดล Open-Weight ของจีนถูกนำไปต่อยอดในกระบวนการพัฒนาผลิตภัณฑ์ AI ในต่างประเทศ โดยบริษัทเจ้าของ Cursor แพลตฟอร์มเขียนโปรแกรมด้วย AI ของสหรัฐฯ ระบุว่า Composer 2 ซึ่งเปิดตัวในเดือนมีนาคม พัฒนาบนพื้นฐานของ Kimi K2.5 และใช้การฝึกต่อเนื่องด้วยข้อมูลโค้ดควบคู่กับการเรียนรู้แบบเสริมกำลัง เพื่อเพิ่มความสามารถด้านการเขียนโปรแกรม ก่อนพัฒนาเป็นโมเดล AI เฉพาะทาง\n.\nต่อมาในเดือนพฤษภาคม บริษัทเปิดตัว Composer 2.5 ซึ่งยังใช้ Kimi K2.5 เป็นพื้นฐาน พร้อมขยายขนาดการฝึกและเพิ่มจำนวนภารกิจในการเรียนรู้แบบเสริมกำลัง ขณะที่ Cognition ของสหรัฐฯ และ Cosine ของสหราชอาณาจักร ต่างนำโมเดล Kimi ไปฝึกต่อเพื่อเพิ่มขีดความสามารถด้านวิศวกรรมซอฟต์แวร์และพัฒนาผลิตภัณฑ์ AI ของตนเอง\n.\nโมเดล Open-Weight ของจีนยังส่งอิทธิพลถึงข้อมูลฝึกและสถาปัตยกรรม AI โดย Thinking Machines Lab สตาร์ตอัปที่ก่อตั้งโดยมิรา มูราติ (Mira Murati) อดีตประธานเจ้าหน้าที่ฝ่ายเทคโนโลยีของ OpenAI เปิดเผยว่า “Inkling” ผลิตภัณฑ์ของบริษัท แม้ไม่ได้ใช้โมเดลจีนเป็นพื้นฐานโดยตรง แต่ใช้สถาปัตยกรรมแบบผสมผสานผู้เชี่ยวชาญ (MoE) ตามแนวทางทางเทคนิคของ DeepSeek-V3 เป็นหลัก โดยในช่วงเริ่มต้นของการฝึกเพิ่มเติม บริษัทใช้โมเดล Open-Weight รวมถึง Kimi K2.5 สร้างข้อมูลสังเคราะห์ เพื่อนำไปใช้ในการปรับจูนแบบมีผู้สอนรอบแรก\n.\nในอดีต บริษัท AI มักต้องพึ่งพาโมเดลแบบปิด (Closed-Source) เพื่อพัฒนาโมเดลระดับแนวหน้า แต่เมื่อ Kimi และ DeepSeek พัฒนาขึ้นสู่ระดับแนวหน้า บริษัทเหล่านี้จึงมีทางเลือกด้านเทคโนโลยีเพิ่มเติม\n.\nขณะเดียวกัน AI กำลังพัฒนาจากเครื่องมือตอบคำถามไปสู่ AI Agent ทำให้เกณฑ์ประเมินความสามารถของโมเดลขยายจากการตอบคำถามด้านความรู้ ไปสู่ความสามารถในการปฏิบัติงานที่ซับซ้อนได้อย่างครบถ้วน\n.\nแนวโน้มนี้ทำให้การฝึกต่อยอดโมเดล AI เฉพาะทางให้ความสำคัญกับความสามารถในการปฏิบัติงานมากขึ้น โดย Cursor, Harvey และ Cognition นำโมเดลไปฝึกแบบเสริมกำลังในสภาพแวดล้อมที่ใกล้เคียงกับการทำงานจริง เพื่อให้เรียนรู้การค้นหาข้อมูล การเรียกใช้เครื่องมือ การจัดการบริบท และการแก้ไขข้อผิดพลาด\n.\nโมเดล Open-Weight ยังมีข้อได้เปรียบด้านต้นทุนและการควบคุม บริษัทสามารถติดตั้งใช้งานเอง ปรับปรุง และฝึกโมเดลต่อได้ตามต้องการ ช่วยลดต้นทุนการประมวลผลต่อหน่วย เพิ่มความยืดหยุ่น และลดการพึ่งพา API จากภายนอก โดยเฉพาะเมื่อมีการเรียกใช้งานในปริมาณมาก\n.\nเมื่อเทคโนโลยีด้านน้ำหนักโมเดล ข้อมูล และสถาปัตยกรรมถูกนำไปใช้ในระบบวิจัยและอุตสาหกรรม AI ทั่วโลกมากขึ้น บทบาทของโมเดล Open-Weight ของจีนในห่วงโซ่อุปทาน AI โลกก็เพิ่มขึ้นตาม โดยอิทธิพลกำลังขยายจากการนำผลิตภัณฑ์ออกสู่ตลาดต่างประเทศไปสู่การส่งออกเทคโนโลยี และมีแนวโน้มเป็นแหล่งเทคโนโลยีสำคัญสำหรับบริษัท AI ต่างประเทศในการพัฒนาโมเดลและผลิตภัณฑ์ใหม่\n.\n.\n📧 ติดต่อเรา Email: info@jeenthainews.com\n.\n#OpenWeight #อุตสาหกรรมAI\n.\n**กรุณาไม่คัดลอกบทความหรือนำไปดัดแปลง**",
+        "message_rich": "โมเดล Open-Weight จีนรุกเวทีโลก ต่อยอดพัฒนา AI ในหลายประเทศ\n.\nโมเดล AI แบบ Open-Weight (โมเดลที่เปิดให้เราสามารถเข้าไปดาวน์โหลด AI มาใช้งานได้ แต่ไม่มีการเปิดโคดให้แก้ไขหรือเปิดสถาปัตยกรรมการฝึกทั้งหมด) ของจีน เช่น Kimi และ DeepSeek กำลังขยายบทบาทในเวทีโลกมากขึ้น หลังบริษัท AI ในต่างประเทศเริ่มนำโมเดลจีนไปฝึกฝนเพิ่มเติม เพื่อต่อยอดเป็นโมเดลและผลิตภัณฑ์ของตนเอง ทั้งการใช้เป็นโมเดลพื้นฐาน แหล่งสร้างข้อมูลสังเคราะห์ รวมถึงใช้เป็นต้นแบบด้านสถาปัตยกรรมและวิธีการฝึก โดยโมเดล AI ของจีนกำลังเข้าไปมีบทบาทในห่วงโซ่อุตสาหกรรม AI ระดับโลกมากขึ้น\n.\nล่าสุด Harvey สตาร์ตอัป AI ด้านกฎหมายชั้นนำจากสหรัฐฯ เปิดตัว “Tenet” โมเดล Open-Weight รุ่นแรกของบริษัทที่ผ่านการฝึกเพิ่มเติม โดยพัฒนาบนพื้นฐานของ “Kimi K3” โมเดล Open-Weight รุ่นล่าสุดจาก Moonshot AI (月之暗面) ของจีน\n.\nHarvey เปิดเผยว่า “Tenet” ได้รับการฝึกฝนให้สอดคล้องกับการทำงานจริงในแวดวงกฎหมาย โดยใช้สภาพแวดล้อมของ AI Agent เฉพาะทางด้านกฎหมายราว 1,750 รูปแบบในการฝึกและปรับปรุงโมเดลต่อเนื่องนานประมาณ 2 เดือน เพื่อเพิ่มประสิทธิภาพการทำงานด้านกฎหมาย ขณะที่ผลทดสอบพบว่าโมเดล AI ทั่วไปส่วนใหญ่ในตลาด สามารถทำงานด้านกฎหมายได้ครบถ้วนตามเกณฑ์มาตรฐานไม่ถึง 10%\n.\nหลังการฝึกเฉพาะทาง Tenet สามารถทำงานด้านกฎหมายได้ครบถ้วนเกือบ 2 เท่าเมื่อเทียบกับ Kimi K3 ขณะที่งานร่าง ตรวจทาน และเจรจาสัญญา มีจำนวนงานที่ทำได้ครบถ้วนเพิ่มขึ้นราว 20% พร้อมยังคงความสามารถด้านความรู้กฎหมายทั่วไปของโมเดลเดิมไว้ได้เกือบทั้งหมด\n.\nกรณีนี้ไม่ใช่เพียงตัวอย่างเดียวที่โมเดล Open-Weight ของจีนถูกนำไปต่อยอดในกระบวนการพัฒนาผลิตภัณฑ์ AI ในต่างประเทศ โดยบริษัทเจ้าของ Cursor แพลตฟอร์มเขียนโปรแกรมด้วย AI ของสหรัฐฯ ระบุว่า Composer 2 ซึ่งเปิดตัวในเดือนมีนาคม พัฒนาบนพื้นฐานของ Kimi K2.5 และใช้การฝึกต่อเนื่องด้วยข้อมูลโค้ดควบคู่กับการเรียนรู้แบบเสริมกำลัง เพื่อเพิ่มความสามารถด้านการเขียนโปรแกรม ก่อนพัฒนาเป็นโมเดล AI เฉพาะทาง\n.\nต่อมาในเดือนพฤษภาคม บริษัทเปิดตัว Composer 2.5 ซึ่งยังใช้ Kimi K2.5 เป็นพื้นฐาน พร้อมขยายขนาดการฝึกและเพิ่มจำนวนภารกิจในการเรียนรู้แบบเสริมกำลัง ขณะที่ Cognition ของสหรัฐฯ และ Cosine ของสหราชอาณาจักร ต่างนำโมเดล Kimi ไปฝึกต่อเพื่อเพิ่มขีดความสามารถด้านวิศวกรรมซอฟต์แวร์และพัฒนาผลิตภัณฑ์ AI ของตนเอง\n.\nโมเดล Open-Weight ของจีนยังส่งอิทธิพลถึงข้อมูลฝึกและสถาปัตยกรรม AI โดย Thinking Machines Lab สตาร์ตอัปที่ก่อตั้งโดยมิรา มูราติ (Mira Murati) อดีตประธานเจ้าหน้าที่ฝ่ายเทคโนโลยีของ OpenAI เปิดเผยว่า “Inkling” ผลิตภัณฑ์ของบริษัท แม้ไม่ได้ใช้โมเดลจีนเป็นพื้นฐานโดยตรง แต่ใช้สถาปัตยกรรมแบบผสมผสานผู้เชี่ยวชาญ (MoE) ตามแนวทางทางเทคนิคของ DeepSeek-V3 เป็นหลัก โดยในช่วงเริ่มต้นของการฝึกเพิ่มเติม บริษัทใช้โมเดล Open-Weight รวมถึง Kimi K2.5 สร้างข้อมูลสังเคราะห์ เพื่อนำไปใช้ในการปรับจูนแบบมีผู้สอนรอบแรก\n.\nในอดีต บริษัท AI มักต้องพึ่งพาโมเดลแบบปิด (Closed-Source) เพื่อพัฒนาโมเดลระดับแนวหน้า แต่เมื่อ Kimi และ DeepSeek พัฒนาขึ้นสู่ระดับแนวหน้า บริษัทเหล่านี้จึงมีทางเลือกด้านเทคโนโลยีเพิ่มเติม\n.\nขณะเดียวกัน AI กำลังพัฒนาจากเครื่องมือตอบคำถามไปสู่ AI Agent ทำให้เกณฑ์ประเมินความสามารถของโมเดลขยายจากการตอบคำถามด้านความรู้ ไปสู่ความสามารถในการปฏิบัติงานที่ซับซ้อนได้อย่างครบถ้วน\n.\nแนวโน้มนี้ทำให้การฝึกต่อยอดโมเดล AI เฉพาะทางให้ความสำคัญกับความสามารถในการปฏิบัติงานมากขึ้น โดย Cursor, Harvey และ Cognition นำโมเดลไปฝึกแบบเสริมกำลังในสภาพแวดล้อมที่ใกล้เคียงกับการทำงานจริง เพื่อให้เรียนรู้การค้นหาข้อมูล การเรียกใช้เครื่องมือ การจัดการบริบท และการแก้ไขข้อผิดพลาด\n.\nโมเดล Open-Weight ยังมีข้อได้เปรียบด้านต้นทุนและการควบคุม บริษัทสามารถติดตั้งใช้งานเอง ปรับปรุง และฝึกโมเดลต่อได้ตามต้องการ ช่วยลดต้นทุนการประมวลผลต่อหน่วย เพิ่มความยืดหยุ่น และลดการพึ่งพา API จากภายนอก โดยเฉพาะเมื่อมีการเรียกใช้งานในปริมาณมาก\n.\nเมื่อเทคโนโลยีด้านน้ำหนักโมเดล ข้อมูล และสถาปัตยกรรมถูกนำไปใช้ในระบบวิจัยและอุตสาหกรรม AI ทั่วโลกมากขึ้น บทบาทของโมเดล Open-Weight ของจีนในห่วงโซ่อุปทาน AI โลกก็เพิ่มขึ้นตาม โดยอิทธิพลกำลังขยายจากการนำผลิตภัณฑ์ออกสู่ตลาดต่างประเทศไปสู่การส่งออกเทคโนโลยี และมีแนวโน้มเป็นแหล่งเทคโนโลยีสำคัญสำหรับบริษัท AI ต่างประเทศในการพัฒนาโมเดลและผลิตภัณฑ์ใหม่\n.\n.\n📧 ติดต่อเรา Email: info@jeenthainews.com\n.\n#OpenWeight #อุตสาหกรรมAI\n.\n**กรุณาไม่คัดลอกบทความหรือนำไปดัดแปลง**",
+        "timestamp": 1788861606,
+        "comments_count": 1,
+        "reactions_count": 8,
+        "reshare_count": 3,
+        "reactions": {
+          "angry": 0,
+          "care": 0,
+          "haha": 0,
+          "like": 8,
+          "love": 0,
+          "sad": 0,
+          "wow": 0
+        },
+        "author": {
+          "id": "61571540106413",
+          "name": "Jeenthai Business Inside",
+          "url": "https://www.facebook.com/JeenthaiBusinessInside",
+          "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/472714849_122102810408718003_4614534336923805980_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=I8-NHRengTwQ7kNvwG3ny3y&_nc_oc=Adr-XkdeSJaLGaHqyqmTNdsOHG-0QEy3YA87PeIs7WxDXUGcdqLSRTLVlV7ve9POaL8&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQIevMcdNzul4KSESCFy56iDEDxH1yjNM0Y4_TkCWfdltw&oe=6AA5B892",
+          "delegate_page_id": "552336244626301"
+        },
+        "authors": [
+          {
+            "id": "61571540106413",
+            "name": "Jeenthai Business Inside",
+            "url": "https://www.facebook.com/JeenthaiBusinessInside",
+            "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/472714849_122102810408718003_4614534336923805980_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=I8-NHRengTwQ7kNvwG3ny3y&_nc_oc=Adr-XkdeSJaLGaHqyqmTNdsOHG-0QEy3YA87PeIs7WxDXUGcdqLSRTLVlV7ve9POaL8&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQIevMcdNzul4KSESCFy56iDEDxH1yjNM0Y4_TkCWfdltw&oe=6AA5B892",
+            "delegate_page_id": "552336244626301"
+          }
+        ],
+        "author_title": null,
+        "image": {
+          "uri": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/799935216_122172599228718003_3013968078910182903_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MMXSHp_wYIAQ7kNvwH4sbwR&_nc_oc=AdpEQYsBi2WuvD5r4vcSD2JjfsxRPzTVsSTUohxHCPtrEyEGwbKhPNm3j5TbsfyHzOg&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQIo02y6jVUnUbF0IFqmtahCgGK7ZC8oMe8r9Q4qsMsgHA&oe=6AA5DD39",
+          "height": 1080,
+          "width": 1080,
+          "id": "122172663014718003"
+        },
+        "video": null,
+        "video_view_count": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": null,
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "122172663026718003",
+        "shares_id": "122172663026718003",
+        "associated_group_id": null,
+        "associated_group": null,
+        "images_count": null,
+        "top_comments": []
+      },
+      {
+        "post_id": "4387065828288835",
+        "type": "post",
+        "url": "https://www.facebook.com/t.rekttt/posts/pfbid0uNkLV4gLX2zDoRDGH4F6zM39of4qaiDz7HmxGuPWqvuV7QFYFbhbWZthbwSUmevxl",
+        "message": "Hôm bữa mình có chạy thử con hàng FreeToken này thấy khá ngon, chạy 1 con 5880 Ada 48 GB VRAM + 200 GB RAM offload có thể kéo được model Deepseek 4 Flash 0731 với tốc độ khoảng 14 token/s và GLM 5.3 Flash với tốc độ khoảng 9 token/s, mỗi model mình chạy với 256k context. Dù tốc độ này vẫn tương đối chậm nhưng chạy các model cracked hay abliterated để làm các tác vụ security research local ưu tiên độ thông minh hơn tốc độ thì vẫn rất ngon.\nTheo như mình đọc hiểu thì project này giúp tận dụng lợi thế của model MoE khi giúp offload phần lớn tham số MoE vào RAM và chỉ load những MoE liên quan tới tác vụ đang chạy vào GPU. Kiểu như có mấy trăm ông chuyên gia nhưng mỗi lần chỉ gọi dăm chục ông lên cty (VRAM) thì cho mấy ông này ở kí túc xá cách cty 5p đi bộ (RAM) thay vì gọi ở nhà đến (SSD), ông nào đang làm việc thì cứ ở lại làm tiếp (cache), hết việc (cache miss) thì cho về gọi những ông khác lên 😁.",
+        "message_rich": "Hôm bữa mình có chạy thử con hàng FreeToken này thấy khá ngon, chạy 1 con 5880 Ada 48 GB VRAM + 200 GB RAM offload có thể kéo được model Deepseek 4 Flash 0731 với tốc độ khoảng 14 token/s và GLM 5.3 Flash với tốc độ khoảng 9 token/s, mỗi model mình chạy với 256k context. Dù tốc độ này vẫn tương đối chậm nhưng chạy các model cracked hay abliterated để làm các tác vụ security research local ưu tiên độ thông minh hơn tốc độ thì vẫn rất ngon.\nTheo như mình đọc hiểu thì project này giúp tận dụng lợi thế của model MoE khi giúp offload phần lớn tham số MoE vào RAM và chỉ load những MoE liên quan tới tác vụ đang chạy vào GPU. Kiểu như có mấy trăm ông chuyên gia nhưng mỗi lần chỉ gọi dăm chục ông lên cty (VRAM) thì cho mấy ông này ở kí túc xá cách cty 5p đi bộ (RAM) thay vì gọi ở nhà đến (SSD), ông nào đang làm việc thì cứ ở lại làm tiếp (cache), hết việc (cache miss) thì cho về gọi những ông khác lên 😁.",
+        "timestamp": 1788851416,
+        "comments_count": 0,
+        "reactions_count": 39,
+        "reshare_count": 3,
+        "reactions": {
+          "angry": 0,
+          "care": 1,
+          "haha": 0,
+          "like": 30,
+          "love": 4,
+          "sad": 0,
+          "wow": 4
+        },
+        "author": {
+          "id": "100009563844355",
+          "name": "Việt Thảo",
+          "url": "https://www.facebook.com/t.rekttt",
+          "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/762779883_4349743432021075_6329672695617108841_n.jpg?stp=cp6_dst-jpg_s80x80_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=2MgyN5lvpo8Q7kNvwHqWIRP&_nc_oc=Adqt2QPlLKCKEVQ2SMDHceZlwd4VTrUP0_FCTcd3VlDAYTxYcylsFEgqUipVPAhlhGE&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQIUzdKNUblaIy4le-t8KHbqliiDLzIt9slMTnsuArrIYw&oe=6AA5CE06",
+          "delegate_page_id": "112958128322700"
+        },
+        "authors": [
+          {
+            "id": "100009563844355",
+            "name": "Việt Thảo",
+            "url": "https://www.facebook.com/t.rekttt",
+            "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/762779883_4349743432021075_6329672695617108841_n.jpg?stp=cp6_dst-jpg_s80x80_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=2MgyN5lvpo8Q7kNvwHqWIRP&_nc_oc=Adqt2QPlLKCKEVQ2SMDHceZlwd4VTrUP0_FCTcd3VlDAYTxYcylsFEgqUipVPAhlhGE&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQIUzdKNUblaIy4le-t8KHbqliiDLzIt9slMTnsuArrIYw&oe=6AA5CE06",
+            "delegate_page_id": "112958128322700"
+          }
+        ],
+        "author_title": null,
+        "image": null,
+        "video": null,
+        "video_view_count": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": "https://github.com/FlashML-org/FreeToken",
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "4387065828288835",
+        "shares_id": "4387065828288835",
+        "associated_group_id": null,
+        "associated_group": null,
+        "images_count": null,
+        "top_comments": []
+      },
+      {
+        "post_id": "1664208389039484",
+        "type": "post",
+        "url": "https://www.facebook.com/saturngod.blog.news/posts/pfbid0NgjQiYcbBWLCdaxGyHeSHaguFxSC8fGJyUAzVCnpFfs11rKAC9Y9hTydBSnhhTk7l",
+        "message": "https://x.com/deepseek_ai/status/2087864585504305397",
+        "message_rich": "https://x.com/deepseek_ai/status/2087864585504305397",
+        "timestamp": 1786630587,
+        "comments_count": 1,
+        "reactions_count": 23,
+        "reshare_count": 1,
+        "reactions": {
+          "angry": 0,
+          "care": 0,
+          "haha": 0,
+          "like": 18,
+          "love": 5,
+          "sad": 0,
+          "wow": 0
+        },
+        "author": {
+          "id": "100063510169275",
+          "name": "Saturngod",
+          "url": "https://www.facebook.com/saturngod.blog.news",
+          "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/468020369_1114128487380813_6053687532748989864_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=6BWpZ6vYk7EQ7kNvwGp9IQo&_nc_oc=AdqaL39J0yUMa7JfJ-G801RAsabgXV-QgG7xDAUSNZ6LZjnBiXusFdGM46zZCmrLbpw&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLf_SgakQHthx95Hy-UY4Kj9gIvLpE1-oK0B2Vebg7D8A&oe=6AA5C35A",
+          "delegate_page_id": "179215738365"
+        },
+        "authors": [
+          {
+            "id": "100063510169275",
+            "name": "Saturngod",
+            "url": "https://www.facebook.com/saturngod.blog.news",
+            "profile_picture_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/468020369_1114128487380813_6053687532748989864_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=6BWpZ6vYk7EQ7kNvwGp9IQo&_nc_oc=AdqaL39J0yUMa7JfJ-G801RAsabgXV-QgG7xDAUSNZ6LZjnBiXusFdGM46zZCmrLbpw&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=OzeRSh5EZJaYIf3hVIXejg&_nc_ss=73289&oh=00_AQLf_SgakQHthx95Hy-UY4Kj9gIvLpE1-oK0B2Vebg7D8A&oe=6AA5C35A",
+            "delegate_page_id": "179215738365"
+          }
+        ],
+        "author_title": null,
+        "image": null,
+        "video": null,
+        "video_view_count": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": "https://x.com/deepseek_ai/status/2087864585504305397",
+        "attached_event": null,
+        "attached_group": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "1664208389039484",
+        "shares_id": "1664208389039484",
+        "associated_group_id": null,
+        "associated_group": null,
+        "images_count": null,
+        "top_comments": []
+      }
+    ],
+    "cursor": "{\"page_number\": 0, \"flow_cursors_serialized\": {\"INTERNAL_DEBUG_MODULE\": \"{}\", \"SEARCH_CONTROLS_INTERCEPT\": \"{}\", \"INTEGRITY\": \"{}\", \"SHORTCUT_DEEP_DIVE\": \"{}\", \"SPELLER\": \"{}\", \"HASHTAG_HEADER\": \"{}\", \"HASHTAG_CACHED_CONTENT\": \"{}\", \"POSTS_TAB_UNICORN_CACHE\": \"{}\", \"POSTS_TAB\": \"{\\\"has_more_results\\\": true, \\\"browse_cursor_serialized\\\": \\\"Abrm2vTeLgkxDuHKH6IKRRfWRJ5b_9mK1jqhm2fY4zArimYfqC52F3NaaAg2LhacZqB2lqTKXw-NqkZoY3sMP9KTW1BXiQZ5668ZQZ4uliIiBhSdcvhz5_hYhFvAaR317gb5DZvCRfai3D1nEr7ovikU5wt9PqBHlc3zTMjewsPTfqbkObriCKVvypPFmncFQ1r-2U0514bUBMHy7tebFWCbmby9B4Ump-wip9mI-yup8AjyV7UPvFlMnl5d-ROW2wVHqUy7UcwFSIiwSvaVBLOcOJ168IJpHOlH9loqiZAxR0VB9EtPMAcbIax7PVy48qCTAhoQ0CXLqwao2Y0AIeHHGEyZV521pkONoFIagDukDTB46_7LesRClYhBDRS2BNayK269FNRrlJpgHORlfQ5NHGqbhNYqkaxzesHhQCD2VJpJTEiqSKGTadg0w39HySpFY0PnZ4-OL_O930J2xQdtiznpP5cdHUQc8bnDcUumIjvyVolylhw5Xt_LnvsYHBubWteL57nU4uiKxFDkDe-8PK5DUoohzRUFmVxPokOx37kGHLNozyWqQzX6kOUUavtrRFbcQH93LtB8j_Sws0689sDlGM-gOPR5phxBkqZ2aA_FDXwhtKIJzkrb6EIWmbg\\\", \\\"processed_unicorn_ids\\\": [], \\\"is_end_of_serp\\\": false}\", \"PARALLEL_FETCH_NOOP\": \"{}\"}, \"result_ids_shown\": [], \"unit_id_logging_fields\": {\"num_total_modules\": 6, \"num_total_results\": 6, \"num_total_vertical_results\": 6}, \"entity_ids_shown_by_type\": {}, \"processed_unicorn_ids\": [], \"completed_flows\": [\"INTERNAL_DEBUG_MODULE\", \"SEARCH_CONTROLS_INTERCEPT\", \"INTEGRITY\", \"SHORTCUT_DEEP_DIVE\", \"SPELLER\", \"HASHTAG_HEADER\", \"HASHTAG_CACHED_CONTENT\", \"POSTS_TAB_UNICORN_CACHE\"]}"
+  },
+  "recordTime": null
+}

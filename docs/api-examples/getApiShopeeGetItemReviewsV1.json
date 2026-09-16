@@ -1,0 +1,108 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:40.134645+08:00",
+  "_sourceCheckedAt": "2026-08-12T13:59:17",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "semantics": {
+      "one_shop_review_page": true,
+      "canonical_item_review_pagination": false,
+      "full_review_object_preserved": true
+    },
+    "query": {
+      "shop_id": 526184774,
+      "item_id": 24428454365,
+      "offset": 0,
+      "limit": 20,
+      "rating_type": 0
+    },
+    "page": {
+      "shop_reviews_returned": 20,
+      "target_reviews": 1
+    },
+    "reviews": [
+      {
+        "orderid": 0,
+        "itemid": 24428454365,
+        "cmtid": 107064663259,
+        "ctime": 1786506928,
+        "rating": 1,
+        "userid": 140447577,
+        "shopid": 526184774,
+        "comment": "",
+        "rating_star": 5,
+        "status": 2,
+        "mtime": 1786508321,
+        "editable": 1,
+        "opt": 2,
+        "filter": 0,
+        "is_hidden": false,
+        "can_follow_up": true,
+        "submit_time": 1786506928,
+        "author_username": "a*****y",
+        "author_portrait": "",
+        "anonymous": true,
+        "product_items": [
+          {
+            "itemid": 24428454365,
+            "shopid": 526184774,
+            "name": "MHW-3BOMBER 轟炸機 馭系列旋風攪粉針 58mm 咖啡布粉針旋轉均勻打散結塊 散粉針 按壓式攪粉針 針式布粉器",
+            "image": "tw-11134207-7r98w-lvpoigvt1z2q48",
+            "is_snapshot": 1,
+            "snapshotid": 290141791909,
+            "modelid": 49769518024,
+            "model_name": "馭系列-旋風攪粉針-58MM通用",
+            "is_half_pdp": false
+          }
+        ],
+        "ItemRatingReply": {
+          "orderid": 0,
+          "cmtid": 107064663259,
+          "ctime": 1786508321,
+          "userid": 526204353,
+          "comment": "-\n感謝您的五星評價，您的喜愛與支持對我們非常重要 👍👍👍 為您服務是我們的榮幸！未來將持續推出新品與用心做好服務，請繼續關注我們噢！ 謝謝您 ☺️☺️",
+          "mtime": 1786508321,
+          "is_hidden": false
+        },
+        "editable_date": 1789098928,
+        "sync_to_social": false,
+        "detailed_rating": {
+          "product_quality": 5,
+          "seller_service": 5,
+          "delivery_service": 5
+        },
+        "exclude_scoring_due_low_logistic": false,
+        "has_template_tag": false,
+        "sip_info": {
+          "is_oversea": false,
+          "origin_region": "tw"
+        },
+        "overall_fit": 0,
+        "is_normal_item": true,
+        "is_super_review": false,
+        "is_newly_created": false,
+        "template_abt": "bucket_a",
+        "is_repeat_edited": false,
+        "super_review_status": 0,
+        "algo_template_abt": "shuffle_hint",
+        "review_creation_source": 2,
+        "matched_product_items": [
+          {
+            "itemid": 24428454365,
+            "shopid": 526184774,
+            "name": "MHW-3BOMBER 轟炸機 馭系列旋風攪粉針 58mm 咖啡布粉針旋轉均勻打散結塊 散粉針 按壓式攪粉針 針式布粉器",
+            "image": "tw-11134207-7r98w-lvpoigvt1z2q48",
+            "is_snapshot": 1,
+            "snapshotid": 290141791909,
+            "modelid": 49769518024,
+            "model_name": "馭系列-旋風攪粉針-58MM通用",
+            "is_half_pdp": false
+          }
+        ]
+      }
+    ]
+  },
+  "recordTime": "2026-08-12T13:59:17.391700134"
+}

@@ -1,0 +1,105 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:28.271118+08:00",
+  "_sourceCheckedAt": "2026-07-23T14:02:11",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "connections": {
+        "edges": [
+          {
+            "node": {
+              "category": {
+                "id": "follows",
+                "text": "Follows"
+              },
+              "associatedTitle": {
+                "id": "tt1392190"
+              }
+            }
+          }
+        ]
+      },
+      "moreLikeThisTitles": {
+        "edges": [
+          {
+            "node": {
+              "id": "tt1392190"
+            }
+          },
+          {
+            "node": {
+              "id": "tt0079501"
+            }
+          },
+          {
+            "node": {
+              "id": "tt0082694"
+            }
+          },
+          {
+            "node": {
+              "id": "tt0089530"
+            }
+          },
+          {
+            "node": {
+              "id": "tt4575512"
+            }
+          },
+          {
+            "node": {
+              "id": "tt18412256"
+            }
+          },
+          {
+            "node": {
+              "id": "tt6263850"
+            }
+          },
+          {
+            "node": {
+              "id": "tt1631867"
+            }
+          },
+          {
+            "node": {
+              "id": "tt10366206"
+            }
+          },
+          {
+            "node": {
+              "id": "tt2911666"
+            }
+          },
+          {
+            "node": {
+              "id": "tt9218128"
+            }
+          },
+          {
+            "node": {
+              "id": "tt9603212"
+            }
+          },
+          {
+            "node": {
+              "id": "tt13654226"
+            }
+          },
+          {
+            "node": {
+              "id": "tt11138512"
+            }
+          },
+          {
+            "node": {
+              "id": "tt5040012"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": "2026-07-23T14:02:10.969531141"
+}

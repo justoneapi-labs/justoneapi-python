@@ -1,0 +1,25 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:27.343991+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "countriesOfOrigin": {
+        "countries": [
+          {
+            "__typename": "CountryOfOrigin",
+            "id": "AU",
+            "text": "Australia"
+          },
+          {
+            "__typename": "CountryOfOrigin",
+            "id": "US",
+            "text": "United States"
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": null
+}

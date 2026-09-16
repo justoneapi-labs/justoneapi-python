@@ -1,0 +1,1044 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:46.128915+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:23",
+  "code": 0,
+  "message": null,
+  "data": {
+    "product_data": {
+      "ab_test": {
+        "user_level": {
+          "shouldJumpH5Pay": 1
+        },
+        "page_level": {
+          "page_id": "406613577632091662",
+          "vids": [],
+          "params": {}
+        }
+      },
+      "page_config": {
+        "global_fe_config": {},
+        "components_map": [
+          {
+            "component_type": "user_info",
+            "component_name": "user_info",
+            "fe_config": {}
+          },
+          {
+            "component_type": "page_header",
+            "component_name": "page_header",
+            "fe_config": {}
+          },
+          {
+            "component_type": "call_app_bottom_popup",
+            "component_name": "call_app_bottom_popup",
+            "fe_config": {
+              "target": "wrapper_pdp"
+            }
+          },
+          {
+            "component_type": "coupon_popup",
+            "component_name": "coupon_popup",
+            "fe_config": {}
+          },
+          {
+            "component_type": "product_detail",
+            "component_name": "product_detail",
+            "fe_config": {
+              "data_source": {
+                "skip_data_return": true
+              }
+            }
+          },
+          {
+            "component_type": "deals_info",
+            "component_name": "deals_info",
+            "fe_config": {
+              "data_source": {
+                "skip_data_return": true
+              }
+            }
+          },
+          {
+            "component_type": "product_info",
+            "component_name": "product_info",
+            "fe_config": {
+              "show_protections_policy": true,
+              "show_empty_page": true,
+              "is_pay_supported": true,
+              "is_cart_supported": true,
+              "data_source": {
+                "has_pre_dependency": true,
+                "pre_dependency_modules": [
+                  "product_detail",
+                  "category_info",
+                  "shop_info",
+                  "deals_info"
+                ]
+              }
+            },
+            "component_data": {
+              "error_code": 0,
+              "error_message": "success",
+              "product_info": {
+                "product_model": {
+                  "product_id": "1731884906803204744",
+                  "seller_id": "7496280663785376392",
+                  "sold_count": "26",
+                  "name": "Labubu The Monsters Big into Energy Series \"Plush Pendant Blind Box (Single Box)\" LAB013",
+                  "description": "[{\"type\":\"text\",\"text\":\"Unwrap a tiny bundle of mystery and charm with the LABUBU The Monsters Big Into Energy Series Plush Pendant Blind Box - Single Box. Each blind box holds a delightful, collectible plush pendant, bursting with personality. Experience the excitement of discovery as you reveal which unique monster will join your collection, ready to add a playful pop to your day. This item is FINAL SALE.\",\"sub\":[{\"t\":\"Unwrap a tiny bundle of mystery and charm with the LABUBU The Monsters Big Into Energy Series Plush Pendant Blind Box - Single Box. Each blind box holds a delightful, collectible plush pendant, bursting with personality. Experience the excitement of discovery as you reveal which unique monster will join your collection, ready to add a playful pop to your day. This item is FINAL SALE.\"}]}]",
+                  "images": [
+                    {
+                      "height": 2000,
+                      "width": 2000,
+                      "uri": "tos-useast5-i-omjb5zjo8w-tx/fa710918ce4d4b89b31912b81f37015d",
+                      "url_list": [
+                        "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/fa710918ce4d4b89b31912b81f37015d~tplv-fhlh96nyum-crop-webp:2000:2000.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=e1be8f53&idc=useast5&from=2378011839",
+                        "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/fa710918ce4d4b89b31912b81f37015d~tplv-fhlh96nyum-crop-webp:2000:2000.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=e1be8f53&idc=useast5&from=2378011839"
+                      ]
+                    }
+                  ],
+                  "sale_properties": [
+                    {
+                      "property_id": "100007",
+                      "has_image": false,
+                      "property_name": "Size",
+                      "property_values": [
+                        {
+                          "property_value_id": "7547459671045687095",
+                          "property_value_name": "OS"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": false,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": false,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    }
+                  ],
+                  "product_properties": [
+                    {
+                      "property_id": "100149",
+                      "has_image": false,
+                      "property_name": "Country of origin",
+                      "property_values": [
+                        {
+                          "property_value_id": "1000850",
+                          "property_value_name": "China"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": true,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": false,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "100347",
+                      "has_image": false,
+                      "property_name": "Quantity per pack",
+                      "property_values": [
+                        {
+                          "property_value_id": "7571682908424046358",
+                          "property_value_name": "1"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": true,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": false,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "100492",
+                      "has_image": false,
+                      "property_name": "Manufacturer",
+                      "property_values": [
+                        {
+                          "property_value_id": "7160004629844199173",
+                          "property_value_name": "Pop Mart"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": true,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": false,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "101018",
+                      "has_image": false,
+                      "property_name": "Product type",
+                      "property_values": [
+                        {
+                          "property_value_id": "1047675",
+                          "property_value_name": "Art toy"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": true,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": false,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "101125",
+                      "has_image": false,
+                      "property_name": "Condition",
+                      "property_values": [
+                        {
+                          "property_value_id": "1000064",
+                          "property_value_name": "New"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": true,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": false,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "101637",
+                      "has_image": false,
+                      "property_name": "Dangerous goods regulations",
+                      "property_values": [
+                        {
+                          "property_value_id": "1000059",
+                          "property_value_name": "No"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": true,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": false,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "101643",
+                      "has_image": false,
+                      "property_name": "Manufacturer recommended age",
+                      "property_values": [
+                        {
+                          "property_value_id": "1153626",
+                          "property_value_name": "13+"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": false,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": true,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "102291",
+                      "has_image": false,
+                      "property_name": "Choking hazard warning",
+                      "property_values": [
+                        {
+                          "property_value_id": "1174124",
+                          "property_value_name": "Choking hazard small parts"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": false,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": true,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "101395",
+                      "has_image": false,
+                      "property_name": "CA prop 65: repro. chems",
+                      "property_values": [
+                        {
+                          "property_value_id": "1000059",
+                          "property_value_name": "No"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": false,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": true,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "101400",
+                      "has_image": false,
+                      "property_name": "CA prop 65: carcinogens",
+                      "property_values": [
+                        {
+                          "property_value_id": "1000059",
+                          "property_value_name": "No"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": false,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": true,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "101619",
+                      "has_image": false,
+                      "property_name": "Dangerous goods or hazardous materials",
+                      "property_values": [
+                        {
+                          "property_value_id": "1000059",
+                          "property_value_name": "No"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": false,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": true,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    },
+                    {
+                      "property_id": "101630",
+                      "has_image": false,
+                      "property_name": "Autographed",
+                      "property_values": [
+                        {
+                          "property_value_id": "1000059",
+                          "property_value_name": "No"
+                        }
+                      ],
+                      "property_label": {
+                        "key_property": false,
+                        "binding_property": false,
+                        "shopping_guide_property": false,
+                        "logistics_property": false,
+                        "gne_property": false,
+                        "customs_property": false,
+                        "spu_same_product_property": false,
+                        "legal_property": true,
+                        "hide_c_side_property": false,
+                        "non_merchant_filled": false
+                      },
+                      "property_value_id_to_grouping_properties": {}
+                    }
+                  ],
+                  "skus": [
+                    {
+                      "sku_id": "1731884911070777992",
+                      "pre_order_ship_day": 0,
+                      "is_pre_order": false,
+                      "package_weight": 454,
+                      "package_length": 26,
+                      "package_width": 26,
+                      "package_height": 26,
+                      "sku_name": "160246|LAB013|OS",
+                      "sku_status": 1,
+                      "property_pairs": [
+                        {
+                          "sku_property_id": "100007",
+                          "sku_property_value_id": "7547459671045687095",
+                          "sku_property_name": "Size",
+                          "sku_property_value_name": "OS"
+                        }
+                      ],
+                      "sku_quantity": {
+                        "warehouse_id": "7528412482407614221",
+                        "available_quantity": 7
+                      },
+                      "sku_stock_status": 1,
+                      "dimension": {
+                        "length": "10",
+                        "width": "10",
+                        "height": "10",
+                        "unit": 2
+                      },
+                      "weight": {
+                        "weight": "1.00",
+                        "unit": 2
+                      },
+                      "app_to_sku_status": {
+                        "0": 1
+                      },
+                      "sku_transparent_field": "{}",
+                      "dimension_v2": {
+                        "length": "10",
+                        "width": "10",
+                        "height": "10",
+                        "unit": 2
+                      },
+                      "weight_v2": {
+                        "weight": "1.00",
+                        "unit": 2
+                      },
+                      "support_sale_formats": [
+                        0
+                      ]
+                    }
+                  ],
+                  "videos": {},
+                  "biz_type": 0
+                },
+                "logistic_model": {
+                  "pkg_of_service": {
+                    "7129736060325594926": {
+                      "delivery_min_days": 1,
+                      "delivery_max_days": 4,
+                      "delivery_min_time": "1788955224",
+                      "delivery_max_time": "1789214424",
+                      "delivery_min_bd_days": 1,
+                      "delivery_max_bd_days": 4,
+                      "cutoff_min_time": 0,
+                      "cutoff_max_time": 0,
+                      "cod_available": false,
+                      "aging_display_status": true,
+                      "fulfillable": true,
+                      "reachable_item_list": [
+                        {
+                          "sub_fulfill_id": "0",
+                          "order_line_id": "1731884911070777992",
+                          "product_id": "1731884906803204744",
+                          "sku_id": "1731884911070777992",
+                          "length": 26,
+                          "width": 26,
+                          "height": 26,
+                          "weight": 454,
+                          "category_id": "1390224",
+                          "category_type": 1,
+                          "currency": "USD",
+                          "shipping_fee": "16",
+                          "dimension_v2": {
+                            "length": "10",
+                            "width": "10",
+                            "height": "10",
+                            "unit": 2
+                          },
+                          "weight_v2": {
+                            "weight": "1.00",
+                            "unit": 2
+                          },
+                          "dimension_raw_data": {
+                            "length": "10",
+                            "width": "10",
+                            "height": "10",
+                            "unit": 2
+                          },
+                          "weight_raw_data": {
+                            "weight": "1.00",
+                            "unit": 2
+                          }
+                        }
+                      ],
+                      "logistics_service": {
+                        "service_id": "7129736060325594926",
+                        "service_name": "LSV-TTS-US-SendBySeller-Std",
+                        "delivery_option": 4,
+                        "display_starling_key": "ecom_logistics_type_shipped_by_seller_standard",
+                        "trackingMode": 1,
+                        "booking_type": 2,
+                        "party": 2,
+                        "level": 2,
+                        "transportType": 1,
+                        "fulfill_solution": 2
+                      },
+                      "shipping_fee": "16",
+                      "currency": "USD",
+                      "cod_max_price": "0",
+                      "fulfillment_plan": {
+                        "promise_edt": {
+                          "delivery_min_day": 1,
+                          "delivery_max_day": 4
+                        },
+                        "fulfillment_snapshot": {}
+                      },
+                      "fulfillment_snapshot": {},
+                      "leadtime_display_strategy": {
+                        "display_edt": true
+                      },
+                      "logistics_identity": "L2L_3PL_US",
+                      "extra_info": {
+                        "4": "{\"edt_metrics\":\"{\\\"base_info\\\":{\\\"time_zone\\\":\\\"America/New_York\\\",\\\"fulfill_solution\\\":2},\\\"algo_out\\\":{\\\"alg_3dd\\\":\\\"0\\\",\\\"edt_algo_out\\\":\\\"1_4\\\",\\\"is_stable\\\":\\\"0\\\",\\\"model_3dd_prob\\\":\\\"0.966\\\",\\\"use_stable\\\":\\\"0\\\",\\\"xdd_th_src\\\":\\\"2\\\"},\\\"exp_out\\\":{\\\"algo_edt\\\":\\\"1-4\\\",\\\"exp_edt\\\":\\\"1_4\\\",\\\"before_xdd_flatten\\\":\\\"1_4\\\",\\\"seller_xdd_status\\\":1}}\"}"
+                      }
+                    }
+                  }
+                },
+                "promotion_model": {
+                  "promotion_product_price": {
+                    "min_price": {
+                      "sku_id": "1731884911070777992",
+                      "symbol_position": 1,
+                      "show_currency_space": false,
+                      "currency_show_mode": 1,
+                      "currency_name": "USD",
+                      "currency_symbol": "$",
+                      "sale_price_decimal": "2*",
+                      "sale_price_format": "2*",
+                      "single_product_price_format": "2*",
+                      "single_product_price_decimal": "2*",
+                      "sale_price_integer_part_format": "2*",
+                      "sale_price_decimal_part_format": "3*",
+                      "decimal_point_symbol": ".",
+                      "promotion_deduction_details": {},
+                      "raw_origin_price_decimal": "2*",
+                      "raw_origin_price_format": "2*"
+                    },
+                    "skus_price": {
+                      "1731884911070777992": {
+                        "sku_id": "1731884911070777992",
+                        "symbol_position": 1,
+                        "show_currency_space": false,
+                        "currency_show_mode": 1,
+                        "currency_name": "USD",
+                        "currency_symbol": "$",
+                        "sale_price_decimal": "2*",
+                        "sale_price_format": "2*",
+                        "single_product_price_format": "2*",
+                        "single_product_price_decimal": "2*",
+                        "sale_price_integer_part_format": "2*",
+                        "sale_price_decimal_part_format": "3*",
+                        "decimal_point_symbol": ".",
+                        "promotion_deduction_details": {},
+                        "raw_origin_price_decimal": "2*",
+                        "raw_origin_price_format": "2*"
+                      }
+                    },
+                    "feature": [
+                      {
+                        "property_name": "price_after_coupon_schema",
+                        "property_value": "aweme://roma_redirect/?spark_page=roma_schema_price_after_voucher&roma_group_key=spark_page_roma_schema_price_after_voucher&roma_page_key=p&product_id={pid}&track_params={trackParams}&sku_id={skuID}&is_sku_selected={isSkuSelected}",
+                        "property_type": 1
+                      }
+                    ]
+                  },
+                  "promotion_logistic_list": [
+                    {
+                      "deliveryOption": 4,
+                      "freeShipping": false,
+                      "deliveryName": "Standard shipping",
+                      "shippingFee": {
+                        "origin_price": "1*",
+                        "real_price": "1*",
+                        "currency": "USD",
+                        "real_price_desc": "$1*",
+                        "logistics_shipping_voucher": {}
+                      },
+                      "logisticsServiceId": "7129736060325594926",
+                      "event_tracking": {
+                        "shipping_type": "send_by_seller"
+                      }
+                    }
+                  ],
+                  "reserve_stock_map": {}
+                },
+                "review_model": {
+                  "product_overall_score": 5,
+                  "product_review_count": "3"
+                },
+                "seller_model": {
+                  "shop_name": "Stadium Goods",
+                  "shop_logo": {
+                    "height": 300,
+                    "width": 300,
+                    "uri": "tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d",
+                    "url_list": [
+                      "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=6ce186a1&idc=useast5&from=2422056039",
+                      "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=6ce186a1&idc=useast5&from=2422056039"
+                    ]
+                  }
+                },
+                "safety_model": {
+                  "legit_warnings": [],
+                  "business_compliance_info": {
+                    "business_name": "Stadium Enterprises LLC",
+                    "business_address": "285 Madison Ave, New York, New York, 10017, United States"
+                  }
+                },
+                "availability_model": {
+                  "reason": 0
+                },
+                "base_resp": {
+                  "StatusCode": 0,
+                  "StatusMessage": "success"
+                }
+              },
+              "shop_info": {
+                "seller_id": "7496280663785376392",
+                "sold_count": 29293,
+                "on_sell_product_count": 38522,
+                "review_count": 3830,
+                "global_seller_id": "7496280663785376392",
+                "global_sold_count": "29293",
+                "followers_count": "128079",
+                "video_count": "4811",
+                "enable_follow": true,
+                "shop_name": "Stadium Goods",
+                "shop_logo": {
+                  "height": 300,
+                  "width": 300,
+                  "uri": "tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d",
+                  "url_list": [
+                    "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039",
+                    "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/1e2ba5f69acf496084d99dd37f7a377d~tplv-fhlh96nyum-resize-webp:300:300.webp?dr=12185&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039"
+                  ]
+                },
+                "shop_rating": "4.6",
+                "shop_link": "https://shop.tiktok.com/us/store/stadium-goods/7496280663785376392",
+                "background": {
+                  "is_default": false,
+                  "image": {
+                    "height": 1036,
+                    "width": 1080,
+                    "uri": "tos-useast5-i-reeeghz8mm-tx/8b54d63602a34c328bd300c6ba1b6063",
+                    "url_list": [
+                      "https://p16-oec-shop-sign.tiktokcdn-us.com/tos-useast5-i-reeeghz8mm-tx/8b54d63602a34c328bd300c6ba1b6063~tplv-reeeghz8mm-image-webp.webp?lk3s=905da467&x-expires=1789473624&x-signature=SvfHEZrF5oQqqUIGMvS5AZ0KsVY%3D"
+                    ]
+                  },
+                  "shop_background_type": 0
+                },
+                "format_sold_count": "29.3K",
+                "region": "US",
+                "display_on_sell_product_count": "38.5K",
+                "format_global_sold_count": "29.3K",
+                "format_followers_count": "128.0K+",
+                "format_video_count": "4811",
+                "store_sub_score": [
+                  {
+                    "score": 0.8608837970540099,
+                    "type": 1,
+                    "score_percentage": "86",
+                    "high_light_tag": 0,
+                    "platform_rate_type": 0
+                  },
+                  {
+                    "score": 0,
+                    "type": 2,
+                    "score_percentage": "0",
+                    "high_light_tag": 0,
+                    "platform_rate_type": 0
+                  },
+                  {
+                    "score": 0.9139,
+                    "type": 3,
+                    "score_percentage": "91",
+                    "platform_rate_type": 1
+                  }
+                ],
+                "worst_rating": "0",
+                "best_rating": "5",
+                "creator_name": "Stadium Goods",
+                "shop_identity_label": {
+                  "label_type": 4,
+                  "identity_label_text": "Gold Star Seller",
+                  "identity_logo_light": {
+                    "height": 144,
+                    "width": 144,
+                    "ratio": 0,
+                    "minetype": "image/png",
+                    "uri": "tos-useast5-i-omjb5zjo8w-tx/06d3626726114510b9b73de21d9e0ae2",
+                    "url_list": [
+                      "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/06d3626726114510b9b73de21d9e0ae2~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039",
+                      "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/06d3626726114510b9b73de21d9e0ae2~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039"
+                    ]
+                  },
+                  "identity_logo_dark": {
+                    "height": 144,
+                    "width": 144,
+                    "ratio": 0,
+                    "minetype": "image/png",
+                    "uri": "tos-useast5-i-omjb5zjo8w-tx/906841c6ffce4faa874a7dab54e112bf",
+                    "url_list": [
+                      "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/906841c6ffce4faa874a7dab54e112bf~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039",
+                      "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/906841c6ffce4faa874a7dab54e112bf~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039"
+                    ]
+                  },
+                  "identity_label_bg_color_light": "#F7EDE2",
+                  "identity_label_bg_color_dark": "#F7EDE2",
+                  "identity_label_text_color_light": "#B67A06",
+                  "identity_label_text_color_dark": "#B67A06",
+                  "shop_explanation_page_schema": "aweme://lynxview_popup?url=https%3A%2F%2Flf16-gecko-source.tiktokcdn.com%2Fobj%2Fbyte-gurd-source-sg%2Ftiktok%2Ffe%2Flive%2Ftiktok_ecommerce_mall_brand_explanation_runtime%2Fseller-explanation-page%2Ftemplate.js&use_new_container=1&use_spark=1&target_handler=webcast%2Cecom&trans_status_bar=1&hide_nav_bar=1&status_font_mode=light&enable_prefetch=1&enable_code_cache=1&show_mask=1&mask_bg_color=00000080&height_percent=90&bdhm_bid=astro_behavior_lynx&btm_page_code=b7749&enable_lynx_prefetch=1&enable_pull_down_close=1&radius=12&transition_animation=bottom&seller_id=7496280663785376392",
+                  "label_without_bg_style": {
+                    "identity_label_text": "Gold Star Seller",
+                    "identity_logo_light": {
+                      "height": 144,
+                      "width": 144,
+                      "ratio": 0,
+                      "minetype": "image/png",
+                      "uri": "tos-useast5-i-omjb5zjo8w-tx/b07395c02df248a3bfe4362a59bf4131",
+                      "url_list": [
+                        "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b07395c02df248a3bfe4362a59bf4131~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039",
+                        "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b07395c02df248a3bfe4362a59bf4131~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039"
+                      ]
+                    },
+                    "identity_logo_dark": {
+                      "height": 144,
+                      "width": 144,
+                      "ratio": 0,
+                      "minetype": "image/png",
+                      "uri": "tos-useast5-i-omjb5zjo8w-tx/eee6ca5f2ff64bb4b30f86e1a0f2e0ee",
+                      "url_list": [
+                        "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/eee6ca5f2ff64bb4b30f86e1a0f2e0ee~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039",
+                        "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/eee6ca5f2ff64bb4b30f86e1a0f2e0ee~tplv-fhlh96nyum-origin-png.png?dr=12181&t=555f072d&ps=933b5bde&shp=905da467&shcp=e1be8f53&idc=useast5&from=2422056039"
+                      ]
+                    },
+                    "identity_label_text_color_light": "#B67A06",
+                    "identity_label_text_color_dark": "#FFC644",
+                    "style_type": 2
+                  },
+                  "brand_info": {
+                    "is_brand": false
+                  },
+                  "ShopIdentityLabelKey": "gold"
+                },
+                "desc": "Shop Stadium Goods on TikTok Shop! 29.3K sold, 128.0K+ followers. 91+% positive feedback. 0+% Ships in 48h, 86+% replies in 24h. Join the trend!"
+              },
+              "vouchers": [],
+              "reviews_info": {},
+              "category_info": {
+                "recommended_categories": [
+                  {
+                    "category_id": "951432",
+                    "category_name": "Collectibles",
+                    "category_name_en": "collectibles"
+                  },
+                  {
+                    "category_id": "953352",
+                    "category_name": "Entertainment",
+                    "category_name_en": "entertainment"
+                  },
+                  {
+                    "category_id": "953608",
+                    "category_name": "Figurines, Statues & Bobbleheads",
+                    "category_name_en": "figurines-statues-bobbleheads"
+                  }
+                ]
+              },
+              "shop_performance": [],
+              "hot_reviews": []
+            }
+          },
+          {
+            "component_type": "shop_info",
+            "component_name": "shop_info",
+            "fe_config": {
+              "data_source": {
+                "has_pre_dependency": true,
+                "skip_data_return": true,
+                "pre_dependency_modules": [
+                  "product_detail"
+                ]
+              }
+            }
+          },
+          {
+            "component_type": "category_info",
+            "component_name": "category_info",
+            "fe_config": {
+              "data_source": {
+                "skip_data_return": true
+              }
+            }
+          },
+          {
+            "component_type": "hot_reviews",
+            "component_name": "hot_reviews",
+            "fe_config": {
+              "data_source": {
+                "request_order": 1,
+                "skip_data_return": true,
+                "has_pre_dependency": true,
+                "pre_dependency_modules": [
+                  "product_detail"
+                ]
+              }
+            }
+          },
+          {
+            "component_type": "related_videos",
+            "component_name": "related_videos",
+            "fe_config": {
+              "data_source": {
+                "request_order": 1,
+                "has_pre_dependency": true,
+                "pre_dependency_modules": [
+                  "product_detail"
+                ]
+              }
+            }
+          },
+          {
+            "component_type": "feed_list",
+            "component_name": "feed_list_more_from",
+            "fe_config": {
+              "title": "Explore more from {s_shopName}",
+              "is_horizontal": true,
+              "data_source": {
+                "request_order": 1,
+                "type": "more_from",
+                "params": {
+                  "count": 10,
+                  "shop_page": 2,
+                  "product_component": 3
+                },
+                "need_load_more": false,
+                "has_pre_dependency": true,
+                "pre_dependency_modules": [
+                  "product_detail"
+                ]
+              }
+            }
+          },
+          {
+            "component_type": "feed_list",
+            "component_name": "feed_list_you_may_like",
+            "fe_config": {
+              "title": "You may also like",
+              "data_source": {
+                "request_order": 1,
+                "type": "recommended_for_you",
+                "params": {
+                  "count": 20,
+                  "shop_page": 2,
+                  "product_component": 9
+                },
+                "use_rule_based_recommendation": true,
+                "need_load_more": false,
+                "has_pre_dependency": true,
+                "pre_dependency_modules": [
+                  "product_detail"
+                ]
+              }
+            }
+          },
+          {
+            "component_type": "related_link",
+            "component_name": "related_link",
+            "fe_config": {
+              "title": "People also searched for",
+              "data_source": {
+                "request_order": 1
+              }
+            }
+          },
+          {
+            "component_type": "bread_crumbs",
+            "component_name": "bread_crumbs",
+            "fe_config": {
+              "data_source": {
+                "request_order": 1,
+                "has_pre_dependency": true,
+                "pre_dependency_modules": [
+                  "category_info"
+                ]
+              }
+            }
+          },
+          {
+            "component_type": "page_footer",
+            "component_name": "page_footer",
+            "fe_config": {
+              "need_expose_pool": true,
+              "data_source": {
+                "request_order": 1
+              }
+            }
+          },
+          {
+            "component_type": "call_app",
+            "component_name": "call_app",
+            "fe_config": {
+              "data_source": {}
+            },
+            "component_data": {
+              "banners": [],
+              "popups": [
+                {
+                  "name": "popup_pdp",
+                  "jump_link_type": "default",
+                  "launch_type": "tiktok_app",
+                  "image": "https://lf16-tiktok-common.ibytedtos.com/obj/tiktok-web-common-sg/mtact/static/images/tiktok/rebrand-logo.png",
+                  "title": "Get the full experience on the app",
+                  "description": "Follow your favorite accounts, explore new trends, and create your own videos",
+                  "action_button_text": "Open TikTok",
+                  "dismiss_button_text": "Not now",
+                  "popup_url": {
+                    "url_schemes": [
+                      "snssdk1233://ec/pdp?biz_type=0&gd_label={{gd_label}}&need_mall=1&needlaunchlog=1&page_name=reflow_pdp&params_url=https%3A%2F%2Fshop.tiktok.com%2Fus%2Fpdp%2F1731884906803204744%3Fsource%3Dproduct_detail%26first_entrance%3Dproduct_detail%26first_entrance_tt_scene%3Dseo&refer=web&requestParams=%7B%22product_id%22%3A%5B%221731884906803204744%22%5D%7D&trackParams="
+                    ],
+                    "url_fallback": "https://snssdk1233.onelink.me/bIdt?domain_source=tiktok&af_dp={{schema}}",
+                    "extra": ""
+                  }
+                }
+              ],
+              "buttons": [],
+              "wrappers": [
+                {
+                  "name": "wrapper_pdp",
+                  "jump_link_type": "default",
+                  "launch_type": "tiktok_app",
+                  "wrapper_url": {
+                    "url_schemes": [
+                      "snssdk1233://ec/pdp?biz_type=0&gd_label={{gd_label}}&need_mall=1&needlaunchlog=1&page_name=reflow_pdp&params_url=https%3A%2F%2Fshop.tiktok.com%2Fus%2Fpdp%2F1731884906803204744%3Fsource%3Dproduct_detail%26first_entrance%3Dproduct_detail%26first_entrance_tt_scene%3Dseo&refer=web&requestParams=%7B%22product_id%22%3A%5B%221731884906803204744%22%5D%7D&trackParams="
+                    ],
+                    "url_fallback": "https://snssdk1233.onelink.me/bIdt?domain_source=tiktok&af_dp={{schema}}",
+                    "extra": ""
+                  }
+                },
+                {
+                  "name": "wrapper_coupon_open_homepage",
+                  "jump_link_type": "default",
+                  "launch_type": "tiktok_app",
+                  "wrapper_url": {
+                    "url_schemes": [
+                      "snssdk1233://shop/open_homepage?biz_type=0&gd_label={{gd_label}}&needlaunchlog=1&params_url=https%3A%2F%2Fshop.tiktok.com%2Fus%2Fpdp%2F1731884906803204744%3Fsource%3Dproduct_detail%26first_entrance%3Dproduct_detail%26first_entrance_tt_scene%3Dseo&refer=web&requestParams=%7B%22product_id%22%3A%5B%221731884906803204744%22%5D%7D&trackParams="
+                    ],
+                    "url_fallback": "https://snssdk1233.onelink.me/bIdt?domain_source=tiktok&af_dp={{schema}}",
+                    "extra": ""
+                  }
+                },
+                {
+                  "name": "wrapper_my_coupons",
+                  "jump_link_type": "default",
+                  "launch_type": "tiktok_app",
+                  "wrapper_url": {
+                    "url_schemes": [
+                      "snssdk1233://roma_redirect?biz_type=0&gd_label={{gd_label}}&needlaunchlog=1&params_url=https%3A%2F%2Fshop.tiktok.com%2Fus%2Fpdp%2F1731884906803204744%3Fsource%3Dproduct_detail%26first_entrance%3Dproduct_detail%26first_entrance_tt_scene%3Dseo&refer=web&requestParams=%7B%22product_id%22%3A%5B%221731884906803204744%22%5D%7D&roma_group_key=spark_page_roma_schema_your_offer&roma_page_key=p&spark_page=roma_schema_your_offer&trackParams="
+                    ],
+                    "url_fallback": "https://snssdk1233.onelink.me/bIdt?domain_source=tiktok&af_dp={{schema}}",
+                    "extra": ""
+                  }
+                },
+                {
+                  "name": "wrapper_ad_open_homepage",
+                  "jump_link_type": "default",
+                  "launch_type": "tiktok_app",
+                  "wrapper_url": {
+                    "url_schemes": [
+                      "snssdk1233://shop/open_homepage?biz_type=0&needlaunchlog=1&params_url=https%3A%2F%2Fshop.tiktok.com%2Fus%2Fpdp%2F1731884906803204744%3Fsource%3Dproduct_detail%26first_entrance%3Dproduct_detail%26first_entrance_tt_scene%3Dseo&refer=web&request_params=%257B%2522product_id%2522%253A%255B%25221731884906803204744%2522%255D%257D&track_params="
+                    ],
+                    "url_fallback": "https://snssdk1233.onelink.me/bIdt?domain_source=tiktok&af_dp={{schema}}",
+                    "extra": ""
+                  }
+                }
+              ],
+              "page_context": {
+                "idc": "US-TTP",
+                "biz_name": "ECSharing",
+                "page_name": "Pdp",
+                "region": "US"
+              }
+            }
+          },
+          {
+            "component_type": "bottom_button",
+            "component_name": "bottom_button",
+            "fe_config": {
+              "is_pay_supported": true,
+              "is_cart_supported": true
+            }
+          },
+          {
+            "component_type": "reviews",
+            "component_name": "reviews",
+            "fe_config": {
+              "data_source": {
+                "request_order": 1,
+                "skip_data_return": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": null
+}

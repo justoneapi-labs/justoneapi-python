@@ -1,0 +1,397 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:45.439895+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:21",
+  "code": 0,
+  "message": null,
+  "data": {
+    "item": {
+      "questionCount": "10",
+      "itemTitle": "SALLADA水洗牛仔棒球帽女夏宽帽檐显脸小做旧鸭舌男款大头围帽子",
+      "itemPic": "https://gw.alicdn.com/tfscom/tuitui/i1/2219558394111/O1CN01IIHVFW1gEtJSxZjpo_!!4611686018427386111-0-item_pic.jpg",
+      "buyerCount": null,
+      "itemUrl": "https://a.m.taobao.com/i962101186184.htm",
+      "tags": {
+        "list": [
+          {
+            "count": "1",
+            "keyword": "尺寸",
+            "propertyId": "100005691"
+          },
+          {
+            "count": "1",
+            "keyword": "色差",
+            "propertyId": "100015690"
+          },
+          {
+            "count": "1",
+            "keyword": "有色",
+            "propertyId": "100009438"
+          },
+          {
+            "count": "1",
+            "keyword": "前沿",
+            "propertyId": "100002435"
+          },
+          {
+            "count": "1",
+            "keyword": "秋冬",
+            "propertyId": "100013909"
+          },
+          {
+            "count": "1",
+            "keyword": "版型",
+            "propertyId": "100012262"
+          }
+        ]
+      }
+    },
+    "questionStatus": {
+      "closeQuestion": "false"
+    },
+    "questionWords": [],
+    "pagination": {
+      "direction": "1",
+      "hasMore": "false",
+      "pageNum": "2",
+      "pageSize": "10"
+    },
+    "total": "10",
+    "list": [
+      [
+        {
+          "clusterId": "578631829982",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1787504457000",
+          "gmtModified": "1788335997000",
+          "id": "578631829982",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "4",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=578631829982&clusterId=578631829982",
+          "title": "会塌吗？",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1787651152000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "579092680495",
+              "title": "不会！买了第二顶了，这个很不错！",
+              "user": {
+                "userNick": "阿**鼠",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=vFgLvFc4PmHLXHx4v8ZzOHcYX8QYv87IOFIuOFxYPmxT",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=vFgLvFc4PmHLXHx4v8ZzOHcYX8QYv87IOFIuOFxYPmxT",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "568455104238",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1780578002000",
+          "gmtModified": "1780873196000",
+          "id": "568455104238",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "4",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=568455104238&clusterId=568455104238",
+          "title": "帽子前沿会夹太阳穴吗",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1780696883000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "568155811180",
+              "title": "有点",
+              "user": {
+                "userNick": "陈**华",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=P8P-XFxWO8x0vG8yvCRHvm80OFcGMGHWvGISvmvGOm8T",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=P8P-XFxWO8x0vG8yvCRHvm80OFcGMGHWvGISvmvGOm8T",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "565119370847",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1778915802000",
+          "gmtModified": "1785173382000",
+          "id": "565119370847",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "3",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=565119370847&clusterId=565119370847",
+          "title": "请问这个又色差吗",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1778917044000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "565212245380",
+              "title": "没有",
+              "user": {
+                "userNick": "大***",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=P8P-XFxWO8x0vG8yvCRHvmk4MHgSOFvuPGPzvFMeMm8T",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=P8P-XFxWO8x0vG8yvCRHvmk4MHgSOFvuPGPzvFMeMm8T",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "565119370870",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1778915834000",
+          "gmtModified": "1780687392000",
+          "id": "565119370870",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "4",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=565119370870&clusterId=565119370870",
+          "title": "请问这个有色差吗",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1779208200000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "565483803218",
+              "title": "没有",
+              "user": {
+                "userNick": "忆**y",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=Mk7IvF7zOF*-OmNLXmvuPFvGXFQbMGNLvmxuvFZ-P8cT",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=Mk7IvF7zOF*-OmNLXmvuPFvGXFQbMGNLvmxuvFZ-P8cT",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "564267810688",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1778427353000",
+          "gmtModified": "1780578505000",
+          "id": "564267810688",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "5",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=564267810688&clusterId=564267810688",
+          "title": "秋冬款还是春夏？厚不厚",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1778917049000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "565410056413",
+              "title": "厚",
+              "user": {
+                "userNick": "大***",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=P8P-XFxWO8x0vG8yvCRHvmk4MHgSOFvuPGPzvFMeMm8T",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=P8P-XFxWO8x0vG8yvCRHvmk4MHgSOFvuPGPzvFMeMm8T",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "537490776596",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1760259456000",
+          "gmtModified": "1762075883000",
+          "id": "537490776596",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "1",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=537490776596&clusterId=537490776596",
+          "title": "有没有实拍图看一下呢",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1762075877000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "540447555091",
+              "title": "挺好看的 版很正",
+              "user": {
+                "userNick": "t**b",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=MFkuM8gWXFguMkQbPGP-PC*zMFhhMF7hvF-HvmvSv8lzOmxGv8kYPCNGvHQSv0x0",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=MFkuM8gWXFguMkQbPGP-PC*zMFhhMF7hvF-HvmvSv8lzOmxGv8kYPCNGvHQSv0x0",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "536144715620",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1759310364000",
+          "gmtModified": "1774979695000",
+          "id": "536144715620",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "2",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=536144715620&clusterId=536144715620",
+          "title": "头围真的大尺寸吗",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1774979689000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "558991453160",
+              "title": "一般般",
+              "user": {
+                "userNick": "欲**心",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=P8lhM0xLOHQyvCvLP0Q0vC-hPFHSMFQGOFk0PGReMH8T",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=P8lhM0xLOHQyvCvLP0Q0vC-hPFHSMFQGOFk0PGReMH8T",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "534921790889",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1758409422000",
+          "gmtModified": "1769761106000",
+          "id": "534921790889",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "4",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=534921790889&clusterId=534921790889",
+          "title": "是硬顶的吗",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1758533296000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "535081969978",
+              "title": "嗯",
+              "user": {
+                "userNick": "梓**～",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=vCHYvH*eP8cyPGNLOmhHvC8uvHcSvmQYM0PIPkxSXFgT",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=vCHYvH*eP8cyPGNLOmhHvC8uvHcSvmQYM0PIPkxSXFgT",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "534553495108",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1758194059000",
+          "gmtModified": "1773480075000",
+          "id": "534553495108",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "1",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=534553495108&clusterId=534553495108",
+          "title": "怎么样呀大家 版型好吗",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1773480070000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "556594429805",
+              "title": "版型一般，日常能戴",
+              "user": {
+                "userNick": "西**楼",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=PC*-XFHWvCMeOmQ4MC--XHx0OF*hPHRHMHcyPCILXmgT",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=PC*-XFHWvCMeOmQ4MC--XHx0OF*hPHRHMHcyPCILXmgT",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "clusterId": "580275969624",
+          "clusterName": null,
+          "feedType": "200",
+          "gmtCreate": "1788675171000",
+          "gmtModified": "1788830659000",
+          "id": "580275969624",
+          "cardType": "2",
+          "similarCount": null,
+          "similarFeeds": null,
+          "subFeedsCount": "1",
+          "targetUrl": "https://web.m.taobao.com/app/mtb/ask-everyone/detail?disableNav=YES&from=answer&spm=a3134.14087530&id=580275969624&clusterId=580275969624",
+          "title": "帽深多少？",
+          "subFeeds": [
+            {
+              "answerType": "1",
+              "gmtCreate": "1788830649000",
+              "gmtModified": null,
+              "elements": [],
+              "feedType": "151",
+              "id": "580768124409",
+              "title": "问客服",
+              "user": {
+                "userNick": "j**3",
+                "userUrl": "https://h5.m.taobao.com/account/index.html?userId=P8P-XFxWO8x0vG8yvCRHvm9hMFx0vmhhvGkuPCkGMCxT",
+                "userLogo": "https://wwc.alicdn.com/avatar/getAvatar.do?type=sns&width=64&height=64&userIdStr=P8P-XFxWO8x0vG8yvCRHvm9hMFx0vmhhvGkuPCkGMCxT",
+                "userScore": null
+              }
+            }
+          ]
+        }
+      ]
+    ],
+    "dataSuccess": "true",
+    "success": "true",
+    "experienceFlag": "false",
+    "balaVersion": "3.0"
+  },
+  "recordTime": null
+}

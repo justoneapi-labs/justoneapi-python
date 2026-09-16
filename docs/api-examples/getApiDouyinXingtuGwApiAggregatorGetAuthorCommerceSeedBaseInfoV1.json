@@ -1,0 +1,14 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:15.144782+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:03",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "modify_time": "0"
+  },
+  "recordTime": null
+}

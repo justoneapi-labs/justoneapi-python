@@ -1,0 +1,204 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:41.390191+08:00",
+  "_sourceCheckedAt": "2026-08-12T13:54:06",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "data": {
+      "error": 0,
+      "error_msg": "",
+      "data": {
+        "shopid": 526184774,
+        "userid": 526204353,
+        "name": "SHOTSCLUB | 咖啡集淬旗艦店",
+        "cover": "tw-11134210-820l9-mp6y54lbh2x96d",
+        "follower_count": 19538,
+        "show_official_shop_label": false,
+        "is_preferred_plus_seller": false,
+        "is_shopee_verified": true,
+        "chat_disabled": false,
+        "rating_star": 4.975996,
+        "has_decoration": true,
+        "account": {
+          "username": "mhw3bombertw",
+          "following_count": 0,
+          "portrait": "tw-11134216-820l4-mp6xv2at6akgc4",
+          "is_seller": true,
+          "phone_verified": true,
+          "email_verified": true,
+          "fbid": "",
+          "total_avg_star": 5,
+          "feed_account_info": {
+            "can_post_feed": true
+          },
+          "status": 1
+        },
+        "last_active_time": 1786513751,
+        "vacation": false,
+        "is_blocking_owner": false,
+        "followed": false,
+        "ab_test_info": {
+          "header_tabs_layout": "control",
+          "deep_discount_item_card": "default",
+          "item_card": "control",
+          "feeds_live_landing": "treatment",
+          "image_category": "new_image_cat",
+          "remove_item_count_on_category_tab": "default",
+          "default_component_improvement": "top_products",
+          "deep_discount_enhancement": "default",
+          "new_default_scp": "treatment_2",
+          "default_landing": "control",
+          "two_tier_category": "default",
+          "two_tier_category_for_layoutc": "default",
+          "live_stream_auto_play": "treatment",
+          "dd_item_card_2": "control",
+          "tier_shop_category": "treatment_new_layout",
+          "product_one_per_row": "control",
+          "fashion_shop_improvement": "current",
+          "shop_rfy_entrypoint": "treatment",
+          "voucher_popup_non_buyers": "control",
+          "category_ui_improvement_1": "new_category_ui",
+          "autoplay_highlight_video": "control",
+          "ads_shop_improvement": "control",
+          "non_deco_shop_homepage_personalization": "treatment_1",
+          "brand_day_overlap": "control",
+          "truncate_shop_item_card": "control",
+          "popup_new_design": "treatment_1",
+          "shop_entry_landing_redirection": "control_1",
+          "shop_live_stream_floating": "treatment_1",
+          "shop_voucher_ui_revamp": "control_1",
+          "remove_rfy_experiment_1": "treatment",
+          "remove_rfy_experiment_2": "treatment_5",
+          "remove_rfy_experiment_3": "control",
+          "brand_shop_revamp": "control",
+          "promotion_card_in_product_tab": "control",
+          "in_shop_notice": "treatment_2",
+          "new_arrival_zone": "control_1",
+          "scp_add_item_cards": "control",
+          "scp_add_atc_button": "control",
+          "lower_the_height_of_shop_header": "treatment",
+          "category_decoration_standard_layout_tier_1": "control",
+          "category_decoration_standard_layout_tier_2": "control",
+          "category_decoration_image_layout": "control",
+          "category_decoration_item_layout": "control",
+          "change_shop_header_background_image": "control",
+          "landing_tab_from_live_room": "treatment_2",
+          "remove_new_tag_in_product_tab": "control_1",
+          "in_shop_noti_item_collection_scenarios": "treatment_2",
+          "shop_voucher_component_optimisation": "control_1",
+          "floating_cart_in_shop": "Control_1",
+          "shop_add_sharing_button": "treatment",
+          "remove_refresh_screen": "control_1",
+          "auto_play_live_module": "treatment_3",
+          "item_card_ui_in_shop_product_tab": "control_1",
+          "revamp_live_event_card_ui": "treatment_1",
+          "review_tab_display_position": "control_1",
+          "live_exclusive_offer_in_shop": "control_1",
+          "remove_choice_tag": "show_all",
+          "new_default_landing_logic": {
+            "search_redirection": "control_1",
+            "pdp_redirection": "control_1",
+            "order_redirection": "control_1",
+            "cart_redirection": "control_1",
+            "all_redirection": "control_1",
+            "vertical_redirection": "vertical_1"
+          },
+          "tele_pharmacy_component": "control_1",
+          "pharmacy_resmi_info_in_shop_header": "control_1"
+        },
+        "description": "SHOTSCLUB 是你的咖啡裝備與風味指南。從器具、烘焙、沖煮，到值得一喝的豆子，我們從實際使用的角度提供選購、交流與售後服務，希望成為你持續探索咖啡的入口。\n\n📢【 賣場說明 】 \n✦ 精選原廠正品，台灣本地速發 ✦ 以用心的態度處理售後服務 ✦ 全館商品均附發票 ✦ 若需要統編的商用顧客請記得下單時備註 \n\n🚚 【 發貨說明 】 \n✓訂購產品皆為台灣在庫現貨，若遇到缺貨、無法出貨 等其他問題，客服人員會即時於「聊聊」通知您。 （若有特殊延長備貨與預購商品必有備註） \n✓ 收單後： 1~2 工作日內出庫 （週六日與假日暫停發貨） \n✓ 超商取貨：一般約 2~3 個工作天可到貨",
+        "item_count": 173,
+        "response_rate": 93,
+        "show_video_entry": false,
+        "video_entry_info": "",
+        "show_deco_entry": false,
+        "shop_rating": {
+          "rating_normal": 114,
+          "rating_bad": 38,
+          "rating_good": 39526
+        },
+        "buyer_rating": {
+          "rating_count": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "rating_star": 5
+        },
+        "seller_metrics": {
+          "cancellation_visibility": 0,
+          "cancellation_warning": 10,
+          "cancellation_rate": 1
+        },
+        "response_time": 9438,
+        "ctime": 1630490328,
+        "video_entry_name": "",
+        "show_tab": {
+          "new_arrival_tab": {
+            "show_new_arrival_items": true,
+            "new_arrival_items_start_ts": 1783958400,
+            "latest_item_ctime": 1785378470
+          },
+          "show_live_tab": false,
+          "membership_tab": {
+            "show_membership_tab": false,
+            "has_join_membership": false
+          },
+          "show_flash_sale_tab": false,
+          "show_content_tab": false,
+          "show_review_tab": false
+        },
+        "toggles": {
+          "disable_chat_performance": false,
+          "deco_product_page_banner": false,
+          "deco_theme_color_compo_layout": false,
+          "sz_display_floating_cart_in_shop": true,
+          "show_deco_entry": false,
+          "enable_new_default_landing_logic": true
+        },
+        "shop_tab_meta": {
+          "shop_is_non_deco": false,
+          "decoration_type": "general_deco",
+          "is_high_end_brand_shop": false
+        },
+        "in_shop_notice_config": {
+          "promotion_notice_quota": {
+            "total_quota": 4,
+            "max_quota_per_shop": 2,
+            "session_total_quota": 2,
+            "session_max_quota_per_shop": 1
+          },
+          "notice_interval_sec": 10,
+          "chatbot_notice_quota": {
+            "total_quota": 2,
+            "max_quota_per_shop": 1,
+            "session_total_quota": 0,
+            "session_max_quota_per_shop": 0
+          },
+          "delay_config": {
+            "in_shop_notice_sec": 30,
+            "category_notice_browsed_sec": 8,
+            "category_notice_observed_sec": 20
+          }
+        },
+        "block_cb_user": false,
+        "video_rn_jump_url": "",
+        "company_name": "隱山製研有限公司",
+        "company_id": "60349872",
+        "background_color": "",
+        "highlight_color": "",
+        "brand_day_end_time": 0,
+        "is_shopee_choice_shop": false,
+        "floating_cart_switch_tab_refresh_interval": 5,
+        "is_inactive7": false,
+        "is_show_floating_cart": false
+      }
+    }
+  },
+  "recordTime": "2026-08-12T13:54:06.316950868"
+}

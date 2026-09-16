@@ -1,0 +1,272 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:14.466741+08:00",
+  "_sourceCheckedAt": "2026-09-08T19:00:01",
+  "code": 0,
+  "message": null,
+  "data": {
+    "promotion_id": "3620553568169403454",
+    "product_id": "3620553568169403454",
+    "item_type": 6,
+    "model": {
+      "product": {
+        "product_base": {
+          "title": "老管家杀蟑饵剂厨房家用室内除小强专用学生宿舍灭蟑螂杀虫剂神器",
+          "cover": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800",
+          "images": [
+            "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_84e07ca0e96aeb4dba1a247a1dae87b3_sx_329245_www800-800",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_3a721a7cab446b60623ae5df6eae615c_sx_256748_www800-800",
+            "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_3f2a5cac76ed2ad7373a400e44a895e5_sx_392109_www800-800"
+          ],
+          "white_background": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_8cd8a2da2addb99dde7dda53f9b53429_sx_170089_www800-800",
+          "is_global_shoping": false,
+          "is_sui_xin_tui": true,
+          "big_imgs": [
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_1aa152129c1295c45417ca92d577e0ff_sx_354432_www790-836",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_c4e47955564a19a4331f68e6944fc6ba_sx_579382_www790-1376",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_84e4af97d39c38a4fd38b4c2a681d05e_sx_270955_www790-1284",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_4b22e27a9649b62baa2bbbf94be69b19_sx_202842_www790-773",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_1917cb8d2f98aaab5f6b123b5fd54a78_sx_424690_www790-1149",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_381bc753fa9a3f1e11748d08c5e8b48d_sx_742567_www790-1338",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/uHLbQgx_m_2df28e08aef4f938aeab7e8f86f28ee4_sx_58207_www790-349",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550",
+            "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200"
+          ]
+        },
+        "product_sales": {
+          "product_label": {
+            "sales_num": 19578137,
+            "sales_text": "已售"
+          },
+          "sell_num": 19578137,
+          "total_sales": 19578137
+        },
+        "product_comment": {
+          "comment_label": {
+            "good_ratio": "84.1%"
+          },
+          "good_ratio": 84.10659627317487
+        },
+        "product_privilege": {
+          "privilege_info_label": {
+            "privilege_id": 2,
+            "privilege_info_detail": [
+              {
+                "tag_id": "insurance_freight",
+                "title": "运费险",
+                "content": "商家已为您投保，退货成功后保险公司赔付一定金额运费至钱包（保单生效以下单为准）",
+                "icon": {
+                  "url_list": [
+                    "https://lf26-cm.ecombdstatic.com/obj/eden-cn/nupfupebo/services/FreightInsurance.png"
+                  ]
+                }
+              },
+              {
+                "tag_id": "refund_speed",
+                "title": "极速退款",
+                "content": "支付后6小时内，待发货状态下，提交退款申请将立即退款",
+                "icon": {
+                  "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/eden-cn/nupfupebo/services/QuickRefund.png"
+                  ]
+                }
+              },
+              {
+                "tag_id": "support_7days_refund",
+                "title": "7天无理由退货",
+                "content": "在签收商品之日起7天内，符合完好标准的商品，可申请无理由退货",
+                "icon": {
+                  "url_list": [
+                    "https://lf26-cm.ecombdstatic.com/obj/temai/full_return.png"
+                  ]
+                }
+              },
+              {
+                "tag_id": "customer_protection",
+                "title": "消费者保障服务",
+                "content": "该卖家已缴纳保证金，如有商品质量问题，描述不符等，您有权申请退款或退货",
+                "icon": {
+                  "url_list": [
+                    "https://lf26-cm.ecombdstatic.com/obj/temai/comsumer_protect.png"
+                  ]
+                }
+              },
+              {
+                "tag_id": "merchant_qualification",
+                "title": "商家资质",
+                "content": "该商家已办理市场主体登记，查看资质信息",
+                "icon": {
+                  "url_list": [
+                    "https://lf26-cm.ecombdstatic.com/obj/temai/shop_certification.png"
+                  ]
+                },
+                "link": "sslocal://webcast_lynxview?url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2F10181%2Fgecko%2Fresource%2Fecommerce_public_shop_business_license_aweme%2Fapp%2Ftemplate.js&use_rifle=0&load_taro=0&hide_nav_bar=1&hide_status_bar=0&status_bar_bg_color=white&trans_status_bar=1&id=uHLbQgx"
+              }
+            ]
+          }
+        }
+      },
+      "shop": {
+        "shop_id": "2303170",
+        "shop_base": {
+          "shop_name": "老管家家居生活旗舰店",
+          "shop_logo": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/e1d471cf96234b2183a9e7307b5d9cef~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1820399440&x-signature=46uH7avYRapQJDXZ%2BQwvTwqn%2Bw8%3D",
+          "platform_source": 4
+        }
+      },
+      "promotion_data": {
+        "code": -1
+      },
+      "comment_data": {
+        "code": -1
+      },
+      "author_data": {
+        "code": -1
+      },
+      "content_data": {
+        "code": -1
+      },
+      "hot_content_data": {
+        "code": -1
+      },
+      "shop_product_data": {
+        "code": -1
+      },
+      "material_data": {
+        "code": -1
+      }
+    },
+    "label": {
+      "service_module": {
+        "module_list": [
+          {
+            "module_type": "privilege",
+            "title": {
+              "title_list": [
+                {
+                  "rich_text": {
+                    "rich_text_type": 1,
+                    "text": {
+                      "text": "保障"
+                    }
+                  },
+                  "suffix_type": 1
+                }
+              ]
+            },
+            "content": {
+              "content_list": [
+                {
+                  "content_type": "privilege",
+                  "content": {
+                    "title_list": [
+                      {
+                        "rich_text": {
+                          "rich_text_type": 1,
+                          "text": {
+                            "text": "运费险",
+                            "font_color": ""
+                          }
+                        },
+                        "suffix_type": 3
+                      },
+                      {
+                        "rich_text": {
+                          "rich_text_type": 1,
+                          "text": {
+                            "text": "极速退款",
+                            "font_color": ""
+                          }
+                        },
+                        "suffix_type": 3
+                      },
+                      {
+                        "rich_text": {
+                          "rich_text_type": 1,
+                          "text": {
+                            "text": "7天无理由退货",
+                            "font_color": ""
+                          }
+                        },
+                        "suffix_type": 3
+                      },
+                      {
+                        "rich_text": {
+                          "rich_text_type": 1,
+                          "text": {
+                            "text": "消费者保障服务",
+                            "font_color": ""
+                          }
+                        },
+                        "suffix_type": 3
+                      },
+                      {
+                        "rich_text": {
+                          "rich_text_type": 1,
+                          "text": {
+                            "text": "商家资质",
+                            "font_color": ""
+                          }
+                        },
+                        "suffix_type": 3
+                      }
+                    ]
+                  },
+                  "suffix_type": 1
+                }
+              ]
+            }
+          },
+          {
+            "module_type": "certification",
+            "title": {
+              "title_list": [
+                {
+                  "rich_text": {
+                    "rich_text_type": 1,
+                    "text": {
+                      "text": "资质"
+                    }
+                  },
+                  "suffix_type": 1
+                }
+              ]
+            },
+            "content": {
+              "content_list": [
+                {
+                  "content_type": "sui_xin_tui",
+                  "content": {
+                    "title_list": [
+                      {
+                        "rich_text": {
+                          "rich_text_type": 1,
+                          "text": {
+                            "text": "小店随心推",
+                            "font_color": ""
+                          }
+                        },
+                        "suffix_type": 2
+                      }
+                    ]
+                  },
+                  "suffix_type": 1
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": null
+}

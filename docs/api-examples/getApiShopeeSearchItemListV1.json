@@ -1,0 +1,326 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:42.490694+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:18",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "semantics": {
+      "identity_level": "search_card_display_model",
+      "complete_sku_catalog": false,
+      "authoritative_inventory_included": false,
+      "display_price_included": true
+    },
+    "query": {
+      "keyword": "coffee",
+      "limit": 20
+    },
+    "card_count": 20,
+    "cards": [
+      {
+        "shop_id": 301578636,
+        "item_id": 51352478417,
+        "display_model_id": 375298581952,
+        "model_selection_logic": 3,
+        "title": "「現貨」免運 好市多西雅圖barista 即品拿鐵 二合一、三合一、奶茶",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820lg-mr7fk7v5honaaf",
+        "image_alt": "「現貨」免運 好市多西雅圖barista 即品拿鐵 二合一、三合一、奶茶",
+        "price_texts": [
+          "$ 525"
+        ],
+        "display_price": 525,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 1861961956,
+        "item_id": 46363924149,
+        "display_model_id": 292779756328,
+        "model_selection_logic": 3,
+        "title": "NESCAFE Rich Blend 500g",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820lc-mqyitfa50d8k87",
+        "image_alt": "NESCAFE Rich Blend 500g",
+        "price_texts": [
+          "$ 465"
+        ],
+        "display_price": 465,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 3518189,
+        "item_id": 251674523,
+        "display_model_id": 72474530030,
+        "model_selection_logic": 3,
+        "title": "新日期【現貨特價】西雅圖 即品拿鐵 3合1 三合一 極品咖啡 原箱出貨 Costco 好市多 (每張單最多買2箱)",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820lf-mrlexlys737o6a",
+        "image_alt": "新日期【現貨特價】西雅圖 即品拿鐵 3合1 三合一 極品咖啡 原箱出貨 Costco 好市多 (每張單最多買2箱)",
+        "price_texts": [
+          "$ 739"
+        ],
+        "display_price": 739,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 1280321358,
+        "item_id": 24490004921,
+        "display_model_id": 252378793351,
+        "model_selection_logic": 3,
+        "title": "西雅圖咖啡 21公克 X 100入 好市多代購 一張訂單限下單一箱 即品拿鐵 咖啡 二合一  三合一 沖泡咖啡 MJB",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7ras8-m4fuc8wi10kda8",
+        "image_alt": "西雅圖咖啡 21公克 X 100入 好市多代購 一張訂單限下單一箱 即品拿鐵 咖啡 二合一  三合一 沖泡咖啡 MJB",
+        "price_texts": [
+          "$ 699"
+        ],
+        "display_price": 699,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 20874871,
+        "item_id": 40319008417,
+        "display_model_id": 243895520317,
+        "model_selection_logic": 3,
+        "title": "STARBUCKS （臺灣 24H✈️）特價    星巴克咖啡豆 黃金烘焙咖啡豆 早餐綜閤咖啡豆  包裝",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824ha-meny6g8sytxgc7",
+        "image_alt": "STARBUCKS （臺灣 24H✈️）特價    星巴克咖啡豆 黃金烘焙咖啡豆 早餐綜閤咖啡豆  包裝",
+        "price_texts": [
+          "$ 555"
+        ],
+        "display_price": 555,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 1291727603,
+        "item_id": 27068006980,
+        "display_model_id": 257179637318,
+        "model_selection_logic": 3,
+        "title": "金牌咖啡 免運 最低$219 瓶裝120g 雀巢金牌微研磨咖啡罐裝",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7ras8-m2t1ag6hxo4r76",
+        "image_alt": "金牌咖啡 免運 最低$219 瓶裝120g 雀巢金牌微研磨咖啡罐裝",
+        "price_texts": [
+          "$219",
+          "$ 219"
+        ],
+        "display_price": 219,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 221357585,
+        "item_id": 25415003224,
+        "display_model_id": 255368342725,
+        "model_selection_logic": 3,
+        "title": "好康多代購🛍️ 好市多 西雅圖咖啡 三合一咖啡 有糖咖啡 西雅圖即品拿鐵 21公克 X 100包 隨身包 下午茶",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-ls40rfzgkufc03",
+        "image_alt": "好康多代購🛍️ 好市多 西雅圖咖啡 三合一咖啡 有糖咖啡 西雅圖即品拿鐵 21公克 X 100包 隨身包 下午茶",
+        "price_texts": [
+          "$ 379"
+        ],
+        "display_price": 379,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 2293056,
+        "item_id": 61949960,
+        "display_model_id": 401112052426,
+        "model_selection_logic": 3,
+        "title": "#悠西將# 日本 原裝 日本上島咖啡 UCC玻璃罐裝即溶咖啡 114咖啡117咖啡114117日本咖啡黑咖啡",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lz4xep7fs4j8b7",
+        "image_alt": "#悠西將# 日本 原裝 日本上島咖啡 UCC玻璃罐裝即溶咖啡 114咖啡117咖啡114117日本咖啡黑咖啡",
+        "price_texts": [
+          "$ 155"
+        ],
+        "display_price": 155,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 23853172,
+        "item_id": 8942140772,
+        "display_model_id": 54858539204,
+        "model_selection_logic": 3,
+        "title": "🔥現貨🔥日本雀巢 金牌咖啡 經典金牌咖啡 120g 金牌研磨咖啡 罐裝 雀巢咖啡 雀巢金牌咖啡",
+        "image_url": "https://down-tw.img.susercontent.com/file/053d09b7b3a41937bfecfba294d659fc",
+        "image_alt": "🔥現貨🔥日本雀巢 金牌咖啡 經典金牌咖啡 120g 金牌研磨咖啡 罐裝 雀巢咖啡 雀巢金牌咖啡",
+        "price_texts": [
+          "$ 227"
+        ],
+        "display_price": 227,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 301578636,
+        "item_id": 56903002476,
+        "display_model_id": 315290811108,
+        "model_selection_logic": 3,
+        "title": "「現貨」免運好市多Darling親愛的白咖啡三合一30g80入2027/11月",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820lh-mr7e6s239afa5a",
+        "image_alt": "「現貨」免運好市多Darling親愛的白咖啡三合一30g80入2027/11月",
+        "price_texts": [
+          "$ 655"
+        ],
+        "display_price": 655,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 6304988,
+        "item_id": 17378081376,
+        "display_model_id": 211038316018,
+        "model_selection_logic": 3,
+        "title": "鮮一杯老舊金山 -原味拿鐵咖啡二合一(無加糖) 20g*100包(無盒裝)．好市多COSTCO熱銷【里德Coffee】",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lyq7k7mn483870",
+        "image_alt": "鮮一杯老舊金山 -原味拿鐵咖啡二合一(無加糖) 20g*100包(無盒裝)．好市多COSTCO熱銷【里德Coffee】",
+        "price_texts": [
+          "$ 789"
+        ],
+        "display_price": 789,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 18013438,
+        "item_id": 25882713920,
+        "display_model_id": 196373670266,
+        "model_selection_logic": 3,
+        "title": "【真好吃】星巴克門市專用款 台灣出咖啡豆3Kg 美式意式拿鐵阿拉比卡深度烘焙黑咖啡 可磨粉 咖啡豆 咖啡粉 coffee",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98u-lwzm2uuuu9m8e6",
+        "image_alt": "【真好吃】星巴克門市專用款 台灣出咖啡豆3Kg 美式意式拿鐵阿拉比卡深度烘焙黑咖啡 可磨粉 咖啡豆 咖啡粉 coffee",
+        "price_texts": [
+          "$ 298",
+          "NT$10"
+        ],
+        "display_price": 298,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 2304237,
+        "item_id": 717832622,
+        "display_model_id": 69701418740,
+        "model_selection_logic": 3,
+        "title": "現貨特價❣️🌸莉彤小舖🌸好市多代購 西雅圖極品拿鐵 三合一",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134201-820l6-msb73whsf3lzba",
+        "image_alt": "現貨特價❣️🌸莉彤小舖🌸好市多代購 西雅圖極品拿鐵 三合一",
+        "price_texts": [
+          "$ 369"
+        ],
+        "display_price": 369,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 11531273,
+        "item_id": 28551276288,
+        "display_model_id": 345565413852,
+        "model_selection_logic": 3,
+        "title": "《蝦皮&超商取貨只能一箱》西雅圖 即品拿鐵 極品嚴焙大濾掛咖啡 二合一 三合一 咖啡 約克夏奶茶 100入 每包21克",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-lyhj4m0f5w667f",
+        "image_alt": "《蝦皮&超商取貨只能一箱》西雅圖 即品拿鐵 極品嚴焙大濾掛咖啡 二合一 三合一 咖啡 約克夏奶茶 100入 每包21克",
+        "price_texts": [
+          "$ 499"
+        ],
+        "display_price": 499,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 2063136,
+        "item_id": 242009717,
+        "display_model_id": 2963250711,
+        "model_selection_logic": 3,
+        "title": "☕ 好市多 現貨 派克 早餐咖啡豆 黃金咖啡豆  派克咖啡豆 #1.13Kg #648080#咖啡豆",
+        "image_url": "https://down-tw.img.susercontent.com/file/b9dd1d6e475056df45d6a48f00c2d94b",
+        "image_alt": "☕ 好市多 現貨 派克 早餐咖啡豆 黃金咖啡豆  派克咖啡豆 #1.13Kg #648080#咖啡豆",
+        "price_texts": [
+          "$ 1,193"
+        ],
+        "display_price": 1193,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 8263006,
+        "item_id": 705763084,
+        "display_model_id": 24384205017,
+        "model_selection_logic": 3,
+        "title": "西雅圖 - 即品拿鐵三合一咖啡【每包21g×300包】沖泡速溶即溶咖啡．好市多COSTCO熱銷．DS隨手包",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztl-mg1tmc7e0nbda0",
+        "image_alt": "西雅圖 - 即品拿鐵三合一咖啡【每包21g×300包】沖泡速溶即溶咖啡．好市多COSTCO熱銷．DS隨手包",
+        "price_texts": [
+          "$ 2,160"
+        ],
+        "display_price": 2160,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 22665083,
+        "item_id": 4987965156,
+        "display_model_id": 197005003992,
+        "model_selection_logic": 3,
+        "title": "100包，有原盒，好市多Costco代購，西雅圖 即品拿鐵 21公克 ，三合一拿鐵，二合一拿鐵，有糖拿鐵咖啡粉，無糖拿鐵",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820lf-mpfgmluit1q9eb",
+        "image_alt": "100包，有原盒，好市多Costco代購，西雅圖 即品拿鐵 21公克 ，三合一拿鐵，二合一拿鐵，有糖拿鐵咖啡粉，無糖拿鐵",
+        "price_texts": [
+          "$ 720"
+        ],
+        "display_price": 720,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 15851529,
+        "item_id": 41769005225,
+        "display_model_id": 335565409327,
+        "model_selection_logic": 3,
+        "title": "西雅圖 即品拿鐵 二合一 三合一 咖啡 即溶 100入 每包21克《蝦皮&超商取貨只能一箱》",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztd-menu0a7l9fk6ff",
+        "image_alt": "西雅圖 即品拿鐵 二合一 三合一 咖啡 即溶 100入 每包21克《蝦皮&超商取貨只能一箱》",
+        "price_texts": [
+          "$ 489"
+        ],
+        "display_price": 489,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 12375787,
+        "item_id": 49561827836,
+        "display_model_id": 316025852240,
+        "model_selection_logic": 3,
+        "title": "🇻🇳🇻🇳「有效日2028/07」義式濃縮即溶咖啡 - King Coffee Espresso 250g & 37.5g",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-mr2fojtb0g007b",
+        "image_alt": "🇻🇳🇻🇳「有效日2028/07」義式濃縮即溶咖啡 - King Coffee Espresso 250g & 37.5g",
+        "price_texts": [
+          "$ 700"
+        ],
+        "display_price": 700,
+        "currency": "TWD",
+        "sold_text": null
+      },
+      {
+        "shop_id": 2304237,
+        "item_id": 806486997,
+        "display_model_id": 108931774796,
+        "model_selection_logic": 3,
+        "title": "現貨特價🌸莉彤小舖🌸 西雅圖無加糖二合一咖啡",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134201-820l9-msb5z4tk1892f1",
+        "image_alt": "現貨特價🌸莉彤小舖🌸 西雅圖無加糖二合一咖啡",
+        "price_texts": [
+          "$ 369"
+        ],
+        "display_price": 369,
+        "currency": "TWD",
+        "sold_text": null
+      }
+    ]
+  },
+  "recordTime": null
+}

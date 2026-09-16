@@ -1,0 +1,2 @@
+# Frequently refreshed API responses are repository documentation, not package data.
+prune docs/api-examples

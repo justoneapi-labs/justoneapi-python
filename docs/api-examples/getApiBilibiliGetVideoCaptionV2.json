@@ -1,0 +1,21 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:11.335015+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "data": [
+      {
+        "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11386037161208527986759275b14453a2c0fab63bd1827721e64b4118?auth_key=1788868801-572389eb270e4448a20a649c4bd5277f-0-fc58e4b5a2da1b26d9ec2dd1a8a412d1",
+        "lan_doc": "中文",
+        "lan": "ai-zh"
+      },
+      {
+        "subtitle_url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/b6bc3343d8c78b9a8aa46795ad8c1c5e?auth_key=1788868801-0de1f02099d04f04875022f164910a2f-0-4e9bc30ecbf7ec73b802f8c3c96acd31",
+        "lan_doc": "English",
+        "lan": "ai-en"
+      }
+    ]
+  },
+  "recordTime": null
+}

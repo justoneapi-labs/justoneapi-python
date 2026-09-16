@@ -1,0 +1,14 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:16.327078+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:04",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "order_experience_industries": []
+  },
+  "recordTime": null
+}

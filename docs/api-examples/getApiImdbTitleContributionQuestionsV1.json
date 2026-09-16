@@ -1,0 +1,68 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:27.217675+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "__typename": "Title",
+      "id": "tt12037194",
+      "titleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "originalTitleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "releaseYear": {
+        "__typename": "YearRange",
+        "year": 2024,
+        "endYear": null
+      },
+      "releaseDate": {
+        "__typename": "ReleaseDate",
+        "month": 5,
+        "day": 24,
+        "year": 2024,
+        "country": {
+          "id": "US"
+        },
+        "restriction": null,
+        "attributes": [],
+        "displayableProperty": {
+          "qualifiersInMarkdownList": null
+        }
+      },
+      "titleType": {
+        "__typename": "TitleType",
+        "id": "movie",
+        "text": "Movie",
+        "categories": [
+          {
+            "id": "movie",
+            "text": "Movie",
+            "value": "movie"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "isEpisode": false,
+        "isSeries": false,
+        "displayableProperty": {
+          "value": {
+            "plainText": ""
+          }
+        }
+      },
+      "primaryImage": {
+        "__typename": "Image",
+        "id": "rm645622785",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg",
+        "height": 4096,
+        "width": 2764
+      },
+      "contributionQuestions": null
+    }
+  },
+  "recordTime": null
+}

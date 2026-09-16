@@ -1,0 +1,13 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:36.549726+08:00",
+  "_sourceCheckedAt": "2026-07-29T12:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "page": 1,
+    "total": 0,
+    "has_more": false,
+    "data": []
+  },
+  "recordTime": null
+}

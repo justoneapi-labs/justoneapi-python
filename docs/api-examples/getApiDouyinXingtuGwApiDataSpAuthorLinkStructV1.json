@@ -1,0 +1,41 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:18.371998+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:04",
+  "code": 0,
+  "message": null,
+  "data": {
+    "author_link_type": "传播",
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "link_struct": {
+      "1": {
+        "proportion": 0.7247041335692309,
+        "same_industry_median": 4514440,
+        "value": 5587150
+      },
+      "2": {
+        "proportion": 0.14741567612159448,
+        "same_industry_median": 1228603,
+        "value": 1136510
+      },
+      "3": {
+        "proportion": 0.12788019030917458,
+        "same_industry_median": 3045057,
+        "value": 985900
+      },
+      "4": {
+        "proportion": 0,
+        "same_industry_median": 0,
+        "value": 0
+      },
+      "5": {
+        "rank_percent": 0.0588,
+        "relative_ratio": -0.1427,
+        "value": 7709560
+      }
+    }
+  },
+  "recordTime": null
+}

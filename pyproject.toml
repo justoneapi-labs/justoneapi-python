@@ -1,0 +1,35 @@
+[project]
+name = "justoneapi"
+dynamic = ["version"]
+description = "OpenAPI-driven Python SDK for Just One API"
+authors = [{ name = "Just One API", email = "support@justoneapi.com" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "httpx>=0.28,<0.29",
+  "pydantic>=2.12,<3",
+]
+
+[project.optional-dependencies]
+dev = [
+  "datamodel-code-generator>=0.55,<0.56",
+  "PyYAML>=6,<7",
+  "pytest>=9,<10",
+]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["justoneapi*"]
+
+[tool.setuptools.dynamic]
+version = { attr = "justoneapi._version.__version__" }
+
+[tool.pytest.ini_options]
+addopts = "-ra"
+testpaths = ["tests"]
+
+[tool.black]
+target-version = ["py311"]

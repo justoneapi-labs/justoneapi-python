@@ -1,0 +1,1649 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:28.707721+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "__typename": "Title",
+      "id": "tt12037194",
+      "titleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "originalTitleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "releaseYear": {
+        "__typename": "YearRange",
+        "year": 2024,
+        "endYear": null
+      },
+      "releaseDate": {
+        "__typename": "ReleaseDate",
+        "month": 5,
+        "day": 24,
+        "year": 2024,
+        "country": {
+          "id": "US"
+        },
+        "restriction": null,
+        "attributes": [],
+        "displayableProperty": {
+          "qualifiersInMarkdownList": null
+        }
+      },
+      "titleType": {
+        "__typename": "TitleType",
+        "id": "movie",
+        "text": "Movie",
+        "categories": [
+          {
+            "id": "movie",
+            "text": "Movie",
+            "value": "movie"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "isEpisode": false,
+        "isSeries": false,
+        "displayableProperty": {
+          "value": {
+            "plainText": ""
+          }
+        }
+      },
+      "primaryImage": {
+        "__typename": "Image",
+        "id": "rm645622785",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg",
+        "height": 4096,
+        "width": 2764
+      },
+      "meta": {
+        "id": "tt12037194",
+        "restrictions": null
+      },
+      "productionStatus": {
+        "__typename": "ProductionStatusDetails",
+        "announcements": null,
+        "currentProductionStage": {
+          "id": "released",
+          "text": "Released"
+        },
+        "productionStatusHistory": [
+          {
+            "comment": null,
+            "date": "2020-10-13",
+            "status": {
+              "id": "pre_production",
+              "text": "Pre-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2022-05-20",
+            "status": {
+              "id": "filming",
+              "text": "Filming"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2022-10-12",
+            "status": {
+              "id": "post_production",
+              "text": "Post-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2023-05-29",
+            "status": {
+              "id": "released",
+              "text": "Released"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2023-05-29",
+            "status": {
+              "id": "post_production",
+              "text": "Post-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2023-08-31",
+            "status": {
+              "id": "post_production",
+              "text": "Post-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2023-12-17",
+            "status": {
+              "id": "post_production",
+              "text": "Post-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2024-04-10",
+            "status": {
+              "id": "completed",
+              "text": "Completed"
+            }
+          },
+          {
+            "comment": {
+              "text": "Derived from earliest release of 2024-05-15 (FR)"
+            },
+            "date": "2024-05-15",
+            "status": {
+              "id": "released",
+              "text": "Released"
+            }
+          }
+        ]
+      },
+      "canRate": {
+        "isRatable": true
+      },
+      "ratingsSummary": {
+        "aggregateRating": 7.4,
+        "voteCount": 323499
+      },
+      "interests": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000002",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm1919706624",
+                "url": "https://m.media-amazon.com/images/M/MV5BM2RkNmFkZTItODFkMS00Yjk5LTg2YTQtMGQ0Zjc0Mzk3ZGQ5XkEyXkFqcGc@._V1_.jpg",
+                "height": 768,
+                "width": 1366,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Charlize Theron in Mad Max: Fury Road (2015)"
+                },
+                "copyright": "2014 Warner Bros. Entertainment Inc. - - U.S., Canada, Bahamas & Bermuda2014 Village Roadshow Films (BVI) Limited - - All Other",
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0000234",
+                    "nameText": {
+                      "text": "Charlize Theron"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm2942012672",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_.jpg",
+                      "height": 400,
+                      "width": 300
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Sharliz Teron"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt1392190",
+                    "titleText": {
+                      "text": "Mad Max: Fury Road",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "Mad Max: Fury Road",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 2015,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 5,
+                      "day": 15,
+                      "year": 2015,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm3064749568",
+                      "url": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_.jpg",
+                      "height": 1000,
+                      "width": 675
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The action epic subgenre features fast-paced action with a grand and sweeping narrative scope, often spanning across vast landscapes, historical eras, and larger-than-life characters and conflicts. Classically, an epic tells the heroic journey and deeds of a single person, or group of persons, upon which the fate of many people depends."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Action Epic",
+                "text": "Action Epic"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Subgenre",
+                "text": "Subgenre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000015",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm3806746113",
+                "url": "https://m.media-amazon.com/images/M/MV5BNGE4NjIwMGYtYWQ4MC00NGIyLWI1YjQtNjJmZjllYjFjMDgzXkEyXkFqcGc@._V1_.jpg",
+                "height": 720,
+                "width": 1280,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Peter O'Toole and Omar Sharif in Lawrence of Arabia (1962)"
+                },
+                "copyright": null,
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0000564",
+                    "nameText": {
+                      "text": "Peter O'Toole"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm1265867264",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMjA0MDYyNzczN15BMl5BanBnXkFtZTYwNjMzNjMz._V1_.jpg",
+                      "height": 400,
+                      "width": 277
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Peter O'toole"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm0001725",
+                    "nameText": {
+                      "text": "Omar Sharif"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm3283983104",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMTU0ODg3MjM0OF5BMl5BanBnXkFtZTYwNTM2MDU0._V1_.jpg",
+                      "height": 400,
+                      "width": 257
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Omar AlShareef"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Omar Cherif"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Omar El Cherif"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Omar Shariff"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt0056172",
+                    "titleText": {
+                      "text": "Lawrence of Arabia",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "Lawrence of Arabia",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 1962,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 12,
+                      "day": 16,
+                      "year": 1962,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm1206326272",
+                      "url": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_.jpg",
+                      "height": 2767,
+                      "width": 1920
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The adventure epic subgenre features grand scope, sweeping landscapes, heroic journeys, and often historical or mythological elements. Epic adventure stories transport audiences to different worlds, eras, or fantastical realms, immersing them in narratives that encompass vast territories and significant challenges."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Adventure Epic",
+                "text": "Adventure Epic"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Subgenre",
+                "text": "Subgenre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000004",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm3128525824",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTQ2Nzg5ODU5NV5BMl5BanBnXkFtZTcwMDk2NTkxNA@@._V1_.jpg",
+                "height": 1131,
+                "width": 2048,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Vin Diesel and Paul Walker in Fast Five (2011)"
+                },
+                "copyright": "2010 - Universal Pictures",
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0004874",
+                    "nameText": {
+                      "text": "Vin Diesel"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm4004029184",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_.jpg",
+                      "height": 2048,
+                      "width": 1477
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Groot"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Mark Vincent"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm0908094",
+                    "nameText": {
+                      "text": "Paul Walker"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm3313535744",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMjIwODc0OTk2Nl5BMl5BanBnXkFtZTcwOTQ5MDA0Mg@@._V1_.jpg",
+                      "height": 400,
+                      "width": 265
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Paul"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Paul W. Walker"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt1596343",
+                    "titleText": {
+                      "text": "Fast Five",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "Fast Five",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 2011,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 4,
+                      "day": 29,
+                      "year": 2011,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm1398323968",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_.jpg",
+                      "height": 1500,
+                      "width": 1013
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The car action subgenre features high-speed car chases, daring stunts, and intense vehicular action sequences. Automobiles take on a central role as characters engage in thrilling pursuits, races, and confrontations involving cars, motorcycles, trucks, and other vehicles."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Car Action",
+                "text": "Car Action"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Subgenre",
+                "text": "Subgenre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000013",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm2430647808",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTM3MjcyNDMxMV5BMl5BanBnXkFtZTcwOTc0NTY0NQ@@._V1_.jpg",
+                "height": 1378,
+                "width": 2048,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Brendan Fraser, John Hannah, and Rachel Weisz in The Mummy (1999)"
+                },
+                "copyright": "1999 - Universal Pictures - All Rights Reserved",
+                "createdBy": "Universal Studios",
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0000409",
+                    "nameText": {
+                      "text": "Brendan Fraser"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm1249521920",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMjA5MjExMzY0M15BMl5BanBnXkFtZTgwNTMxOTg4MTI@._V1_.jpg",
+                      "height": 2048,
+                      "width": 1536
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Brendon Fraser"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm0001314",
+                    "nameText": {
+                      "text": "John Hannah"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm1879676672",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMTk4Nzk0NjA5OV5BMl5BanBnXkFtZTcwNjM2NDA4MQ@@._V1_.jpg",
+                      "height": 400,
+                      "width": 297
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Jonnie Hannah"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm0001838",
+                    "nameText": {
+                      "text": "Rachel Weisz"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm3178335744",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzM1MDAwMV5BMl5BanBnXkFtZTcwNTU4NzQwMw@@._V1_.jpg",
+                      "height": 400,
+                      "width": 281
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Kenya Campbell"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Rachael Weisz"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt0120616",
+                    "titleText": {
+                      "text": "The Mummy",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "The Mummy",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 1999,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 5,
+                      "day": 7,
+                      "year": 1999,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm2223270144",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMTY4YWE0OGMtNjU0Yi00YzIwLTk3NTktM2ZiYWQwNjM4MmMxXkEyXkFqcGc@._V1_.jpg",
+                      "height": 1500,
+                      "width": 1008
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The desert adventure subgenre features stories set in arid and often unforgiving desert landscapes. In these stories, characters embark on journeys through sandy dunes, harsh environments, and arid wastelands, facing challenges unique to desert conditions."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Desert Adventure",
+                "text": "Desert Adventure"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Subgenre",
+                "text": "Subgenre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000160",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm1409689088",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTg4MDEyODA0NF5BMl5BanBnXkFtZTgwMzUxNDE2MzI@._V1_.jpg",
+                "height": 1039,
+                "width": 1914,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Clive Owen and Clare-Hope Ashitey in Children of Men (2006)"
+                },
+                "copyright": null,
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0654110",
+                    "nameText": {
+                      "text": "Clive Owen"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm2045348608",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMjA4MzAyOTc5Ml5BMl5BanBnXkFtZTcwOTQ5NzEzMg@@._V1_.jpg",
+                      "height": 400,
+                      "width": 303
+                    },
+                    "akas": {
+                      "edges": []
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm1715135",
+                    "nameText": {
+                      "text": "Clare-Hope Ashitey"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm1898093312",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMTM4NTU5NDgzM15BMl5BanBnXkFtZTYwMDE2MDI1._V1_.jpg",
+                      "height": 400,
+                      "width": 265
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Clare Hope-Ashitey"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt0206634",
+                    "titleText": {
+                      "text": "Children of Men",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "Children of Men",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 2006,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 1,
+                      "day": 5,
+                      "year": 2007,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm2864584961",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_.jpg",
+                      "height": 1953,
+                      "width": 1320
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The dystopian sci-fi subgenre features worlds characterized by extreme social, political, and environmental challenges and focuses on the negative aspects of humanity's future. In these stories, societies have deteriorated into oppressive, nightmarish, or dysfunctional states."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Dystopian Sci-Fi",
+                "text": "Dystopian Sci-Fi"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Subgenre",
+                "text": "Subgenre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000077",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm3123641601",
+                "url": "https://m.media-amazon.com/images/M/MV5BZmZkMzI4YWEtMmIxMi00ZDA2LTk3MDMtNzVmOGQ1NzI5OTU2XkEyXkFqcGc@._V1_.jpg",
+                "height": 900,
+                "width": 1200,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Orson Welles in Citizen Kane (1941)"
+                },
+                "copyright": null,
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0000080",
+                    "nameText": {
+                      "text": "Orson Welles"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm3635232257",
+                      "url": "https://m.media-amazon.com/images/M/MV5BNTZmNzM4YTItMzMzMC00NjgwLTkyYTgtNTNiOTFiNWEyMzIyXkEyXkFqcGc@._V1_.jpg",
+                      "height": 3000,
+                      "width": 2400
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "O. W. Jeeves"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Cornejo Madrid"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "G.O. Spelvin"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Orson Wells"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Wells"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt0033467",
+                    "titleText": {
+                      "text": "Citizen Kane",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "Citizen Kane",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 1941,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 9,
+                      "day": 5,
+                      "year": 1941,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm684416000",
+                      "url": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_.jpg",
+                      "height": 1649,
+                      "width": 1100
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The epic subgenre features grand and sweeping stories often set against significant historical, cultural, or societal backdrops. Epic dramas are characterized by their scope, scale, and often lengthy runtime, as they aim to capture the grandeur of human experiences, events, and emotions."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Epic",
+                "text": "Epic"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Subgenre",
+                "text": "Subgenre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000019",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm1064993792",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTg2MTIzMTIwNV5BMl5BanBnXkFtZTcwNDM5NTkxNA@@._V1_.jpg",
+                "height": 1494,
+                "width": 2048,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Judy Garland, Ray Bolger, Jack Haley, and Bert Lahr in The Wizard of Oz (1939)"
+                },
+                "copyright": "1939 Warner Home Video. All rights reserved.",
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0000023",
+                    "nameText": {
+                      "text": "Judy Garland"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm453681665",
+                      "url": "https://m.media-amazon.com/images/M/MV5BYmYyNjhjNGEtMTFlYy00YzhlLWJhNTAtYTBmOGViMzAwM2Y5XkEyXkFqcGc@._V1_.jpg",
+                      "height": 4139,
+                      "width": 3233
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Frances Gayne"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Alice Gumm"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Frances Gumm"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Gracie Gumm"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Marie Gumm"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Judy"
+                          }
+                        },
+                        {
+                          "node": {
+                            "text": "Garland Sisters"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm0001961",
+                    "nameText": {
+                      "text": "Ray Bolger"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm586529794",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMzY3YTU4Y2YtM2ViOS00NzhkLTkwYTgtYWNjYTA3OTA3YzM2XkEyXkFqcGc@._V1_.jpg",
+                      "height": 4703,
+                      "width": 3893
+                    },
+                    "akas": {
+                      "edges": []
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm0355095",
+                    "nameText": {
+                      "text": "Jack Haley"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm450432768",
+                      "url": "https://m.media-amazon.com/images/M/MV5BZjkxYWViNmQtYmU0Zi00NWFlLWIxZGItYzIzZjEyNjdmMmYyXkEyXkFqcGc@._V1_.jpg",
+                      "height": 1422,
+                      "width": 1088
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Jack Haley Sr."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm0481618",
+                    "nameText": {
+                      "text": "Bert Lahr"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm1540990976",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMjcyNTY2MDgwMF5BMl5BanBnXkFtZTcwNjM3ODIyOA@@._V1_.jpg",
+                      "height": 1279,
+                      "width": 839
+                    },
+                    "akas": {
+                      "edges": []
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt0032138",
+                    "titleText": {
+                      "text": "The Wizard of Oz",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "The Wizard of Oz",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 1939,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 8,
+                      "day": 25,
+                      "year": 1939,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm730953472",
+                      "url": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_.jpg",
+                      "height": 3179,
+                      "width": 2094
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The quest subgenre features characters who embark on journeys with a clear and often epic objective or goal. These quests drive the narrative forward and provide a structured framework for the characters to encounter challenges, obstacles, and personal growth as they strive to achieve their mission."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Quest",
+                "text": "Quest"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Subgenre",
+                "text": "Subgenre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000090",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm20121856",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTQxMTIwMl5BMl5BanBnXkFtZTgwNzM2NzE4OTE@._V1_.jpg",
+                "height": 1365,
+                "width": 2048,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Casey Affleck and Michelle Williams in Manchester by the Sea (2016)"
+                },
+                "copyright": "2016 Amazon Studios",
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0000729",
+                    "nameText": {
+                      "text": "Casey Affleck"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm379070465",
+                      "url": "https://m.media-amazon.com/images/M/MV5BNmYyNDkyY2EtMTc3ZS00MmIxLWFmYTAtOTlhOTk5M2UzOWZhXkEyXkFqcGc@._V1_.jpg",
+                      "height": 1280,
+                      "width": 986
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "Caleb Affleck"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "__typename": "Name",
+                    "id": "nm0931329",
+                    "nameText": {
+                      "text": "Michelle Williams"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm914829824",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMjExNjY5NDY0MV5BMl5BanBnXkFtZTgwNjQ1Mjg1MTI@._V1_.jpg",
+                      "height": 2048,
+                      "width": 1362
+                    },
+                    "akas": {
+                      "edges": []
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt4034228",
+                    "titleText": {
+                      "text": "Manchester by the Sea",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "Manchester by the Sea",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 2016,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 12,
+                      "day": 16,
+                      "year": 2016,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm1295519232",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_.jpg",
+                      "height": 2048,
+                      "width": 1382
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The tragedy subgenre features stories characterized by sorrowful events, unfortunate circumstances, and often a sense of inevitable and irreversible loss or downfall. They evoke deep emotions and can explore themes of human suffering, fate, moral dilemmas, and the complexity of human nature."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Tragedy",
+                "text": "Tragedy"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Subgenre",
+                "text": "Subgenre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000001",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm65426945",
+                "url": "https://m.media-amazon.com/images/M/MV5BMDU4ZmM1NjYtNGY2MS00NmE1LThiMzAtNzU3NWZhYmM0ZjgxXkEyXkFqcGc@._V1_.jpg",
+                "height": 720,
+                "width": 1280,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Bruce Willis in Die Hard (1988)"
+                },
+                "copyright": null,
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [
+                  {
+                    "__typename": "Name",
+                    "id": "nm0000246",
+                    "nameText": {
+                      "text": "Bruce Willis"
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm2221768704",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                      "height": 400,
+                      "width": 340
+                    },
+                    "akas": {
+                      "edges": [
+                        {
+                          "node": {
+                            "text": "W.B. Willis"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "titles": [
+                  {
+                    "__typename": "Title",
+                    "id": "tt0095016",
+                    "titleText": {
+                      "text": "Die Hard",
+                      "isOriginalTitle": true
+                    },
+                    "originalTitleText": {
+                      "text": "Die Hard",
+                      "isOriginalTitle": true
+                    },
+                    "releaseYear": {
+                      "__typename": "YearRange",
+                      "year": 1988,
+                      "endYear": null
+                    },
+                    "releaseDate": {
+                      "__typename": "ReleaseDate",
+                      "month": 7,
+                      "day": 20,
+                      "year": 1988,
+                      "country": {
+                        "id": "US"
+                      },
+                      "restriction": null,
+                      "attributes": [],
+                      "displayableProperty": {
+                        "qualifiersInMarkdownList": null
+                      }
+                    },
+                    "titleType": {
+                      "__typename": "TitleType",
+                      "id": "movie",
+                      "text": "Movie",
+                      "categories": [
+                        {
+                          "id": "movie",
+                          "text": "Movie",
+                          "value": "movie"
+                        }
+                      ],
+                      "canHaveEpisodes": false,
+                      "isEpisode": false,
+                      "isSeries": false,
+                      "displayableProperty": {
+                        "value": {
+                          "plainText": ""
+                        }
+                      }
+                    },
+                    "primaryImage": {
+                      "__typename": "Image",
+                      "id": "rm270892032",
+                      "url": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg",
+                      "height": 1600,
+                      "width": 1066
+                    }
+                  }
+                ],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The action genre features fast-paced, thrilling, and intense sequences of physical feats, combat, and excitement. The characters of these stories are involved in daring and often dangerous situations, requiring them to rely on their physical prowess, skills, and quick thinking to overcome challenges and adversaries."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Action",
+                "text": "Action"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Genre",
+                "text": "Genre"
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Interest",
+              "id": "in0000012",
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm4076771329",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTlmNjQxNGItMmM1My00YTk2LTk2NjYtNTc4YWFjYTgxNTRiXkEyXkFqcGc@._V1_.jpg",
+                "height": 816,
+                "width": 1920,
+                "type": "still_frame",
+                "caption": {
+                  "plainText": "Still frame"
+                },
+                "copyright": null,
+                "createdBy": null,
+                "source": {
+                  "text": null,
+                  "attributionUrl": null,
+                  "banner": null
+                },
+                "names": [],
+                "titles": [],
+                "countries": [],
+                "languages": []
+              },
+              "description": {
+                "value": {
+                  "plainText": "The adventure genre features exciting journeys, quests, or expeditions undertaken by characters who often face challenges, obstacles, and risks in pursuit of a goal. Adventures can take place in a wide range of settings, from exotic and fantastical locations to historical or even everyday environments."
+                }
+              },
+              "primaryText": {
+                "__typename": "InterestText",
+                "id": "Adventure",
+                "text": "Adventure"
+              },
+              "secondaryText": {
+                "__typename": "InterestText",
+                "id": "Genre",
+                "text": "Genre"
+              }
+            }
+          }
+        ]
+      },
+      "reviews": {
+        "total": 1244
+      },
+      "metacritic": {
+        "url": "https://www.metacritic.com/movie/furiosa-a-mad-max-saga?ftag=MCD-06-10aaa1c",
+        "metascore": {
+          "score": 79,
+          "reviewCount": 64
+        }
+      },
+      "externalLinks": {
+        "total": 389
+      },
+      "series": null,
+      "plot": {
+        "plotText": {
+          "plainText": "After being snatched from the Green Place of Many Mothers, while the tyrants Dementus and Immortan Joe fight for power and control, the young Furiosa must survive many trials as she puts together the means to find her way home."
+        }
+      },
+      "certificate": {
+        "__typename": "Certificate",
+        "id": "ce5793586",
+        "rating": "R",
+        "ratingsBody": {
+          "id": "MPAA",
+          "text": "MPAA"
+        },
+        "ratingReason": "- Rated R for sequences of strong violence, and grisly images.",
+        "country": {
+          "id": "US"
+        }
+      },
+      "runtime": {
+        "seconds": 8880
+      },
+      "episodes": null,
+      "engagementStatistics": {
+        "watchlistStatistics": {
+          "displayableCount": {
+            "text": "Added by 751K users"
+          }
+        }
+      }
+    }
+  },
+  "recordTime": null
+}

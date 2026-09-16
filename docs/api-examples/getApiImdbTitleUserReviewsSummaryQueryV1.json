@@ -1,0 +1,177 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:30.026469+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "id": "tt12037194",
+      "canRate": {
+        "isRatable": true
+      },
+      "ratingsSummary": {
+        "aggregateRating": 7.4
+      },
+      "featuredReviews": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "Review",
+              "id": "rw9810453",
+              "title": {
+                "id": "tt12037194"
+              },
+              "author": {
+                "id": "ur22106943",
+                "nickName": "wickedpixel"
+              },
+              "authorRating": 6,
+              "helpfulness": {
+                "__typename": "ReviewHelpfulness",
+                "upVotes": 232,
+                "downVotes": 121,
+                "score": 0.6062561200011919
+              },
+              "summary": {
+                "originalText": "Something was off"
+              },
+              "text": {
+                "originalText": {
+                  "plainText": "You want it or not, a comparation with the old movie is automatic. The first thing that comes to mind is that it kinda drags the story. It lacks the flow of the previous. The main villan is unconvincing and I found myself many times not understanging how to categorise him. Is evil without a clear motive, powerful without convincing greatness. You don't know if you want to love him or not.\n\nThe actions scenes are ok, but no moment where I would thing it's something epic worthy. At times almost too much of the same.\n\nMaybe the main problem was the script, neglected in the face of the many action scenes paired with fancy camera movement. The plot was ok, but it lacked a smarter way of putting it on the screen."
+                }
+              },
+              "language": "en-US",
+              "submissionDate": "2024-05-26",
+              "spoiler": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "Review",
+              "id": "rw9803529",
+              "title": {
+                "id": "tt12037194"
+              },
+              "author": {
+                "id": "ur14955172",
+                "nickName": "johannes-stal"
+              },
+              "authorRating": 6,
+              "helpfulness": {
+                "__typename": "ReviewHelpfulness",
+                "upVotes": 718,
+                "downVotes": 413,
+                "score": 0.6063636339346369
+              },
+              "summary": {
+                "originalText": "MEDIOCRE!"
+              },
+              "text": {
+                "originalText": {
+                  "plainText": "Max Mad fan here, I would rate previous movies: Mad Max around a 6, Road Warrior 8 Thunder Dome 7 Fury Road 9 and speaking of Fury Road....\n\nThis is unfortunately a pale comparison to Fury Road. The look is off everything from camerawork to editing to the costumes to vehicles to action scenes. Loads of bad CGI replaces the high octane realistic crazy stunts and motor mayhem from fury road. It all looks shot in a studio with fake everything. Big drop in quality and a sense of realism.\n\nIt's sad to see that Miller has settled for the studio instead of real vehicles in real environments with neck breaking stunts. Both clothes and vehicles just looks very designed now as well instead of a somewhat believable mishmash of what can be found in the wastelands. It's also a-lot cleaner in every way, vehicles look shiny and newly made. It just feels more censored and less naked and rough.\n\nThe story surprises nobody and is pretty much exactly what you expect. Void from a lot of the epic action scenes you might have to expect after fury road. You get some decent action but Fury Road is the gold standard here and this is not even close. Look and feels more like a cookie cutter action movie set in the Mad Max universe. Had I have to guess without knowing it I would never have guessed that Miller directed this. The world building is cool though and you get more of the cool world of Mad Max so that is a big plus.\n\nActors do a decent to a good job all around.\n\nImmortan Joe is not impressed.\n\nMEDIOCRE!!!"
+                }
+              },
+              "language": "en-US",
+              "submissionDate": "2024-05-22",
+              "spoiler": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "Review",
+              "id": "rw9808522",
+              "title": {
+                "id": "tt12037194"
+              },
+              "author": {
+                "id": "ur160254257",
+                "nickName": "kanhalangsycamden"
+              },
+              "authorRating": 9,
+              "helpfulness": {
+                "__typename": "ReviewHelpfulness",
+                "upVotes": 322,
+                "downVotes": 225,
+                "score": 0.5469496597103873
+              },
+              "summary": {
+                "originalText": "This is what action is...."
+              },
+              "text": {
+                "originalText": {
+                  "plainText": "I feel many go into Furiosa expecting a Mad max movie, and at its core it is so much different. With its predecessor being Fury road, Furiosa had a very high bar to achieve. However, these 2 movies are so different, while they may seem similar they are completely different action movies. Furiosa takes on a much more different aesthetic with the use of slightly more darker and less vibrant colors, a much different protagonist, and a more complex story. The use of cgi is pretty disappointing, if you have a keen eye you can pretty easily the digital doubles and green screen. Anya Taylor-Joy gives an absolutely amazing performance. Dare I say she is better than Charlize Theron in Fury Road? Absolutely! Chris Hemsworth was also great and hilarious. Furiosa, while it may have many flaws, is one of the best action movies to come out in recent times, and I hope it gets the recognition it deserves. Furiosa is in no ways perfect, but do I love it? Yes."
+                }
+              },
+              "language": "en-US",
+              "submissionDate": "2024-05-25",
+              "spoiler": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "Review",
+              "id": "rw9804360",
+              "title": {
+                "id": "tt12037194"
+              },
+              "author": {
+                "id": "ur110207881",
+                "nickName": "alwinsup"
+              },
+              "authorRating": 7,
+              "helpfulness": {
+                "__typename": "ReviewHelpfulness",
+                "upVotes": 334,
+                "downVotes": 143,
+                "score": 0.6576275082593848
+              },
+              "summary": {
+                "originalText": "Good start, ending could have been better"
+              },
+              "text": {
+                "originalText": {
+                  "plainText": "Pretty good movie. Enough action and with enough speed for the most part. Fun to see the three major settlements back from the 2015 mad max saga.\n\nIn the begin I did worry a little bit about the green screen effect what I did notice but that feeling faded away over time.\n\nThere is however one big negative and that was the last 20/30minutes. Slow paced, little bit boring and dragged on.. I was kinda waiting for the movie to just end. Its a shame because it makes you leave the theaters with a bad taste for a pretty good movie.\n\nActors were decent, script decent, action decent, green screen decent (but could been better), story line decent (except ending).\n\nAll by all 7out of 10."
+                }
+              },
+              "language": "en-US",
+              "submissionDate": "2024-05-23",
+              "spoiler": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "Review",
+              "id": "rw9803455",
+              "title": {
+                "id": "tt12037194"
+              },
+              "author": {
+                "id": "ur174406934",
+                "nickName": "jinxedmihai"
+              },
+              "authorRating": 9,
+              "helpfulness": {
+                "__typename": "ReviewHelpfulness",
+                "upVotes": 262,
+                "downVotes": 235,
+                "score": 0.48322960026685663
+              },
+              "summary": {
+                "originalText": "It was great!"
+              },
+              "text": {
+                "originalText": {
+                  "plainText": "I just finished watching the movie premiere here in my country and i was soooo satisfied!\n\nLet me start with the beginning: The little girl who plays Furiosa did an amazing job even if her dialogue was minimum! She was great! Chris Hemsworth as Dementus was funny, scary and...demented! This role of a villain was great for him and much much better than the last Thor interpretations!\n\nAnya Taylor-Joy was, from my perspective, a much better Furiosa than Charlize Theron! She did an amazing job!\n\nThe CGI was there but it was top notch and the ones who complained about the use of CGI doesn't understand a movie like this needs some CGI!\n\nThe vehicles, motorbikes were steampunk constructed and cool! Dementus truck was a BEAST!!! The roaring of the engine was beyond cool! It was amaaaaazing! The young Immortan Joe was decent, his boys are there(from Mad Max: Fury Road) .\n\nSome little brutality, little humor that worked like a jewel!\n\nA little minor Spoiler: i think there was a little, very little scene of Max filmed from behind..there was his car as well. The verdict: A must seen, a must seen in theater for the best feeling! The sound of motorbikes and that beast, the Dementus truck motor engine sound was so cool!!! 9/10 from me!"
+                }
+              },
+              "language": "en-US",
+              "submissionDate": "2024-05-22",
+              "spoiler": false
+            }
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": null
+}

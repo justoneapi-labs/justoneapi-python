@@ -1,0 +1,325 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:41.747199+08:00",
+  "_sourceCheckedAt": "2026-08-12T13:51:30",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "semantics": {
+      "identity_level": "shop_card_display_model",
+      "page_product_cards_only": true,
+      "complete_shop_catalog": false,
+      "authoritative_inventory_included": false,
+      "display_price_included": true
+    },
+    "query": {
+      "username": "mhw3bombertw",
+      "limit": 20
+    },
+    "card_count": 20,
+    "cards": [
+      {
+        "shop_id": 526184774,
+        "item_id": 24428454365,
+        "display_model_id": 49769518024,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 馭系列旋風攪粉針 58mm 咖啡布粉針旋轉均勻打散結塊 散粉針 按壓式攪粉針 針式布粉器",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lvpoigvt1z2q48",
+        "image_alt": "MHW-3BOMBER 轟炸機 馭系列旋風攪粉針 58mm 咖啡布粉針旋轉均勻打散結塊 散粉針 按壓式攪粉針 針式布粉器",
+        "price_texts": [
+          "$ 1,855"
+        ],
+        "display_price": 1855,
+        "currency": "TWD",
+        "sold_text": "已售出 1000+"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 43472379738,
+        "display_model_id": 306821439152,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 摩卡壺布粉器 單雙閥通用配件 防飛粉接粉填粉器 下壺直徑約64-66mm適用",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824ii-mf9awqb5o6j052",
+        "image_alt": "MHW-3BOMBER 轟炸機 摩卡壺布粉器 單雙閥通用配件 防飛粉接粉填粉器 下壺直徑約64-66mm適用",
+        "price_texts": [
+          "$ 180"
+        ],
+        "display_price": 180,
+        "currency": "TWD",
+        "sold_text": "已售出 66"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 11660543866,
+        "display_model_id": 105252911828,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機拉花缸 鱷魚嘴拉花杯 專業吧台不銹鋼打奶缸 旗艦版5.0",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824in-mfrwl7wxv11ke6",
+        "image_alt": "MHW-3BOMBER 轟炸機拉花缸 鱷魚嘴拉花杯 專業吧台不銹鋼打奶缸 旗艦版5.0",
+        "price_texts": [
+          "$ 755"
+        ],
+        "display_price": 755,
+        "currency": "TWD",
+        "sold_text": "已售出 2000+"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 23869854407,
+        "display_model_id": 262616172617,
+        "model_selection_logic": 3,
+        "title": "(原創三彈簧設計) MHW-3BOMBER 轟炸機 閃擊恆力壓粉錘 義式咖啡壓粉器 51/53/58mm 實用新型專利",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7qukz-lhk978sq930w07",
+        "image_alt": "(原創三彈簧設計) MHW-3BOMBER 轟炸機 閃擊恆力壓粉錘 義式咖啡壓粉器 51/53/58mm 實用新型專利",
+        "price_texts": [
+          "$ 1,055"
+        ],
+        "display_price": 1055,
+        "currency": "TWD",
+        "sold_text": "已售出 1000+"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 40472391314,
+        "display_model_id": 261821598293,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 ESP電子秤 義式濃縮咖啡秤重杯 迷你高精度專用 精準秤重",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824jc-mf9aomzed79o12",
+        "image_alt": "MHW-3BOMBER 轟炸機 ESP電子秤 義式濃縮咖啡秤重杯 迷你高精度專用 精準秤重",
+        "price_texts": [
+          "$ 1,155"
+        ],
+        "display_price": 1155,
+        "currency": "TWD",
+        "sold_text": "已售出 220"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 29491082610,
+        "display_model_id": 198687038066,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 Ti 純鈦精密粉碗 咖啡粉碗 58mm 鈦粉碗 義式咖啡機萃取配件",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824gi-me7sor4w9b0m82",
+        "image_alt": "MHW-3BOMBER 轟炸機 Ti 純鈦精密粉碗 咖啡粉碗 58mm 鈦粉碗 義式咖啡機萃取配件",
+        "price_texts": [
+          "$ 1,125"
+        ],
+        "display_price": 1125,
+        "currency": "TWD",
+        "sold_text": "已售出 58"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 23425626477,
+        "display_model_id": 176907020547,
+        "model_selection_logic": 3,
+        "title": "(結實耐用 有效分流) MHW-3BOMBER 轟炸機 二次分水網 51/53/58MM通用 義式咖啡機 萃取過濾片",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-23020-cgw9l92ytrnv0c",
+        "image_alt": "(結實耐用 有效分流) MHW-3BOMBER 轟炸機 二次分水網 51/53/58MM通用 義式咖啡機 萃取過濾片",
+        "price_texts": [
+          "$ 130"
+        ],
+        "display_price": 130,
+        "currency": "TWD",
+        "sold_text": "已售出 3000+"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 29834236617,
+        "display_model_id": 300076155363,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 二次分水網與收納墊組合 義式咖啡二次分水網 均勻萃取過濾片收納墊組合",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-7reox-m8u8d8qrx8de4a",
+        "image_alt": "MHW-3BOMBER 轟炸機 二次分水網與收納墊組合 義式咖啡二次分水網 均勻萃取過濾片收納墊組合",
+        "price_texts": [
+          "$ 350"
+        ],
+        "display_price": 350,
+        "currency": "TWD",
+        "sold_text": "已售出 210"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 16008810921,
+        "display_model_id": 128640789109,
+        "model_selection_logic": 3,
+        "title": "(3.0 全新升級) MHW-3BOMBER 轟炸機小魔方3.0 Pro /mini 電子秤 義式手沖咖啡秤 實時流速",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-822xg-mo93unpgwa9t01",
+        "image_alt": "(3.0 全新升級) MHW-3BOMBER 轟炸機小魔方3.0 Pro /mini 電子秤 義式手沖咖啡秤 實時流速",
+        "price_texts": [
+          "$ 965"
+        ],
+        "display_price": 965,
+        "currency": "TWD",
+        "sold_text": "已售出 2000+"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 24428454365,
+        "display_model_id": 49769518024,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 馭系列旋風攪粉針 58mm 咖啡布粉針旋轉均勻打散結塊 散粉針 按壓式攪粉針 針式布粉器",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lvpoigvt1z2q48",
+        "image_alt": "MHW-3BOMBER 轟炸機 馭系列旋風攪粉針 58mm 咖啡布粉針旋轉均勻打散結塊 散粉針 按壓式攪粉針 針式布粉器",
+        "price_texts": [
+          "$ 1,855"
+        ],
+        "display_price": 1855,
+        "currency": "TWD",
+        "sold_text": "已售出 1000+"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 40472391314,
+        "display_model_id": 261821598293,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 ESP電子秤 義式濃縮咖啡秤重杯 迷你高精度專用 精準秤重",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824jc-mf9aomzed79o12",
+        "image_alt": "MHW-3BOMBER 轟炸機 ESP電子秤 義式濃縮咖啡秤重杯 迷你高精度專用 精準秤重",
+        "price_texts": [
+          "$ 1,155"
+        ],
+        "display_price": 1155,
+        "currency": "TWD",
+        "sold_text": "已售出 220"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 43472379738,
+        "display_model_id": 306821439152,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 摩卡壺布粉器 單雙閥通用配件 防飛粉接粉填粉器 下壺直徑約64-66mm適用",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824ii-mf9awqb5o6j052",
+        "image_alt": "MHW-3BOMBER 轟炸機 摩卡壺布粉器 單雙閥通用配件 防飛粉接粉填粉器 下壺直徑約64-66mm適用",
+        "price_texts": [
+          "$ 180"
+        ],
+        "display_price": 180,
+        "currency": "TWD",
+        "sold_text": "已售出 66"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 22883665843,
+        "display_model_id": 98804665723,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 競速M1手搖磨豆機  六星420磨芯 可拆卸清潔 歸零設計 義式手沖全能",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-7rbmf-lmynus7zsgftbb",
+        "image_alt": "MHW-3BOMBER 轟炸機 競速M1手搖磨豆機  六星420磨芯 可拆卸清潔 歸零設計 義式手沖全能",
+        "price_texts": [
+          "$ 1,630"
+        ],
+        "display_price": 1630,
+        "currency": "TWD",
+        "sold_text": "已售出 353"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 29491082610,
+        "display_model_id": 198687038066,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機 Ti 純鈦精密粉碗 咖啡粉碗 58mm 鈦粉碗 義式咖啡機萃取配件",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824gi-me7sor4w9b0m82",
+        "image_alt": "MHW-3BOMBER 轟炸機 Ti 純鈦精密粉碗 咖啡粉碗 58mm 鈦粉碗 義式咖啡機萃取配件",
+        "price_texts": [
+          "$ 1,125"
+        ],
+        "display_price": 1125,
+        "currency": "TWD",
+        "sold_text": "已售出 58"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 12830236513,
+        "display_model_id": 85362129490,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機咖啡雕花針 實木勾花針 吧台雕花棒 拿鐵藝術家",
+        "image_url": "https://down-tw.img.susercontent.com/file/e4245a3224b6c1b0d48e1fd8008dc1e4",
+        "image_alt": "MHW-3BOMBER 轟炸機咖啡雕花針 實木勾花針 吧台雕花棒 拿鐵藝術家",
+        "price_texts": [
+          "$ 560"
+        ],
+        "display_price": 560,
+        "currency": "TWD",
+        "sold_text": "已售出 152"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 13328116774,
+        "display_model_id": 400924730742,
+        "model_selection_logic": 3,
+        "title": "(手沖義式垂直落粉神器) MHW-3BOMBER 轟炸機流光落粉器 多功能接粉杯 51/54/58mm 磨豆機接粉杯",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-822y7-mo9j0ue97pxo76",
+        "image_alt": "(手沖義式垂直落粉神器) MHW-3BOMBER 轟炸機流光落粉器 多功能接粉杯 51/54/58mm 磨豆機接粉杯",
+        "price_texts": [
+          "$ 610"
+        ],
+        "display_price": 610,
+        "currency": "TWD",
+        "sold_text": "已售出 508"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 23425626477,
+        "display_model_id": 176907020547,
+        "model_selection_logic": 3,
+        "title": "(結實耐用 有效分流) MHW-3BOMBER 轟炸機 二次分水網 51/53/58MM通用 義式咖啡機 萃取過濾片",
+        "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-23020-cgw9l92ytrnv0c",
+        "image_alt": "(結實耐用 有效分流) MHW-3BOMBER 轟炸機 二次分水網 51/53/58MM通用 義式咖啡機 萃取過濾片",
+        "price_texts": [
+          "$ 130"
+        ],
+        "display_price": 130,
+        "currency": "TWD",
+        "sold_text": "已售出 3000+"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 25111927234,
+        "display_model_id": 415860970586,
+        "model_selection_logic": 3,
+        "title": "(自主研發磨芯 創新內置篩網)MHW-3BOMBER轟炸機 利刃R3外調式手搖磨豆機 手磨咖啡豆研磨咖啡機",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-820lg-mnny2en77r418a",
+        "image_alt": "(自主研發磨芯 創新內置篩網)MHW-3BOMBER轟炸機 利刃R3外調式手搖磨豆機 手磨咖啡豆研磨咖啡機",
+        "price_texts": [
+          "$ 2,855"
+        ],
+        "display_price": 2855,
+        "currency": "TWD",
+        "sold_text": "已售出 63"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 11660543866,
+        "display_model_id": 105252911828,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER 轟炸機拉花缸 鱷魚嘴拉花杯 專業吧台不銹鋼打奶缸 旗艦版5.0",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-824in-mfrwl7wxv11ke6",
+        "image_alt": "MHW-3BOMBER 轟炸機拉花缸 鱷魚嘴拉花杯 專業吧台不銹鋼打奶缸 旗艦版5.0",
+        "price_texts": [
+          "$ 755"
+        ],
+        "display_price": 755,
+        "currency": "TWD",
+        "sold_text": "已售出 2000+"
+      },
+      {
+        "shop_id": 526184774,
+        "item_id": 43627517527,
+        "display_model_id": 315348985571,
+        "model_selection_logic": 3,
+        "title": "MHW-3BOMBER轟炸機 X-press58義式咖啡機-台灣保固版 便攜式咖啡機 Xpress58戶外旅行家用咖啡機",
+        "image_url": "https://down-tw.img.susercontent.com/file/sg-11134201-81zwa-mio15cqfciko1a",
+        "image_alt": "MHW-3BOMBER轟炸機 X-press58義式咖啡機-台灣保固版 便攜式咖啡機 Xpress58戶外旅行家用咖啡機",
+        "price_texts": [
+          "$ 7,955"
+        ],
+        "display_price": 7955,
+        "currency": "TWD",
+        "sold_text": "已售出 99"
+      }
+    ]
+  },
+  "recordTime": "2026-08-12T13:51:30.104060062"
+}

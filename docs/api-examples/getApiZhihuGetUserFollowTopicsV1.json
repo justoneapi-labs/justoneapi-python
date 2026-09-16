@@ -1,0 +1,150 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:10.674096+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:49",
+  "code": 0,
+  "message": null,
+  "data": {
+    "paging": {
+      "totals": 6,
+      "is_start": true,
+      "is_end": true,
+      "previous": "https://www.zhihu.com/api/v5.1/topics/ming-he-43-93/following_topics_contributions?offset=-20&limit=20&user_url_token=ming-he-43-93&include=data[*].topic.introduction",
+      "next": "https://www.zhihu.com/api/v5.1/topics/ming-he-43-93/following_topics_contributions?offset=20&limit=20&user_url_token=ming-he-43-93&include=data[*].topic.introduction"
+    },
+    "data": [
+      {
+        "topic": {
+          "id": "19564940",
+          "type": "topic",
+          "url": "https://www.zhihu.com/api/v5.1/topics/19564940",
+          "name": "运营",
+          "avatar_url": "https://picx.zhimg.com/89c105a38.jpg?source=57bbeac9",
+          "excerpt": "运营就是对运营过程的计划、qq794283769组织、实施和控制，是与产品生产和服务创造密切相关的各项管理工作的总称。从另一个角度来讲，运营管理也可以指为对生产和提供公司主要的产品和服务的系统进行设计、运行、评价和改进的管理工作。",
+          "is_black": false,
+          "introduction": "运营就是对运营过程的计划、qq794283769组织、实施和控制，是与产品生产和服务创造密切相关的各项管理工作的总称。从另一个角度来讲，运营管理也可以指为对生产和提供公司主要的产品和服务的系统进行设计、运行、评价和改进的管理工作。",
+          "category": "n_wiki",
+          "is_vote": false,
+          "followers_count": 390611,
+          "total_pv": 1193335170,
+          "is_super_topic_vote": false,
+          "questions_count": 54690,
+          "is_following": true,
+          "meta_avatar_url": "https://pic1.zhimg.com/v2-dea0d3226b82d115e4a5cb1bf95aa937_qhd.jpg?source=57bbeac9",
+          "discuss_count": 851465
+        },
+        "contributions_count": 0
+      },
+      {
+        "topic": {
+          "id": "19557876",
+          "type": "topic",
+          "url": "https://www.zhihu.com/api/v5.1/topics/19557876",
+          "name": "职场",
+          "avatar_url": "https://pic1.zhimg.com/386dc566a.jpg?source=57bbeac9",
+          "excerpt": "「职场」指的并不是狭义上的工作场所，而是以工作为载体的组织行为和人际关系的总和（包括心理关系）。",
+          "is_black": false,
+          "introduction": "「职场」指的并不是狭义上的工作场所，而是以工作为载体的组织行为和人际关系的总和（包括心理关系）。",
+          "category": "n_wiki",
+          "is_vote": false,
+          "followers_count": 14019461,
+          "total_pv": 51465024173,
+          "is_super_topic_vote": false,
+          "questions_count": 524245,
+          "is_following": true,
+          "meta_avatar_url": "https://picx.zhimg.com/v2-15c9885c2487fb2333d49b0005fa6ae6_qhd.jpg?source=57bbeac9",
+          "discuss_count": 24844105
+        },
+        "contributions_count": 0
+      },
+      {
+        "topic": {
+          "id": "19578317",
+          "type": "topic",
+          "url": "https://www.zhihu.com/api/v5.1/topics/19578317",
+          "name": "数据恢复",
+          "avatar_url": "https://pic1.zhimg.com/v2-40e779d5c5e6bcebda41e92d50594618.jpg?source=57bbeac9",
+          "excerpt": "当存储介质出现损伤或由于人员误操作、操作系统本身故障所造成的数据看不见、无法读取、丢失。工程师通过特殊的手段读取却在正常状态下不可见、不可读、无法读的数据。数据恢复（Data recovery）是指通过技术手段，将保存在台式机硬盘、笔记本硬盘、服务器硬盘、存储磁带库、移动硬盘、U盘、数码存储卡、Mp3等等设备上丢失的电子数据进行抢救和恢复的技术。",
+          "is_black": false,
+          "introduction": "当存储介质出现损伤或由于人员误操作、操作系统本身故障所造成的数据看不见、无法读取、丢失。工程师通过特殊的手段读取却在正常状态下不可见、不可读、无法读的数据。数据恢复（Data recovery）是指通过技术手段，将保存在台式机硬盘、笔记本硬盘、服务器硬盘、存储磁带库、移动硬盘、U盘、数码存储卡、Mp3等等设备上丢失的电子数据进行抢救和恢复的技术。",
+          "category": "n_wiki",
+          "is_vote": false,
+          "followers_count": 2583,
+          "total_pv": 228759587,
+          "is_super_topic_vote": false,
+          "questions_count": 7816,
+          "is_following": true,
+          "meta_avatar_url": "https://picx.zhimg.com/v2-44358711d8a3c307710c8d11c377bd44_qhd.jpg?source=57bbeac9",
+          "discuss_count": 95542
+        },
+        "contributions_count": 0
+      },
+      {
+        "topic": {
+          "id": "19550517",
+          "type": "topic",
+          "url": "https://www.zhihu.com/api/v5.1/topics/19550517",
+          "name": "互联网",
+          "avatar_url": "https://pica.zhimg.com/f07808da5625fef3607f8b75b770349f.jpg?source=57bbeac9",
+          "excerpt": "互联网（英语：Internet），又称网际网络，或音译因特网(Internet)、英特网，互联网始于1969年美国的阿帕网。是网络与网络之间所串连成的庞大网络，这些网络以一组通用的协议相连，形成逻辑上的单一巨大国际网络。通常internet泛指互联网，而Internet则特指因特网。这种将计算机网络互相联接在一起的方法可称作“网络互联”，在这基础上发展出覆盖全世界的全球性互联网络称互联网，即是互相连接一起的网络结构。互联网并不等同万…",
+          "is_black": false,
+          "introduction": "互联网（英语：Internet），又称网际网络，或音译因特网(Internet)、英特网，互联网始于1969年美国的阿帕网。是网络与网络之间所串连成的庞大网络，这些网络以一组通用的协议相连，形成逻辑上的单一巨大国际网络。通常internet泛指互联网，而Internet则特指因特网。这种将计算机网络互相联接在一起的方法可称作“网络互联”，在这基础上发展出覆盖全世界的全球性互联网络称互联网，即是互相连接一起的网络结构。互联网并不等同万维网，万维网只是一建基于超文本相互链接而成的全球性系统，且是互联网所能提供的服务其中之一。",
+          "category": "n_wiki",
+          "is_vote": false,
+          "followers_count": 20870530,
+          "total_pv": 54937041226,
+          "is_super_topic_vote": false,
+          "questions_count": 353423,
+          "is_following": true,
+          "meta_avatar_url": "https://pic4.zhimg.com/v2-c1ea3804dc369dbfad3de0c405c0a3d2_qhd.jpg",
+          "discuss_count": 26439191
+        },
+        "contributions_count": 0
+      },
+      {
+        "topic": {
+          "id": "19550564",
+          "type": "topic",
+          "url": "https://www.zhihu.com/api/v5.1/topics/19550564",
+          "name": "阅读",
+          "avatar_url": "https://picx.zhimg.com/3f30afdfc.jpg?source=57bbeac9",
+          "excerpt": "阅读是运用语言文字来获取信息，认识世界，发展思维，并获得审美体验的活动。它是从视觉材料中获取信息的过程。视觉材料主要是文字和图片，也包括符号、公式、图表等。阅读是一种主动的过程，是由阅读者根据不同的目的加以调节控制的,陶冶人们的情操，提升自我修养。阅读是一种理解，领悟，吸收，鉴赏，评价和探究文章的思维过程。阅读可以改变命运，但并不是一定改变命运。",
+          "is_black": false,
+          "introduction": "阅读是运用语言文字来获取信息，认识世界，发展思维，并获得审美体验的活动。它是从视觉材料中获取信息的过程。视觉材料主要是文字和图片，也包括符号、公式、图表等。阅读是一种主动的过程，是由阅读者根据不同的目的加以调节控制的,陶冶人们的情操，提升自我修养。阅读是一种理解，领悟，吸收，鉴赏，评价和探究文章的思维过程。阅读可以改变命运，但并不是一定改变命运。",
+          "category": "n_wiki",
+          "is_vote": false,
+          "followers_count": 26859687,
+          "total_pv": 14194165697,
+          "is_super_topic_vote": false,
+          "questions_count": 241289,
+          "is_following": true,
+          "meta_avatar_url": "https://picx.zhimg.com/v2-d5723c9e63d50dbec8740de55933b96a_qhd.jpg?source=57bbeac9",
+          "discuss_count": 10123115
+        },
+        "contributions_count": 0
+      },
+      {
+        "topic": {
+          "id": "19559424",
+          "type": "topic",
+          "url": "https://www.zhihu.com/api/v5.1/topics/19559424",
+          "name": "数据分析",
+          "avatar_url": "https://picx.zhimg.com/v2-78f4b42d0750ff5cecc0f6ec9453bc5f.jpg?source=57bbeac9",
+          "excerpt": "数据分析是指用适当的统计分析方法对收集来的大量数据进行分析，提取有用信息和形成结论而对数据加以详细研究和概括总结的过程。这一过程也是质量管理体系的支持过程。在实用中，数据分析可帮助人们作出判断，以便采取适当行动。数据分析的数学基础在20世纪早期就已确立，但直到计算机的出现才使得实际操作成为可能，并使得数据分析得以推广。数据分析是数学与计算机科学相结合的产物。",
+          "is_black": false,
+          "introduction": "数据分析是指用适当的统计分析方法对收集来的大量数据进行分析，提取有用信息和形成结论而对数据加以详细研究和概括总结的过程。这一过程也是质量管理体系的支持过程。在实用中，数据分析可帮助人们作出判断，以便采取适当行动。数据分析的数学基础在20世纪早期就已确立，但直到计算机的出现才使得实际操作成为可能，并使得数据分析得以推广。数据分析是数学与计算机科学相结合的产物。",
+          "category": "n_wiki",
+          "is_vote": false,
+          "followers_count": 3647861,
+          "total_pv": 3132023152,
+          "is_super_topic_vote": false,
+          "questions_count": 43649,
+          "is_following": true,
+          "meta_avatar_url": "https://pic1.zhimg.com/v2-20382e770da3bff41c52c04e821ec6cc_qhd.jpg?source=57bbeac9",
+          "discuss_count": 1086424
+        },
+        "contributions_count": 0
+      }
+    ]
+  },
+  "recordTime": null
+}

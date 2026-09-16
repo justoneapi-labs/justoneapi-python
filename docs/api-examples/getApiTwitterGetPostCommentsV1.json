@@ -1,0 +1,2241 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:49.063089+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:28",
+  "code": 0,
+  "message": null,
+  "data": {
+    "status": "ok",
+    "timeline": [
+      {
+        "type": "tweet",
+        "tweet_id": "1910433556695785658",
+        "screen_name": "MarkoRadojevich",
+        "bookmarks": 0,
+        "favorites": 3,
+        "created_at": "Thu Apr 10 20:43:48 +0000 2025",
+        "text": "@purebredslappy @BigYehudah @elonmusk The Founding Fathers would disagree with you.\nhttps://t.co/3PJpG3X6iD. https://t.co/Zkvh6N8k6Z",
+        "lang": "en",
+        "display_text_range": [
+          38,
+          108
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 0,
+        "sensitive": false,
+        "replies": 1,
+        "conversation_id": "1808168603721650364",
+        "retweets": 2,
+        "views": "122",
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/Zkvh6N8k6Z",
+              "expanded_url": "https://x.com/MarkoRadojevich/status/1910433556695785658/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 66,
+                      "w": 66,
+                      "x": 109,
+                      "y": 345
+                    },
+                    {
+                      "h": 203,
+                      "w": 203,
+                      "x": 173,
+                      "y": 105
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 66,
+                      "w": 66,
+                      "x": 109,
+                      "y": 345
+                    },
+                    {
+                      "h": 203,
+                      "w": 203,
+                      "x": 173,
+                      "y": 105
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 66,
+                      "w": 66,
+                      "x": 109,
+                      "y": 345
+                    },
+                    {
+                      "h": 203,
+                      "w": 203,
+                      "x": 173,
+                      "y": 105
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 66,
+                      "w": 66,
+                      "x": 109,
+                      "y": 345
+                    },
+                    {
+                      "h": 203,
+                      "w": 203,
+                      "x": 173,
+                      "y": 105
+                    }
+                  ]
+                }
+              },
+              "id_str": "1910433550970613760",
+              "indices": [
+                109,
+                132
+              ],
+              "media_key": "3_1910433550970613760",
+              "media_results": {
+                "result": {
+                  "media_key": "3_1910433550970613760"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GoM5MVSXcAAcsPt.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 269,
+                    "w": 480,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 480,
+                    "w": 480,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 480,
+                    "w": 421,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 480,
+                    "w": 240,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 480,
+                    "w": 480,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 480,
+                "width": 480
+              },
+              "sizes": {
+                "large": {
+                  "h": 480,
+                  "resize": "fit",
+                  "w": 480
+                },
+                "medium": {
+                  "h": 480,
+                  "resize": "fit",
+                  "w": 480
+                },
+                "small": {
+                  "h": 480,
+                  "resize": "fit",
+                  "w": 480
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/Zkvh6N8k6Z"
+            },
+            {
+              "display_url": "pic.x.com/Zkvh6N8k6Z",
+              "expanded_url": "https://x.com/MarkoRadojevich/status/1910433556695785658/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 107,
+                      "w": 107,
+                      "x": 173,
+                      "y": 150
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 107,
+                      "w": 107,
+                      "x": 173,
+                      "y": 150
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 107,
+                      "w": 107,
+                      "x": 173,
+                      "y": 150
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 85,
+                      "w": 85,
+                      "x": 138,
+                      "y": 120
+                    }
+                  ]
+                }
+              },
+              "id_str": "1910433550911852544",
+              "indices": [
+                109,
+                132
+              ],
+              "media_key": "3_1910433550911852544",
+              "media_results": {
+                "result": {
+                  "media_key": "3_1910433550911852544"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GoM5MVEW0AA3fU8.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 400,
+                    "w": 714,
+                    "x": 88,
+                    "y": 0
+                  },
+                  {
+                    "h": 400,
+                    "w": 400,
+                    "x": 245,
+                    "y": 0
+                  },
+                  {
+                    "h": 400,
+                    "w": 351,
+                    "x": 270,
+                    "y": 0
+                  },
+                  {
+                    "h": 400,
+                    "w": 200,
+                    "x": 345,
+                    "y": 0
+                  },
+                  {
+                    "h": 400,
+                    "w": 850,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 400,
+                "width": 850
+              },
+              "sizes": {
+                "large": {
+                  "h": 400,
+                  "resize": "fit",
+                  "w": 850
+                },
+                "medium": {
+                  "h": 400,
+                  "resize": "fit",
+                  "w": 850
+                },
+                "small": {
+                  "h": 320,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/Zkvh6N8k6Z"
+            },
+            {
+              "display_url": "pic.x.com/Zkvh6N8k6Z",
+              "expanded_url": "https://x.com/MarkoRadojevich/status/1910433556695785658/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 184,
+                      "w": 184,
+                      "x": 424,
+                      "y": 8
+                    },
+                    {
+                      "h": 192,
+                      "w": 192,
+                      "x": 524,
+                      "y": 692
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 107,
+                      "w": 107,
+                      "x": 248,
+                      "y": 4
+                    },
+                    {
+                      "h": 112,
+                      "w": 112,
+                      "x": 307,
+                      "y": 405
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 184,
+                      "w": 184,
+                      "x": 424,
+                      "y": 8
+                    },
+                    {
+                      "h": 192,
+                      "w": 192,
+                      "x": 524,
+                      "y": 692
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 61,
+                      "w": 61,
+                      "x": 140,
+                      "y": 2
+                    },
+                    {
+                      "h": 63,
+                      "w": 63,
+                      "x": 173,
+                      "y": 229
+                    }
+                  ]
+                }
+              },
+              "id_str": "1910433552941850624",
+              "indices": [
+                109,
+                132
+              ],
+              "media_key": "3_1910433552941850624",
+              "media_results": {
+                "result": {
+                  "media_key": "3_1910433552941850624"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GoM5McoWIAAxmTE.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 675,
+                    "w": 1206,
+                    "x": 0,
+                    "y": 635
+                  },
+                  {
+                    "h": 1206,
+                    "w": 1206,
+                    "x": 0,
+                    "y": 369
+                  },
+                  {
+                    "h": 1375,
+                    "w": 1206,
+                    "x": 0,
+                    "y": 285
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1206,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 1206
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "resize": "fit",
+                  "w": 1206
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 707
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 400
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/Zkvh6N8k6Z"
+            },
+            {
+              "display_url": "pic.x.com/Zkvh6N8k6Z",
+              "expanded_url": "https://x.com/MarkoRadojevich/status/1910433556695785658/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 288,
+                      "w": 288,
+                      "x": 456,
+                      "y": 196
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 168,
+                      "w": 168,
+                      "x": 267,
+                      "y": 114
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 288,
+                      "w": 288,
+                      "x": 456,
+                      "y": 196
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 95,
+                      "w": 95,
+                      "x": 151,
+                      "y": 65
+                    }
+                  ]
+                }
+              },
+              "id_str": "1910433554250493952",
+              "indices": [
+                109,
+                132
+              ],
+              "media_key": "3_1910433554250493952",
+              "media_results": {
+                "result": {
+                  "media_key": "3_1910433554250493952"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GoM5MhgWcAA_6Da.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 719,
+                    "w": 1284,
+                    "x": 0,
+                    "y": 611
+                  },
+                  {
+                    "h": 1284,
+                    "w": 1284,
+                    "x": 0,
+                    "y": 328
+                  },
+                  {
+                    "h": 1464,
+                    "w": 1284,
+                    "x": 0,
+                    "y": 238
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 50,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1284,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 1284
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "resize": "fit",
+                  "w": 1284
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 752
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 426
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/Zkvh6N8k6Z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "nccs.net/blogs/articles…",
+              "expanded_url": "https://nccs.net/blogs/articles/biblical-roots-of-the-declaration-of-independence#:~:text=%E2%80%9CWe%20hold%20these%20truths%20to,the%20firmament%20sheweth%20his%20handywork",
+              "indices": [
+                84,
+                107
+              ],
+              "url": "https://t.co/3PJpG3X6iD"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "715735789217259524",
+              "indices": [
+                0,
+                15
+              ],
+              "name": "Sircorky",
+              "screen_name": "purebredslappy"
+            },
+            {
+              "id_str": "1707455131912949760",
+              "indices": [
+                16,
+                27
+              ],
+              "name": "WASP Weeaboo",
+              "screen_name": "BigYehudah"
+            },
+            {
+              "id_str": "44196397",
+              "indices": [
+                28,
+                37
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": []
+        },
+        "user_info": {
+          "screen_name": "MarkoRadojevich",
+          "name": "Marko Radojevich 🇨🇦🍁🐿🦫",
+          "created_at": "Thu Apr 28 20:39:55 +0000 2022",
+          "description": null,
+          "rest_id": "1519778312268177409",
+          "followers_count": 1423,
+          "favorites_count": 100693,
+          "avatar": "https://pbs.twimg.com/profile_images/1877428634119548928/f6gYhrZo_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": "Toronto, Ontario"
+        },
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/GoM5MVSXcAAcsPt.jpg",
+              "id": "1910433550970613760",
+              "sizes": {
+                "h": 480,
+                "w": 480
+              }
+            },
+            {
+              "media_url_https": "https://pbs.twimg.com/media/GoM5MVEW0AA3fU8.jpg",
+              "id": "1910433550911852544",
+              "sizes": {
+                "h": 400,
+                "w": 850
+              }
+            },
+            {
+              "media_url_https": "https://pbs.twimg.com/media/GoM5McoWIAAxmTE.jpg",
+              "id": "1910433552941850624",
+              "sizes": {
+                "h": 1200,
+                "w": 707
+              }
+            },
+            {
+              "media_url_https": "https://pbs.twimg.com/media/GoM5MhgWcAA_6Da.jpg",
+              "id": "1910433554250493952",
+              "sizes": {
+                "h": 1200,
+                "w": 752
+              }
+            }
+          ]
+        },
+        "in_reply_to_screen_name": "purebredslappy",
+        "in_reply_to_status_id_str": "1910404079571919210",
+        "in_reply_to_user_id_str": "715735789217259524"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1879888715700637862",
+        "screen_name": "Romans8Shaman",
+        "bookmarks": 0,
+        "favorites": 3,
+        "created_at": "Thu Jan 16 13:49:31 +0000 2025",
+        "text": "@bcmayy @elonmusk SCOTUS found the Constitution unconstitutional. That's what we call a coup.",
+        "lang": "en",
+        "display_text_range": [
+          18,
+          93
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 1,
+        "conversation_id": "1808168603721650364",
+        "retweets": 1,
+        "views": "72",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "2245861918",
+              "indices": [
+                0,
+                7
+              ],
+              "name": "Cole May",
+              "screen_name": "bcmayy"
+            },
+            {
+              "id_str": "44196397",
+              "indices": [
+                8,
+                17
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "Romans8Shaman",
+          "name": "Elfworld Animist | Dominion Mandate Aesthetics",
+          "created_at": "Fri Aug 10 15:00:40 +0000 2018",
+          "description": null,
+          "rest_id": "1027932752308563968",
+          "followers_count": 3535,
+          "favorites_count": 403917,
+          "avatar": "https://pbs.twimg.com/profile_images/2092486699313930240/4ozdaGnB_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": [],
+        "in_reply_to_screen_name": "bcmayy",
+        "in_reply_to_status_id_str": "1879882605719638371",
+        "in_reply_to_user_id_str": "2245861918"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1823703935615689180",
+        "screen_name": "jcdav",
+        "bookmarks": 0,
+        "favorites": 1,
+        "created_at": "Wed Aug 14 12:51:15 +0000 2024",
+        "text": "@elonmusk @Lew541207 They have lost control of The Narrative and it is driving them mad.",
+        "lang": "en",
+        "display_text_range": [
+          21,
+          88
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "15",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "1708681653441159168",
+              "indices": [
+                10,
+                20
+              ],
+              "name": "Grandpa Lew",
+              "screen_name": "Lew541207"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "jcdav",
+          "name": "JC",
+          "created_at": "Thu Dec 18 05:03:16 +0000 2008",
+          "description": null,
+          "rest_id": "18209314",
+          "followers_count": 6463,
+          "favorites_count": 133893,
+          "avatar": "https://pbs.twimg.com/profile_images/1160032249280126976/_Pri-yaw_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "Rocky Mountains"
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1823694566257537337",
+        "screen_name": "GHHILL1911",
+        "bookmarks": 0,
+        "favorites": 3,
+        "created_at": "Wed Aug 14 12:14:01 +0000 2024",
+        "text": "@elonmusk The First Amendment is doing exactly what it was designed to do.",
+        "lang": "en",
+        "display_text_range": [
+          10,
+          74
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "48",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "GHHILL1911",
+          "name": "GH HILL",
+          "created_at": "Tue Feb 08 00:22:48 +0000 2022",
+          "description": null,
+          "rest_id": "1490843478078668804",
+          "followers_count": 4195,
+          "favorites_count": 175093,
+          "avatar": "https://pbs.twimg.com/profile_images/2092986781545246720/GMUPTjha_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "South Carolina, USA"
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1823569812800389126",
+        "screen_name": "Jacquel01920361",
+        "bookmarks": 0,
+        "favorites": 2,
+        "created_at": "Wed Aug 14 03:58:18 +0000 2024",
+        "text": "@elonmusk @sep16000 Well, the first amendment isn’t what’s  out of control  It’s corruption that got out of control  because it got bought out by those that committed treason and played by communist that infiltrated by means of espionage that sabotaged our whole  system to take our freedoms away.",
+        "lang": "en",
+        "display_text_range": [
+          20,
+          297
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 1,
+        "conversation_id": "1808168603721650364",
+        "retweets": 2,
+        "views": "39",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "1659248518219825165",
+              "indices": [
+                10,
+                19
+              ],
+              "name": "sep16000",
+              "screen_name": "sep16000"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "Jacquel01920361",
+          "name": "JT",
+          "created_at": "Wed Sep 08 21:30:32 +0000 2021",
+          "description": null,
+          "rest_id": "1435716903637602305",
+          "followers_count": 3792,
+          "favorites_count": 112081,
+          "avatar": "https://pbs.twimg.com/profile_images/1609592775745347585/eHr0Y3Ot_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "College Station, TX"
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1823557785084113107",
+        "screen_name": "Stephotollc",
+        "bookmarks": 0,
+        "favorites": 1,
+        "created_at": "Wed Aug 14 03:10:30 +0000 2024",
+        "text": "@DebIllsley @elonmusk You are so sweet!!! I'm almost 50 but love that you think I'm younger! I'll take it! 🥰",
+        "lang": "en",
+        "display_text_range": [
+          22,
+          108
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "10",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1586466318458535939",
+              "indices": [
+                0,
+                11
+              ],
+              "name": "Deb",
+              "screen_name": "DebIllsley"
+            },
+            {
+              "id_str": "44196397",
+              "indices": [
+                12,
+                21
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "Stephotollc",
+          "name": "Steffie Cakes",
+          "created_at": "Mon Sep 11 17:12:06 +0000 2017",
+          "description": null,
+          "rest_id": "907290667621253121",
+          "followers_count": 4471,
+          "favorites_count": 325634,
+          "avatar": "https://pbs.twimg.com/profile_images/1392669591294316544/t-nRD0Z8_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": "Probably in my yard"
+        },
+        "media": [],
+        "in_reply_to_screen_name": "DebIllsley",
+        "in_reply_to_status_id_str": "1823555145247953350",
+        "in_reply_to_user_id_str": "1586466318458535939"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1823546178648334829",
+        "screen_name": "JohnGarciaDH",
+        "bookmarks": 0,
+        "favorites": 1,
+        "created_at": "Wed Aug 14 02:24:23 +0000 2024",
+        "text": "@elonmusk @Shoebensr https://t.co/8LjJO6YmDg",
+        "lang": "qme",
+        "display_text_range": [
+          20,
+          20
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 0,
+        "sensitive": false,
+        "replies": 1,
+        "conversation_id": "1808168603721650364",
+        "retweets": 1,
+        "views": "18",
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/8LjJO6YmDg",
+              "expanded_url": "https://x.com/JohnGarciaDH/status/1823546178648334829/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "id_str": "1823546177054253056",
+              "indices": [
+                21,
+                44
+              ],
+              "media_key": "3_1823546177054253056",
+              "media_results": {
+                "result": {
+                  "media_key": "3_1823546177054253056"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GU6JliLXIAA0I9d.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 538,
+                    "w": 960,
+                    "x": 0,
+                    "y": 420
+                  },
+                  {
+                    "h": 958,
+                    "w": 958,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 958,
+                    "w": 840,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 958,
+                    "w": 479,
+                    "x": 73,
+                    "y": 0
+                  },
+                  {
+                    "h": 958,
+                    "w": 960,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 958,
+                "width": 960
+              },
+              "sizes": {
+                "large": {
+                  "h": 958,
+                  "resize": "fit",
+                  "w": 960
+                },
+                "medium": {
+                  "h": 958,
+                  "resize": "fit",
+                  "w": 960
+                },
+                "small": {
+                  "h": 679,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/8LjJO6YmDg"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "1589802163470999552",
+              "indices": [
+                10,
+                20
+              ],
+              "name": "Shoeben",
+              "screen_name": "Shoebensr"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "JohnGarciaDH",
+          "name": "PIMP NAMED SLICKBACK",
+          "created_at": "Sat Mar 02 23:03:26 +0000 2019",
+          "description": null,
+          "rest_id": "1101981365354913792",
+          "followers_count": 5085,
+          "favorites_count": 44762,
+          "avatar": "https://pbs.twimg.com/profile_images/2065475419957030912/nrgrlgHI_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": "Aguadilla, Puerto Rico"
+        },
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/GU6JliLXIAA0I9d.jpg",
+              "id": "1823546177054253056",
+              "sizes": {
+                "h": 958,
+                "w": 960
+              }
+            }
+          ]
+        },
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1823545230215487732",
+        "screen_name": "JeffBeck1962",
+        "bookmarks": 0,
+        "favorites": 2,
+        "created_at": "Wed Aug 14 02:20:37 +0000 2024",
+        "text": "@elonmusk @Caladonia11 Because YOUR freedom of speech is interfering with THEIR propaganda.",
+        "lang": "en",
+        "display_text_range": [
+          23,
+          91
+        ],
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "8",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "1348871314497548289",
+              "indices": [
+                10,
+                22
+              ],
+              "name": "Caladonia",
+              "screen_name": "Caladonia11"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "JeffBeck1962",
+          "name": "Jeff Beck 🇺🇸🦅🇺🇸",
+          "created_at": "Mon Mar 22 12:49:52 +0000 2021",
+          "description": null,
+          "rest_id": "1373980168016912384",
+          "followers_count": 8735,
+          "favorites_count": 64772,
+          "avatar": "https://pbs.twimg.com/profile_images/1823504860790317058/wZRP11oN_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "California, USA"
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1812962633626120621",
+        "screen_name": "LeeNelsonAuthor",
+        "bookmarks": 1,
+        "favorites": 5,
+        "created_at": "Mon Jul 15 21:29:09 +0000 2024",
+        "text": "@rfgeier @elonmusk 0bama had a law passed, allowing Propaganda by the govt and media.\nThey have gone all in to that.\nWe need to get that fixed in Trump's 2.0 term. https://t.co/uHmqaMx2Du",
+        "lang": "en",
+        "display_text_range": [
+          19,
+          163
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 0,
+        "sensitive": false,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 1,
+        "views": "57",
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/uHmqaMx2Du",
+              "expanded_url": "https://x.com/LeeNelsonAuthor/status/1812962633626120621/photo/1",
+              "ext_alt_text": "Sidious GIF",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "1812962627791806464",
+              "indices": [
+                164,
+                187
+              ],
+              "media_key": "16_1812962627791806464",
+              "media_results": {
+                "result": {
+                  "media_key": "16_1812962627791806464"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GSjv54yW4AA22Sq.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 278,
+                "width": 498
+              },
+              "sizes": {
+                "large": {
+                  "h": 278,
+                  "resize": "fit",
+                  "w": 498
+                },
+                "medium": {
+                  "h": 278,
+                  "resize": "fit",
+                  "w": 498
+                },
+                "small": {
+                  "h": 278,
+                  "resize": "fit",
+                  "w": 498
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "animated_gif",
+              "url": "https://t.co/uHmqaMx2Du",
+              "video_info": {
+                "aspect_ratio": [
+                  249,
+                  139
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/GSjv54yW4AA22Sq.mp4"
+                  }
+                ]
+              }
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "713349649",
+              "indices": [
+                0,
+                8
+              ],
+              "name": "Robert F. Geier",
+              "screen_name": "rfgeier"
+            },
+            {
+              "id_str": "44196397",
+              "indices": [
+                9,
+                18
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "LeeNelsonAuthor",
+          "name": "SciFi Action Author | Ceres 2525",
+          "created_at": "Sun Feb 09 01:21:57 +0000 2014",
+          "description": null,
+          "rest_id": "2334329594",
+          "followers_count": 30456,
+          "favorites_count": 260671,
+          "avatar": "https://pbs.twimg.com/profile_images/2051712166823178240/e0_nhDv-_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": "#AsteroidCeres"
+        },
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GSjv54yW4AA22Sq.jpg",
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/GSjv54yW4AA22Sq.mp4"
+                }
+              ],
+              "aspect_ratio": [
+                249,
+                139
+              ],
+              "duration": null,
+              "original_info": {
+                "focus_rects": [],
+                "height": 278,
+                "width": 498
+              },
+              "id": "1812962627791806464"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": "rfgeier",
+        "in_reply_to_status_id_str": "1808172949678985613",
+        "in_reply_to_user_id_str": "713349649"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1810444208014283250",
+        "screen_name": "MonaKnows2",
+        "bookmarks": 0,
+        "favorites": 0,
+        "created_at": "Mon Jul 08 22:41:50 +0000 2024",
+        "text": "Actually, @elonmusk , X seems to be attacking our freedom of speech with their new algorithm suppressing people, even verified users and subscribers, into “probable spam” when their comments are germane and with the reinstatement of GARM.\nTalk to us, @elonmusk, what is really going on?",
+        "lang": "en",
+        "display_text_range": [
+          10,
+          286
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "40",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                10,
+                19
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "44196397",
+              "indices": [
+                251,
+                260
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ]
+        },
+        "user_info": {
+          "screen_name": "MonaKnows2",
+          "name": "MonaKnows",
+          "created_at": "Fri Oct 28 19:16:58 +0000 2022",
+          "description": null,
+          "rest_id": "1586074478035042304",
+          "followers_count": 9635,
+          "favorites_count": 114676,
+          "avatar": "https://pbs.twimg.com/profile_images/1775700441017311232/pOTB4i1A_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "USA"
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1810219598928646357",
+        "screen_name": "bellmardesigns",
+        "bookmarks": 0,
+        "favorites": 0,
+        "created_at": "Mon Jul 08 07:49:19 +0000 2024",
+        "text": "@evildojo666 @felpix_ @goddek @elonmusk Actually it’s very American, just saying free speech is out of control is using that same free speech to voice your opinion without fear of government . \n\nJust as your opinion that it’s un American is also that same free speech. \n\nA concept the right just doesn’t get.",
+        "lang": "en",
+        "display_text_range": [
+          40,
+          308
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 1,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "16",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1362236248379817989",
+              "indices": [
+                0,
+                12
+              ],
+              "name": "darkmage",
+              "screen_name": "evildojo666"
+            },
+            {
+              "id_str": "824004145367629824",
+              "indices": [
+                13,
+                21
+              ],
+              "name": "felpix",
+              "screen_name": "felpix_"
+            },
+            {
+              "id_str": "1224185690713460736",
+              "indices": [
+                22,
+                29
+              ],
+              "name": "",
+              "screen_name": "goddek"
+            },
+            {
+              "id_str": "44196397",
+              "indices": [
+                30,
+                39
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "bellmardesigns",
+          "name": "Margie O. 🌊💙 💜🕯️",
+          "created_at": "Tue Jan 14 19:44:59 +0000 2014",
+          "description": null,
+          "rest_id": "2291608788",
+          "followers_count": 474,
+          "favorites_count": 22112,
+          "avatar": "https://pbs.twimg.com/profile_images/1906377308203536384/CsC9JyFy_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": "Works from home"
+        },
+        "media": [],
+        "in_reply_to_screen_name": "evildojo666",
+        "in_reply_to_status_id_str": "1809619259028566048",
+        "in_reply_to_user_id_str": "1362236248379817989"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809979098946810146",
+        "screen_name": "AurelianZiz",
+        "bookmarks": 0,
+        "favorites": 1,
+        "created_at": "Sun Jul 07 15:53:39 +0000 2024",
+        "text": "@elonmusk Out of their control* 😂",
+        "lang": "en",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "9",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "AurelianZiz",
+          "name": "Austin Zizzi",
+          "created_at": "Tue Jan 13 16:40:04 +0000 2015",
+          "description": null,
+          "rest_id": "2976713435",
+          "followers_count": 207,
+          "favorites_count": 26923,
+          "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809609445330284687",
+        "screen_name": "sherriejoneu",
+        "bookmarks": 0,
+        "favorites": 1,
+        "created_at": "Sat Jul 06 15:24:47 +0000 2024",
+        "text": "@elonmusk @Michael59749867 I don’t even read their crap!  I know which side they are on!",
+        "lang": "en",
+        "display_text_range": [
+          27,
+          88
+        ],
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "10",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "1518680879702360067",
+              "indices": [
+                10,
+                26
+              ],
+              "name": "Death2Lberalism",
+              "screen_name": "Michael59749867"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "sherriejoneu",
+          "name": "Sherrie-Jo Neu",
+          "created_at": "Fri Oct 28 22:14:09 +0000 2022",
+          "description": null,
+          "rest_id": "1586118877070721027",
+          "followers_count": 12291,
+          "favorites_count": 45285,
+          "avatar": "https://pbs.twimg.com/profile_images/1586119809586036738/at275Llg_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809527091769065734",
+        "screen_name": "Giampier601",
+        "bookmarks": 0,
+        "favorites": 1,
+        "created_at": "Sat Jul 06 09:57:32 +0000 2024",
+        "text": "@GuzziPirelli @Roxy21Mi @elonmusk @alex_orlowski Talmente inclusivo che includo volentieri nel blocco che riservo solo a pochi dementi!",
+        "lang": "it",
+        "display_text_range": [
+          49,
+          135
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "59",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "949280015652413445",
+              "indices": [
+                0,
+                13
+              ],
+              "name": "No, non dire gatto se non ce l'hai nel sacco🙀💰",
+              "screen_name": "GuzziPirelli"
+            },
+            {
+              "id_str": "1013151366",
+              "indices": [
+                14,
+                23
+              ],
+              "name": "🇺🇦🌺Roxy🌺🇺🇦",
+              "screen_name": "Roxy21Mi"
+            },
+            {
+              "id_str": "44196397",
+              "indices": [
+                24,
+                33
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "55862897",
+              "indices": [
+                34,
+                48
+              ],
+              "name": "Alex Orlowski",
+              "screen_name": "alex_orlowski"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "Giampier601",
+          "name": "Giamp60🇪🇺 #facciamorete #FBPE #OC🌊",
+          "created_at": "Sat Feb 10 17:55:39 +0000 2018",
+          "description": null,
+          "rest_id": "962384581726015488",
+          "followers_count": 857,
+          "favorites_count": 81458,
+          "avatar": "https://pbs.twimg.com/profile_images/980726549954605056/PQYr42ab_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": [],
+        "in_reply_to_screen_name": "GuzziPirelli",
+        "in_reply_to_status_id_str": "1809518999622852928",
+        "in_reply_to_user_id_str": "949280015652413445"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809424843818913873",
+        "screen_name": "ddmau48",
+        "bookmarks": 0,
+        "favorites": 1,
+        "created_at": "Sat Jul 06 03:11:14 +0000 2024",
+        "text": "@elonmusk @ElonMusk25467 Please don't get your panties in an uproar, It's the NEWYORK TIMES . One seriously has to consider the source  !",
+        "lang": "en",
+        "display_text_range": [
+          25,
+          137
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "9",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "1764637180457103360",
+              "indices": [
+                10,
+                24
+              ],
+              "name": "Elon Musk",
+              "screen_name": "ElonMusk25467"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "ddmau48",
+          "name": "DD Mau",
+          "created_at": "Mon Mar 06 23:26:24 +0000 2023",
+          "description": null,
+          "rest_id": "1632885152346001408",
+          "followers_count": 816,
+          "favorites_count": 14012,
+          "avatar": "https://pbs.twimg.com/profile_images/1766338114711085056/FHzQ9R2-_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809355933539267002",
+        "screen_name": "armchairviewnet",
+        "bookmarks": 0,
+        "favorites": 0,
+        "created_at": "Fri Jul 05 22:37:25 +0000 2024",
+        "text": "@elonmusk You're abusing the first amendment to push disinformation.",
+        "lang": "en",
+        "display_text_range": [
+          10,
+          68
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "14",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "armchairviewnet",
+          "name": "armchairview",
+          "created_at": "Thu Feb 16 00:05:54 +0000 2017",
+          "description": null,
+          "rest_id": "832018129068888064",
+          "followers_count": 2631,
+          "favorites_count": 138279,
+          "avatar": "https://pbs.twimg.com/profile_images/832020302104260608/XzdPsCYc_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809332246089986457",
+        "screen_name": "Giampier601",
+        "bookmarks": 0,
+        "favorites": 2,
+        "created_at": "Fri Jul 05 21:03:17 +0000 2024",
+        "text": "@Roxy21Mi @GuzziPirelli @elonmusk @alex_orlowski Hai ragione, ho visto, ma a volte mi diverto a punzecchiare, anche se hai ragione, non dovrei dare visibilità e bloccare.",
+        "lang": "it",
+        "display_text_range": [
+          49,
+          170
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 1,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "21",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1013151366",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "🇺🇦🌺Roxy🌺🇺🇦",
+              "screen_name": "Roxy21Mi"
+            },
+            {
+              "id_str": "949280015652413445",
+              "indices": [
+                10,
+                23
+              ],
+              "name": "No, non dire gatto se non ce l'hai nel sacco🙀💰",
+              "screen_name": "GuzziPirelli"
+            },
+            {
+              "id_str": "44196397",
+              "indices": [
+                24,
+                33
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            {
+              "id_str": "55862897",
+              "indices": [
+                34,
+                48
+              ],
+              "name": "Alex Orlowski",
+              "screen_name": "alex_orlowski"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "Giampier601",
+          "name": "Giamp60🇪🇺 #facciamorete #FBPE #OC🌊",
+          "created_at": "Sat Feb 10 17:55:39 +0000 2018",
+          "description": null,
+          "rest_id": "962384581726015488",
+          "followers_count": 857,
+          "favorites_count": 81458,
+          "avatar": "https://pbs.twimg.com/profile_images/980726549954605056/PQYr42ab_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": [],
+        "in_reply_to_screen_name": "Roxy21Mi",
+        "in_reply_to_status_id_str": "1809329754434072854",
+        "in_reply_to_user_id_str": "1013151366"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809274645788651914",
+        "screen_name": "wdunlap",
+        "bookmarks": 0,
+        "favorites": 0,
+        "created_at": "Fri Jul 05 17:14:24 +0000 2024",
+        "text": "@2newhope3 newhope, please offer some examples of what you are experiencing",
+        "lang": "en",
+        "display_text_range": [
+          11,
+          75
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 1,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "5",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1379236477654102016",
+              "indices": [
+                0,
+                10
+              ],
+              "name": "newtime",
+              "screen_name": "2newhope3"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "wdunlap",
+          "name": "Wayne Dunlap",
+          "created_at": "Fri Oct 03 22:36:05 +0000 2008",
+          "description": null,
+          "rest_id": "16585184",
+          "followers_count": 257044,
+          "favorites_count": 264434,
+          "avatar": "https://pbs.twimg.com/profile_images/640587218000568320/wQtpRikN_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "Cardiff-by-the-Sea, California"
+        },
+        "media": [],
+        "in_reply_to_screen_name": "2newhope3",
+        "in_reply_to_status_id_str": "1809042148995838113",
+        "in_reply_to_user_id_str": "1379236477654102016"
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809274381396504862",
+        "screen_name": "wdunlap",
+        "bookmarks": 0,
+        "favorites": 0,
+        "created_at": "Fri Jul 05 17:13:21 +0000 2024",
+        "text": "@GuillermoFabiP @elonmusk Guillermo, you hate free speech?",
+        "lang": "en",
+        "display_text_range": [
+          26,
+          58
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "31",
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "44196397",
+              "indices": [
+                16,
+                25
+              ],
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            }
+          ],
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": []
+        },
+        "user_info": {
+          "screen_name": "wdunlap",
+          "name": "Wayne Dunlap",
+          "created_at": "Fri Oct 03 22:36:05 +0000 2008",
+          "description": null,
+          "rest_id": "16585184",
+          "followers_count": 257044,
+          "favorites_count": 264434,
+          "avatar": "https://pbs.twimg.com/profile_images/640587218000568320/wQtpRikN_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": true,
+          "friends_count": null,
+          "location": "Cardiff-by-the-Sea, California"
+        },
+        "media": []
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1809217256141779190",
+        "screen_name": "Voice4Peace1889",
+        "bookmarks": 0,
+        "favorites": 0,
+        "created_at": "Fri Jul 05 13:26:22 +0000 2024",
+        "text": "米津さんのJUNKツアーの申し込みの参考までに各会場の最大キャパです！\nあくまで最大キャパなので実際はもっと少ない可能性もある #ningning #Butterbear #KARINA #karin\n #米津玄師  #LOSTCORNER  #米津玄師2025TOUR_JUNK\nGood Evening \n＃ストグラ\n#tdr_now  #teen #paobc\nドル円急落  #TDR_now |\n#TDR_now #nature #ningning #BUTTERBEAR #karina",
+        "lang": "ja",
+        "display_text_range": [
+          10,
+          211
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "quotes": 0,
+        "sensitive": null,
+        "replies": 0,
+        "conversation_id": "1808168603721650364",
+        "retweets": 0,
+        "views": "996",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                64,
+                73
+              ],
+              "text": "ningning"
+            },
+            {
+              "indices": [
+                74,
+                85
+              ],
+              "text": "Butterbear"
+            },
+            {
+              "indices": [
+                86,
+                93
+              ],
+              "text": "KARINA"
+            },
+            {
+              "indices": [
+                94,
+                100
+              ],
+              "text": "karin"
+            },
+            {
+              "indices": [
+                102,
+                107
+              ],
+              "text": "米津玄師"
+            },
+            {
+              "indices": [
+                109,
+                120
+              ],
+              "text": "LOSTCORNER"
+            },
+            {
+              "indices": [
+                122,
+                140
+              ],
+              "text": "米津玄師2025TOUR_JUNK"
+            },
+            {
+              "indices": [
+                155,
+                160
+              ],
+              "text": "ストグラ"
+            },
+            {
+              "indices": [
+                161,
+                169
+              ],
+              "text": "tdr_now"
+            },
+            {
+              "indices": [
+                171,
+                176
+              ],
+              "text": "teen"
+            },
+            {
+              "indices": [
+                177,
+                183
+              ],
+              "text": "paobc"
+            },
+            {
+              "indices": [
+                191,
+                199
+              ],
+              "text": "TDR_now"
+            },
+            {
+              "indices": [
+                202,
+                210
+              ],
+              "text": "TDR_now"
+            },
+            {
+              "indices": [
+                211,
+                218
+              ],
+              "text": "nature"
+            },
+            {
+              "indices": [
+                219,
+                228
+              ],
+              "text": "ningning"
+            },
+            {
+              "indices": [
+                229,
+                240
+              ],
+              "text": "BUTTERBEAR"
+            },
+            {
+              "indices": [
+                241,
+                248
+              ],
+              "text": "karina"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "user_info": {
+          "screen_name": "Voice4Peace1889",
+          "name": "Voice4Peace1889",
+          "created_at": "Mon Sep 22 14:06:28 +0000 2014",
+          "description": null,
+          "rest_id": "2826475465",
+          "followers_count": 130420,
+          "favorites_count": 128118,
+          "avatar": "https://pbs.twimg.com/profile_images/1797865820632018944/WkgVvVwB_normal.jpg",
+          "url": null,
+          "cover_image": null,
+          "verified_type": null,
+          "verified": false,
+          "friends_count": null,
+          "location": ""
+        },
+        "media": [],
+        "in_reply_to_screen_name": "elonmusk",
+        "in_reply_to_status_id_str": "1808168603721650364",
+        "in_reply_to_user_id_str": "44196397"
+      }
+    ],
+    "next_cursor": "DAADDAABCgABGoM5MqnWoLoKAAIZG6GCQdZw9gAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUdGxXH_UAnEAoABh0bFcf9P9jwCwAHAAAA8EVtUEM2d0FBQWZRL2dHSk4wdkdwL0FBQUFCUVpIQW9YY05weG1Sa2NYazhIbDlCUkdVNmZGVU1Yd0FZWlR4Q0xzSmN4T1JrZVZtYWJtekVpR1U2SXVhN2FJUFFaRzlXMFUxcHhpaGtjSDZLYTJuRzZHUjh4SWwrWGtOVVpILzFxUUZyUjhoa2IxWGJFV25FZUdVNkpsb0hhNGUwYUZyVFRySm9RcGhsUEdSRXAydUhjR1U2VUpOZFdNTk1aSEx0TmZGZEJCaGtkQmpQckduQ1BHU2p2Nk9oWGNhMGFnemt5cWRhZ3Voa2JvWUpCMW5EMgAA",
+    "prev_cursor": "DAADDAABCgABGoM5MqnWoLoKAAIZG6GCQdZw9gAIAAIAAAABCAADAAAAAAgABAAAAAAKAAUdGxXH_UAnEAoABh0bFcf9P9jwCwAHAAAA8EVtUEM2d0FBQWZRL2dHSk4wdkdwL0FBQUFCUVpIQW9YY05weG1Sa2NYazhIbDlCUkdVNmZGVU1Yd0FZWlR4Q0xzSmN4T1JrZVZtYWJtekVpR1U2SXVhN2FJUFFaRzlXMFUxcHhpaGtjSDZLYTJuRzZHUjh4SWwrWGtOVVpILzFxUUZyUjhoa2IxWGJFV25FZUdVNkpsb0hhNGUwYUZyVFRySm9RcGhsUEdSRXAydUhjR1U2VUpOZFdNTk1aSEx0TmZGZEJCaGtkQmpQckduQ1BHU2p2Nk9oWGNhMGFnemt5cWRhZ3Voa2JvWUpCMW5EMgAA"
+  },
+  "recordTime": null
+}

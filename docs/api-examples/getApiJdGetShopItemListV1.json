@@ -1,0 +1,136 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:33.886242+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:12",
+  "code": 0,
+  "message": null,
+  "data": {
+    "shopId": "1000001934",
+    "venderId": "1000001934",
+    "shopName": "好奇京东自营旗舰店",
+    "totalResults": 303,
+    "TotalPage": 13,
+    "ItemList": [
+      {
+        "itemId": "100007023725",
+        "title": "散热口碑|好奇小桃裤拉拉裤XXL74",
+        "link": "https://item.jd.com/100007023725.html"
+      },
+      {
+        "itemId": "7080304",
+        "title": "散热口碑|好奇小桃裤拉拉裤L120",
+        "link": "https://item.jd.com/7080304.html"
+      },
+      {
+        "itemId": "100172018276",
+        "title": "散热口碑|好奇小桃裤拉拉裤3XL64",
+        "link": "https://item.jd.com/100172018276.html"
+      },
+      {
+        "itemId": "100003198451",
+        "title": "速干不易红|好奇金装拉拉裤XL96",
+        "link": "https://item.jd.com/100003198451.html"
+      },
+      {
+        "itemId": "100014968100",
+        "title": "速干不易红|好奇金装拉拉裤XXL74",
+        "link": "https://item.jd.com/100014968100.html"
+      },
+      {
+        "itemId": "100134777892",
+        "title": "速干不易红|好奇金装拉拉裤3XL58",
+        "link": "https://item.jd.com/100134777892.html"
+      },
+      {
+        "itemId": "100079117642",
+        "title": "速干不易红|好奇金装拉拉裤2XL84",
+        "link": "https://item.jd.com/100079117642.html"
+      },
+      {
+        "itemId": "100236474612",
+        "title": "速干不易红|好奇金装拉拉裤4X24",
+        "link": "https://item.jd.com/100236474612.html"
+      },
+      {
+        "itemId": "1271289",
+        "title": "散热口碑|好奇小桃裤纸尿裤NB84",
+        "link": "https://item.jd.com/1271289.html"
+      },
+      {
+        "itemId": "1103187",
+        "title": "散热口碑王|好奇小桃裤纸尿裤S96",
+        "link": "https://item.jd.com/1103187.html"
+      },
+      {
+        "itemId": "100193665868",
+        "title": "散热口碑王|好奇小桃裤纸尿裤M72",
+        "link": "https://item.jd.com/100193665868.html"
+      },
+      {
+        "itemId": "100222162910",
+        "title": "速干不易红|好奇金装拉拉裤XXL33",
+        "link": "https://item.jd.com/100222162910.html"
+      },
+      {
+        "itemId": "100155161107",
+        "title": "好奇深睡大师纸尿裤S码4片",
+        "link": "https://item.jd.com/100155161107.html"
+      },
+      {
+        "itemId": "100063091303",
+        "title": "透氧顶配|好奇小森林纸尿裤NB30",
+        "link": "https://item.jd.com/100063091303.html"
+      },
+      {
+        "itemId": "100011491977",
+        "title": "透氧顶配|好奇小森林纸尿裤S28",
+        "link": "https://item.jd.com/100011491977.html"
+      },
+      {
+        "itemId": "100021826492",
+        "title": "透氧顶配|好奇小森林纸尿裤M22",
+        "link": "https://item.jd.com/100021826492.html"
+      },
+      {
+        "itemId": "100276998145",
+        "title": "软糯贴贴|好奇柯基拉拉裤4XL22",
+        "link": "https://item.jd.com/100276998145.html"
+      },
+      {
+        "itemId": "100208146931",
+        "title": "透氧顶配|好奇小森林纸尿裤S52",
+        "link": "https://item.jd.com/100208146931.html"
+      },
+      {
+        "itemId": "100020438483",
+        "title": "好奇心钻小森林纸尿裤M4片",
+        "link": "https://item.jd.com/100020438483.html"
+      },
+      {
+        "itemId": "100171882461",
+        "title": "速干不易红|好奇金装纸尿裤L40",
+        "link": "https://item.jd.com/100171882461.html"
+      },
+      {
+        "itemId": "100024157732",
+        "title": "软糯贴贴|好奇柯基拉拉裤XL28",
+        "link": "https://item.jd.com/100024157732.html"
+      },
+      {
+        "itemId": "100208146935",
+        "title": "透氧顶配|好奇小森林纸尿裤NB56",
+        "link": "https://item.jd.com/100208146935.html"
+      },
+      {
+        "itemId": "100208146943",
+        "title": "透氧顶配|好奇小森林拉拉裤3XL24",
+        "link": "https://item.jd.com/100208146943.html"
+      },
+      {
+        "itemId": "100208146937",
+        "title": "透氧顶配|好奇小森林纸尿裤M42",
+        "link": "https://item.jd.com/100208146937.html"
+      }
+    ]
+  },
+  "recordTime": null
+}

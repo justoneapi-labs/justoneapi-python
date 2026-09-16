@@ -1,0 +1,711 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:37.156653+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:15",
+  "code": 0,
+  "message": null,
+  "data": {
+    "ret": 0,
+    "msg": "",
+    "item": {
+      "appid": "sphiecuDcvQu4bf",
+      "nickname": "硬核资本论",
+      "avatar": "https://wx.qlogo.cn/finderhead/wr8BQcCCxwicqzianhSuHicTk5zqDnTjlvk5wgNB0BNp8EmO3zIJ3XTMlOO67DgoYTyg5o2dm3b5K4/0",
+      "short_video_price_deprecated": 0,
+      "long_video_price_deprecated": 0,
+      "fans_num_level": "500万+",
+      "category_level1": 25,
+      "category_level2": 25006,
+      "city_label": "广州市",
+      "plus_v": 0,
+      "auth_profession": "财经自媒体",
+      "auth_company": "",
+      "release_date": "2026-08-05",
+      "synopsis": "全网超千万财经博主，资深自媒体从业者，洞悉互联网流量的玩法，懂商业懂经济，能结合当下热点最大程度给品牌进行深度曝光和提升品牌形象，商务微信tkg405060",
+      "qr_code": "https://weixin.qq.com/f/ELEQbuvbdfiKIJCCc6-XlQY",
+      "avg_read_count": "610万+",
+      "avg_like_count": "1万以上",
+      "view_id": "",
+      "tags": [
+        10742,
+        10737,
+        10142,
+        10328,
+        108,
+        106,
+        10320,
+        11084,
+        10013,
+        10009,
+        10029,
+        10910,
+        10851,
+        10852,
+        10856,
+        10858,
+        10859,
+        10860,
+        10863,
+        10866,
+        10877,
+        10906,
+        10799,
+        10914,
+        10917,
+        10934,
+        10937,
+        10941,
+        10980,
+        10989,
+        10996,
+        11003,
+        10332,
+        10393,
+        10365,
+        10369,
+        10370,
+        10371,
+        10378,
+        10379,
+        10383,
+        10388,
+        10390,
+        10391,
+        10364,
+        10398,
+        10399,
+        10400,
+        10418,
+        10441,
+        10442,
+        10443,
+        10363,
+        10331
+      ],
+      "median_read_count": "540万+",
+      "expected_cpm": 5169,
+      "interaction_rate": 478,
+      "play_finish_rate": 550,
+      "fans_num_increment": "2万~5万",
+      "fans_num_growth_rate": 66,
+      "avg_interaction_count": "20万+",
+      "short_video_price": "28000000",
+      "long_video_price": "30000000",
+      "contact_info": {
+        "phone": "",
+        "wechat": "",
+        "email": "",
+        "contact_name": "",
+        "can_show_wxname": 1,
+        "can_show_email": 1,
+        "can_show_phone": 0,
+        "can_call_virtual_phone": 1,
+        "call_virtual_phone_agreement_status": 1
+      },
+      "score": 0,
+      "recall_type": 0,
+      "fans_num_growth_range": "<5%",
+      "ader_short_video_price": "29400000",
+      "ader_long_video_price": "31500000",
+      "proceeding_order_count": "",
+      "recent_changed_price": 1,
+      "propagation_index": 7369,
+      "social_interaction_index": 7414,
+      "cooperation_index": 7440,
+      "cost_effectiveness_index": 7141,
+      "short_video_addition_fee_list": [],
+      "long_video_addition_fee_list": [],
+      "mcn_id": 0,
+      "mcn_name": "禾青文化",
+      "is_post_video_15d": 1,
+      "index_composite": "84.1",
+      "index_content": "99.0",
+      "index_cooperation": "85.4",
+      "index_cost": "87.6",
+      "index_growth": "63.5",
+      "index_social": "84.7",
+      "index_category_content": "34.3",
+      "index_category_cooperation": "<30",
+      "index_category_cost": "43.3",
+      "index_category_growth": "49.5",
+      "index_category_social": "37.6",
+      "index_category_content_rank": "前1%",
+      "index_category_cooperation_rank": "前1%",
+      "index_category_cost_rank": "前5%",
+      "index_category_growth_rank": "前50%",
+      "index_category_social_rank": "前1%",
+      "index_compare_content": "+0.0%",
+      "index_compare_cooperation": "-2.4%",
+      "index_compare_cost": "+2.4%",
+      "index_compare_growth": "+0.9%",
+      "index_compare_social": "+0.1%",
+      "identity_type": "",
+      "identity_level1": "",
+      "identity_level2": "",
+      "semantic_match_type": 0,
+      "semantic_match_content": [],
+      "semantic_match_video": [],
+      "finder_sex": 1,
+      "video_content_types": [],
+      "common_status": 0,
+      "more_data": {},
+      "avg_heart_pv": "7万+",
+      "avg_fav_pv": "10万+",
+      "avg_share_pv": "10万+",
+      "avg_comment_pv": "2435",
+      "order_avg_read_count": "510万+",
+      "order_avg_median_read_count": "500万+",
+      "order_cpm": 4745,
+      "order_interaction_rate": 156,
+      "order_play_finish_rate": 127,
+      "order_avg_heart_pv": "2万+",
+      "order_avg_fav_pv": "3万+",
+      "order_avg_share_pv": "2万+",
+      "order_avg_comment_pv": "643",
+      "play_finish_rate_pct_rk": 1472,
+      "interaction_rate_pct_rk": 9012,
+      "fans_num_growth_rate_pct_rk": 5004,
+      "invite_contact_info_list": [
+        {
+          "invite_contact_type": 1,
+          "invite_contact_status": 0
+        },
+        {
+          "invite_contact_type": 3,
+          "invite_contact_status": 0
+        }
+      ],
+      "top_phone_brand": "苹果",
+      "top_phone_brand_rate": 2990,
+      "top_interest_name": "餐饮美食",
+      "top_interest_rate": 7450,
+      "expected_cpe": "95",
+      "order_interaction_count": "8万+",
+      "order_cnt": 32,
+      "like_rate": "0",
+      "share_rate": "0",
+      "aid_heart_rate": "0",
+      "aid_share_rate": "0",
+      "aid_interaction_rate": "0",
+      "order_avg_cpm": "0",
+      "aid_avg_read_rate": 0,
+      "package_ids": "",
+      "cpm_price_info": null,
+      "if_superior": 1,
+      "live_combo_price": "0",
+      "order_top_cases": [],
+      "avg_like_recommend_vv": 594181.9,
+      "avg_like_uv": 463049.4,
+      "avg_share_stay_cnt": 105849.2,
+      "avg_forward_uv": 72127.9,
+      "social_index": 7.820344417020956,
+      "component_metrics": [
+        {
+          "category": "all",
+          "video_count": "8",
+          "click_avg": 7277.25,
+          "click_rate": 0.0023751616303649917
+        },
+        {
+          "category": "game",
+          "video_count": "0",
+          "click_avg": 0,
+          "click_rate": 0
+        },
+        {
+          "category": "net_service",
+          "video_count": "1",
+          "click_avg": 3826,
+          "click_rate": 0.0009700071064556178
+        }
+      ],
+      "live_commerce_data": null
+    },
+    "user_profile": {
+      "age": [
+        {
+          "label": "<18岁",
+          "value": 179
+        },
+        {
+          "label": ">50岁",
+          "value": 2567
+        },
+        {
+          "label": "25~29岁",
+          "value": 671
+        },
+        {
+          "label": "18~24岁",
+          "value": 436
+        },
+        {
+          "label": "40~49岁",
+          "value": 3322
+        },
+        {
+          "label": "30~39岁",
+          "value": 2824
+        }
+      ],
+      "gender": [
+        {
+          "label": "女性",
+          "value": 4919
+        },
+        {
+          "label": "男性",
+          "value": 5083
+        }
+      ],
+      "device": [
+        {
+          "label": "IOS",
+          "value": 3358
+        },
+        {
+          "label": "安卓",
+          "value": 6641
+        }
+      ],
+      "area": [
+        {
+          "label": "苏州市",
+          "value": 137
+        },
+        {
+          "label": "福州市",
+          "value": 102
+        },
+        {
+          "label": "天津市",
+          "value": 126
+        },
+        {
+          "label": "南京市",
+          "value": 105
+        },
+        {
+          "label": "重庆市",
+          "value": 181
+        },
+        {
+          "label": "杭州市",
+          "value": 184
+        },
+        {
+          "label": "深圳市",
+          "value": 412
+        },
+        {
+          "label": "广州市",
+          "value": 434
+        },
+        {
+          "label": "成都市",
+          "value": 225
+        },
+        {
+          "label": "昆明市",
+          "value": 101
+        },
+        {
+          "label": "郑州市",
+          "value": 138
+        },
+        {
+          "label": "青岛市",
+          "value": 101
+        },
+        {
+          "label": "西安市",
+          "value": 149
+        },
+        {
+          "label": "长沙市",
+          "value": 148
+        },
+        {
+          "label": "上海市",
+          "value": 405
+        },
+        {
+          "label": "海外",
+          "value": 256
+        },
+        {
+          "label": "武汉市",
+          "value": 180
+        },
+        {
+          "label": "北京市",
+          "value": 421
+        },
+        {
+          "label": "佛山市",
+          "value": 179
+        },
+        {
+          "label": "东莞市",
+          "value": 170
+        }
+      ],
+      "province": [
+        {
+          "label": "广东省",
+          "value": 1927
+        },
+        {
+          "label": "四川省",
+          "value": 440
+        },
+        {
+          "label": "北京市",
+          "value": 421
+        },
+        {
+          "label": "上海市",
+          "value": 405
+        },
+        {
+          "label": "湖南省",
+          "value": 379
+        },
+        {
+          "label": "浙江省",
+          "value": 569
+        },
+        {
+          "label": "江苏省",
+          "value": 583
+        },
+        {
+          "label": "福建省",
+          "value": 393
+        },
+        {
+          "label": "山东省",
+          "value": 549
+        },
+        {
+          "label": "河南省",
+          "value": 444
+        }
+      ],
+      "phone_brand": [
+        {
+          "label": "苹果",
+          "value": 2990
+        },
+        {
+          "label": "华为",
+          "value": 2250
+        },
+        {
+          "label": "荣耀",
+          "value": 1220
+        },
+        {
+          "label": "VIVO",
+          "value": 1080
+        },
+        {
+          "label": "小米",
+          "value": 1050
+        },
+        {
+          "label": "OPPO",
+          "value": 890
+        },
+        {
+          "label": "一加",
+          "value": 160
+        },
+        {
+          "label": "三星",
+          "value": 100
+        },
+        {
+          "label": "真我",
+          "value": 80
+        },
+        {
+          "label": "WIKO",
+          "value": 30
+        }
+      ],
+      "interest": [
+        {
+          "label": "餐饮美食",
+          "value": 7450
+        },
+        {
+          "label": "教育",
+          "value": 6850
+        },
+        {
+          "label": "交通",
+          "value": 5470
+        },
+        {
+          "label": "软件工具",
+          "value": 5310
+        },
+        {
+          "label": "家居家装",
+          "value": 4250
+        },
+        {
+          "label": "互联网电子产品",
+          "value": 4100
+        },
+        {
+          "label": "娱乐休闲",
+          "value": 4060
+        },
+        {
+          "label": "金融",
+          "value": 3690
+        },
+        {
+          "label": "服饰鞋帽箱包",
+          "value": 3489
+        },
+        {
+          "label": "美容/个护",
+          "value": 2760
+        },
+        {
+          "label": "游戏",
+          "value": 2170
+        },
+        {
+          "label": "内容资讯",
+          "value": 2010
+        },
+        {
+          "label": "孕产育儿",
+          "value": 1600
+        },
+        {
+          "label": "旅游",
+          "value": 1540
+        },
+        {
+          "label": "运动户外",
+          "value": 1530
+        },
+        {
+          "label": "医疗健康",
+          "value": 1290
+        },
+        {
+          "label": "生活服务",
+          "value": 820
+        },
+        {
+          "label": "图书",
+          "value": 160
+        },
+        {
+          "label": "房产",
+          "value": 20
+        }
+      ]
+    },
+    "near_videos": {
+      "avg_read_count": "<1万",
+      "top_read_count": "<1万",
+      "stat": [],
+      "avg_share_pv": "",
+      "top_share_pv": "",
+      "avg_fav_pv": "",
+      "top_fav_pv": "",
+      "avg_comment_pv": "",
+      "top_comment_pv": "",
+      "hot_read_percent": "",
+      "hot_like_percent": "",
+      "hot_share_percent": "",
+      "hot_fav_percent": "",
+      "hot_comment_percent": "",
+      "top_like_pv": "",
+      "avg_like_pv": "",
+      "personal_video_data": null,
+      "order_video_data": null
+    },
+    "viewer_profile": {
+      "age": [
+        {
+          "label": "30~39岁",
+          "value": 2301
+        },
+        {
+          "label": "25~29岁",
+          "value": 592
+        },
+        {
+          "label": "40~49岁",
+          "value": 2469
+        },
+        {
+          "label": "<18岁",
+          "value": 102
+        },
+        {
+          "label": ">50岁",
+          "value": 4043
+        },
+        {
+          "label": "18~24岁",
+          "value": 494
+        }
+      ],
+      "gender": [
+        {
+          "label": "男性",
+          "value": 4915
+        },
+        {
+          "label": "女性",
+          "value": 5085
+        }
+      ],
+      "device": [
+        {
+          "label": "安卓",
+          "value": 8154
+        },
+        {
+          "label": "IOS",
+          "value": 1846
+        }
+      ],
+      "area": [
+        {
+          "label": "杭州市",
+          "value": 124
+        },
+        {
+          "label": "东莞市",
+          "value": 118
+        },
+        {
+          "label": "佛山市",
+          "value": 123
+        },
+        {
+          "label": "南宁市",
+          "value": 106
+        },
+        {
+          "label": "西安市",
+          "value": 115
+        },
+        {
+          "label": "郑州市",
+          "value": 108
+        },
+        {
+          "label": "石家庄市",
+          "value": 100
+        },
+        {
+          "label": "成都市",
+          "value": 171
+        },
+        {
+          "label": "深圳市",
+          "value": 198
+        },
+        {
+          "label": "天津市",
+          "value": 149
+        },
+        {
+          "label": "福州市",
+          "value": 105
+        },
+        {
+          "label": "沈阳市",
+          "value": 98
+        },
+        {
+          "label": "上海市",
+          "value": 258
+        },
+        {
+          "label": "重庆市",
+          "value": 213
+        },
+        {
+          "label": "长沙市",
+          "value": 102
+        },
+        {
+          "label": "未知",
+          "value": 406
+        },
+        {
+          "label": "广州市",
+          "value": 274
+        },
+        {
+          "label": "北京市",
+          "value": 271
+        },
+        {
+          "label": "苏州市",
+          "value": 112
+        },
+        {
+          "label": "武汉市",
+          "value": 150
+        }
+      ],
+      "province": [
+        {
+          "label": "湖北省",
+          "value": 397
+        },
+        {
+          "label": "福建省",
+          "value": 429
+        },
+        {
+          "label": "山东省",
+          "value": 558
+        },
+        {
+          "label": "浙江省",
+          "value": 471
+        },
+        {
+          "label": "江苏省",
+          "value": 572
+        },
+        {
+          "label": "河南省",
+          "value": 525
+        },
+        {
+          "label": "广东省",
+          "value": 1400
+        },
+        {
+          "label": "河北省",
+          "value": 516
+        },
+        {
+          "label": "四川省",
+          "value": 445
+        },
+        {
+          "label": "广西壮族自治区",
+          "value": 392
+        }
+      ],
+      "phone_brand": [],
+      "interest": []
+    }
+  },
+  "recordTime": null
+}

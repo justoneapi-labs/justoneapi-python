@@ -1,0 +1,557 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:10.718265+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "common": {
+      "userInfo": {
+        "isLogin": false,
+        "face": "",
+        "vipStatus": 0,
+        "vipType": 0,
+        "completed": false
+      },
+      "serverConfig": {
+        "constants": {
+          "newClipboard": false
+        },
+        "limitChannel": {
+          "ua": [
+            "MicroMessenger",
+            "wxwork",
+            "Weibo",
+            "qzone/.*_qz_([\\d.]+)",
+            "QQ/([\\d\\.]+)",
+            "NewsArticle",
+            "GoldBrowser",
+            "WukongSearch",
+            "wksearch",
+            "SKLand",
+            "Googlebot"
+          ],
+          "bsource": [
+            "bilibili-toutiao",
+            "search_google",
+            "bddj"
+          ],
+          "referrer": [
+            "(.)*\\.google.com"
+          ]
+        },
+        "customChannel": {
+          "bsource": [
+            "OPPO_search",
+            "vendor_vivo_widget_search"
+          ]
+        },
+        "switch": {
+          "search_h5_style": "column1"
+        },
+        "openappDialogConfig": {
+          "commonOpenappFailedLimit": 3,
+          "autoOpenappLimit": 3,
+          "naturalSearchPlayerPlayOpenappLimit": 3,
+          "naturalSearchPlayerPauseOpenappLimit": 5,
+          "sharePlayerPlayOpenappLimit": 10,
+          "sharePlayerPauseOpenappLimit": 20
+        }
+      },
+      "abtest": {
+        "h5_resolution": "2"
+      },
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; MIX 2S Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/11.8.14",
+      "browser": {
+        "mobile": true,
+        "ios": false,
+        "android": true,
+        "windowsphone": false,
+        "iPhone": false,
+        "iPad": false,
+        "webApp": false,
+        "MicroMessenger": false,
+        "wechat": false,
+        "weibo": false,
+        "uc": false,
+        "qq": false,
+        "baidu": false,
+        "mqq": false,
+        "mbaidu": false,
+        "iqiyi": false,
+        "QQLive": false,
+        "Safari": false,
+        "Youku": false,
+        "chrome": false,
+        "CMDC": false,
+        "xiaomiqjs": false,
+        "baiduspider": false,
+        "zhihu": false,
+        "wxwork": false,
+        "quark": false,
+        "harmonyOSNext": false,
+        "oppoBrowser": false
+      },
+      "defDomain": "",
+      "autoFallback": {
+        "defDomain": "",
+        "on": false,
+        "config": {
+          "fr": false,
+          "def": "",
+          "dl": [],
+          "suffixes": {},
+          "hasSuffixesConfig": false
+        },
+        "wl": [],
+        "defUpdated": false,
+        "connectivities": {},
+        "x": 32,
+        "suffixConfigs": {},
+        "hasSuffixesConfig": false,
+        "defFallbackThreshold": 5
+      },
+      "isWxTagLaunch": false,
+      "noCallApp": false,
+      "switch": {
+        "search_h5_style": "column1"
+      }
+    },
+    "home": {
+      "hotList": {
+        "result": [],
+        "extra": {},
+        "error": false,
+        "noMore": false
+      }
+    },
+    "channel": {
+      "channelConfig": [],
+      "channelData": {},
+      "serverFetched": null
+    },
+    "video": {
+      "error": 0,
+      "isClient": false,
+      "breadcrumb": {},
+      "viewInfo": {},
+      "upInfo": {},
+      "related": {
+        "result": [],
+        "extra": {},
+        "error": false,
+        "noMore": false
+      },
+      "tags": [],
+      "elec": {},
+      "p": 0,
+      "avid": 0,
+      "bvid": "",
+      "quality": 16,
+      "streamQuality": 16,
+      "playUrlInfo": {},
+      "supportFormats": [],
+      "playState": "init",
+      "bsource": "",
+      "gameMode": false,
+      "keyword": "",
+      "trackId": "",
+      "togglePlay": true,
+      "isTab3": false,
+      "isCustom": false,
+      "isSem": false,
+      "reportMsg": {},
+      "pageType": "share",
+      "isFromNaturalSearch": false,
+      "playerSettings": {},
+      "videoPageSettings": {},
+      "isRelatedUp": false,
+      "archiveType": 0,
+      "archiveConfigId": "",
+      "eventConfig": {
+        "topBannerImage": "",
+        "topSearchUrl": {
+          "type": "browser",
+          "urlH5": "",
+          "searchKeyword": ""
+        },
+        "topButtonUrl": {
+          "type": "browser",
+          "urlH5": "",
+          "searchKeyword": ""
+        },
+        "bottomBannerImage": "",
+        "bottomBannerUrl": {
+          "type": "browser",
+          "urlH5": "",
+          "searchKeyword": ""
+        },
+        "mainCallButtonText": "",
+        "relatedTabText": {
+          "text": "",
+          "videoListID": ""
+        },
+        "relatedTabList": []
+      },
+      "hotWord": "",
+      "hotSearchVideoList": [],
+      "qnExp": null
+    },
+    "search": {
+      "searchAllResult": {
+        "extra": {
+          "count": {
+            "video": 0,
+            "media_bangumi": 0,
+            "bili_user": 0,
+            "media_ft": 0
+          },
+          "pgcList": [],
+          "filmList": []
+        },
+        "totalrank": {
+          "result": [],
+          "noMore": false,
+          "page": 0,
+          "total": 0
+        },
+        "click": {
+          "result": [],
+          "noMore": false,
+          "page": 0,
+          "total": 0
+        },
+        "pubdate": {
+          "result": [],
+          "noMore": false,
+          "page": 0,
+          "total": 0
+        },
+        "dm": {
+          "result": [],
+          "noMore": false,
+          "page": 0,
+          "total": 0
+        }
+      },
+      "searchBangumiResult": {
+        "result": [],
+        "noMore": false,
+        "page": 0,
+        "total": 0
+      },
+      "searchUserResult": {
+        "result": [],
+        "noMore": false,
+        "page": 0,
+        "total": 0
+      },
+      "searchFilmResult": {
+        "result": [],
+        "noMore": false,
+        "page": 0,
+        "total": 0
+      },
+      "openAppDialog": true,
+      "keyword": "",
+      "isCustom": false,
+      "bsource": "",
+      "blacklistArchive": []
+    },
+    "space": {
+      "mid": 472747194,
+      "info": {
+        "mid": 472747194,
+        "name": "巫师财经",
+        "sex": "男",
+        "face": "https://i0.hdslb.com/bfs/face/c518dc95663850d075a90897de617cc634151f7a.jpg",
+        "face_nft": 0,
+        "face_nft_type": 0,
+        "sign": "前中金分析师，合作：nef_mk，文字和图表都发在公众号了，自取随便用，就说是你写的",
+        "rank": 10000,
+        "level": 6,
+        "jointime": 0,
+        "moral": 0,
+        "silence": 0,
+        "control": 0,
+        "coins": 0,
+        "fans_badge": true,
+        "fans_medal": {
+          "show": false,
+          "wear": false,
+          "medal": null,
+          "detail": null
+        },
+        "official": {
+          "role": 1,
+          "title": "bilibili 知名UP主",
+          "desc": "",
+          "type": 0
+        },
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1702051200000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "pendant": {
+          "pid": 0,
+          "name": "",
+          "image": "",
+          "expire": 0,
+          "image_enhance": "",
+          "image_enhance_frame": "",
+          "n_pid": 0
+        },
+        "nameplate": {
+          "nid": 0,
+          "name": "",
+          "image": "",
+          "image_small": "",
+          "level": "",
+          "condition": ""
+        },
+        "user_honour_info": {
+          "mid": 0,
+          "colour": null,
+          "tags": [],
+          "is_latest_100honour": 0
+        },
+        "is_followed": false,
+        "top_photo": "bfs/space/cd52d4ac1d336c940cc4958120170f7928d9e606.png",
+        "sys_notice": {},
+        "live_room": null,
+        "birthday": "01-22",
+        "school": null,
+        "profession": {
+          "name": "",
+          "department": "",
+          "title": "",
+          "is_show": 0
+        },
+        "tags": [
+          "资本永不眠"
+        ],
+        "series": {
+          "user_upgrade_status": 3,
+          "show_upgrade_window": false
+        },
+        "is_senior_member": 0,
+        "mcn_info": null,
+        "gaia_res_type": 0,
+        "gaia_data": null,
+        "is_risk": false,
+        "elec": {
+          "show_info": {
+            "show": true,
+            "state": 2,
+            "title": "充电",
+            "icon": "https://i0.hdslb.com/bfs/garb/item/33e2e72d9a0c855f036b4cb55448f44af67a0635.png",
+            "jump_url": "https://www.bilibili.com/h5/upower/index?mid=472747194&navhide=1&oid=472747194",
+            "total": 7944,
+            "list": [
+              {
+                "pay_mid": 279173605,
+                "rank": 1,
+                "avatar": "https://i1.hdslb.com/bfs/face/c1de1ed35d0b19b355fec5a3c7177fbbcd17f801.jpg",
+                "uname": "石头爱喝水21126"
+              },
+              {
+                "pay_mid": 210411350,
+                "rank": 2,
+                "avatar": "https://i2.hdslb.com/bfs/face/6d9ef0098bb5d8448af88be78a32465264c44b69.jpg",
+                "uname": "東青先生"
+              },
+              {
+                "pay_mid": 10302270,
+                "rank": 3,
+                "avatar": "https://i0.hdslb.com/bfs/face/edde8ef9e029c298dc2fad663ef948b20ef2d489.jpg",
+                "uname": "JosephZ8901"
+              },
+              {
+                "pay_mid": 362793762,
+                "rank": 4,
+                "avatar": "https://i0.hdslb.com/bfs/face/1050e369495e476333d73c83371a894a9b12ce75.jpg",
+                "uname": "cathiegao"
+              },
+              {
+                "pay_mid": 527039916,
+                "rank": 5,
+                "avatar": "https://i0.hdslb.com/bfs/face/member/noface.jpg",
+                "uname": "WMELOY95"
+              },
+              {
+                "pay_mid": 306080032,
+                "rank": 6,
+                "avatar": "http://i1.hdslb.com/bfs/face/47a69cedc3b9511fdb5cf9a280220b13bb5c6008.jpg",
+                "uname": "CeeaTa"
+              }
+            ],
+            "upower_count_show": true,
+            "long_title": "",
+            "jump_url_web": "https://member.bilibili.com/mall/upower-pay?mid=472747194"
+          }
+        },
+        "contract": null,
+        "certificate_show": false,
+        "name_render": null,
+        "top_photo_v2": {
+          "sid": 9,
+          "l_img": "https://i0.hdslb.com/bfs/space/cd52d4ac1d336c940cc4958120170f7928d9e606.png",
+          "l_200h_img": "https://i2.hdslb.com/bfs/activity-plat/static/0977767b2e79d8ad0a36a731068a83d7/uL5vWnvU3i.png"
+        },
+        "theme": null,
+        "attestation": {
+          "type": 2,
+          "common_info": {
+            "title": "bilibili 知名UP主",
+            "prefix": "bilibili UP主认证",
+            "prefix_title": "bilibili UP主认证：bilibili 知名UP主"
+          },
+          "splice_info": {
+            "title": "bilibili 知名UP主"
+          },
+          "icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230828/e3b8ebec8e86f060b930a2c0536bb88b/72wejSxl9Z.png",
+          "desc": ""
+        }
+      },
+      "feedList": {
+        "result": [],
+        "extra": {},
+        "error": false,
+        "noMore": false
+      }
+    },
+    "opus": {
+      "id": "",
+      "detail": null,
+      "preview": null,
+      "isClient": false,
+      "fallback": {
+        "id": "",
+        "type": 0
+      },
+      "verifyData": null,
+      "isTab3": false,
+      "uniqueK": ""
+    },
+    "tag": {
+      "tagInfo": {},
+      "tagSimilar": [],
+      "tagRelated": {
+        "result": [],
+        "extra": {},
+        "error": false,
+        "total": 0
+      }
+    },
+    "topic": {
+      "topicDetail": {},
+      "activities": {},
+      "ads": {},
+      "topicId": 0,
+      "topicListResult": {
+        "result": [],
+        "extra": {},
+        "no_more": false,
+        "error": false,
+        "total": 0
+      },
+      "relevantTopics": [],
+      "headerTextColor": 0,
+      "isExpanded": false
+    },
+    "playlist": {
+      "mediaId": "",
+      "ps": 20,
+      "tid": 0,
+      "playlistType": 3,
+      "p": 1,
+      "isClient": false,
+      "hasMore": true,
+      "mediaData": {
+        "mediaList": [],
+        "ps": 20,
+        "pn": 1,
+        "noMore": false
+      },
+      "mediaList": [],
+      "randomList": [],
+      "videoIndex": 0,
+      "videoInfo": {},
+      "playMode": "order",
+      "playUrl": [],
+      "forbidPreview": false,
+      "playEnd": false,
+      "playSum": 0
+    },
+    "tribee": {
+      "tribeeBaseInfo": {},
+      "tribeeList": [],
+      "tribeeListTotal": 0,
+      "tribeeInviteDefer": null,
+      "tribeeInviteInfo": null,
+      "tribeeSteamHomeInfo": {}
+    },
+    "route": {
+      "name": "space",
+      "path": "/space/472747194",
+      "hash": "",
+      "query": {},
+      "params": {
+        "id": "472747194"
+      },
+      "fullPath": "/space/472747194",
+      "meta": {},
+      "from": {
+        "name": null,
+        "path": "/",
+        "hash": "",
+        "query": {},
+        "params": {},
+        "fullPath": "/",
+        "meta": {}
+      }
+    }
+  },
+  "recordTime": null
+}

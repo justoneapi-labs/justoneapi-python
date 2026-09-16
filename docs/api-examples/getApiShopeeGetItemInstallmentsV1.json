@@ -1,0 +1,1084 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:39.927912+08:00",
+  "_sourceCheckedAt": "2026-08-12T14:01:47",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "data": {
+      "error": null,
+      "error_msg": null,
+      "data": [
+        {
+          "channel_ic": "ic_paymentoption_ccinstallment",
+          "channel_name": "label_cc_installment",
+          "is_cc": true,
+          "plans": [],
+          "banks": [
+            {
+              "bank_id": 160,
+              "bank_name": "遠東國際商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 160,
+                    "bank_name": "遠東國際商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [遠東國際商業銀行 @3x]",
+                  "option_info": "3000501-80",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 245,
+              "bank_name": "玉山商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 245,
+                    "bank_name": "玉山商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [玉山商業銀行 @3x]",
+                  "option_info": "3000501-21",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 366,
+              "bank_name": "兆豐國際商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 366,
+                    "bank_name": "兆豐國際商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [兆豐國際商業銀行 @3x]",
+                  "option_info": "3000501-85",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 565,
+              "bank_name": "永豐商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 565,
+                    "bank_name": "永豐商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [永豐商業銀行 @3x]",
+                  "option_info": "3000501-95",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 607,
+              "bank_name": "第一商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 607,
+                    "bank_name": "第一商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [第一商業銀行 @3x]",
+                  "option_info": "3000501-70",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 764,
+              "bank_name": "中國信託商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 764,
+                    "bank_name": "中國信託商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [中國信託商業銀行 @3x]",
+                  "option_info": "3000501-39005135",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 948,
+              "bank_name": "上海商業儲蓄銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 948,
+                    "bank_name": "上海商業儲蓄銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [上海商業儲蓄銀行 @3x]",
+                  "option_info": "3000501-36",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 1049,
+              "bank_name": "國泰世華商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 1049,
+                    "bank_name": "國泰世華商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [國泰世華商業銀行 @3x]",
+                  "option_info": "3000501-31",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 1636,
+              "bank_name": "台新國際商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 1636,
+                    "bank_name": "台新國際商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [台新國際商業銀行 @3x]",
+                  "option_info": "3000501-26",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 1816,
+              "bank_name": "聯邦商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 1816,
+                    "bank_name": "聯邦商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [聯邦商業銀行 @3x]",
+                  "option_info": "3000501-65",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 3532,
+              "bank_name": "台中商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 3532,
+                    "bank_name": "台中商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [台中商業銀行 @3x]",
+                  "option_info": "3000501-39005130",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 3689,
+              "bank_name": "陽信商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 3689,
+                    "bank_name": "陽信商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [陽信商業銀行 @3x]",
+                  "option_info": "3000501-39005160",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 3931,
+              "bank_name": "渣打國際商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 3931,
+                    "bank_name": "渣打國際商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [渣打國際商業銀行 @3x]",
+                  "option_info": "3000501-105",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 4187,
+              "bank_name": "安泰商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 4187,
+                    "bank_name": "安泰商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [安泰商業銀行 @3x]",
+                  "option_info": "3000501-39005155",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 4203,
+              "bank_name": "華南商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 4203,
+                    "bank_name": "華南商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [華南商業銀行 @3x]",
+                  "option_info": "3000501-75",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 4243,
+              "bank_name": "台北富邦商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 4243,
+                    "bank_name": "台北富邦商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [台北富邦商業銀行 @3x]",
+                  "option_info": "3000501-41",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 4629,
+              "bank_name": "彰化商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 4629,
+                    "bank_name": "彰化商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [彰化商業銀行 @3x]",
+                  "option_info": "3000501-125",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 5791,
+              "bank_name": "臺灣新光商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 5791,
+                    "bank_name": "臺灣新光商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [臺灣新光商業銀行 @3x]",
+                  "option_info": "3000501-56",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 6016,
+              "bank_name": "花旗（台灣）商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 6016,
+                    "bank_name": "花旗（台灣）商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [花旗（台灣）商業銀行 @3x]",
+                  "option_info": "3000501-90",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 10204,
+              "bank_name": "凱基商業銀行",
+              "bank_logo": "",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 10204,
+                    "bank_name": "凱基商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [凱基商業銀行 @3x]",
+                  "option_info": "3000501-46",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 13922,
+              "bank_name": "元大商業銀行",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 13922,
+                    "bank_name": "元大商業銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [label_bank_yuanta_bank @3x]",
+                  "option_info": "3000501-60",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 13928,
+              "bank_name": "星展（台灣）銀行",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 13928,
+                    "bank_name": "星展（台灣）銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [label_bank_dbs_bank_taiwan @3x]",
+                  "option_info": "3000501-110",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 13941,
+              "bank_name": "樂天信用卡",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 13941,
+                    "bank_name": "樂天信用卡",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [label_bank_taiwan_rakuten_card @3x]",
+                  "option_info": "3000501-120",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            },
+            {
+              "bank_id": 13944,
+              "bank_name": "滙豐（台灣）銀行",
+              "sub_options": [
+                {
+                  "data": {
+                    "name": "3x @ 0.00%",
+                    "channel_id": 3000501,
+                    "tenure": 3,
+                    "total_amount": 188000000,
+                    "down_payment": 0,
+                    "interest_rate": 0,
+                    "installment_amount": 188000000,
+                    "monthly_installment": 62666000,
+                    "bank_id": 13944,
+                    "bank_name": "滙豐（台灣）銀行",
+                    "has_buyer_transaction_fee": true
+                  },
+                  "name": "Airpay CC Installment [label_bank_hsbc_taiwan @3x]",
+                  "option_info": "3000501-100",
+                  "disabled_reason_key": null,
+                  "disabled_reason": null,
+                  "disabled_reason_data": null,
+                  "sub_title": null
+                }
+              ]
+            }
+          ],
+          "plan_groups": [
+            {
+              "tenure": 3,
+              "monthly_installment": 62666000,
+              "name": "3x @ 0.00%",
+              "bank_sub_options": [
+                {
+                  "name": "Airpay CC Installment [遠東國際商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-80",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 160,
+                  "bank_name": "遠東國際商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [玉山商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-21",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 245,
+                  "bank_name": "玉山商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [兆豐國際商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-85",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 366,
+                  "bank_name": "兆豐國際商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [永豐商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-95",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 565,
+                  "bank_name": "永豐商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [第一商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-70",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 607,
+                  "bank_name": "第一商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [中國信託商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-39005135",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 764,
+                  "bank_name": "中國信託商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [上海商業儲蓄銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-36",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 948,
+                  "bank_name": "上海商業儲蓄銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [國泰世華商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-31",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 1049,
+                  "bank_name": "國泰世華商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [台新國際商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-26",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 1636,
+                  "bank_name": "台新國際商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [聯邦商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-65",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 1816,
+                  "bank_name": "聯邦商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [台中商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-39005130",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 3532,
+                  "bank_name": "台中商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [陽信商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-39005160",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 3689,
+                  "bank_name": "陽信商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [渣打國際商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-105",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 3931,
+                  "bank_name": "渣打國際商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [安泰商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-39005155",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 4187,
+                  "bank_name": "安泰商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [華南商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-75",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 4203,
+                  "bank_name": "華南商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [台北富邦商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-41",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 4243,
+                  "bank_name": "台北富邦商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [彰化商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-125",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 4629,
+                  "bank_name": "彰化商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [臺灣新光商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-56",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 5791,
+                  "bank_name": "臺灣新光商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [花旗（台灣）商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-90",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 6016,
+                  "bank_name": "花旗（台灣）商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [凱基商業銀行 @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-46",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 10204,
+                  "bank_name": "凱基商業銀行",
+                  "bank_logo": ""
+                },
+                {
+                  "name": "Airpay CC Installment [label_bank_yuanta_bank @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-60",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 13922,
+                  "bank_name": "元大商業銀行"
+                },
+                {
+                  "name": "Airpay CC Installment [label_bank_dbs_bank_taiwan @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-110",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 13928,
+                  "bank_name": "星展（台灣）銀行"
+                },
+                {
+                  "name": "Airpay CC Installment [label_bank_taiwan_rakuten_card @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-120",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 13941,
+                  "bank_name": "樂天信用卡"
+                },
+                {
+                  "name": "Airpay CC Installment [label_bank_hsbc_taiwan @3x]",
+                  "channel_id": 3000501,
+                  "option_info": "3000501-100",
+                  "sub_option_name": "3x @ 0.00%",
+                  "tenure": 3,
+                  "disabled_reason": "",
+                  "total_amount": 188000000,
+                  "down_payment": 0,
+                  "interest_rate": 0,
+                  "installment_amount": 188000000,
+                  "monthly_installment": 62666000,
+                  "bank_id": 13944,
+                  "bank_name": "滙豐（台灣）銀行"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detail_level": 0,
+      "removed_fields": null
+    }
+  },
+  "recordTime": "2026-08-12T14:01:46.796990880"
+}

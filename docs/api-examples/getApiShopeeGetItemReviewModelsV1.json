@@ -1,0 +1,83 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:39.937875+08:00",
+  "_sourceCheckedAt": "2026-08-12T14:00:40",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "data": {
+      "error": 0,
+      "data": {
+        "item_name": "MHW-3BOMBER 轟炸機 馭系列旋風攪粉針 58mm 咖啡布粉針旋轉均勻打散結塊 散粉針 按壓式攪粉針 針式布粉器",
+        "item_image": "tw-11134207-7r98w-lvpoigvt1z2q48",
+        "option_infos": [
+          {
+            "name": "規格",
+            "options": [
+              {
+                "name": "馭系列-旋風攪粉針-58MM通用",
+                "image": "tw-11134207-7r990-luw6zdym86vf57"
+              },
+              {
+                "name": "馭系列-旋風攪粉針-53MM通用",
+                "image": "tw-11134207-7rasl-m5wmvl4kyw9984"
+              },
+              {
+                "name": "馭系列-旋風攪粉針-51MM通用",
+                "image": "tw-11134207-7rasj-m4sguw1h5x3h52"
+              },
+              {
+                "name": "馭系列三件組-58mm通用",
+                "image": "tw-11134207-7rbk6-mamcni1h9lh589"
+              },
+              {
+                "name": "馭系列五件組-58mm通用",
+                "image": "tw-11134207-7rbka-mamcnktd7f95f6"
+              },
+              {
+                "name": "馭系列三件與有槽壓粉墊組合-58mm通用",
+                "image": "tw-11134207-7ra0l-md2p6mkdh3l647"
+              },
+              {
+                "name": "馭系列四件與有槽壓粉墊組合-58mm通用",
+                "image": "tw-11134207-7ra0r-md2p6qyt194a6a"
+              }
+            ]
+          }
+        ],
+        "count_infos": [
+          {
+            "name": "0",
+            "count": 416
+          },
+          {
+            "name": "1",
+            "count": 19
+          },
+          {
+            "name": "2",
+            "count": 15
+          },
+          {
+            "name": "3",
+            "count": 4
+          },
+          {
+            "name": "4",
+            "count": 3
+          },
+          {
+            "name": "5",
+            "count": 2
+          },
+          {
+            "name": "6",
+            "count": 10
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": "2026-08-12T14:00:39.927382390"
+}

@@ -1,0 +1,492 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:43.877928+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:20",
+  "code": 0,
+  "message": null,
+  "data": {
+    "param": {
+      "param": [
+        {
+          "desc": "街头风",
+          "title": "风格"
+        },
+        {
+          "desc": "直筒型",
+          "title": "版型分类"
+        },
+        {
+          "desc": "经典",
+          "title": "图案文化"
+        },
+        {
+          "desc": "氨纶,纯棉",
+          "title": "面料"
+        },
+        {
+          "desc": "无帽",
+          "title": "结构细节"
+        },
+        {
+          "desc": "棉95% 聚氨酯弹性纤维(氨纶)5%",
+          "title": "材质成分"
+        },
+        {
+          "desc": "夏季",
+          "title": "适用季节"
+        },
+        {
+          "desc": "2024年夏季",
+          "title": "上市年份季节"
+        },
+        {
+          "desc": "短袖",
+          "title": "袖长"
+        },
+        {
+          "desc": "2XL,S,M,L,XL",
+          "title": "尺码"
+        },
+        {
+          "desc": "白色,白色长袖",
+          "title": "主要颜色"
+        },
+        {
+          "desc": "印花",
+          "title": "款式细节"
+        },
+        {
+          "desc": "川川也",
+          "title": "品牌"
+        },
+        {
+          "desc": "日常",
+          "title": "适用场景"
+        },
+        {
+          "desc": "学生,少女",
+          "title": "适用人群"
+        },
+        {
+          "desc": "短袖",
+          "title": "袖型"
+        },
+        {
+          "desc": "印花",
+          "title": "工艺"
+        },
+        {
+          "desc": "18-24周岁",
+          "title": "适用年龄"
+        },
+        {
+          "desc": "女士",
+          "title": "适用性别"
+        },
+        {
+          "desc": "中国",
+          "title": "产地"
+        },
+        {
+          "desc": "亲肤透气",
+          "title": "功能"
+        },
+        {
+          "desc": "常规",
+          "title": "厚薄"
+        },
+        {
+          "desc": "圆领",
+          "title": "领型设计"
+        },
+        {
+          "desc": "套头",
+          "title": "款式"
+        },
+        {
+          "desc": "常规款",
+          "title": "衣长类型"
+        },
+        {
+          "desc": "文字,印花",
+          "title": "图案"
+        },
+        {
+          "desc": "否",
+          "title": "是否有胸垫"
+        }
+      ],
+      "paramCut": "风格 版型分类 图案文化 面料 结构细节 材质成分 适用季节 上市年份季节 袖长 尺码 主要颜色 款式细节 品牌 适用场景 适用人群 袖型 工艺 适用年龄 适用性别 产地 功能 厚薄 领型设计 款式 衣长类型 图案 是否有胸垫 "
+    },
+    "footer": {
+      "areaId": 110101,
+      "btns": [
+        {
+          "icon": "https://img.alicdn.com/tfs/TB1QgJbaMaH3KVjSZFpXXbhKpXa-48-48.png",
+          "title": "店铺",
+          "type": "link",
+          "value": "https://shop.m.taobao.com/shop/shop_index.htm?user_id=3159571955&item_id=801330948681"
+        },
+        {
+          "icon": "https://img.alicdn.com/tfs/TB1oWZVmEH1gK0jSZSyXXXtlpXa-64-64.png",
+          "title": "客服",
+          "type": "link",
+          "value": "https://market.m.taobao.com/app/tb-chatting/tbms-chat/pages/index?appkey=25067504&targetId=cntaobao温思科csico&targetType=7&bizType=11001"
+        },
+        {
+          "icon": "https://img.alicdn.com/tfs/TB1z4k0mEY1gK0jSZFCXXcwqXXa-64-64.png",
+          "title": "购物车",
+          "type": "link",
+          "value": "pages/tradecart/index"
+        }
+      ],
+      "buyEnable": true,
+      "cartEnable": true,
+      "hasSku": true,
+      "itemId": 801330948681,
+      "itemPic": "//img.alicdn.com/imgextra/i1/3159571955/O1CN01BUui7traBNK2R3rs_!!4611686018427387379-0-item_pic.jpg",
+      "offShelf": false,
+      "skuInfo": {
+        "skuBase": {
+          "skus": [
+            {
+              "propPath": "20509:28314;1627207:28320",
+              "skuId": "5459369881641"
+            },
+            {
+              "propPath": "20509:28315;1627207:28320",
+              "skuId": "5459369881642"
+            },
+            {
+              "propPath": "20509:28316;1627207:28320",
+              "skuId": "5459369881643"
+            },
+            {
+              "propPath": "20509:28317;1627207:28320",
+              "skuId": "5459369881644"
+            },
+            {
+              "propPath": "20509:6145171;1627207:28320",
+              "skuId": "5669367895814"
+            },
+            {
+              "propPath": "20509:28314;1627207:9023470",
+              "skuId": "5739834119388"
+            },
+            {
+              "propPath": "20509:28315;1627207:9023470",
+              "skuId": "5739834119389"
+            },
+            {
+              "propPath": "20509:28316;1627207:9023470",
+              "skuId": "5739834119390"
+            },
+            {
+              "propPath": "20509:28317;1627207:9023470",
+              "skuId": "5739834119391"
+            }
+          ],
+          "props": [
+            {
+              "values": [
+                {
+                  "vid": "28314",
+                  "name": "S"
+                },
+                {
+                  "vid": "28315",
+                  "name": "M"
+                },
+                {
+                  "vid": "28316",
+                  "name": "L"
+                },
+                {
+                  "vid": "28317",
+                  "name": "XL"
+                },
+                {
+                  "vid": "6145171",
+                  "name": "2XL"
+                }
+              ],
+              "name": "尺码",
+              "pid": "20509"
+            },
+            {
+              "values": [
+                {
+                  "vid": "28320",
+                  "image": "//img.alicdn.com/imgextra/i1/3159571955/O1CN01JK5jIf1QJRGdCLbZL_!!3159571955.jpg",
+                  "name": "白色"
+                },
+                {
+                  "vid": "9023470",
+                  "image": "//img.alicdn.com/imgextra/i2/3159571955/O1CN01rDgife1QJRIQjuOf0_!!3159571955.png",
+                  "name": "白色长袖"
+                }
+              ],
+              "name": "主要颜色",
+              "pid": "1627207"
+            }
+          ]
+        },
+        "skuCore": {
+          "abSwitch": [],
+          "atmosphere": [],
+          "sku2info": {
+            "0": {
+              "price": {
+                "priceMoney": 7800,
+                "priceText": "78-88",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5459369881642": {
+              "price": {
+                "priceMoney": 7800,
+                "priceText": "78",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5739834119390": {
+              "price": {
+                "priceMoney": 8800,
+                "priceText": "88",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5459369881643": {
+              "price": {
+                "priceMoney": 7800,
+                "priceText": "78",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5739834119391": {
+              "price": {
+                "priceMoney": 8800,
+                "priceText": "88",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5739834119388": {
+              "price": {
+                "priceMoney": 8800,
+                "priceText": "88",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5459369881641": {
+              "price": {
+                "priceMoney": 7800,
+                "priceText": "78",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5739834119389": {
+              "price": {
+                "priceMoney": 8800,
+                "priceText": "88",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5459369881644": {
+              "price": {
+                "priceMoney": 7800,
+                "priceText": "78",
+                "type": 1
+              },
+              "quantity": 200
+            },
+            "5669367895814": {
+              "price": {
+                "priceMoney": 7800,
+                "priceText": "78",
+                "type": 1
+              },
+              "quantity": 200
+            }
+          },
+          "skuItem": {
+            "location": "北京东城",
+            "showAddressTaobao": true
+          }
+        }
+      }
+    },
+    "banner": {
+      "images": [
+        "//img.alicdn.com/imgextra/i1/3159571955/O1CN01BUui7traBNK2R3rs_!!4611686018427387379-0-item_pic.jpg",
+        "//img.alicdn.com/imgextra/i1/3159571955/O1CN015vFdcq1QJRGmTO5iR_!!3159571955.jpg",
+        "//img.alicdn.com/imgextra/i1/3159571955/O1CN01oMKQjP1QJRGiximO4_!!3159571955.jpg",
+        "//img.alicdn.com/imgextra/i4/3159571955/O1CN01AWv7MV1QJRGlEDp4v_!!3159571955.jpg",
+        "//img.alicdn.com/imgextra/i4/3159571955/O1CN01EDAobr1QJRGnRauH8_!!3159571955.jpg"
+      ]
+    },
+    "genie_recommend_on_detail": [],
+    "store": {
+      "allItemCount": "597",
+      "allItemUrl": "https://market.m.taobao.com/app/tb-source-app/shop-auction/pages/auction?_w&sellerId=3159571955&shopId=373894497&disablePromotionTips=true&shop_navi=allitems&displayShopHeader=true",
+      "certIcon": "http://gw.alicdn.com/tfs/TB1zgzmlZLJ8KJjy0FnXXcFDpXa-171-148.png",
+      "certText": "金牌卖家",
+      "creditLevel": "18",
+      "creditLevelIcon": "//gw.alicdn.com/tfs/TB1Iw2CixrI8KJjy0FpXXb5hVXa-132-24.png",
+      "evaluates": [
+        {
+          "level": "1",
+          "levelBackgroundColor": "#FFF1EB",
+          "levelText": "高",
+          "levelTextColor": "#FF5000",
+          "score": "4.8 ",
+          "title": "宝贝描述",
+          "tmallLevelBackgroundColor": "#FFF1EB",
+          "tmallLevelTextColor": "#FF0036",
+          "type": "desc"
+        },
+        {
+          "level": "0",
+          "levelBackgroundColor": "#EEEEEE",
+          "levelText": "平",
+          "levelTextColor": "#999999",
+          "score": "4.8 ",
+          "title": "卖家服务",
+          "tmallLevelBackgroundColor": "#FFF1EB",
+          "tmallLevelTextColor": "#FF0036",
+          "type": "serv"
+        },
+        {
+          "level": "0",
+          "levelBackgroundColor": "#EEEEEE",
+          "levelText": "平",
+          "levelTextColor": "#999999",
+          "score": "4.8 ",
+          "title": "物流服务",
+          "tmallLevelBackgroundColor": "#FFF1EB",
+          "tmallLevelTextColor": "#FF0036",
+          "type": "post"
+        }
+      ],
+      "fans": "156.8万",
+      "fbt2User": "温思科csico",
+      "goodRatePercentage": "99.78%",
+      "isShowCertIcon": true,
+      "sellerNick": "温思科csico",
+      "sellerType": "C",
+      "shopCard": "掌柜近期上新30件宝贝，速览",
+      "shopIcon": "//gw.alicdn.com/tfs//i3/6000000007411/O1CN01TNRb3s24cHtGjgF4B_!!6000000007411-0-shopmanager.jpg",
+      "shopId": "373894497",
+      "shopName": "川川也",
+      "shopType": "C",
+      "shopUrl": "https://shop.m.taobao.com/shop/shop_index.htm?user_id=3159571955&item_id=801330948681",
+      "showShopLinkIcon": false,
+      "simpleShopDOStatus": "1",
+      "starts": "2017-02-06 20:32:39",
+      "taoShopUrl": "https://shop.m.taobao.com/shop/shop_index.htm?user_id=3159571955&item_id=801330948681",
+      "userId": "3159571955"
+    },
+    "pricedesc": {
+      "description": [
+        {
+          "height": "474",
+          "imgUrl": "//gw.alicdn.com/tfs/TB1d0h2qVYqK1RjSZLeXXbXppXa-1125-960.png?getAvatar=avatar",
+          "width": "556"
+        }
+      ]
+    },
+    "genie_reminding_word": {
+      "originPriceText": "138-148",
+      "priceText": "78-88"
+    },
+    "separateline": [],
+    "info": {
+      "from": "广东佛山",
+      "itemIcon": "",
+      "itemTitle": "川川也 美式原创高街正肩直筒短袖T恤女街头夏季新款日常上衣潮牌",
+      "originPriceText": "138-148",
+      "originPriceTextTag": "价格 ",
+      "postage": "快递: 快递包邮",
+      "priceTag": [
+        {
+          "text": "优惠价"
+        }
+      ],
+      "priceText": "78-88",
+      "sellCount": "300+"
+    },
+    "itemdetail_desc": {
+      "dataApi": {
+        "api": "https://item.taobao.com/modulet/v6/WItemDesc.do?type=0&id=801330948681",
+        "type": "http"
+      },
+      "description": []
+    },
+    "recommend": [],
+    "service": {
+      "displayText": "7天无理由·预计20小时内发货，预计后天送达",
+      "service": [
+        {
+          "icon": "",
+          "items": [
+            {
+              "desc": "满足7天无理由退换货申请的前提下，包邮商品需要买家承担退货邮费，非包邮商品需要买家承担发货和退货邮费。",
+              "icon": {
+                "height": 200,
+                "url": "//gw.alicdn.com/tfs/TB1O4sFQpXXXXb3apXXXXXXXXXX-200-200.png",
+                "width": 200
+              },
+              "title": "7天无理由"
+            },
+            {
+              "icon": {
+                "height": 200,
+                "url": "//gw.alicdn.com/tfs/TB1O4sFQpXXXXb3apXXXXXXXXXX-200-200.png",
+                "width": 200
+              },
+              "title": "预计20小时内发货，预计后天送达"
+            }
+          ],
+          "title": "基础服务"
+        },
+        {
+          "items": [
+            {
+              "icon": {
+                "height": 200,
+                "url": "//gw.alicdn.com/tfs/TB1O4sFQpXXXXb3apXXXXXXXXXX-200-200.png",
+                "width": 200
+              },
+              "title": "蚂蚁花呗"
+            },
+            {
+              "icon": {
+                "height": 200,
+                "url": "//gw.alicdn.com/tfs/TB1O4sFQpXXXXb3apXXXXXXXXXX-200-200.png",
+                "width": 200
+              },
+              "title": "集分宝"
+            },
+            {
+              "icon": {
+                "height": 200,
+                "url": "//gw.alicdn.com/tfs/TB1O4sFQpXXXXb3apXXXXXXXXXX-200-200.png",
+                "width": 200
+              },
+              "title": "支付宝支付"
+            }
+          ],
+          "title": "其他"
+        }
+      ]
+    },
+    "global": []
+  },
+  "recordTime": null
+}

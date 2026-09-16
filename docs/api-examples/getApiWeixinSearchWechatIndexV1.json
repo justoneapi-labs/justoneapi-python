@@ -1,0 +1,154 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:00.100744+08:00",
+  "_sourceCheckedAt": "2026-08-05T17:26:10",
+  "code": 0,
+  "message": null,
+  "data": {
+    "category": [
+      {
+        "type": 0,
+        "word": "全部"
+      },
+      {
+        "type": 7,
+        "word": "视频号"
+      },
+      {
+        "type": 2,
+        "word": "文章"
+      },
+      {
+        "type": 1,
+        "word": "公众号"
+      },
+      {
+        "type": 262208,
+        "word": "小程序"
+      },
+      {
+        "extReqParams": [
+          {
+            "key": "modelName",
+            "textValue": "hunyuan-t1-turbos"
+          },
+          {
+            "key": "modelType",
+            "textValue": "t1"
+          },
+          {
+            "key": "fastModelType",
+            "textValue": "fast"
+          }
+        ],
+        "extra_kvs": [
+          {
+            "key": "modelName",
+            "value": "hunyuan-t1-turbos"
+          },
+          {
+            "key": "modelType",
+            "value": "t1"
+          },
+          {
+            "key": "fastModelType",
+            "value": "fast"
+          }
+        ],
+        "type": 53,
+        "word": "AI搜索"
+      },
+      {
+        "type": 9,
+        "word": "直播"
+      },
+      {
+        "type": 1024,
+        "word": "读书"
+      },
+      {
+        "type": 512,
+        "word": "听一听"
+      },
+      {
+        "type": 384,
+        "word": "表情"
+      },
+      {
+        "type": 16777728,
+        "word": "百科"
+      },
+      {
+        "type": 16384,
+        "word": "新闻"
+      },
+      {
+        "selected": 1,
+        "type": 8192,
+        "word": "微信指数"
+      },
+      {
+        "extReqParams": [
+          {
+            "key": "subType",
+            "uintValue": 7
+          }
+        ],
+        "extra_kvs": [
+          {
+            "key": "subType",
+            "value": "7"
+          }
+        ],
+        "type": 524288,
+        "word": "小游戏"
+      },
+      {
+        "type": 33562630,
+        "word": "划线"
+      },
+      {
+        "type": 8,
+        "word": "朋友圈"
+      }
+    ],
+    "continueFlag": 0,
+    "conversationID": "1785921971451108168",
+    "cookies": "{\"box_offset\":0,\"businessType\":8192,\"clm_box_offset\":0,\"clm_sub_box_offset\":0,\"cookies_buffer\":\"Uj0IYhABGIBAIhJwaHAlN2Pkurrlt6Xmmbrog71QAYIBBRAAogEAsgECGADIAQCaAw1CAHIAigEAkgEAugEA\",\"doc_offset\":0,\"dup_bf\":\"\",\"isHomepage\":0,\"page_cnt\":1,\"query\":\"php%7c人工智能\",\"scene\":98}\n",
+    "data": null,
+    "direction": 2,
+    "enableQuestionClosely": false,
+    "experiment": [
+      {
+        "key": "s1s_all_prefetch_next_page",
+        "value": "2"
+      },
+      {
+        "key": "mmsearch_new_category_exp",
+        "value": "-2"
+      },
+      {
+        "key": "mmsearch_exp_financial_style",
+        "value": "2"
+      }
+    ],
+    "isAutoPlayVideo": 1,
+    "isDivide": 0,
+    "isHomePage": 0,
+    "lang": "zh_CN",
+    "noMoreData": {
+      "allResult": "全部结果",
+      "guideText": "你可尝试更换搜索词",
+      "iconUrl": "https://res.wx.qq.com/a/fed_upload/783850d0-11e5-4928-b8b2-3b99da620597/icons_outlined_search.svg",
+      "noMoreWording": "暂无微信指数相关结果"
+    },
+    "nomoreText": "没有更多的搜索结果",
+    "offset": 20,
+    "pageNumber": 1,
+    "query": "php%7c人工智能",
+    "resultType": 0,
+    "ret": 0,
+    "searchID": "1785921971451108168",
+    "timeStamp": 1785921970
+  },
+  "recordTime": "2026-08-05T17:26:10.181322265"
+}

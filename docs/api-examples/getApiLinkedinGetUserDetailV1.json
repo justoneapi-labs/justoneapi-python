@@ -1,0 +1,323 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:36.411946+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:14",
+  "code": 0,
+  "message": null,
+  "data": {
+    "id": "williamhgates",
+    "name": "Bill Gates",
+    "city": "Seattle, Washington, United States",
+    "country_code": "US",
+    "position": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "posts": [
+      {
+        "title": "The turbulent AI era is here. The choices we make now are critical.",
+        "attribution": "We need a plan to ensure that the good outweighs the bad. The transition to the AI era will be one of the most…",
+        "link": "https://www.linkedin.com/pulse/turbulent-ai-era-here-choices-we-make-now-critical-bill-gates-kkmze",
+        "created_at": "2026-08-26T00:00:00.000Z",
+        "interaction": "10,43 - 2,058 Comments",
+        "id": "7498097051742679041"
+      },
+      {
+        "title": "Small bugs, big breakthroughs",
+        "attribution": "What do humans and cows have in common? Among other things, we’re both victims of tiny insects. For cows, the latest…",
+        "link": "https://www.linkedin.com/pulse/small-bugs-big-breakthroughs-bill-gates-rq4qe",
+        "created_at": "2026-08-20T00:00:00.000Z",
+        "interaction": "3,24 - 375 Comments",
+        "id": "7496002848024068097"
+      },
+      {
+        "title": "Bad news isn’t the only news",
+        "attribution": "Sometimes when I tell people I’m optimistic about the future, they look at me like I’m crazy. How could I say that when…",
+        "link": "https://www.linkedin.com/pulse/bad-news-isnt-only-bill-gates-tl0bc",
+        "created_at": "2026-08-10T00:00:00.000Z",
+        "interaction": "4,06 - 758 Comments",
+        "id": "7492598496269656067"
+      },
+      {
+        "title": "The best things I read, listened to, and watched this year",
+        "attribution": "It’s hard to beat summer here in Seattle. The days are long, sunny, and warm, and you’re never far from Puget Sound or…",
+        "link": "https://www.linkedin.com/pulse/best-things-i-read-listened-watched-year-bill-gates-saopc",
+        "created_at": "2026-07-30T00:00:00.000Z",
+        "interaction": "3,29 - 453 Comments",
+        "id": "7488610139328151552"
+      },
+      {
+        "title": "Memories from an inspiring trip to Rwanda",
+        "attribution": "I just got back from the most incredible week in Rwanda. My favorite trips are always the ones that leave me feeling…",
+        "link": "https://www.linkedin.com/pulse/memories-from-inspiring-trip-rwanda-bill-gates-ojyye",
+        "created_at": "2026-07-26T00:00:00.000Z",
+        "interaction": "4,90 - 608 Comments",
+        "id": "7487182910404612096"
+      },
+      {
+        "title": "\"AIDS-free\" generation is no empty promise",
+        "attribution": "In 2007, Wendo Aszed was in her twenties and enjoying life in Nakuru, a city in her native Kenya. One day, her best…",
+        "link": "https://www.linkedin.com/pulse/aids-free-generation-empty-promise-bill-gates-hbvue",
+        "created_at": "2026-07-12T00:00:00.000Z",
+        "interaction": "3,45 - 475 Comments",
+        "id": "7482113187350310913"
+      },
+      {
+        "title": "We’re entering a golden age of Alzheimer’s research",
+        "attribution": "I'll never forget the moment I learned that my dad had Alzheimer's disease. I felt so powerless and scared.",
+        "link": "https://www.linkedin.com/pulse/were-entering-golden-age-alzheimers-research-bill-gates-7re2e",
+        "created_at": "2026-06-07T00:00:00.000Z",
+        "interaction": "7,62 - 1,051 Comments",
+        "id": "7469494408346836993"
+      },
+      {
+        "title": "Every year, 2 million babies are stillborn. A simple retinal scanner can change that.",
+        "attribution": "If you’re anything like me, you have a favorite chart. Mine has been the same for years.",
+        "link": "https://www.linkedin.com/pulse/every-year-2-million-babies-stillborn-simple-retinal-scanner-gates-zxgkc",
+        "created_at": "2026-05-02T00:00:00.000Z",
+        "interaction": "3,70 - 659 Comments",
+        "id": "7456100051434647552"
+      },
+      {
+        "title": "The next generation of electricity is almost here",
+        "attribution": "I’m in Texas this week to talk about the remarkable breakthroughs fueling our zero-emission future. Greetings from the…",
+        "link": "https://www.linkedin.com/pulse/next-generation-electricity-almost-here-bill-gates-osuhc",
+        "created_at": "2026-03-27T00:00:00.000Z",
+        "interaction": "7,35 - 1,180 Comments",
+        "id": "7443408659830927360"
+      },
+      {
+        "title": "A phone call that saves lives",
+        "attribution": "In the United States, when someone has a medical emergency, we take for granted that an ambulance will arrive. It will…",
+        "link": "https://www.linkedin.com/pulse/phone-call-saves-lives-bill-gates-yspvc",
+        "created_at": "2026-03-08T00:00:00.000Z",
+        "interaction": "5,57 - 866 Comments",
+        "id": "7436223425645387776"
+      }
+    ],
+    "current_company": {
+      "name": "Gates Foundation",
+      "company_id": "gates-foundation",
+      "title": "Co-chair",
+      "location": null
+    },
+    "experience": [
+      {
+        "title": "Co-chair",
+        "description_html": null,
+        "start_date": "2000",
+        "end_date": "Present",
+        "company": "Gates Foundation",
+        "company_id": "gates-foundation",
+        "url": "https://www.linkedin.com/company/gates-foundation",
+        "company_logo_url": null
+      },
+      {
+        "title": "Founder",
+        "description_html": null,
+        "start_date": "2015",
+        "end_date": "Present",
+        "company": "Breakthrough Energy",
+        "company_id": "breakthrough-energy",
+        "url": "https://www.linkedin.com/company/breakthrough-energy",
+        "company_logo_url": null
+      },
+      {
+        "title": "Co-founder",
+        "description_html": null,
+        "start_date": "1975",
+        "end_date": "Present",
+        "company": "Microsoft",
+        "company_id": "microsoft",
+        "url": "https://www.linkedin.com/company/microsoft",
+        "company_logo_url": null
+      }
+    ],
+    "url": "https://no.linkedin.com/in/williamhgates",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/melindagates",
+        "name": "Melinda French Gates",
+        "about": "Pivotal",
+        "location": "7M followers United States"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/tyleralterman",
+        "name": "Tyler Alterman",
+        "about": "Fractal University",
+        "location": "7K followers Brooklyn, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/toddjduckett",
+        "name": "Todd J. Duckett",
+        "about": "Duckett Enterprises",
+        "location": "9K followers Lansing, MI"
+      },
+      {
+        "profile_link": "https://is.linkedin.com/in/hallatomasdottir",
+        "name": "Halla Tomasdottir",
+        "about": "I am the president of Iceland since August 1st 2024. Previously I served as the CEO and Chief Change Catalyst for The B Team, where global business and civil society leaders work together on confronting our crisis of conformity in leadership. I have long been on a quest to inspire and empower leaders to embrace purpose-driven, gender-balanced and principled leadership. I have passionately pursued this purpose as a business leader in Corporate America with M&M and Pepsi Cola, as the first female CEO of Iceland’s Chamber of commerce and as an executive and non-executive director for diverse businesses. An entrepreneur at heart, I joined the founding team of Reykjavik University where I founded the Executive Education department and led a successful initiative focused on empowering women and girls as entrepreneurs, leaders and investors. In 2007 I co-founded an investment firm with the vision to incorporate feminine values and ESG metrics into finance. The company made international headlines when it successfully survived Iceland’s infamous economic meltdown. In 2016, I ran for President as an independent candidate with no prior political experience and surprised everyone as I emerged from an initial 1% in the polls to becoming the runner-up with nearly 30% of the vote. <br><br>I have an international MBA from Thunderbird and have lived and worked in the US, the UK and across the Nordics. My work has led me to the TED stage several times and I have delivered keynotes and participated in dialogues about new visions for leadership for companies and conferences around the world. Newsweek named me to a list of 150 women who “shake the world” and the New Yorker called me a “Living Emoji of Sincerity”. Who needs a formal title when you can be an Emoji? <br><br>Twitter: @HallaTomas<br>Facebook: @hallatomas",
+        "location": "24K followers Iceland"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/matthew-swift-8ba7529",
+        "name": "Matthew Swift",
+        "about": "Concordia",
+        "location": "14K followers Palm Beach, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/petefishman",
+        "name": "Peter Fishman",
+        "about": "Mozart Data",
+        "location": "17K followers New York City Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/sherryb",
+        "name": "Sherry Whitaker Budziak 🤍",
+        "about": ".orgSource",
+        "location": "10K followers Deerfield, IL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/tonyteravainen",
+        "name": "Tony Teravainen PMP CSSBB",
+        "about": "Support The Enlisted Project (STEP)",
+        "location": "13K followers San Diego, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/charlesmarohn",
+        "name": "Charles Marohn",
+        "about": "Strong Towns",
+        "location": "17K followers Brainerd, MN"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/schm1tt",
+        "name": "Patrick Schmitt",
+        "about": "FreeWill",
+        "location": "11K followers New York, NY"
+      }
+    ],
+    "educations_details": "Harvard University",
+    "education": [
+      {
+        "title": "Harvard University",
+        "url": "https://www.linkedin.com/school/harvard-university/?trk=public_profile_school_profile-section-card_image-click",
+        "start_year": "1973",
+        "end_year": "1975",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "title": "Lakeside School",
+        "url": "https://www.linkedin.com/school/lakeside-school/?trk=public_profile_school_profile-section-card_image-click",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k",
+    "followers": 40630369,
+    "connections": 8,
+    "current_company_company_id": "gates-foundation",
+    "current_company_name": "Gates Foundation",
+    "location": "Seattle",
+    "input_url": "https://www.linkedin.com/in/williamhgates/",
+    "linkedin_id": "williamhgates",
+    "activity": [
+      {
+        "interaction": "Bill Gates shared this",
+        "link": "https://www.linkedin.com/posts/williamhgates_ive-had-a-number-of-thoughtful-and-engaging-activity-7501738402128715777-2w69",
+        "title": "I’ve had a number of thoughtful and engaging conversations since sharing my memo on AI. Here are some of the most interesting questions I’ve received:",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGTP6iYa3kteg/videocover-high/B4EaBuHLjnKUBQ-/0/1788553786185?e=2147483647&v=beta&t=R1K4Eq33QBkkN1EvlODQw3sbjc1gwApy9_frVC2AQgI",
+        "id": "7501738402128715777"
+      },
+      {
+        "interaction": "Bill Gates shared this",
+        "link": "https://www.linkedin.com/posts/williamhgates_fda-approves-a-new-blood-test-to-detect-signs-activity-7501466755261820928-k89N",
+        "title": "This is great news in the fight against Alzheimer’s. Until recently, testing was a long, invasive process involving expensive brain scans and painful spinal taps. New blood tests like this one could help families get answers sooner and more easily: https://wapo.st/3UqZvnJ ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFY9XusRacC6g/articleshare-shrink_800/B56aA1oTGnIwAc-/0/1787606152245?e=2147483647&v=beta&t=4bgkiFy0l-R2xe7thSYQ6F4HuJAqijSp3lU_gsbS_f0",
+        "id": "7501466755261820928"
+      },
+      {
+        "interaction": "Bill Gates shared this",
+        "link": "https://www.linkedin.com/posts/williamhgates_this-is-incredible-progress-it-shows-that-activity-7501456193794633729-1lTI",
+        "title": "This is incredible progress. It shows that with sustained country momentum, an end to the AIDS epidemic could be closer than we think.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGkPXCFsnymZA/feedshare-shrink_1280/B56aBgb6jyIMAM-/0/1788324325849?e=2147483647&v=beta&t=_HcDQk91RE-CK6qBOqArVG_Q_UT11Wq1a7MV8TF3QDw",
+        "id": "7501456193794633729"
+      },
+      {
+        "interaction": "Bill Gates shared this",
+        "link": "https://www.linkedin.com/posts/williamhgates_breakthrough-energy-backed-companies-like-activity-7501455180396208128-xEla",
+        "title": "Breakthrough Energy -backed companies like Fervo Energy , Antora Energy , and Redwood Materials are creating jobs and supporting the talent that brings innovation to life.​",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGwe0fvQ8mSWQ/thumbnail-shrink_720_1280/B4EaBqFrpkHkAg-/0/1788486272167?e=2147483647&v=beta&t=P--EBtfhbTeRBUy_yWOtEuA3Psujbr7xJpzT8P6uJR4",
+        "id": "7501455180396208128"
+      },
+      {
+        "interaction": "Bill Gates shared this",
+        "link": "https://www.linkedin.com/posts/williamhgates_contrail-free-flying-could-help-the-climate-activity-7501053794470780928-sp9Q",
+        "title": "A small change with a big impact. This trial brings together many partners to test whether a small flight route diversion can help reduce aviation’s climate impact: https://b-gat.es/3V8Ytga",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHDm1Aa1IVpyQ/articleshare-shrink_800/B56aAbV8DCIAAY-/0/1787165131429?e=2147483647&v=beta&t=4DWv4C8a0BBb_hKfsegYbM-F5H8SmH0vjf3rnTnwA7I",
+        "id": "7501053794470780928"
+      },
+      {
+        "interaction": "Bill Gates shared this",
+        "link": "https://www.linkedin.com/posts/williamhgates_toilets-and-clean-water-save-thousands-of-activity-7500659184615727104--o3p",
+        "title": "Toilets and clean water save thousands of lives every day—even if they rarely make headlines. Here’s how:​",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQH96WGHI25xcg/thumbnail-shrink_720_1280/B4EaBexsWxIgAg-/0/1788296484338?e=2147483647&v=beta&t=8hgAsVlykZ7viKfvfxSxloI7tscQUawlwJbZ3Tkd_P0",
+        "id": "7500659184615727104"
+      },
+      {
+        "interaction": "Bill Gates shared this",
+        "link": "https://www.linkedin.com/posts/williamhgates_happy-birthday-warren-buffett-warren-activity-7499851762841927680-vBlr",
+        "title": "Happy birthday, Warren Buffett!​ ​ Warren turns 96 this month and I’ve been thinking about how to sum up almost 35 years of our friendship. ​ ​ It was a deep friendship from our very first conversation. And I’ve never stopped learning from him since. I think his jokes are all funny. His dietary habits are excellent. He once told me he looked at the data and figured out that first graders have the best actuarial odds, so he decided to eat like one. He was only half joking. ​ ​ He’s gifted at investing in people. Warren has always found time to nurture friendships like few other people I know. He’s one of the most patient people I’ve ever met. I’m still amazed by his ability to draw people in and he makes it fun to learn from him. ​ ​ He sticks to what he believes in. I once wrote him a letter about the example he set by sticking to what he believes in. That’s stuck with me for all these years. ​ ​ We never run out of things to talk or laugh about. And if there’s one thing Warren has taught me, it’s what friendship is really all about. In short, I’m a fan. ​ ​ Happy 96th birthday, my friend.​ ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHyp6wj776yNA/feedshare-image-high-res/B4EaBTTbuGHoAU-/0/1788103998721?e=2147483647&v=beta&t=FQiuTk7_fRkxd8ry3a6luyeGOF96PPCSaeumxbuzMjA",
+        "id": "7499851762841927680"
+      },
+      {
+        "interaction": "Bill Gates shared this",
+        "link": "https://www.linkedin.com/posts/williamhgates_powering-local-economies-activity-7499466490363006976-6zKp",
+        "title": "Breakthrough Energy companies are creating value close to home with projects that create good jobs, strengthen local economies, and help energy innovations reach more people. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E12AQGnAdSg9xImyg/article-cover_image-shrink_720_1280/B4EaA0zLv2H8AU-/0/1787592228110?e=2147483647&v=beta&t=6zD2rh-2bObkIyn2EwAtx1-1xad1TWH5rn9nltTIRLg",
+        "id": "7499466490363006976"
+      },
+      {
+        "interaction": "Bill Gates commented on a post 3d",
+        "link": "https://www.linkedin.com/posts/williamhgates_ive-had-a-number-of-thoughtful-and-engaging-activity-7501738402128715777-2w69",
+        "title": "You can read my memo here: https://gatesnot.es/4qUMfDP",
+        "img": null,
+        "id": "7501738402128715777"
+      },
+      {
+        "interaction": "Bill Gates commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/williamhgates_this-unprecedented-technology-demands-an-activity-7498545384043036672-c2bZ",
+        "title": "Read my full thoughts here: https://gatesnot.es/3UaGHsK",
+        "img": null,
+        "id": "7498545384043036672"
+      },
+      {
+        "interaction": "Bill Gates liked this",
+        "link": "https://www.linkedin.com/posts/rachelwellscareerexpert_bill-gates-says-some-jobs-should-be-off-limits-activity-7498326755087261696-qMeZ",
+        "title": "Bill Gates advocates for \"human-reserved\" jobs, akin to nature reserves, to shield specific roles from AI displacement. In a recent essay, he argued that some professions should be deliberately protected from AI, arguing that not all tasks AI can perform should replace human workers. Human connection and development in specific fields remain irreplaceable. What jobs should be protected from AI? How is AI job loss already negatively impacting the economy? And which professionals are most vulnerable to the negative impact of AI-related job displacement? Read today's Forbes article. https://lnkd.in/e9ipNYey",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQELzViBT6ZTrA/articleshare-shrink_800/B4EaA9n8eGHkAc-/0/1787740277504?e=2147483647&v=beta&t=IOcuI_8joY2ZaASpZqED1gX6mt1UhYHkhIdme0L5wMs",
+        "id": "7498326755087261696"
+      }
+    ],
+    "linkedin_num_id": "251749025",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEjhPbTCeblYg/profile-displaybackgroundimage-shrink_200_800/B56ZcytR5SGsAc-/0/1748902420393?e=2147483647&v=beta&t=a-tBeZkxzWTHWYY6MAjxt0oTEuxlW33EUkK3gm5_te4",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Blog",
+        "link": "https://gatesnot.es/sourcecode-li"
+      }
+    ],
+    "first_name": "Bill",
+    "last_name": "Gates",
+    "influencer": true,
+    "timestamp": "2026-09-08T12:00:27.320Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/williamhgates/"
+    }
+  },
+  "recordTime": null
+}

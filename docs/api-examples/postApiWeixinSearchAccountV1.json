@@ -1,0 +1,26 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:58.411759+08:00",
+  "_sourceCheckedAt": "2026-07-30T23:57:27",
+  "code": 0,
+  "message": null,
+  "data": {
+    "data": [
+      {
+        "name": "丁香医生",
+        "biz": "MjA1ODMxMDQwMQ==",
+        "owner_name": "杭州联科美讯生物医药技术有限公司",
+        "customer_type": "企业",
+        "ghid": "wxid_4302923029011",
+        "wxid": "DingXiangYiSheng",
+        "fans": 18096221,
+        "avg_top_read": 87673,
+        "avg_top_zan": 1867,
+        "avatar": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM6ZgyZRj3WvD0BTVSBiaaXQC4MBeaVRbIYNUibs1dk1ykPw/0",
+        "qrcode": "https://open.weixin.qq.com/qr/code?username=DingXiangYiSheng",
+        "week_articles": 45,
+        "lastest_publish": 1785210934
+      }
+    ]
+  },
+  "recordTime": "2026-07-30T23:57:27.204261932"
+}

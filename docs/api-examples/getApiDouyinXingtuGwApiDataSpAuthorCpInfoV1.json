@@ -1,0 +1,27 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:18.178859+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:04",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "expect_cpe": {
+      "cpe_21_60": "230",
+      "cpe_60": "230"
+    },
+    "expect_cpm": {
+      "cpm_21_60": "11721",
+      "cpm_60": "11721"
+    },
+    "expect_vv": {
+      "value": 5622950
+    },
+    "hot_item": {
+      "value": 1200
+    }
+  },
+  "recordTime": null
+}

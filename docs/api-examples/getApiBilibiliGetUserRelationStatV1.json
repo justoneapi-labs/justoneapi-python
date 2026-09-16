@@ -1,0 +1,21 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:10.979894+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "mid": 472747194,
+      "following": 12,
+      "whisper": 0,
+      "black": 0,
+      "follower": 4370154,
+      "fans_medal_toast": null,
+      "fans_effect": null
+    }
+  },
+  "recordTime": null
+}

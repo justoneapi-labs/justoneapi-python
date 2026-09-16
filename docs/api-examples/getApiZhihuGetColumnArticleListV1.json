@@ -1,0 +1,698 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:09.819550+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:48",
+  "code": 0,
+  "message": null,
+  "data": {
+    "paging": {
+      "is_end": false,
+      "totals": 1520,
+      "previous": "http://www.zhihu.com/api/v4/columns/zhangjiawei/items?limit=10&ws_qiangzhisafe=0&offset=0",
+      "is_start": true,
+      "next": "http://www.zhihu.com/api/v4/columns/zhangjiawei/items?limit=10&ws_qiangzhisafe=0&offset=10"
+    },
+    "data": [
+      {
+        "updated": 1788782039,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "乔丹六冠。 1991-93：场均32分6助攻，30分6助攻，33分6助攻，球队61、67、57胜，三连冠。 1996-98：场均30分4助攻，30分4助攻，29分4助攻，球队72、69、62胜，三连冠。 为啥 得分降了助攻降了，反而72胜69胜62胜了？皮彭也没变强啊？罗德曼进攻也不好过格兰特啊？ 尤其在1990那个中锋时代，公牛也没中锋啊？ 乔丹的角色定位。 禅师在公牛和湖人都打三角进攻，众所周知。三角进攻是个啥？ 起手：单侧三人，底角、翼侧、低位，形成…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2080381958039852727",
+        "voteup_count": 157,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2080381958039852727",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 17,
+        "created": 1788782039,
+        "content": "<p data-pid=\"wxwJgJCw\">乔丹六冠。</p><p data-pid=\"WFZ_NEM-\">1991-93：场均32分6助攻，30分6助攻，33分6助攻，球队61、67、57胜，三连冠。</p><p data-pid=\"Gey3tKV_\">1996-98：场均30分4助攻，30分4助攻，29分4助攻，球队72、69、62胜，三连冠。</p><p data-pid=\"zo9jTQZ5\">为啥<b>得分降了助攻降了，反而72胜69胜62胜了？</b></p><p data-pid=\"l9aPaYm4\">皮彭也没变强啊？罗德曼进攻也不好过格兰特啊？</p><p data-pid=\"HBrUH45N\">尤其在1990那个中锋时代，公牛也没中锋啊？</p><p data-pid=\"8y1wUsc6\"><b>乔丹的角色定位。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"I7cidacb\">禅师在公牛和湖人都打三角进攻，众所周知。三角进攻是个啥？</p><p data-pid=\"Qztx6nnA\">起手：单侧三人，底角、翼侧、低位，形成三角。另一侧两人，上线和弱侧游弋。</p><p data-pid=\"Pei3yN1z\">理论上是个<b>双上线、双内线，大量强弱转换。</b></p><p data-pid=\"6_nBXesF\">不需要一个传统控卫持球发起，只需要出球、切入、掩护、传导，以及五人不断交换位置。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-85cc036ae15061339b3f8f06dc561391_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"555\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://picx.zhimg.com/v2-85cc036ae15061339b3f8f06dc561391_r.jpg\" data-original-token=\"v2-457f82b5191e18f93005b93a9bb99455\"/></figure><p data-pid=\"b7kay5PU\">所以老公牛和老湖人，帕克森、老鱼、科尔、哈珀、皮彭都可以担当外线：出球和投篮就好，不用你太多运球。</p><p data-pid=\"hVNRZzgT\">帕克森、阿姆斯特朗、科尔、老鱼：这些组织后卫事实上都是<b>射手</b>。</p><p data-pid=\"Z75DtNVK\">三角进攻把“发动进攻”和“终结进攻”拆开了：不依赖乔丹一个人从发动到终结。大家都拿拿球，强弱侧多流转。这是禅师的初衷。</p><p data-pid=\"7RBGcu0D\">禅师和他的教练组承认过，<b>乔丹不需要三角进攻。</b></p><p data-pid=\"nJ423LRD\"><b>更像是：三角进攻让大家都摸摸球，有参与感，乔丹不接管时大家有个套路可以打。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"DcyOL1vy\">1991总决赛一个典型套路：</p><p data-pid=\"0srortYS\">皮彭左翼和卡特赖特已经形成三角，回传上线，帕克森转到右翼，乔丹和格兰特形成二人侧拉空，直接突破扣篮。三→二，弱侧。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-2fd2eea75233f3d1d1f5a374efbe062b_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"423\" data-thumbnail=\"https://pic4.zhimg.com/v2-2fd2eea75233f3d1d1f5a374efbe062b_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"584\" data-original=\"https://pic4.zhimg.com/v2-2fd2eea75233f3d1d1f5a374efbe062b_r.jpg\" data-original-token=\"v2-2fd2eea75233f3d1d1f5a374efbe062b\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"qDtO4UFw\">但乔丹不一定要去二人侧。下面这球，格兰特在二人侧拿球，回传皮彭，乔丹切出，在翼侧接球中投。</p><p data-pid=\"J1-TdGd6\">这两球都是卡特赖特左腰要位，格兰特罚球线策应，但乔丹和皮彭换位完成了进攻。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-22302cdc35b4df64d131e01aa581e00b_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"423\" data-thumbnail=\"https://picx.zhimg.com/v2-22302cdc35b4df64d131e01aa581e00b_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"584\" data-original=\"https://picx.zhimg.com/v2-22302cdc35b4df64d131e01aa581e00b_r.jpg\" data-original-token=\"v2-22302cdc35b4df64d131e01aa581e00b\"/></figure><p data-pid=\"aFuFfl-0\">再一个变化：</p><p data-pid=\"-0UrZCh8\">皮彭、乔丹和格兰特在右侧三角，然后皮彭回传上线，乔丹底线切出，帕克森给乔丹左翼接球中投。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5b84a63092f2d77d36824db5e75bf973_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"423\" data-thumbnail=\"https://pic4.zhimg.com/v2-5b84a63092f2d77d36824db5e75bf973_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"584\" data-original=\"https://pic4.zhimg.com/v2-5b84a63092f2d77d36824db5e75bf973_r.jpg\" data-original-token=\"v2-5b84a63092f2d77d36824db5e75bf973\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"9Mmi3GuD\">这就是三角进攻了。</p><p data-pid=\"Se_Ce_a0\">但值得注意的是，<b>前三冠时期，乔丹更多是三角进攻中的外线第一攻击点，而不是固定的中轴，尤其是不太负责去背身。</b></p><p data-pid=\"mY3T3Q9v\">球总在强弱侧转移，对手也来不及夹击。</p><p data-pid=\"-jqM65OZ\">把乔丹从“一个人组织全队”变成“一个人在最有利的位置接管进攻”。这样乔丹就不会被活塞的“乔丹定律”围死了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"txk3EEBi\">有意思的来了。</p><p data-pid=\"kvxTctzy\">1996-98，乔丹场均得分30，但助攻从1991-93的场均6左右跌到场均4。</p><p data-pid=\"7e2N0NPd\">但公牛进攻效率反而涨了。</p><p data-pid=\"iLS5h68C\">乔丹的作用？</p><p data-pid=\"dFA3fTQ2\">1996年对超音速总决赛很明白。</p><p data-pid=\"cvhntwvS\">右侧三人走位，乔丹罚球线背身接球，直接翻身中投——<b>二人侧的高位背身？前三冠格兰特的活儿？</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1494442200683859db38a38d96ab3726_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"647\" data-rawheight=\"447\" data-thumbnail=\"https://pic3.zhimg.com/v2-1494442200683859db38a38d96ab3726_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"647\" data-original=\"https://pic3.zhimg.com/v2-1494442200683859db38a38d96ab3726_r.jpg\" data-original-token=\"v2-1494442200683859db38a38d96ab3726\"/></figure><p data-pid=\"JcDzj6tU\">再看一个：</p><p data-pid=\"5-0MDR21\">皮彭左翼看形成三角，转移弱侧，乔丹和罗德曼右翼二人转中投——<b>这球罗德曼负责了格兰特的二人侧策应</b>。顺便，这个套路，2008-10湖人常用，科比+加索尔的二人转。</p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-614f48836e54224f50185e700b0cd6ae_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"647\" data-rawheight=\"447\" data-thumbnail=\"https://pica.zhimg.com/v2-614f48836e54224f50185e700b0cd6ae_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"647\" data-original=\"https://pica.zhimg.com/v2-614f48836e54224f50185e700b0cd6ae_r.jpg\" data-original-token=\"v2-614f48836e54224f50185e700b0cd6ae\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"SROyVQZ7\">乔丹也可以从底线切出，接上线高低位接球，直接滞空解决。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7951d7468df0dd4f254e56a50a43aa66_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"735\" data-rawheight=\"447\" data-thumbnail=\"https://pic3.zhimg.com/v2-7951d7468df0dd4f254e56a50a43aa66_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"735\" data-original=\"https://pic3.zhimg.com/v2-7951d7468df0dd4f254e56a50a43aa66_r.jpg\" data-original-token=\"v2-7951d7468df0dd4f254e56a50a43aa66\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"lkWhMD2d\">然后是最有趣的球了：</p><p data-pid=\"t0J5AwMm\">乔丹左腰背身拿球，转弱侧，自己再背身拿球，回传上线，三分球。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b77fdaed4222ef9387a3314edfc005fc_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"647\" data-rawheight=\"447\" data-thumbnail=\"https://pic3.zhimg.com/v2-b77fdaed4222ef9387a3314edfc005fc_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"647\" data-original=\"https://pic3.zhimg.com/v2-b77fdaed4222ef9387a3314edfc005fc_r.jpg\" data-original-token=\"v2-b77fdaed4222ef9387a3314edfc005fc\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"tNzCpDet\">前三冠，乔丹更多是三角进攻中的外线：卡特赖特和格兰特负责背身。</p><p data-pid=\"mxb3UlSF\">后三冠，乔丹可以是三角进攻中的内线了。战术上的中锋轴角色。</p><p data-pid=\"dc4lgE-Q\">最后这个球，他简直已经是中锋角色了。</p><p data-pid=\"53JA79Sa\">后三冠和前三冠，差别就在这里：</p><p data-pid=\"IZErEVi4\">前三冠：乔丹——外线第一攻击点<br/></p><p data-pid=\"elNpv6r5\">皮彭——第二持球/组织<br/></p><p data-pid=\"UIAM8xJV\">帕克森——射手<br/></p><p data-pid=\"gkdxHfNG\">格兰特——内线<br/></p><p data-pid=\"goGq2Fbt\">卡特赖特——中锋</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"dTGIxhZg\">后三冠：角色开始互相渗透。</p><p data-pid=\"XNgDfk66\">乔丹——外线/低位/策应<br/>皮彭——外线/组织/低位<br/>哈珀——外线/低位/防守<br/>罗德曼——内线/掩护/策应<br/>朗利——中锋/中投/策应<br/>库科奇——几乎到处都能出现</p><p data-pid=\"7g49E0wU\">最重要的是，<b>乔丹在三角构筑中能当中锋用了。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"NTeXCnDE\">1997年总决赛第五场，众所周知的发烧之战，乔丹除了38分，还有两个标志性助攻。</p><p data-pid=\"cXnPqElZ\">一个是：三人侧背身要位假装中锋，忽然切出到上线变身发牌人，回传皮彭背吃斯托克顿——他和皮彭担当了事实上的中锋。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-4ae88669670f581208fbd354de81b42b_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"735\" data-rawheight=\"447\" data-thumbnail=\"https://picx.zhimg.com/v2-4ae88669670f581208fbd354de81b42b_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"735\" data-original=\"https://picx.zhimg.com/v2-4ae88669670f581208fbd354de81b42b_r.jpg\" data-original-token=\"v2-4ae88669670f581208fbd354de81b42b\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"XZ5rWcy1\">他俩去背打了，那中锋干什么呢？乔丹左腰背吃霍纳塞克，吸引邮差注意，忽然传给弱侧横切的中锋朗利扣篮。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-8d3769b5920fa11e4e44c238631b910c_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"735\" data-rawheight=\"447\" data-thumbnail=\"https://pic1.zhimg.com/v2-8d3769b5920fa11e4e44c238631b910c_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"735\" data-original=\"https://pic1.zhimg.com/v2-8d3769b5920fa11e4e44c238631b910c_r.jpg\" data-original-token=\"v2-8d3769b5920fa11e4e44c238631b910c\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"Lz57csAe\">1994-96，乔丹退役两年，大梦两冠一MVP，鲨鱼一个得分王一个东部冠军，上将一得分王一MVP，尤因一次总决赛一个东部冠军。</p><p data-pid=\"_cuanWTL\">是为<b>四大中锋时代。</b></p><p data-pid=\"jzXLtv6Z\">乔丹在1996-98，在没有超级中锋的情况下，重新三连冠，与其说是结束了中锋时代，不如说是：</p><p data-pid=\"YraDGUvP\"><b>他以老去的后卫身躯，复刻了中锋战术。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-84c64ca9da1b22e02b2174ac98bfbf6c_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"678\" data-rawheight=\"452\" class=\"origin_image zh-lightbox-thumb\" width=\"678\" data-original=\"https://pic3.zhimg.com/v2-84c64ca9da1b22e02b2174ac98bfbf6c_r.jpg\" data-original-token=\"v2-305fffc6c156d3a6741a406d725bd600\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"p5UUd1j5\">前三冠，三角的低位支点更多由卡特赖特、格兰特等内线承担；后三冠，乔丹越来越频繁地自己进入低位。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"_Wd-ydkw\">1996-98，乔丹助攻降了，反而公牛进攻体系依然运转完美的原因：减少了弧顶无谓的持球与耗时突破，乔丹直接落到位接球，单打或出球都在瞬间完成，后三冠失误率显著降低。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"SApWAT7p\">罗德曼不用去和雨人邮差比单挑，朗利不用像四大中锋那样内线肉搏。</p><p data-pid=\"sm_7rHgD\">没中锋的球队杀穿四大中锋时代、邮差和雨人的肌肉夺冠？谁负责让对手在意禁区？谁负责内线压缩对手防线制造杀伤？谁负责背身威胁？</p><p data-pid=\"P1DV5sm_\"><b>乔丹自己。</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e1f7a73ef550b92d0174b9d6394ae8dc_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"384\" data-rawheight=\"288\" data-thumbnail=\"https://pic1.zhimg.com/v2-e1f7a73ef550b92d0174b9d6394ae8dc_b.jpg\" class=\"content_image\" width=\"384\" data-original-token=\"v2-e1f7a73ef550b92d0174b9d6394ae8dc\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"Bi01dFVD\">顺便由此延伸一个话题：</p><p data-pid=\"4pxRqSFo\">现在空间时代，大家都会觉得内线人多碍事，很多人误会，觉得三分手才是空间威胁。</p><p data-pid=\"z0p8l_1e\">但一个攻击力超绝、且出手快到对手来不及夹击的内线无球存在，本身就是空间威胁：摩西的前场篮板，鲨鱼的背身威胁，都会让对方扩防外线时三思后行，有所顾虑。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"tQdCOmjD\">外线走位终极威胁：库里。</p><p data-pid=\"yXnp1_-E\">内线要位终极威胁：鲨鱼。</p><p data-pid=\"w1eLmlWs\">都是站在那里，就能破坏对手防守。</p><p data-pid=\"48vtrt7Q\">后三冠乔丹和2011德克却是另一个模式：<b>他俩内线外线走位到处都有威胁，能背身，能切出，让一个24秒回合可以有多个选项</b>。</p><p data-pid=\"3Bjx8kXU\">所谓体系核心，就是能围绕一个球员（不管有球无球）稳定地构建进攻，不断生成新的进攻选项。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"xir7ABku\">这是乔丹后三冠那些背身后仰跳投真正重要的地方：</p><p data-pid=\"YCb8m9Or\">他不只是一个超级终结者、一个可以硬解的单打手。万花筒攻击手多了。</p><p data-pid=\"NvS7kD_B\">但他的“外线游弋+背身威胁”，提供了<b>传统中锋+翼侧终结+上线接球持球多种进攻威胁</b>。后三冠他比前三冠减少了外线突破得分，但增加了背身接球（的可能）。仅仅是这种<b>可能</b>，就让三角进攻运作更流畅。</p><p data-pid=\"HC0FxKqO\">或者用最简单粗暴的说法：</p><p data-pid=\"qaD-Rc-9\">前三冠乔丹更多还在外线，后三冠乔丹在三角进攻中，<b>事实上提供了超级中锋进攻端的功能</b>——“公牛不需要超级中锋，我可以是中锋”。</p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "乔丹为什么不需要超级中锋",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1788430087,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "本世纪的进攻轴心。 勒布朗证明了持球核能做多少；库里证明了无球威胁和三分球的可能。 在他们之前，有一个人将“持球核破坏”与“三分球可能”结合演示了一遍：只凭持球、移动、挡拆、即时决策和空间互哺（三分手拉开空间，自己喂三分手），可以打出怎样的效果： 纳什。 21世纪初，德克+纳什都在独行侠。 联盟进攻排名。 2002独行侠第1。太阳第19。 2003独行侠第1。太阳第19。 2004独行侠第1。太阳第22。 2004年夏天纳什从独行…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2078905581059023511",
+        "voteup_count": 156,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2078905581059023511",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://pic1.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 15,
+        "created": 1788430087,
+        "content": "<p data-pid=\"ZqF15Oj5\">本世纪的进攻轴心。</p><p data-pid=\"ult2Punr\">勒布朗证明了持球核能做多少；库里证明了无球威胁和三分球的可能。</p><p data-pid=\"c5Pya2Kk\">在他们之前，有一个人将“持球核破坏”与“三分球可能”结合演示了一遍：只凭持球、移动、挡拆、即时决策和空间互哺（三分手拉开空间，自己喂三分手），可以打出怎样的效果：</p><p data-pid=\"VC06PCUV\">纳什。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"PGi7_Ap5\">21世纪初，德克+纳什都在独行侠。</p><p data-pid=\"Z7CPBmpN\">联盟进攻排名。</p><p data-pid=\"-ovdQrJz\">2002独行侠第1。太阳第19。</p><p data-pid=\"zvzwXNIk\">2003独行侠第1。太阳第19。</p><p data-pid=\"jBPf3QqF\">2004独行侠第1。太阳第22。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"1mkVBoFC\">2004年夏天纳什从独行侠到太阳，德克留在独行侠。</p><p data-pid=\"if8sENZo\">2005太阳第1，独行侠第4</p><p data-pid=\"Dv1Ntkjn\">2006独行侠第1，太阳第2。</p><p data-pid=\"YWHhH6zp\">2007太阳第1，独行侠第2。</p><p data-pid=\"8zlmN6-H\">2008太阳第2，独行侠第8。</p><p data-pid=\"_jsTBxxy\">2009太阳第2，独行侠第6。</p><p data-pid=\"-hRY2obk\">2010太阳第1，独行侠第10。</p><p data-pid=\"aCpSy7LK\">2002-2010这九年，纳什所在的球队六年联盟进攻第一，三年联盟进攻第二——年年联盟前二。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"JSbCypxW\">“但他是靠德克和小斯？”——后六年他身边没有德克。2006他身边没有小斯。</p><p data-pid=\"QmVTlbc0\">“但他是靠教练？”——独行侠他教练是老尼，太阳他经历三任教练：丹东尼、波特和金特里。四个教练，他为三个教练带队到了西决。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"bzmXVW7B\">组织后卫的数据很有迷惑性。基德在网那几年差不多场均15分9助攻，保罗在快船和黄蜂差不多场均18分10助攻，刺客生涯场均19分9助攻，斯托克顿巅峰期连着近十年场均16分12助攻，纳什在太阳后面那几年场均17分11助攻。</p><p data-pid=\"dIOC_wpT\">“看上去差不多嘛！”“十几二十分，十来个助攻！传统控卫！”</p><p data-pid=\"zqzicccM\">然而不太一样。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"-o43fy2_\">比如基德在网那些年，固然两进总决赛，但网进攻联盟排名：倒14，倒8，倒14，倒13，倒5，倒5，倒6，倒15，倒6。</p><p data-pid=\"a0kz1nh2\">我认为基德是史上1号位里防守第一，传球技法和控场史上前五，转换进攻史上前五——但阵地战创造不提也罢：分配多过创造。</p><p data-pid=\"GOEtPAsS\">斯托克顿的助攻和稳定史上第一，但他更接近一个体系操作者：按机器开关。分配精确到极限，创造狡猾聪慧多于强硬。</p><p data-pid=\"g843WSXf\">刺客平时调度有方，需要时自己接管：组织时康利，单挑时欧文。</p><p data-pid=\"zcClqw9z\">保罗能分配，能持球挡拆创造，这点和纳什接近了，但他整体条理清晰，谨慎到近乎保守。</p><p data-pid=\"vdYNaqS0\">保罗、奥斯卡和勒布朗其实可算是一类：极佳的大局观，掌控节奏，到哪里都能保证球队的高下限。</p><p data-pid=\"QsML7MIq\">但都不是纳什。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"YUPXEJSy\">虽然数据、风格和技术不同，但纳什、魔术师、库里和乔丹有一点类似：咄咄逼人的侵略性。</p><p data-pid=\"Rox_plUO\">你必须改变自己的策略，不然我用我的长处追着搞死你。</p><p data-pid=\"DuJ4RmQG\">只是库里用远射威胁，魔术师用推节奏与错位，乔丹用三千招式（滑翔机原话），纳什用无休持球突击。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"7ISDMVpa\">老尼尔森和丹东尼也不同：许多媒体会直接说这俩都是小球快打。都快，都爱扔三分。</p><p data-pid=\"ulWg0BRs\">但老尼尔森是大家自由奔放发挥长处，身高和位置无所谓，你的优点在哪里？自由奔放打对面冷不防！三分球是终结的武器！</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"0vBA90fX\">丹东尼是空间。</p><p data-pid=\"9yFJvOdx\">射手群拉开推进，纳什你推速度找空位，要么启动挡拆；对面要么被太阳三分投死，要么被纳什投死，要么被纳什找小斯和马里昂突死，自己选。</p><p data-pid=\"WPrFBD0H\">丹东尼在太阳带纳什，纳什三连助攻王，连续四年场均助攻上11。</p><p data-pid=\"1oDx55Rq\">丹东尼后来在火箭也如此找哈登，哈登于是先助攻王，然后三连得分王。</p><p data-pid=\"zEY10BTj\">这是俩人的不同：同样“找挡拆，喂饼或给空位三分”，哈登更倾向自己打，纳什更能找到空位。</p><p data-pid=\"oHzrRHvd\">这可能是纳什最无可取代的地方了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"WFyj26M8\">纳什的快不是跑得快——肯定不如威少和罗斯，甚至不如自家队友巴博萨。</p><p data-pid=\"ZczdcpJE\">不是投篮快——不如库里。</p><p data-pid=\"uegFlNwU\">不是推反击快——不如魔术师。</p><p data-pid=\"3Q5hLCzh\">但在行进，破坏对手防守后，稍纵即逝的机会把握，他可能是历史第一：这个赛道，敏锐如伯德与约基奇也胜不过他。</p><p data-pid=\"yLT_Damk\">而约基奇和伯德，又都没有纳什的运球：他俩都更依靠队友跑动抓空切。</p><p data-pid=\"LAo_CNZ2\">保罗、哈登和勒布朗都能创造，他们的视野都看得见传球窗口，但并不一定能/敢第一时间传，后两个人靠自己的单打来解决问题，实效也不错。</p><p data-pid=\"AuAVQl7r\">反过来，纳什，比起伯德、约基奇和迪奥，他一刻不停地移动。这是他和库里最像的地方。只是库里的一刻不停更多是无球走位牵扯，纳什却是一刻不停地在对方腹地游荡，著名的“纳什切”就是在对方心脏地带转一圈又走出来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"adEN6JPn\">说到传球，魔术师、纳什、约基奇、伯德、基德、保罗、勒布朗、斯托克顿、吉诺比利、卢比奥、哈利伯顿、卢卡、迪奥、三球、隆多、哈登……都很好。</p><p data-pid=\"vAWms6rr\">但这些人中间：</p><p data-pid=\"R_g-qZ7p\">约基奇、迪奥和伯德运球少。</p><p data-pid=\"BU5aqEL_\">基德、隆多和卢比奥个人进攻欲望和能力有限。</p><p data-pid=\"e1IONsDY\">斯托克顿和保罗过于求稳持重。</p><p data-pid=\"kWiVrba9\">勒布朗和哈登会倾向自己打。</p><p data-pid=\"9RF_Z4PM\">卢卡不爱推快。三球有点浪。哈利伯顿阵地战进攻并不如推全场。</p><p data-pid=\"U-nC-lxz\">运球+阵地战个人进攻+大胆追击+机敏出球，还真就是魔术师和纳什最积极。所以他俩是最典型的“数据无法形容”的进攻引擎：水银泻地的场面，球队进攻效率，远比他们的数据动人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"AlAS1Oy6\">纳什第二个MVP赛季时自己说：“我与其说是快，不如说是难以捉摸，许多人会混淆这两个事。我移动起来真还挺棒的：那需要你的协调、时机把握和平衡都很好。我一旦移动起来，就能做许多事了，但我爆发力实在不好。”</p><p data-pid=\"JapjgHcC\">难以捉摸，不可预测，这就够了。反例，何为可预测？——本·西蒙斯传球足够好，但大家都知道他不投三分。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"Jb60x6MF\">纳什的好，得看那些黑洞们的说法。莫不传还在雄鹿时就说：“太阳的体系没了纳什根本就无法运作。他能传球，他能抛投，他能跳投得分……他太棒了。他的存在就能让球队战术在85%的回合里跑出来，这就了不起。”</p><p data-pid=\"zhZ8KTnX\">大概，如果说那些单打王牌——莫不传自己——负责的是硬解，纳什所做的就是让你“不用硬解”。</p><p data-pid=\"60LSz2JN\">阿里纳斯认为，纳什用他的转移球控制着比赛。他总能看到所有队友，关怀所有队友的需要——所以纳什的队友们都喜欢他。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"KbnQkBlv\">所以最后，防住太阳的办法甚至是：</p><p data-pid=\"7V4fLoPS\">让纳什得分。</p><p data-pid=\"_8q3SVMJ\">2005年第一个MVP赛季，纳什常规赛对场均16分12助攻。刺激的来了。</p><p data-pid=\"qOlWuYRi\">季后赛首轮，太阳4比0灰熊。纳什前两场25分28助攻：他喜欢助攻多过得分。</p><p data-pid=\"v9MZCbR8\">次轮对独行侠，纳什第三场27分17助攻。第四场独行侠让纳什28投20中得了48分，赛后约什·霍华德们认为球队成功防住纳什了，因为纳什只有5助攻，“他没能启动挡拆”。</p><p data-pid=\"NmaQpmvN\">然而第五场纳什34分12助攻，第六场39分12助攻。太阳晋级。</p><p data-pid=\"uqHnNUXy\">系列赛最后三战，纳什场均41分10助攻。这是2005年，数据还没大爆炸的时代。持球大核纳什在季后赛的可能性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"ZVjFS1XZ\">那年西决，马刺4比1击败太阳。都知道那个系列赛小斯场均37分，马刺的其他策略：</p><p data-pid=\"0uv9AHiz\">常规赛场均射进10个三分球的太阳，那个系列赛场均6个三分球。纳什场均23分11助攻，但系列赛三分球9中2。</p><p data-pid=\"XjSwYfcP\">“纳什可以突破，小斯可以纵横内线，他俩可以加起来每场得60分，担太阳别想进三分球”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"hBmA_CEP\">2007年太阳对湖人第四场，纳什23次助攻，季后赛单场历史第三，只次于斯托克顿和魔术师的24次。</p><p data-pid=\"vsWl2Uo2\">那场的典型。</p><p data-pid=\"-dDG5P9b\">——反击中接回传，一个弱侧传球假动作，启动，直塞内线小斯，扣篮。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-e71da1b400bc13842545d64d1265ffc3_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"520\" data-rawheight=\"293\" data-thumbnail=\"https://picx.zhimg.com/v2-e71da1b400bc13842545d64d1265ffc3_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"520\" data-original=\"https://picx.zhimg.com/v2-e71da1b400bc13842545d64d1265ffc3_r.jpg\" data-original-token=\"v2-e71da1b400bc13842545d64d1265ffc3\"/></figure><p data-pid=\"R4yp0eDN\">——反击中面对沃顿，停下，科比发现法玛尔没跟到位，赶紧自己去弧顶补位，就在科比启动瞬间，纳什直吊篮下马里昂空接。纳什甚至预判了科比的预判。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-26281dac8d6cd139ae450b8275bee15e_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"520\" data-rawheight=\"293\" data-thumbnail=\"https://pic1.zhimg.com/v2-26281dac8d6cd139ae450b8275bee15e_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"520\" data-original=\"https://pic1.zhimg.com/v2-26281dac8d6cd139ae450b8275bee15e_r.jpg\" data-original-token=\"v2-26281dac8d6cd139ae450b8275bee15e\"/></figure><p data-pid=\"NZgAaFVh\">——牛角位双掩护，看马里昂和小斯双顺下，等奥多姆出来，一个击地穿过夸梅·布朗，让小斯轻松扣篮。传球细节。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-5513702adbbaebd5020cbad827536b69_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"520\" data-rawheight=\"293\" data-thumbnail=\"https://picx.zhimg.com/v2-5513702adbbaebd5020cbad827536b69_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"520\" data-original=\"https://picx.zhimg.com/v2-5513702adbbaebd5020cbad827536b69_r.jpg\" data-original-token=\"v2-5513702adbbaebd5020cbad827536b69\"/></figure><p data-pid=\"ehKj0Y06\">——突破武贾西奇，利用马里昂顺下稳住奥多姆，等奥多姆补位、卢克·沃顿起跳时，给弱侧底角巴博萨远射：这一球他是起跳后传球，科比甚至预判错了，以为他要传给弧顶贝尔。</p><p data-pid=\"d7od8Xg2\">这是纳什最典型的招式：直接突袭，破坏对方防守，在不止一个传球选项间戏耍对手，连科比都猜错了他的传球路线。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a97bc6ae946e24f7ce745cc963ea21dd_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"520\" data-rawheight=\"293\" data-thumbnail=\"https://pic4.zhimg.com/v2-a97bc6ae946e24f7ce745cc963ea21dd_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"520\" data-original=\"https://pic4.zhimg.com/v2-a97bc6ae946e24f7ce745cc963ea21dd_r.jpg\" data-original-token=\"v2-a97bc6ae946e24f7ce745cc963ea21dd\"/></figure><p data-pid=\"D7eni8je\">——纳什先造换防，让科比去对位小斯，自己面对图里阿夫，错位突破，在没有充分拉开底角的情况下引奥多姆补位，低手喂给迪奥上篮。</p><p data-pid=\"Rdt3wP8Q\">招牌的破坏性喂饼。点错位强吃，哈登、勒布朗和卢卡都会，但空间狭窄中渗透、轻若无物地给球，很纳什。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-9969137b49c9fb76717960280d376cbb_1440w.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"520\" data-rawheight=\"293\" data-thumbnail=\"https://picx.zhimg.com/v2-9969137b49c9fb76717960280d376cbb_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"520\" data-original=\"https://picx.zhimg.com/v2-9969137b49c9fb76717960280d376cbb_r.jpg\" data-original-token=\"v2-9969137b49c9fb76717960280d376cbb\"/></figure><p data-pid=\"8H44vc3B\">速度，直接，传球细节，无休个人进攻，足以让科比都不止一次判断错误的随机应变。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"SaR3lL6R\">那些年的历史进程：</p><p data-pid=\"X9iSxnoF\">2004年no-handcheck规则出台。</p><p data-pid=\"aVBaVKel\">2005和2006，纳什蝉联了常规赛MVP。</p><p data-pid=\"l2uDGbsW\">下一年勒布朗作为骑士持球核进了总决赛，帕克作为马刺第一突破手拿了总决赛MVP。</p><p data-pid=\"DByF7-2m\">下一年罗斯成了魔术师以来第一个控卫状元（AI大学时是得分后卫），勒布朗之后作为持球核蝉联两届MVP。罗斯、威少、沃尔、保罗、德隆甚至泰瑞克·埃文斯们都拿到了足够多的球权。大家都开始相信后卫挡拆突破的威力。</p><p data-pid=\"jRNjzpRa\">独行侠靠囤积三分射手、重用挡拆强投型后卫（巴里亚、特里）、围绕德克建队崛起。2012-14的热直接四外射手拉开。2014的马刺用了纳什带出来的迪奥传球。</p><p data-pid=\"jifoZYhx\">2009年太阳总经理科尔曾想选库里，“当纳什的接班人”，但同样带过纳什的老尼尔森，以及他在勇士留下的助教拉里·莱利得到了库里。</p><p data-pid=\"8Mnjiow5\">之后科尔2014年终于带了库里，启动了空间战略，2015年勇士夺冠后，当时勇士的助教金特利说“告诉丹东尼，他被平反了”——金特利和丹东尼都带过纳什。</p><p data-pid=\"J99kLva3\">2018年勇士和火箭空间阵三分群对打，两边主帅科尔和丹东尼分别是纳什在太阳时的总经理和主教练。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"boXKwlh8\">大概，纳什的两连MVP之后，大家相信了持球核创造的可能，于是昌西和安德烈·米勒这类后卫减少，遂有勒布朗、罗斯、威少、沃尔，以及后来丹东尼带哈登，以及后来的卢卡甚至坎宁安。</p><p data-pid=\"geWrtOOM\">独行侠和太阳的战略，大家相信了速度与远射的可能，于是2011-14，独行侠和热推动了三分群，终于科尔独辟蹊径让库里们展开了大空间时代。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"wlEkpNAP\">纳什自己甚至没吃到大空间时代的红利，只是启迪了时代：</p><p data-pid=\"VH7NutMm\">2005-07连续三年，太阳三分球都领跑NBA，终于2009年魔术学会了，三分球领跑联盟，于是德怀特+四个三分手进了总决赛。</p><p data-pid=\"x5Jml4lW\">然而那几年太阳也就场均投25个三分球进10个而已。如果纳什身处一个每场投40个三分球的时代，他的空间更宽广，出球选项更多。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"CAGakCYj\">2011年卡莱尔教练赞美基德时说，评价一个组织后卫不能看助攻数据，而得看球队赢球数字。</p><p data-pid=\"mNe_F_X0\">纳什也是。体现他价值的不是得分或助攻，是他所在的球队连续九年联盟进攻前二，以及他身后方兴未艾的“持球挡拆后卫”“三分射手群”的浪潮。</p><p data-pid=\"-VZGQdWs\">他不一定是传球最好的、投篮最好的，跑得快跳得高更无从说起，但很可能是“移动中创造机会并把握住机会”最好的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"IVrdK6NC\">笨拙的进攻球员是：人快过球快过判断。只知道自己单打，球出不去，决策更慢。</p><p data-pid=\"XKmJqbMM\">纳什是：判断快过球快过人。</p><p data-pid=\"kxTq5ShU\">于是可能是NBA史上最能随机应变、最不可预判的球员，用他自己的话，“难以捉摸”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"hp7fLPF8\">进攻威胁不一定要得分，可以让整个防守系统先崩掉，然后让队友们投进空位三分或袭篮——勒布朗的持球威胁，库里的无球威胁，以及“囤积三分手，看巨星和空间可以如何相互成就”。</p><p data-pid=\"UzSII2wE\">前面的可能性：2002-10年间，年年球队进攻前二的纳什。</p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "纳什的可能，以及后来的勒布朗与库里",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1788254074,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "瑞秋·格林和斯佳丽·奥哈拉。 都是骄纵美人。 少女时期都擅长调弄男生。 都是被父亲宠大的千金小姐。都一度在情感中极度自我：于是一度都后知后觉，把最重要的人当成理所当然，后知后觉。 斯佳丽在全书结尾才意识到自己压根不爱阿希礼而爱瑞特，瑞秋在罗斯要在英国结婚时才意识到自己爱罗斯，然后就做了很斯佳丽的事，“我要在婚礼前告诉他！” 都有很多缺点，却很容易让观众喜欢：因为她们不完美，但有活人感。 [图片] 她俩都曾经是…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2078168713199728519",
+        "voteup_count": 123,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2078168713199728519",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 7,
+        "created": 1788254074,
+        "content": "<p data-pid=\"NUUle1wx\">瑞秋·格林和斯佳丽·奥哈拉。</p><p data-pid=\"mTshuNjK\">都是骄纵美人。</p><p data-pid=\"mzKhVyVn\">少女时期都擅长调弄男生。</p><p data-pid=\"a2ULMDmH\">都是被父亲宠大的千金小姐。都一度在情感中极度自我：于是一度都后知后觉，把最重要的人当成理所当然，后知后觉。</p><p data-pid=\"HGjIc9c-\">斯佳丽在全书结尾才意识到自己压根不爱阿希礼而爱瑞特，瑞秋在罗斯要在英国结婚时才意识到自己爱罗斯，然后就做了很斯佳丽的事，“我要在婚礼前告诉他！”</p><p data-pid=\"tZkvCra4\">都有很多缺点，却很容易让观众喜欢：因为她们不完美，但有活人感。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-d98f90c1faea9d9478f87aee913eea25_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"340\" data-rawheight=\"260\" class=\"content_image\" width=\"340\" data-original-token=\"v2-cb2ece9a57a999c402cd439dd603ccb5\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"HMuhmmbw\">她俩都曾经是有求必应、自我中心，不知世道艰辛的少女。</p><p data-pid=\"7SAcxGKH\">《了不起的盖茨比》中，黛西曾被形容为careless，没心没肺。瑞秋和斯佳丽都曾如此。美国文化里典型的金发女郎。</p><p data-pid=\"ZTmVV8Z1\">但她们没变成黛西：她们都从被父亲养着的女儿，变成能够养活自己的女人；都走出温室，试图独立。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-711459c46a321e87863a68ce1a63a9c1_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"364\" data-rawheight=\"309\" class=\"content_image\" width=\"364\" data-original-token=\"v2-f8c8e1b3ddde2fcec64cf59e31ec69ac\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"L6dNAl0F\">斯佳丽早年在庄园里随心所欲，战争摧毁庄园后，她从废墟里刨土，勤恳拼命，还喊了那句著名的“我绝不再挨饿”。</p><p data-pid=\"7BOvraFC\">瑞秋早年被骄纵，婚礼现场逃婚，在老友们的围观下剪碎所有信用卡，从剪不明白咖啡机的小侍应生做起，最后拼到了时尚产业高管。</p><p data-pid=\"jUc71fE6\">她俩都不是深谋远虑的聪明姑娘，但被逼到墙角后自力更生，爆发出的生命力。</p><p data-pid=\"kMgCB6o4\">她们都不是安静贤淑受苦型女主。</p><p data-pid=\"Zhx7Ir9M\">斯佳丽会撒娇、耍脾气、骗人、撒谎，但坚持活下去。</p><p data-pid=\"ATai0DbG\">瑞秋会哭会闹，会吃醋会冲动，会犯错搞砸事情，然后继续生活。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"UL_Tx3nk\">斯佳丽很知道男人喜欢什么，知道何时撒娇何时吃醋，能把所有男人——除了阿希礼和瑞特——摆弄得团团转。</p><p data-pid=\"5Z1wCHqW\">瑞秋漂亮，会打扮，清楚地知道自己的吸引力。</p><p data-pid=\"7vUnnLJq\">她俩都不介意抢男人：斯佳丽为了保庄园，可以抢妹妹的未婚夫。瑞秋在感情中也会反复动摇、破坏罗斯的恋爱关系。</p><p data-pid=\"aYDGjX2K\">但观众不太会讨厌她们：她们的自私，是对自己欲望的诚实——当然也因为，漂亮姑娘做什么都可以被原谅。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-dbec3d40ab391bdfcd2ff3974c61cac1_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"778\" data-rawheight=\"634\" class=\"origin_image zh-lightbox-thumb\" width=\"778\" data-original=\"https://pic4.zhimg.com/v2-dbec3d40ab391bdfcd2ff3974c61cac1_r.jpg\" data-original-token=\"v2-7af35d03d15817c2f7c4a4d0465efb50\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"cUAGq1sW\">她们有别于美丽花瓶的就是行动力和适应能力。她们被扔进现实生活后，一边抱怨，一边工作、挣钱、承担责任、处理人际关系，自力更生：</p><p data-pid=\"tCtgTiVf\">事情已经糟成这样了？那就先想办法解决？</p><p data-pid=\"qMYnPNQi\">不体面？也要解决！</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"pXXyPCw5\">典型的“美国大妞”——哪怕今天被生活打倒，明天换上一套漂亮衣服，依然能昂着头继续生活。从娇滴滴的“花瓶”，最后野草般轰轰烈烈的生命力。</p><p data-pid=\"FJCUwi2N\">表面娇滴滴地美丽，内心简直有点糙汉。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-012aabf2b1438bfa0e322c1fcdeee5a2_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"534\" data-rawheight=\"541\" class=\"origin_image zh-lightbox-thumb\" width=\"534\" data-original=\"https://pic1.zhimg.com/v2-012aabf2b1438bfa0e322c1fcdeee5a2_r.jpg\" data-original-token=\"v2-8a9facb6fdb7287d8ac9142143af4421\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"waWAK5Nk\">她们都经常搞砸，但都硬撑着过去了：</p><p data-pid=\"io_akqxT\">斯佳丽穿了旧窗帘缝制绿裙子去见白瑞德，双手满是干农活留下的老茧，但依然骄傲。</p><p data-pid=\"ZyfgqeR2\">瑞秋所有的笑料，包括但不限于跳拉拉队长舞出丑、不会调椅子高低、面试时错亲了老板，都是用力过猛，但之后她总是勇气十足地撑下来。尤其错亲老板那一出，她气势十足地说“我敢回来，是因为我勇敢，不爱告密，还有勇敢……你得承认勇敢很重要！”她最后一个人生娃、单亲带娃、在残酷的纽约时尚圈独立立足，从不回洞穴求助父亲。当她俩骄纵妹子登场，告诉她“你是爸爸唯一自豪的女儿”时，她高兴坏了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-400a8e03de05711b313828561428c223_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"879\" data-rawheight=\"633\" class=\"origin_image zh-lightbox-thumb\" width=\"879\" data-original=\"https://pic4.zhimg.com/v2-400a8e03de05711b313828561428c223_r.jpg\" data-original-token=\"v2-38b640670e670938d70f169bdb4cebc4\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"MLEagmGa\">以及，都有好闺蜜。</p><p data-pid=\"vb_ZVD9-\">斯佳丽一直以为自己在保护玫兰妮，最后发现玫兰妮才是她最珍贵的安全基地。</p><p data-pid=\"kB0gfCIE\">而莫妮卡则是瑞秋进入成人世界后的第一个安全基地。</p><p data-pid=\"Bmhr8h9V\">偏这两个闺蜜，都被她们热切的生命力吸引了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"vkj4Gs7I\">如果有不同，大概是：斯佳丽是个女人，但不像她妈妈艾伦那样的完美淑女，却像她爸爸那样执拗。</p><p data-pid=\"egGrz0bO\">战争来了，家人死了，庄园破产了。她咬咬牙自己来。种棉花、经营土地、做生意、赚钱。她相信生存，相信土地，因为她爸爸这么说了。</p><p data-pid=\"368pGzsR\">斯佳丽最终没有得到她想要的人：你成长了，但也失去了。她终于明白自己爱瑞特，但晚了，瑞特的爱已经被磨光了。斯佳丽最后只能继续坚强：</p><p data-pid=\"0Xmdsb9o\">“明天就是另一天了！”</p><p data-pid=\"6gQYLuzp\">也因为她亲历了一个秩序崩坏的乱世，一切随风而逝后，她没有了容错率，只有自己战斗下去。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-9cbb3b85b81f43c92591e331ea22c509_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"457\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"457\" data-original=\"https://pic2.zhimg.com/v2-9cbb3b85b81f43c92591e331ea22c509_r.jpg\" data-original-token=\"v2-dc0bf5b484f0da131de3e1db100ac843\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"LewvOaND\">瑞秋却柔软得多。她日常是，莫妮卡所谓的，pushover，可以被推着走。她想成为一个真正独立的大人，同时还想被爱。她在飞机上意识到自己想要回到罗斯身边，于是以她的果决直接冲了回去。</p><p data-pid=\"hL1926iD\">当然也因为她身处于喜剧之中：</p><p data-pid=\"9iHs8Z6Y\">《老友记》整个基调依然是，你可以成长、犯错与徘徊，而且最后，你还可以拥有爱情。</p><p data-pid=\"AbIMCir5\">瑞秋自立的过程中，一直相信自己可以依靠她的朋友和爱人，朋友与爱人就是你的容错率——最后也的确如此。</p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "斯佳丽与瑞秋：美国美人的传承",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1787915680,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "刘翔2004年奥运会夺金的110米栏12秒91，至今都还是奥运会纪录： 迄今为止，奥运会男子径赛最悠久的纪录。 博尔特的200米19秒3和贝克勒的5000米12分57秒82，都是2008年至今。 22年了。 如何形容那枚金牌的感觉呢？ 我开始看奥运会，是1992年巴塞罗那，16枚金牌，其中12枚女子项目。我还记得伏明霞跳水时，巴塞罗那的远山背景。 1996年亚特兰大，16枚，9枚女子项目：王军霞的5000米冠军，东方神鹿——男子项目包括占旭刚和唐灵生的…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2076748890661971621",
+        "voteup_count": 1010,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2076748890661971621",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://pica.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://pic1.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 82,
+        "created": 1787915680,
+        "content": "<p data-pid=\"4ivQ8Mnl\"><b>刘翔2004年奥运会夺金的110米栏12秒91，至今都还是奥运会纪录：<br/>迄今为止，奥运会男子径赛最悠久的纪录。</b></p><p data-pid=\"GZqyqdct\"><br/>博尔特的200米19秒3和贝克勒的5000米12分57秒82，都是2008年至今。<br/>22年了。<br/>如何形容那枚金牌的感觉呢？<br/><br/>我开始看奥运会，是1992年巴塞罗那，16枚金牌，其中12枚女子项目。我还记得伏明霞跳水时，巴塞罗那的远山背景。<br/>1996年亚特兰大，16枚，9枚女子项目：王军霞的5000米冠军，东方神鹿——男子项目包括占旭刚和唐灵生的举重，孔令辉和刘国梁的乒乓球，杨凌的射击，李小双的体操，熊倪的跳水。大家最叹惋的便是：王义夫昏倒之前的最后一枪。<br/><br/>那时大家都知道中国代表团的风格：女子项目格外强，传统优势基本是乒乓球、跳水、羽毛球、体操、射击、举重。<br/>纯粹比速度、力量、身体对抗的项目，难得有突破。男篮进八强，已经是大喜事：巴特尔和郑武撞胸，胡卫东连续两届大赛是中国队得分王，王治郅得到了美国人的认可，大家都很高兴——当然，隔壁女足拿了银牌，三年后女足世界杯亚军。<br/>茶余饭后，长辈都叹：什么时候，男子选手能在个劲爆点的项目中登顶啊？<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a3c63af6a577067062cc0ebf893b92cb_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"362\" data-rawheight=\"336\" class=\"content_image\" width=\"362\" data-original-token=\"v2-8ed0b72bee30cf56f2b13acd5df468ad\"/></figure><p data-pid=\"96K6Emhf\"><br/><br/>2000年奥运会，中国代表团28枚金牌。男子金牌11个，集中在吉新鹏的羽毛球、熊倪和田亮的跳水、体操、射击、孔令辉和王励勤们的乒乓球、占旭刚的举重。老几样。男篮还输给了法国的里加多。<br/><br/>2001年10月，中国男足进了世界杯。<br/>我们获得了北京奥运会的申办权。<br/>第二年，姚明以状元进了NBA。孙继海跟曼城上了英超。<br/>我们跨进了新世纪。我生活中有了互联网。<br/>一切都在日新月异。<br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b14ac82fc0644db45fc8a143a379f7ab_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"448\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"448\" data-original=\"https://pic2.zhimg.com/v2-b14ac82fc0644db45fc8a143a379f7ab_r.jpg\" data-original-token=\"v2-f0c9ef2f374cf1fbf0b7a194ceaafff0\"/></figure><p data-pid=\"CtIdFEZ7\"><br/><br/>2004年奥运会，杜丽拿到了中国代表团第一个金牌，但王义夫王者归来拿到了气手枪冠军。郭晶晶吴敏霞开始统治时代。张怡宁开始大魔王。中国男篮在小组赛最后险胜世界冠军塞尔维亚，奥运会八强。<br/>32枚金牌。<br/>最重的一枚金牌？刘翔。<br/><br/>难以形容刘翔那天夺冠的声势。多年后苏炳添跑出100米时9秒83时举国狂欢，懂行的人必须向不懂行的人描述“对东亚人而言，男子径赛简直是地狱难度”“能跑到9秒83本身就是奇迹”。<br/>刘翔那天的成绩不用解释。他就是冠军，实实在在的冠军。<b>12秒91是奥运会纪录，还平了当时的世界纪录。</b><br/>不是巧劲儿的项目，不是勤恳耐劳的长跑，是110米栏。是一般传统上东亚选手很难突破的世界。<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-d0119dc926bf6d8d3ffdd0b3082a3125_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"689\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"689\" data-original=\"https://pic4.zhimg.com/v2-d0119dc926bf6d8d3ffdd0b3082a3125_r.jpg\" data-original-token=\"v2-6393576a74b23670e855f42ede612c62\"/></figure><p data-pid=\"y-B6JC7l\"><br/><br/>然后就是2006年7月11日，洛桑，多米尼克·阿诺德跑出了此前未有的12秒90，但刘翔跑出了12秒88。<br/>男子。径赛项目。世界纪录。中国。<br/>但那是后话了。<br/><br/>停在2004年的夏天。<br/>周杰伦发布了《七里香》。稍早春晚赵本山对范伟说“我是赝品啊！”后来电影院会上《功夫》《十面埋伏》和《天下无贼》。<br/>那时孙继海还在曼城。姚明迎来了麦蒂。<br/></p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-9cac420bc65541536639e6ae2fb26ec6_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"399\" data-rawheight=\"277\" class=\"content_image\" width=\"399\" data-original-token=\"v2-7d0c1402d2fbca06191c2dda0b487e9b\"/></figure><p data-pid=\"2SmzhW9B\"><br/><br/>那年中国男足进了亚洲杯决赛，尤其是<b>点球战淘汰了老冤家伊朗：</b><br/><b>阿里·代伊和马达维吉亚被我们淘汰了！</b><br/><br/>而8月27日，刘翔创造了不可能，12秒91的110米栏奥运会金牌！！男子径赛项目我们夺金了！没有不可能！32枚金牌！而我们自己的奥运会还有四年！<br/><br/>那些年的气象全然不同。中国运动员长久以来都被描述得努力勤奋。但那几年，两个旗帜人物——姚明与刘翔——都是上海人，姚明的幽默被美国媒体称道，刘翔整体的姿态极是外放。与21世纪初，中国足球进世界杯、全民等候奥运会、外向灿烂的气势极为混融。<br/>真是一切都还在向上的好年份啊。<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5202aa0f8935598f5ec8117fd7463c81_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"385\" data-rawheight=\"272\" class=\"content_image\" width=\"385\" data-original-token=\"v2-a8e047cc7ed79f9c17f6d455767e7f1e\"/></figure><p data-pid=\"u3vU4kol\"><br/><br/>现在看，当时许多事都过去了。中国男足进世界杯、打败伊朗的时代过去了。姚明和麦蒂的火箭过去了。孙继海的曼城过去了。《七里香》的夏天过去了。我们也过了需要靠奥运会向外展示的时代了。<br/><br/>只有<b>整整22年之前——2004年8月27日，刘翔跑出的那个数字，还留在那里。</b><br/><b>12秒91。</b><br/><b>依然是男子110米栏奥运会纪录。</b></p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "刘翔2004年奥运金牌，意味着什么",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1787450188,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "司机说，最危险的就是外卖小哥：他们飙车都不要命，有时都替他们担心；说他们也许一个月赚一两万，但自己不羡慕只佩服，这钱不是谁都能挣。 说近来外卖有些平台也在人性化了，红绿灯不算等待时间了。 说租车平台也是，以前收三成，现在也在减少了。 我附和说，什么行业，刚开始都乱；规范了，行业上下，都有口饭吃。 司机一拍大腿说是啊，然后开始说。 说他是外地来的，来无锡二十四年了。说自己刚来时，在火车站运建材。一天挣…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2074796845436516021",
+        "voteup_count": 387,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2074796845436516021",
+        "comment_permission": "followee",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 0,
+        "created": 1787450188,
+        "content": "<p data-pid=\"pMDixY5F\">司机说，最危险的就是外卖小哥：他们飙车都不要命，有时都替他们担心；说他们也许一个月赚一两万，但自己不羡慕只佩服，这钱不是谁都能挣。</p><p data-pid=\"Zbw69Y4K\">说近来外卖有些平台也在人性化了，红绿灯不算等待时间了。</p><p data-pid=\"FDrsyZW5\">说租车平台也是，以前收三成，现在也在减少了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"gJQr97Rb\">我附和说，什么行业，刚开始都乱；规范了，行业上下，都有口饭吃。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"YWWS2v4q\">司机一拍大腿说是啊，然后开始说。</p><p data-pid=\"f_-ooCuf\">说他是外地来的，来无锡二十四年了。说自己刚来时，在火车站运建材。一天挣三百，风里雨里，有钱就挣；拿了钱夜里躺宿舍床上，数了一遍又一遍，新钱都数旧；出门吃东西，先用旧的钱，还被小吃店老板娘嫌弃！现在，都看不到现金了，都用手机！</p><p data-pid=\"yVcKgegS\">说后来自己开店做装修，赶上房地产起来，也赚了一点钱。那时高兴啊，觉得未来日子亮堂堂。</p><p data-pid=\"M9Zb-Puo\">说亲眼看着市区变迁，楼起楼落。建材涨价，家具换新。生怕赶不上，拼命啊！比现在送外卖这些还拼命！</p><p data-pid=\"I7n6_71X\">说年数多了，终于赚够了钱，不用帮人运了，可以自己开店了，当老板了！</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"2_JUD6Sp\">我说好啊，行商坐贾嘛。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"YfF4Nd5P\">他说当老板开店，一开始还选在好地址。做了做，觉得很赚钱，还寻思搬到更好的地段，皮革城那儿；然后就（一摊手）赶上那几年。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"8mF5WkIH\">我嗯了一声。没法说更多了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"k2ZhgWyR\">他说从此也就没法做老板了，没法开店了，还是回来做装修。从此每天开车到处转，维护维护关系，帮人看看地头，帮人做装修。</p><p data-pid=\"kaMG8oew\">说虽然不开店了，到底也还有人脉门路在，可以用更低的价格拿到建材和装修。少经几道手，少受一点骗，所以熟客都还喜欢他。说现在许多装修公司都是外包的，人都不认识，看也看不懂，这种人也好意思干装修！</p><p data-pid=\"ot63TW1-\">说自己现在除了做装修，白天就是开车出来当司机，逛无锡。说二十几年了，每天在无锡来回开车，觉得变化真快啊。他说许多人都抱怨大城市，其实还是大城市好，人的脚最老实：真讨厌大城市的，早回乡下老家了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"bgb-VZY5\">他说赚钱真不如以前多，但钱也挣过了，亏也亏过了，也都晓得了。以前觉得当老板很好，后来觉得，也就那么回事！还不如年轻时候踏实！</p><p data-pid=\"ojN2cHNq\">他说以前不规范，利润多，但还款周期也长。现在他合作的都是小地方，利润低，但现金交易，清爽。</p><p data-pid=\"3aeG_Jyd\">他说以前大钱要晚很久到手，赚钱看不见数目，没感觉。做完一单生意就去吃喝玩，总以为自己很有钱。现在每次做完一单活，毛毛雨一点钱，但踏实，就像年轻时躺宿舍床上数钞票，数旧了揣袋袋里。以前长周期，高利润，老想着将来；现在现金交易，一点点钱，但实实在在。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"mGhPT09S\">他说人这辈子啊，几句话就能说完了。想想也长，也短。</p><p data-pid=\"COLRkjR-\">我说能看到城市日新月异，也算是很见世面。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"pJelfND2\">他说遇到再多开心事难过事，想想到最后啊，都差不多。</p><p data-pid=\"Kxbu7elS\">我说，到最后么，还是数钞票的时候最开心。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"FxNIuGu2\">他说哈哈哈是啊！总归有点开心的事就好了！以前想将来，现在想现在。</p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "以前想将来，现在想现在",
+        "can_comment": {
+          "status": false,
+          "reason": "只有作者关注的人才可以评论"
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1787040367,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "每一代人都会被个什么毁掉。 武侠小说会毁掉一代人。后来港台影视港台明星会毁掉一代人。后来互联网会毁掉一代人，游戏会毁掉一代人，手机会毁掉一代人。最近是AI会毁掉一代人。 再往前的一代人是被谁毁掉的呢？ 《陶庵梦忆》里，张岱说自己喜欢斗鸡。后来发现稗史中言：李隆基因为酉年酉月生，喜欢斗鸡，所以亡国。张岱一想自己也是酉年酉月生，于是停了。然而明朝灭亡，似乎不关斗鸡的事。不过无所谓了。就像李隆基安史之乱，…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2073077842888352968",
+        "voteup_count": 229,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2073077842888352968",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://pic1.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 15,
+        "created": 1787040367,
+        "content": "<p data-pid=\"f83Ax2_T\">每一代人都会被个什么毁掉。<br/>武侠小说会毁掉一代人。后来港台影视港台明星会毁掉一代人。后来互联网会毁掉一代人，游戏会毁掉一代人，手机会毁掉一代人。最近是AI会毁掉一代人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"bf8GTstV\">再往前的一代人是被谁毁掉的呢？<br/>《陶庵梦忆》里，张岱说自己喜欢斗鸡。后来发现稗史中言：李隆基因为酉年酉月生，喜欢斗鸡，所以亡国。张岱一想自己也是酉年酉月生，于是停了。然而明朝灭亡，似乎不关斗鸡的事。不过无所谓了。就像李隆基安史之乱，后来者反复找原因，连杨贵妃和荔枝都背了黑锅，这不，斗鸡都论上了。<br/>人都爱归因，出了坏事得有个罪魁祸首背锅。安史之乱成因太复杂了，一句“李隆基沉迷杨贵妃”、“李隆基沉湎斗鸡”，多简单啊。</p><p data-pid=\"SHjOtJkb\">古人不仅会怪斗鸡，还会怪音乐。上古讲究听音乐都要雅正，如此可以陶冶性情、维持秩序。反例就是淫靡之乐，会听得人沉湎欲望，难以自拔。<br/>《何氏语林》里，殷仲文劝刘裕蓄伎，刘裕说“我不解声”，殷仲文说“但畜，自解”，刘裕回答：“畏解，故不畜。”<br/>《世说新语》里王羲之对谢安说，自己年纪大了，就靠听音乐度日，但是“恒恐儿辈觉”，不敢让儿孙知道。偷偷听音乐、<br/>张岱认为这个“解”和“觉”很有趣，说音乐这玩意最容易打动人，一旦听进去了就不能自已，情不自禁了。<br/>大概古人，尤其正人君子，是真警惕一切会让人沉溺的快乐。</p><p data-pid=\"9ZPgFRUj\">苏轼多可爱啊，可是大学者王夫之说“酒肉也，佚游也，情夺其性者久矣”，认为苏轼喝酒吃肉游荡，都不是好事。这就是古代士大夫的姿态：音乐诗词山水绘画戏曲都应该是适量享用，只有隐逸之士才能放开。用现在的话，“批判性地享受”。<br/>太好玩太迷人太容易让人沉溺的都要警惕，会反过来控制人。</p><p data-pid=\"cpp0B5ZG\">从这角度看，家长们怪罪武侠小说、怪罪港台影视、怪罪游戏怪罪手机，如今怪罪AI，简直是一种反向赞美：“这些玩意会让人沉溺。”<br/>——反过来想，我叔叔那一代人被念叨武侠小说会毁掉一代人，可能同时代小说不好看？<br/>——我小时候听人说港台影视歌不好，可能同时代其他影视歌不太动人？<br/>——我在大学时听人说游戏会毁掉一代人，是因为其他娱乐项目不够有趣？<br/>——最近常见的说法“不要多和AI聊天，AI只会顺着你说”，有没有可能是因为现实生活中，没多少人如AI般耐心又细致地聆听，并给出相对客观的意见</p><p data-pid=\"o4cbeuhX\"><br/>如上所述，人都爱归因。<br/>说“游戏毁了年轻人”，就不用去面对“为什么现实生活无趣到让人只想在游戏里寻找正向反馈”。说“沉溺AI”，就不用去反思“为什么现代人之间的情感连接已经荒芜到了要向AI求助”了。</p><p data-pid=\"BilygNm8\">当然，如果真是担心人沉溺上瘾，也还好。<br/>但像王羲之这样，自己听音乐，却不许儿孙听，就有点古怪。</p><p data-pid=\"KHUd8Xws\">15世纪威尼斯学者菲利波·德·斯特拉塔写信说，印刷机不好，“它让那些本该属于精英阶层的神圣知识被毫无教养的平民所践踏。”<br/>——敢情，印刷机不好就不好在，让大家都能有知识了？</p><p data-pid=\"fB7uiNW6\">每一次技术革命，旧精英都会发现：<br/>“我原本花很多年才能获得的东西，怎么突然人人都能拿到了？”<br/>有些人觉得好，但也有些人觉得“最好还是只有我能享受到！”</p><p data-pid=\"wq3bRwt-\">还有些长辈，很喜欢下定义：什么是高级有益的快乐，什么是腐朽有害的快乐？要他们定义了才对。<br/>这些长辈们有些是真为我们着想，有些却是仇视快乐，一看到自己无法控制的快乐，就不希望年轻人获得。</p><p data-pid=\"Qk9vyt5l\">所以啦，人类从来不缺娱乐，不缺“毁掉一代人”的东西。<br/>但有些狭隘长辈们害怕的是：出现一种他们无法控制、却又确实很有吸引力、而且人人都可以享用、而且不被他们定义的新快乐。越是这种快乐，他们越要说“会毁掉一代人”。</p><p data-pid=\"sVSUQ4tV\">当然这回到一个根本的问题：</p><p data-pid=\"RGyUHskh\">谁有权决定别人可以享受什么？为什么是长辈们决定年轻人应该享受什么？</p><p data-pid=\"zwJeyryC\">那就要问自己偷偷地享受，但“恒恐儿孙觉”的长辈了，而他们就会说：</p><p data-pid=\"wWR3_mLY\">你们还年轻，就不要享乐了嘛！</p><p data-pid=\"2_4Y72-U\">我？我那是批判性地享乐！</p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "毁掉这一代人的又是什么？",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1786940570,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "穆里尼奥曾说梅西“无法被调教”。同时，“在我们这一代球员当中，他就是最强的。” 听来矛盾吗？也不矛盾。 你很难规定梅西当个什么角色。 梅西2007年对赫塔菲60米推进连过五人，带球能力史上一绝。亨利说梅西的带球节奏无可比拟。触球，步频，细节。 但若只止于此，他也应该就是个 带球王，是加林查。 [图片] 最热爱梅西的是谁？瓜迪奥拉。 瓜迪奥拉师承克鲁伊夫——克鲁伊夫曾说小罗盘带好看，但对2006巴萨，哈维和德科的传球意义更…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2072659367015478751",
+        "voteup_count": 144,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2072659367015478751",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://pic1.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 3,
+        "created": 1786940570,
+        "content": "<p data-pid=\"KQYdXZA4\">穆里尼奥曾说梅西“无法被调教”。同时，“在我们这一代球员当中，他就是最强的。”</p><p data-pid=\"Ll2d-PUL\">听来矛盾吗？也不矛盾。</p><p data-pid=\"2-Ph0m0w\"><b>你很难规定梅西当个什么角色。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"DZQpkbvW\">梅西2007年对赫塔菲60米推进连过五人，带球能力史上一绝。亨利说梅西的带球节奏无可比拟。触球，步频，细节。</p><p data-pid=\"kJ0OkN1C\">但若只止于此，他也应该就是个<b>带球王</b>，是加林查。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-2df736f09e1841791d0146c15f362a4b_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"427\" data-rawheight=\"291\" class=\"origin_image zh-lightbox-thumb\" width=\"427\" data-original=\"https://pic4.zhimg.com/v2-2df736f09e1841791d0146c15f362a4b_r.jpg\" data-original-token=\"v2-c0a33550c1e1b7cb69a5ee839b6a0cba\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"OhiPzOHs\">最热爱梅西的是谁？瓜迪奥拉。</p><p data-pid=\"mcvdGcBH\">瓜迪奥拉师承克鲁伊夫——克鲁伊夫曾说小罗盘带好看，但对2006巴萨，哈维和德科的传球意义更大——每天都在琢磨宏观大局、战术细节，视球员为棋子。偏是他最喜欢梅西？</p><p data-pid=\"QPP10JQ4\">因为梅西的<b>战术意义。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"WUTVop0Y\">2004年梅西升入巴萨一线队，雷克萨奇教练意识到不该给梅西扣缰绳，只给他一片活动空间，静观其变。因为<b>梅西的视野、本能和思维速度，远超战术指令。</b></p><p data-pid=\"fD2C6c6S\">西多夫曾说外星人：长途奔袭带过第一个人可以是技术，之后全靠临场反应——梅西亦然。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"e0GBBEzj\">瓜迪奥拉2008年上任，巴萨布阵，433。确切说：4-1-2-3。</p><p data-pid=\"1ST2-mzu\">持球时，那个1即6号位，回撤到双中卫位置，两边卫上前；2个8号位，左伊涅斯塔前插，右哈维回身拿球策动。</p><p data-pid=\"bI38dx3W\">前面的3，左亨利，中埃托奥，<b>右梅西。</b></p><p data-pid=\"cq25Np_H\">最初梅西只在进攻三区才内切，平时还是右路居多。</p><p data-pid=\"vNbaBevm\">但瓜迪奥拉显然感受到了：<b>右路梅西越早内收，越早在中路拿球，情况越微妙。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-8c7151722255a2e1a8466c4d20d89a8c_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"476\" data-rawheight=\"358\" class=\"origin_image zh-lightbox-thumb\" width=\"476\" data-original=\"https://pic3.zhimg.com/v2-8c7151722255a2e1a8466c4d20d89a8c_r.jpg\" data-original-token=\"v2-2d7fae0896ab260b509cd3f0b6f2cb56\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"PL0w4a5w\">于是2008-09季皇马对巴萨之战，瓜迪奥拉直接让梅西站了<b>伪9，中路。</b></p><p data-pid=\"yNWUH1JL\">皇马高位逼抢，封锁边路空间。梅西自发游走到两条防线的间隙，随心所欲。巴萨6比2击溃皇马。</p><p data-pid=\"CEqIH2cw\">梅西能在防线间施展魔法，哈维可以更多回撤协助出球，阿尔维斯可以大胆上前拉开右边，大家都有光明的未来。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-af712b12ea0e7d5ea5bc6c8dc8778add_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"266\" data-rawheight=\"364\" class=\"content_image\" width=\"266\" data-original-token=\"v2-8a30e51681f77dfbaab17b5e858266fb\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"GEtl9sVI\">那个赛季巴萨无敌的结果：全世界都知道了巴萨要控球，对手于是后撤摆大巴。埃托奥的速度和反越位没了用武之地。梅西又在中路无敌。</p><p data-pid=\"Jc13fd7D\">好，那么来个能站桩的中锋吧：埃托奥去了国际米兰，巴萨得到了伊布。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"A0A4NxxL\">但伊布的问题：他能担当支点，但他不乐于来回奔跑撕扯防线。他想要触球、配合和参与，他想当主角，而且不太乐意压迫。</p><p data-pid=\"X6aoeHLM\">于是2009-10季，伊布38场西甲里只和梅西同场26次，只有14次踢满60分钟。</p><p data-pid=\"CunCsn9d\">瓜迪奥拉用了拉玛西亚出身的佩德罗打右翼：他肯跑，讲战术，可能配和。之后的比利亚站了左翼。</p><p data-pid=\"A2fp6-84\"><b>梅西继续中路伪9。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"g2DZ8SZn\">所以不是瓜迪奥拉想了伪9套路找梅西，是因为梅西在中路伪9位置过于美妙，瓜迪奥拉才为他造就了这个套路。</p><p data-pid=\"abG5KGU5\">6号位（图雷、布斯克茨）出球，哈维和伊涅斯塔控球，是tiki-taka的起手。</p><p data-pid=\"IDofFWIg\">梅西伪9，是2010后巴萨的进攻核心。</p><p data-pid=\"hutrUyH1\">瓜迪奥拉自己亲口承认过：梅西展现出很多他难以想象的画面。他那么善于控制要求细节的人，承认梅西让他无法想象。所以他决定放飞梅西。</p><p data-pid=\"fKr6u7ZW\">之后在拜仁和曼城，<b>他都没再给过其他球员类似的权限</b>。因为他麾下再没有梅西了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-162fd992a9847e7d27d03b3533223c25_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"289\" data-rawheight=\"359\" class=\"content_image\" width=\"289\" data-original-token=\"v2-e7fa3b18c8f6fe691368af4d891867b2\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"Povp2KmC\">2006-08，瓜迪奥拉上任前，梅西在巴萨进球17和16。</p><p data-pid=\"WUQPTnwF\">2008-10，梅西搭配埃托奥和伊布，38、47。</p><p data-pid=\"yFBne9Vs\">2010年后梅西坐稳中路，直到苏亚雷斯到来：<b>53、73、60、41。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"gFzsNBNM\">当然后来改了。</p><p data-pid=\"1yCqlCmr\">2014-15季前苏亚雷斯到来，一度也踢伪右边锋，很尴尬。以至于2014年10月在伯纳乌，巴萨1比3输给皇马。</p><p data-pid=\"YOKDVREg\">2014年11月，欧冠小组赛对阿贾克斯，<b>梅西在场上与苏亚雷斯自发互换位置：苏牙你中路来，我右路！</b>——苏亚雷斯打入巴萨处子球。</p><p data-pid=\"V7Zn99Q4\">2015年1月后恩里克变招，梅西回到右边。</p><p data-pid=\"RGSEeuLK\">苏亚雷斯占中路牵制双中卫纵向跑动，内马尔内切左肋，阿尔巴左路套上；梅西右路内切，阿尔维斯右边套上。</p><p data-pid=\"kv-pjYoM\"><b>梅西主要占据右肋</b>，但不妨碍他的策动<b>：他招牌的右肋找左路斜长传阿尔巴就此成型。</b>MSN无敌。</p><p data-pid=\"AYyuW6th\">值得一提的是，这是哈维在巴萨最后一年，其实也是哈白布体系的结束。以往巴萨球权流转路线：</p><p data-pid=\"ZuvEpkgC\">中后卫/布斯克茨→哈维→伊涅斯塔。</p><p data-pid=\"PO5c9Ro5\">MSN体系简化为：</p><p data-pid=\"D-zaC1lE\">布斯克茨/中后卫→阿尔维斯/阿尔巴→梅西/内马尔。</p><p data-pid=\"nBv6v08x\">以及，后场直接长传找中锋苏亚雷斯。</p><p data-pid=\"GMdimzzH\">所以拉基蒂奇完美适配这体系，他的跑动和斜长传，一两脚就完成转移。</p><p data-pid=\"L6jQsK5G\">后来内马尔走人，巴尔韦德教练组了442，梅西和苏亚雷斯占据中路，那是后话了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-dda47287fdab33c9ef29a2e7e0ba3c0c_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pica.zhimg.com/v2-dda47287fdab33c9ef29a2e7e0ba3c0c_r.jpg\" data-original-token=\"v2-c3c56939cf38e90e54c68799169988e1\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"oVIN5ah-\">之前说过，阿根廷国家队，马拉多纳让梅西回撤后场拿球，萨贝拉安排梅西大幅度回撤。</p><p data-pid=\"mZsacqUk\">只斯卡洛尼简单直率：后面三个人，恩佐出球、麦卡跑动、德保罗兜底，前面安排精于跑动接应的阿尔瓦雷斯（他也是瓜迪奥拉体系出身），让梅西可以在右肋——靠右是方便拿球，在肋部是空出右边，同时适合攻击中路，给他足够大的选择。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"Ea_qWkln\">回到穆里尼奥那句话“<b>梅西无法被执教。梅西最强。</b>”</p><p data-pid=\"9GUKxdRi\">瓜迪奥拉那么抠细节的人，选择搭建体系，宁可让埃托奥踢右边，宁可伊布来了就走，也要让梅西站中路。俩欧冠。恩里克让苏亚雷斯和梅西勾兑好了位置，MSN起飞。斯卡洛尼让全队服务梅西，世界杯冠军和亚军。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"hTh9T5Jg\">巴乔曾吐槽萨基愚蠢“哪个教练说阵型重要过克鲁伊夫，他一定疯了”——有趣的是，<b>克鲁伊夫、巴乔和梅西</b>有奇怪的承接：</p><p data-pid=\"5MN5MV9n\">巴乔是1990年代欧洲最接近球王能力的人，一己之力改变比赛。</p><p data-pid=\"E1KSgLnJ\">克鲁伊夫个人能力冠绝1970年代欧洲，还拥有足球史上最顶尖的足球大脑。</p><p data-pid=\"OKZohzrl\">梅西恰好把两种能力合而为一：<b>巴乔之上的有球能力，克鲁伊夫式的比赛理解。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"BieerN1M\">有趣的是，瓜迪奥拉自己是克鲁伊夫的最得意弟子，在布雷西亚踢球时热爱队友巴乔——然后执教梅西。</p><p data-pid=\"31dnTSUB\">连起来了。</p><p data-pid=\"Iz4ayGeG\">千言万语一句话：<b>不用体系箍住梅西，让梅西当回梅西。</b></p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "梅西如何当回梅西：位置与体系",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1786526529,
+        "is_labeled": true,
+        "label_info": {
+          "text": "圆桌精选",
+          "foreground_color": {
+            "alpha": 1.0,
+            "group": "GYL02A"
+          },
+          "type": "roundtable",
+          "icon_url": "https://picx.zhimg.com/v2-d66dabdf15e6f8f42919ccb29e8e2ecb_r.png?source=d16d100b"
+        },
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "奥德赛就是奥德修斯回家记。 许多西方故事都爱用奥德赛代指漫长史诗。电子游戏都有《刺客信条·奥德赛》、《马里奥·奥德赛》。 周星驰《大话西游》，英语译名《Chinese Odyssey》中国奥德赛。 奥德修斯有个罗马名尤利西斯，乔伊斯《尤利西斯》就是都柏林一天里的奥德赛。 《奥德赛》连着《伊利亚特》，围绕特洛伊之战。这场仗说完了，荷马史诗也就通了。 [图片] 特洛伊城在如今土耳其一带，和希腊隔海相望。 老王拉俄墨冬欠了大力神赫…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2070921419899287001",
+        "voteup_count": 288,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2070921419899287001",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://pic1.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 23,
+        "copyright_permission": "need_review",
+        "created": 1786526226,
+        "content": "<p data-pid=\"2gyhnnYO\">奥德赛就是奥德修斯回家记。<br/>许多西方故事都爱用奥德赛代指漫长史诗。电子游戏都有《刺客信条·奥德赛》、《马里奥·奥德赛》。<br/>周星驰《大话西游》，英语译名《Chinese Odyssey》中国奥德赛。<br/>奥德修斯有个罗马名尤利西斯，乔伊斯《尤利西斯》就是都柏林一天里的奥德赛。</p><p data-pid=\"zqWxFDlA\"><br/>《奥德赛》连着《伊利亚特》，围绕特洛伊之战。这场仗说完了，荷马史诗也就通了。<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6bd298ef59a19db7754810a5b13fc609_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"548\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb\" width=\"548\" data-original=\"https://pic4.zhimg.com/v2-6bd298ef59a19db7754810a5b13fc609_r.jpg\" data-original-token=\"v2-7ef721ec7f8c327e0c351fe917825feb\"/></figure><p data-pid=\"bfm14QvM\"><br/><br/>特洛伊城在如今土耳其一带，和希腊隔海相望。<br/>老王拉俄墨冬欠了大力神赫拉克勒斯的人情却不肯还，被赫拉克勒斯打死。拉俄墨冬的女儿被赫拉克勒斯一哥们忒拉蒙带走。<br/>他儿子<b>普里阿摩斯</b>继承了特洛伊王位，生了一堆儿子，比较关键的儿子叫<b>赫克托耳</b>，堪称特洛伊的关羽；又一个儿子叫<b>帕里斯</b>，神射手小白脸。<br/><br/>希腊那边城邦成百，最大的几片：<br/>北方忒萨里亚，老大佩琉斯，娶了个海女神忒提斯，生了个没嘴唇的儿子<b>阿喀琉斯</b>：这孩子被妈妈提脚踵泡过冥河水，刀枪不入，希腊版吕布。<br/>另外几大片：阿提卡啦、克里特岛啦，之类；南边大邦迈锡尼大王<b>阿加门农</b>，王中王。<br/>阿加门农有个弟弟叫<b>墨涅拉俄斯</b>。<br/>有大美女海伦，小时候被另一个传奇忒修斯拐跑过——忒修斯之船那个忒修斯——又回来了；嫁给了墨涅拉俄斯。<br/>海伦的姐姐克吕涅斯泰拉嫁给了阿加门农。</p><p data-pid=\"Dtzgna64\"><br/><br/><b>帕里斯来希腊，拐带了海伦跑路回特洛伊。</b><br/></p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-b56e5d2ce52b706aa29909e0c6cdcf72_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"559\" data-rawheight=\"294\" class=\"origin_image zh-lightbox-thumb\" width=\"559\" data-original=\"https://pica.zhimg.com/v2-b56e5d2ce52b706aa29909e0c6cdcf72_r.jpg\" data-original-token=\"v2-62930982a149d083bba825872de192b3\"/></figure><p data-pid=\"jdVcVfC7\"><br/><br/>阿加门农于是组织全希腊上百国王，十万大军，渡海去特洛伊抢回海伦——后世有说法认为，他其实为了拿下小亚细亚，抢夺赫勒斯滂海峡航道，以及，自己想当希腊老大。<br/>阿加门农到处拉人参团，他手下先已经有俩聪明人：帕拉墨得斯好比希腊杨修，老涅斯托尔好比希腊张昭，而希腊诸葛亮？就是奥德修斯。<br/><b>奥德修斯家的伊塔卡岛在希腊西边，离意大利近，离特洛伊远</b>。阿加门农们去到伊塔卡时，奥德修斯装疯卖傻不想去，被帕拉墨得斯识破。<br/>奥德修斯被迫参团出征，但九年后离间计整死了帕拉墨得斯。<br/><br/>阿喀琉斯是希腊吕布，但预言说他去了就会得到荣耀但是会死；他妈妈不希望他去，把他藏在姑娘堆里，最后还是被找出来，出征了：连带他的小男朋友帕特罗克洛斯。<br/><br/>——题外话，一般认为<b>《伊利亚特》和《奥德赛》的俩主角，即希腊吕布阿喀琉斯和希腊诸葛亮奥德修斯，代表希腊精神的两极：荣耀高傲的战士；巧舌多智的航海家。</b><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a857d46f26a4355a1ed9c0a011e58815_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"572\" data-rawheight=\"363\" class=\"origin_image zh-lightbox-thumb\" width=\"572\" data-original=\"https://pic4.zhimg.com/v2-a857d46f26a4355a1ed9c0a011e58815_r.jpg\" data-original-token=\"v2-2ba64749f8f5f1f78224bb322ffe4fa0\"/></figure><p data-pid=\"smYWysOb\"><br/><br/>要过海了，风暴起了。于是<b>阿加门农骗了自己女儿伊菲革尼亚来，献祭了女儿</b>——有说法他女儿被一只小鹿代替了——渡海去特洛伊。但阿加门农的老婆从此对他怀恨在心。特洛伊闭门不出，希腊人熬了十年。<br/>——题外话，2004年《特洛伊》电影里把十年给略了，这就不够史诗了。<br/><br/>阿加门农在史诗中有宙斯之姿，这是我觉得2026《奥德赛》比2004《特洛伊》好的地方：</p><p data-pid=\"gwFGes8-\">2004版阿加门农是个希腊董卓。</p><p data-pid=\"HU9qJ-Q9\">2026版阿加门农真有野心家的气势。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-3ef904e03c3d29d502e73cc1d481ba00_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"578\" data-rawheight=\"337\" class=\"origin_image zh-lightbox-thumb\" width=\"578\" data-original=\"https://pica.zhimg.com/v2-3ef904e03c3d29d502e73cc1d481ba00_r.jpg\" data-original-token=\"v2-fddc01d04e643751880856d1d998666d\"/></figure><p data-pid=\"HqqPBD7n\"><br/><br/>终于到了《伊利亚特》开篇。<br/>阿喀琉斯得了个漂亮女奴布里塞伊斯，被阿加门农抢走。<b>阿喀琉斯愤怒，表示老子不干了！在营帐里自己弹琴。</b><br/>特洛伊那边听说阿喀琉斯不打了，好哇！特洛伊关羽赫克托耳带队出战。<br/>海伦的俩老公帕里斯和墨涅拉俄斯阵前见面，说咱单挑得了，不用两边多伤人命。<br/>本来墨涅拉俄斯快把帕里斯打死了，<b>特洛伊的曹性潘达勒斯，一箭射倒了墨涅拉俄斯</b>：好，混战。<br/><br/>特洛伊关羽赫克托耳，遇到阿喀琉斯堂弟希腊张飞埃阿斯（Ajax，也翻译成阿贾克斯，荷兰那个足球队的名字），对打。<br/>希腊马超狄俄墨德斯打飞了战神阿瑞斯，与太阳神阿波罗对峙，两边打得天昏地暗。<br/>之后赫克托耳带队冲进希腊军营，要烧船了：希腊人过海来的，船烧了没法回家。<br/>这时候阿喀琉斯的小男朋友帕特罗克洛斯穿阿喀琉斯甲胄出战，大战赫克托耳，最后被赫克托耳杀了。<br/><br/>阿喀琉斯愤怒出战。见神杀神，遇人砍人，破阵卷河，一路杀到特洛伊城下。<br/>终于到了<b>阿喀琉斯vs赫克托耳大决战</b>，阿喀琉斯赢了：把赫克托耳尸身栓马车上，来回奔驰。<br/></p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-9ffea6bdf5d7a0b4e6b048bbefc41159_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"473\" data-rawheight=\"357\" class=\"origin_image zh-lightbox-thumb\" width=\"473\" data-original=\"https://picx.zhimg.com/v2-9ffea6bdf5d7a0b4e6b048bbefc41159_r.jpg\" data-original-token=\"v2-93fd27ae2a8b64c7789a57abeb66cb70\"/></figure><p data-pid=\"e3Ak2gpb\"><br/><br/>赫克托耳爸爸老王普里阿摩斯偷偷来阿喀琉斯军营，说把我儿子尸身还我吧！阿喀琉斯愤怒劲儿过了，说行，还你，葬了吧。<br/><b>到此《伊利亚特》结束：这故事起于阿喀琉斯的愤怒，终于阿喀琉斯的愤怒。</b><br/><br/></p><p data-pid=\"rfO47r4y\"><br/>后来阿喀琉斯又斩了援军门农和亚马逊女王彭特蕾西亚，但<b>被帕里斯射中脚踵，死了。</b><br/>希腊张飞埃阿斯和希腊诸葛亮奥德修斯争夺阿喀琉斯的盔甲，<b>埃阿斯输了，发疯，自杀。</b><br/>帕里斯被菲洛克忒忒斯用赫拉克勒斯的弓箭射死了。<br/><br/></p><p data-pid=\"m5u-ISfy\"><br/>两边猛将死尽，各自灯尽油枯。奥德修斯出了著名的<b>木马计</b>：造个木马，自己跟一群人藏里头；特洛伊人把木马拉进城去。<br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-cb3401e1e1494bddb282df5b9773d1d2_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"369\" data-rawheight=\"465\" class=\"content_image\" width=\"369\" data-original-token=\"v2-ce3e41651e55612a4116b0388c7d38d6\"/></figure><p data-pid=\"A1w7tUKJ\"><br/><br/>有个祭司拉奥孔反对，被神派蛇缠死了。<br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-15a26393dc694cc75e6ce50544543ad1_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"352\" data-rawheight=\"361\" class=\"content_image\" width=\"352\" data-original-token=\"v2-012b27eca7800877d2d8b6dbe5049da2\"/></figure><p data-pid=\"MMXyMoNp\"><br/><br/>到晚上，木马中人齐出，希腊人占领特洛伊。<br/>普里阿摩斯被杀，老婆儿媳为奴。十年惨烈大战终于结束。墨涅拉俄斯带海伦回家。<br/><br/></p><hr/><p data-pid=\"8hFzwAoH\"><br/>希腊赢了。但<b>代价</b>呢？<br/><b>阿加门农时隔十年回家，洗澡时被他怀恨在心的老婆杀掉了。</b>他儿子为父报仇杀了母亲，自己疯了。<br/>狄俄墨德斯时隔十年回家，王位被夺，只好走了。墨涅斯透斯和菲洛克忒忒斯命运类似，都失了王位。<br/>特洛伊城的传奇之一<b>埃涅阿斯，传说跑到了意大利，是为后来罗马的始祖。</b><br/>墨涅拉俄斯和海伦这一对活宝，在英雄死尽的大背景下，回家太平度日了。<br/><br/>这就是《奥德赛》之前的一切：<br/>十年战争，死了阿喀琉斯、赫克托耳、埃阿斯、帕里斯；城池毁灭，英雄失国，胜利者回家也不得安宁。<br/>战争、愤怒与欲望催动的一切，最后得到的是这么个结果。<br/>而《奥德赛》，轮到奥德修斯回家了。</p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "奥德赛之前，发生了什么？",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1786508713,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "1995-96赛季结束，本身是个历史时刻：乔丹带芝加哥公牛卷土重来，拿到了第四冠，72胜10负的常规赛空前战绩，赛季100场比赛赢下87场空前绝后。 乔丹拿到第四个常规赛MVP+第四个总决赛MVP，第八个得分王。 他王者归来，NBA本身都喜闻乐见：竞技水平，个人魅力，商业角度，他都是王中之王。 与此同时，1995年东部冠军、年轻的奥兰多魔术，1996年被芝加哥公牛4:0横扫。 帕特莱利远走到迈阿密，想建立一个足以和纽约尼克斯并称的王朝…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2070846872151930175",
+        "voteup_count": 95,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2070846872151930175",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 10,
+        "created": 1786508713,
+        "content": "<p data-pid=\"_oaaSyD1\">1995-96赛季结束，本身是个历史时刻：乔丹带芝加哥公牛卷土重来，拿到了第四冠，72胜10负的常规赛空前战绩，赛季100场比赛赢下87场空前绝后。</p><p data-pid=\"vZCA-NL9\">乔丹拿到第四个常规赛MVP+第四个总决赛MVP，第八个得分王。</p><p data-pid=\"jsjfKWbd\">他王者归来，NBA本身都喜闻乐见：竞技水平，个人魅力，商业角度，他都是王中之王。</p><p data-pid=\"Vdgx3ek1\">与此同时，1995年东部冠军、年轻的奥兰多魔术，1996年被芝加哥公牛4:0横扫。</p><p data-pid=\"tHaRtLKU\">帕特莱利远走到迈阿密，想建立一个足以和纽约尼克斯并称的王朝，被公牛击败。</p><p data-pid=\"frORjE9C\">乔丹的老对手1994年东部冠军纽约尼克斯，依然野心勃勃。</p><p data-pid=\"XUi6FGIu\">1994和1995年蝉联总冠军的休斯顿火箭，也在试图做点什么。</p><p data-pid=\"dspwkZJw\">于是空前未有的夏天开幕了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"etmdvcHu\">1988年新的劳资协议，NBA进入真正意义上的自由球员时代。那年代合同普遍周期极长，大牌签下<b>七八年甚至十年长约</b>都不稀奇。</p><p data-pid=\"46yJxu5-\">1984年，五年级的伯德续了著名的7年1260万——<b>“伯德条款”。</b></p><p data-pid=\"3ouMoPOJ\">同年魔术师传奇的<b>25年2500万。</b></p><p data-pid=\"xthfcxpW\">由此引出乔丹和皮彭的著名误解：“皮彭廉价为乔丹打工”——事实是乔丹1984年入行7年630万，1988年续了八年2570万；皮彭1987年入行六年500万，1991年他续了7年1800万。</p><p data-pid=\"62WAx-M5\">1995-96季72胜公牛，<b>乔丹385万，皮彭292万，罗德曼250万——库科奇356万，老哈珀312万</b>：皮彭工资不低，只是续约早，合同长。</p><p data-pid=\"_-nxOWKQ\">题外话，1995-96季，隔壁<b>尼克斯尤因一个人1872万</b>，比皮彭乔丹罗德曼库科奇哈珀加起来都多。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-0bf616ccc73fbcb1773ee75e2a2dcdfe_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"516\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb\" width=\"516\" data-original=\"https://pica.zhimg.com/v2-0bf616ccc73fbcb1773ee75e2a2dcdfe_r.jpg\" data-original-token=\"v2-fbc695d208dd562a583914175a60261d\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"vpjKPBhS\">乔丹。</p><p data-pid=\"Bzg7FOzt\">1996年夏天合同正式到期，此时他打了十二个NBA赛季，赚了3200万。1995-96季乔丹包揽常规赛MVP、全明星MVP、总决赛MVP与得分王，72胜总冠军绝对核心，全球文化符号。一年之间，“I AM BACK”，NBA起死回生，《空中大灌篮》上演。</p><p data-pid=\"x_6k1D7n\">直白的数据：1990年总决赛NBA平均收视人数1720万。</p><p data-pid=\"1Ohhw3TN\">1991-93公牛三连冠，总决赛平均2391、2084、2721万。</p><p data-pid=\"v0eSLpx7\">乔丹去打棒球两年，总决赛收视率1725和2010万。</p><p data-pid=\"ewCzQwj6\">1996年乔丹带公牛再战总决赛，2486万。</p><p data-pid=\"NrnTibs9\"><b>乔丹=收视率。他就是篮球。他就是NBA。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"u8xhoifG\">当时纽约试图煽动乔丹：他们拼出了1200万年薪，加上喜来登酒店的1500万美元代言合同，合计2700万美元，加上“纽约+乔丹”的噱头——迈克尔，真的不来吗？公牛老板杰里·雷恩斯多夫24小时里咬牙跟注，砸了大合同，虽然“我早晚会为这笔签约后悔”，但：3014万。</p><p data-pid=\"eRm3ixx1\"><b>此前乔丹打了十二个NBA赛季，3200万。</b></p><p data-pid=\"J1ZT1mCi\"><b>第十三个赛季：3014万。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"9tm5Kszp\">尼克斯没得到乔丹，那么朝别人发力吧？</p><p data-pid=\"TGV8VQFv\">从底特律活塞7年5600万挖来了中投王阿兰·休斯顿，顺便给正在崛起的格兰特·希尔拦腰一刀。后来希尔没能再得到休斯顿这样的副手：斯塔克豪斯效率一般，希尔去奥兰多遇到麦蒂时，自己已经开始伤了。</p><p data-pid=\"m2SZyile\"><b>用安东尼·梅森去夏洛特黄蜂换来了1991年状元、1994年梦二大前锋拉里·大妈·约翰逊，6年2400万签了克里斯·柴尔兹；两年200万拿到了篮板王巴克·威廉姆斯。</b>球队深度如此惊人，以至于1994年总决赛射手约翰·斯塔克斯，下一季只好去打第六人——还真拿了年度第六人奖。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"ZTfuD8Yp\">然后，自由人之王莱利出场。</p><p data-pid=\"fY8VGORA\">1994年，莱利带尼克斯进总决赛，输给大梦的火箭；他去迈阿密热自立江山，早先用莱斯搞定了阿朗佐·莫宁。1996年夏天，他给了莫宁七年1.05亿合同：北美职业体育史第一个亿元合同。然后：甲虫哈达维，五年2500万。PJ布朗，七年3600万。丹·马尔利，三年800万。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-15730543e8f9f6cca28be197a2c0a093_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"225\" data-rawheight=\"225\" class=\"content_image\" width=\"225\" data-original-token=\"v2-866de7e462f1d9366d091e61695fb723\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"ZJNC4k9P\">莱利最垂涎的，是华盛顿子弹三年级的全能前锋朱万·霍华德，霍二叔。当时热已经要7年9800万了，但这笔钱破了工资帽规则，于是霍二叔回头，七年1.05亿签了奇才。</p><p data-pid=\"361SQRP0\">所以2004年莱利豪夺鲨鱼，2010年莱利组起三巨头，今年莱利搞定扬尼斯，都有前因：豪气。</p><p data-pid=\"DGY4F_uz\">但有人比他豪气：他的前上司杰里·韦斯特。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"A5BY0j_1\">1996年鲨鱼新秀合同到期。一年级场均24分14篮板，二年级场均29分13篮板，三年级得分王带队杀到总决赛，且给了1990年代乔丹唯一一个系列赛失利，四年级被乔丹的公牛4比0。</p><p data-pid=\"DKXTsxw3\">奥兰多魔术的报价很搞笑：魔术一开始试探过四年5400万，据说还问过六年8500万；1995-96季便士的发挥给了魔术错觉，“没了鲨鱼我们也行”，当时奥兰多媒体还说呢，<b>九成球迷不觉得鲨鱼配得上上亿合同。</b></p><p data-pid=\"zgPCzqRa\">1996年夏天，湖人范埃克塞尔和埃迪·琼斯崭露头角，塞巴洛斯得分凶猛，但季后赛湖人被大梦的火箭下克上，湖人觉得中锋位置是真要命。</p><p data-pid=\"d1qHky0L\">于是杰里·韦斯特出手如神：</p><p data-pid=\"jJh28JQQ\">送走1991年西部冠军中锋迪瓦茨，腾出薪资空间和中锋空位，然后七年1.21亿，当时史上最大的合同，从魔术夺下鲨鱼。</p><p data-pid=\"8L-xud9x\">最神来之笔的自然是：迪瓦茨换来了1996年第13位新秀选秀权——科比。</p><p data-pid=\"IBqlw9I-\">送一个迪瓦茨，换来了科比（与鲨鱼的空间）。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e019b8cd7d480105b3bd918815e13837_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"538\" data-rawheight=\"371\" class=\"origin_image zh-lightbox-thumb\" width=\"538\" data-original=\"https://pic2.zhimg.com/v2-e019b8cd7d480105b3bd918815e13837_r.jpg\" data-original-token=\"v2-1131ccfebaeffac5ab2c67ea071b5ff5\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"DABxusqg\">1996年火箭靠大梦的神威击败湖人，但次轮0比4输给西雅图超音速：1993和1996，火箭都拿超音速没法，知道超音速锋线群的夹击可怕，于是打包罗伯特·霍里、萨姆·卡塞尔两名冠军轮换核心，四换一去太阳，交易得到了巴克利：大梦+滑翔机+巴克利的三巨头。霍里后来在湖人和马刺夺冠，卡塞尔后来辅佐雷·阿伦和KG，终于在凯尔特人再夺冠。那是后话。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-9094bfab37082e52083e0c099a81bcd3_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"494\" data-rawheight=\"620\" class=\"origin_image zh-lightbox-thumb\" width=\"494\" data-original=\"https://pic2.zhimg.com/v2-9094bfab37082e52083e0c099a81bcd3_r.jpg\" data-original-token=\"v2-d8d3a2d5961ae4d488fadbf034696102\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"p8OivNMr\">1996年超音速总决赛只输给公牛，年度防守球员加里·佩顿居功至伟，于是双方敲定一份总金额8500万的7年长约。</p><p data-pid=\"QFNQ7zHA\">但问题来了：超音速7年3360万，从奇才签了麦克伊尔瓦：年薪超过总决赛场均23分10篮板的雨人坎普。</p><p data-pid=\"pPIt0bLu\">雨人看佩顿续约，自己年薪被压，不爽了。他1994年续了九年合同，又没处说理，不爽啊！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-4914faf7295badb3f0b84334e875d793_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic2.zhimg.com/v2-4914faf7295badb3f0b84334e875d793_r.jpg\" data-original-token=\"v2-429ee0aa03de455ec07d16234dca643e\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"4xBM3cjr\">1994年黑八了超音速的穆大叔，五年5500万美元合同加盟老鹰。他与穆奇·布雷洛克、史蒂夫·史密斯、克里斯蒂安·莱特纳构建起一套稳定季后赛班底。</p><p data-pid=\"VhWzdZxv\">马龙续约简单许多，和爵士敲定三年总薪1590万美元合同。</p><p data-pid=\"sawqHW_p\">斯托克顿降薪留守爵士，签下三年1500万合同。</p><p data-pid=\"kJ6zIovx\">雷吉·米勒四年3600万留在步行者，第一年1100万，此后逐年递减。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"W-DSBJg-\">大卫·罗宾逊1995年签了一份怪异的九年续约，根源来自他新秀合同里一条奇葩条款：薪资必须常年维持联盟前两名平均值。1996-97赛季乔丹3000万年薪落地后，这个合同没法算了，于是马刺给罗宾逊一份临时合同过渡，1997-98赛季开打前，重新签四年5300万续约。</p><p data-pid=\"OKr0LuDW\">上将在1996年3月说了段话，很显他的性格：“我不知道迈克尔为何还要复出，他已经拥有了一切，证明了一切。”上将自己是个温和好人，不理解乔丹永无休止的残忍好胜。接下来他这性格，会开始影响马刺的命运。</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"7CVw-fmc\">然后，进入1996-97季。</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"S8odyrDv\">签下一年3014万合同的乔丹，带着公牛常规赛69胜，总决赛卫冕。自己第九个得分王，第五个戒指和FMVP。3014万物有所值。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-dc37a4c51abcf1acbd5e838a4d943a5e_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"374\" data-rawheight=\"534\" class=\"content_image\" width=\"374\" data-original-token=\"v2-1274c909cdaa8cf2d9c3c3919194974c\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"1e4RGAug\">换到巴克利的火箭，终于击败宿敌超音速，报了1993和1996的旧恨：1993年，巴克利也是踩着超音速进的总决赛——但1997年西决，火箭输给了常规赛MVP邮差和他的老哥们斯托克顿。之后雨人因为“凭啥我挣那么少”，离开超音速。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"sDsDWoE1\">续约的邮差和斯托克顿，带爵士连进了1997和1998两年总决赛，只是输给了乔丹。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"uA7eLlwI\">囤积人才的纽约尼克斯与迈阿密热在季后赛大战，打架，停赛，被淘汰；这套班子在1999年乔丹退役后那年，黑八打进了总决赛。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-534ec7b42d02a0df4a9281dfc28db28a_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"702\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb\" width=\"702\" data-original=\"https://pic3.zhimg.com/v2-534ec7b42d02a0df4a9281dfc28db28a_r.jpg\" data-original-token=\"v2-65c0ab9d242e06a064f39939ea0f685c\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"2hpDLVmS\">迈阿密热靠着莱利组建的班子，1997年61胜东部第二，东决输给了公牛。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"QpEpoZWZ\">湖人在得到鲨鱼、签下科比后，开始了OK时代。他们会在2000年总决赛遇到步行者——那年步行者因为米勒的递减工资，签到了足够的人手，除了米勒和斯密茨两个王牌外，马克·杰克逊、杰伦·罗斯、贝斯特、克罗希尔、两个戴维斯都崭露头角，只可惜那年的鲨鱼是无敌的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"FDraFhsZ\">罗宾逊在1996-97季因为背伤缺席赛季开局，复出后仅打6场，又遭遇左脚骨折，赛季报销。马刺战绩低迷，于是签到了1997年状元邓肯：他和罗宾逊将在1999年击败湖人拿到总冠军，然后开始和OK的漫长恩怨，那是后话了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"BX7OnE1g\">事后回头看：</p><p data-pid=\"REiqDTRO\">1996是公牛王朝的延续，火箭的最后一搏，爵士之后两连总决赛的伏笔，1999尼克斯阵容由此建立，OK王朝由此开始。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-7b5999665e513aaa0ea37c6e96001f0e_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"469\" data-rawheight=\"271\" class=\"origin_image zh-lightbox-thumb\" width=\"469\" data-original=\"https://pic1.zhimg.com/v2-7b5999665e513aaa0ea37c6e96001f0e_r.jpg\" data-original-token=\"v2-631fcdf01c913fdebc0673c6306ed955\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"hzgTeZCy\">更进一步：</p><p data-pid=\"yot6bJWH\">乔丹前十二年的3200万，第十三年的3014万，<b>超级巨星第一次把自己的市场价值直接兑现成工资。</b></p><p data-pid=\"adlLk_9a\">鲨鱼的七年1.2亿，第一次出现了“<b>小市场培养巨星，大市场豪夺巨星</b>”。</p><p data-pid=\"OEy2QciK\">莱利的大资本配置举行，第一次出现了<b>“球队豪迈运作组建强队”</b>——所以2004他找鲨鱼，2010他签勒布朗和波什，都有前因。</p><p data-pid=\"TggrG4XO\">皮蓬、雨人、罗宾逊们都发现，长期合同可能锁死未来，于是超大合同开始减少，下一年KG的六年1.2亿依然震惊世界，但之后又一轮劳资协议后，球员们的长合同几成绝唱。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"MUVP7yvn\">球场表现，市场价值，工资帽，合同。</p><p data-pid=\"0fxHxdT0\">1996年夏天见证了乔丹的天顶、鲨鱼西游、20世纪最后四年NBA的格局，也几乎是<b>现代NBA自由市场模式的起源。</b></p><p data-pid=\"Y7X-sKiS\"><b>一切从此开始。</b></p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "乔丹鲨鱼科比巴克利们的合同：1996，史上最伟大夏天",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      },
+      {
+        "updated": 1786422462,
+        "is_labeled": false,
+        "copyright_permission": "need_review",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "excerpt": "林冲风雪山神庙，是为千古名篇。潘金莲雪中勾武松，却可对照。 两处的雪，都是完美的隔绝。 林冲被流放，本已踏入荒野，自被流放一刻起，人就失了凭依。管你是八十万禁军教头、前朝宰相、乱世君王，戴了枷上了路，那就人为刀俎我为鱼肉了。平日结的恩怨，就是这会儿显出来了。野猪林，鲁智深救下林冲，保到沧州，进了牢城营，然而被差拨道：你只是我手里一个行货！ ——行货意味着可以被随意摆布。 村上春树认为，卡夫卡的小说最…",
+        "admin_closed_comment": false,
+        "voting": 0,
+        "article_type": "normal",
+        "reason": "",
+        "force_login_when_click_read_more": false,
+        "excerpt_title": "",
+        "id": "2070486206631220882",
+        "voteup_count": 24,
+        "title_image": "",
+        "has_column": true,
+        "url": "https://zhuanlan.zhihu.com/p/2070486206631220882",
+        "comment_permission": "all",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=d16d100b",
+          "uid": "26731574460416",
+          "user_type": "people",
+          "is_following": false,
+          "type": "people",
+          "url_token": "zhang-jia-wei",
+          "id": "f9de84865e3e8455a09af78bfe4d1da5",
+          "description": "",
+          "name": "张佳玮",
+          "is_advertiser": false,
+          "headline": "公号：张佳玮写字的地方",
+          "gender": 1,
+          "url": "/people/f9de84865e3e8455a09af78bfe4d1da5",
+          "avatar_url": "https://pic1.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=d16d100b",
+          "is_org": false,
+          "badge": [
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀答主"
+            }
+          ]
+        },
+        "comment_count": 1,
+        "created": 1786422461,
+        "content": "<p data-pid=\"BbRvoUTX\">林冲风雪山神庙，是为千古名篇。潘金莲雪中勾武松，却可对照。</p><p data-pid=\"SVdKGfl2\">两处的雪，都是完美的隔绝。</p><p><br></p><p data-pid=\"QpFqUPwf\">林冲被流放，本已踏入荒野，自被流放一刻起，人就失了凭依。管你是八十万禁军教头、前朝宰相、乱世君王，戴了枷上了路，那就人为刀俎我为鱼肉了。平日结的恩怨，就是这会儿显出来了。野猪林，鲁智深救下林冲，保到沧州，进了牢城营，然而被差拨道：你只是我手里一个行货！</p><p data-pid=\"zZNlS8rB\">——行货意味着可以被随意摆布。</p><p><br></p><p data-pid=\"DNenETN7\">村上春树认为，卡夫卡的小说最为典型者，乃是《在流放地》。在那篇小说里，流放地的人对某种机器（刑具）抱有异乎寻常的兴趣。在村上后来自己的小说《奇鸟行状录》里更提到：在流放地，一切都如此荒芜，一切都是法外，人可以为所欲为，强者无限压迫弱者。</p><p data-pid=\"Vmn-weIO\">林冲靠出钱，靠柴进的书信，在沧州撑下来，但之后又被安排去了草料场，再次被扔进大雪荒野：从此坑害他就光明正大了。反正大雪遮盖一切，“雪正下得紧。”陆谦、富安、差拨在山神庙外谈论放火烧死了林冲时得意又轻松，甚至还想找几块林冲被烧剩的骨头回去，作为立功的证据。他们不把自己的行为体验为\"作恶\"，只是完成一项任务。大雪里的林冲已不是八十万禁军教头，只是风雪中世界尽头的一个孤独的人。流放本身不创造仇恨，只是让人失去了保护。陆谦对林冲的加害，并非深仇大恨，只是再没什么能阻挡他这么做了。</p><p data-pid=\"Ueu1AzHO\">“雪正下得紧。”</p><p><br></p><p data-pid=\"PSaudYpC\">但大雪又不只是帮凶，不只是隔绝的帘幕。</p><p data-pid=\"pHLQp44L\">林冲被安置在草料场看守草厅。因为大雪，因为冷，林冲去冒雪买了牛肉与酒；因为大雪，因为冷，风雪太大，\"那两间草厅已被雪压倒了\"。于是林冲才不得不摸黑走到不远处那座山神庙投宿。雪到此已不用来渲染死寂或孤独，而是救了林冲的命。他去了山神庙，才躲过了谋害他的大火。于是才能看着外面火起，内心火起，于是报仇雪恨，从此逼上梁山。</p><p data-pid=\"vYVLtTvo\">大雪隔绝了一切，让陆谦们可以害林冲；又无意间救了林冲，让林冲可以反杀。天地不仁以万物为刍狗，雪也是。</p><p><br></p><p data-pid=\"Agz1N7_Z\">在山神庙坐着时，林冲用被子盖了下半截，把葫芦里冷酒喝着，怀里牛肉吃着。外面飞雪无边，此处牛肉冷酒，算是苦中作乐。美中不足的是酒是冷酒，雪夜孤寂，但终究是林冲逼上梁山之前，最后一刻稍许温暖的时光了。</p><p data-pid=\"nIRDy0wo\">之后林冲杀了陆谦报了仇，走到柴进庄人处，看火炭边煨着一瓮酒，那就是热酒，透出酒香来，于是迫不及待抢了来喝：那时林冲已经杀人亡命了，这是他出场第一次撒泼，既是因为内心解放了，也是因为一口热酒在前，比前面的冷酒要有味得多。</p><p data-pid=\"X80cqtvq\">此前林冲的一生，委曲求全，低声下气，风雪漫天隔绝以往一切，心是冷的，喝冷酒。</p><p data-pid=\"mIwVDACr\">外头一把大火烧了草料场，杀了人，横了心，上了不归路。于是撒泼，抢来了热酒喝。</p><p data-pid=\"lNW4Y3NL\">大雪中一葫芦委屈冷酒，大火后一瓮撒泼热酒。</p><p data-pid=\"C3E_EJ51\">冷酒是林冲此前的整个人生。将就将就，委曲求全。高衙内调戏他妻子，他忍；陆谦骗他，他生气也就罢了；董超薛霸在野猪林要杀他，他还是到了沧州；到了沧州，牢城差拨骂他“贼配军”，他陪笑给钱。只要忍下去，一口冷酒，也不错。</p><p data-pid=\"KRvUCWoj\">杀人之后，他提着三颗人头走到柴进庄上，闻到了火炭边煨着的酒香，抢了酒就喝。既然大雪已经埋葬了一切规则，那他也不用再忍了。冷酒委屈，热酒决裂。一口热酒破了冷酷冰雪，从此逼上梁山去。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-8d624e5644eff7ec1fb3bb26d5efa828_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"433\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb\" width=\"433\" data-original=\"https://picx.zhimg.com/v2-8d624e5644eff7ec1fb3bb26d5efa828_r.jpg?source=d16d100b\"></figure><p data-pid=\"OEKUliIG\">后来有另一场雪：</p><p data-pid=\"PYNmaoN6\">潘金莲雪中勾武松。也是大雪切断了外面的一切，武大一时回不来家，只余下房中温暖如春。潘金莲借着给火盆撮火，顺便勾引武松。</p><p data-pid=\"6xSR3jZJ\">因为雪天，所以武大才回不来家；因为雪天寒冷，潘金莲的火盆撮火和热酒，才能那么有吸引力。雪给了林冲机会，也给了潘金莲机会。</p><p data-pid=\"vC2sYAn_\">潘金莲勾引武松之前，叫了他三十九声“叔叔。”</p><p data-pid=\"Obe3saio\">图穷匕见时，一句：</p><p data-pid=\"2CVMXuex\">“你若有心，吃我这半盏儿残酒。”这是她第一次对武松说“你”。从此不是叔叔了，是“你”了。</p><p><br></p><p data-pid=\"rjXmCdWO\">大雪遮断一切，让他们俩孤零零在一起，所以潘金莲才有信心这么处理：雪让一切那么孤寂寒冷，叫了那么多叔叔，温暖如春的加重叫声“你”，喝杯热残酒，怎么了？</p><p data-pid=\"JhuzLd71\">然而武松拒绝潘金莲，劈手将酒夺来，泼在地上，吼的第一个词是：</p><p data-pid=\"AniUv5u2\">“嫂嫂！！”这一声，关系就此分明了。之后武松冒雪走了，从此再也无法在这家住了。</p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-691412ff1c29b735e7501e0869611087_720w.jpg?source=d16d100b\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"638\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb\" width=\"638\" data-original=\"https://pic1.zhimg.com/v2-691412ff1c29b735e7501e0869611087_r.jpg?source=d16d100b\"></figure><p data-pid=\"Ow6T0kYU\">对林冲，雪创造了被放逐到世界尽头的绝境，无法求救，制度失效。于是奋起杀人。对武松与潘金莲，雪创造了一个封闭空间，让嫂嫂暂时敢不当嫂嫂，于是有了“残酒”和“你”构成的诱惑。雪是帐幕，是隔绝，与火焰构成冷与热的温差，然后埋掉旧身份：雪后禁军教头与配军林冲彻底死了，逼上梁山。雪后武松结束了武家兄弟生活，从此再也无法和武大同一屋檐下住了。</p><p><br></p><p data-pid=\"dT4Y8h-u\">诗人咏雪画家画雪，施耐庵用雪写故事。</p><p data-pid=\"4r23o1uh\">真是好大雪。</p>",
+        "state": "published",
+        "content_need_truncated": true,
+        "image_url": "",
+        "title": "林冲武松与潘金莲的雪",
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "type": "article",
+        "suggest_edit": {
+          "status": false,
+          "url": "",
+          "reason": "",
+          "tip": "",
+          "title": ""
+        }
+      }
+    ],
+    "need_force_login": false
+  },
+  "recordTime": null
+}

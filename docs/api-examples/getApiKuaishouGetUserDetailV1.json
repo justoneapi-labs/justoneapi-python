@@ -1,0 +1,127 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:33.273744+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:13",
+  "code": 0,
+  "message": null,
+  "data": {
+    "result": 1,
+    "shareInfo": {
+      "webShareVerifyData": {
+        "shareUserId": "3534383141",
+        "objectId": "1052294368",
+        "timestamp": 1788868813872,
+        "verifyData": "692de33ef586ccbf557b06de0c55586d"
+      },
+      "shareId": "19106439495321",
+      "groupName": "",
+      "shareSubTitle": "找我做浮雕：luban8818 找我学习：luban9989",
+      "shareTitle": "分享了@叫我壁画师明月 的快手主页，一起来看！",
+      "shareType": "3",
+      "docId": "3"
+    },
+    "host-name": "public-bjmt-c34-kce-node939.idchb1az4.hb1.kwaidc.com",
+    "isLiving": false,
+    "userProfile": {
+      "userSettingOption": {
+        "disable_screenshot_feedback": "0",
+        "enable_moment_comment_deny": "0",
+        "show_same_follow_deny": "0",
+        "comment_deny": "0",
+        "wifi_preupload_deny": "0",
+        "message_deny": "0",
+        "frequent_user_deny": "0",
+        "show_story_entrance": "0",
+        "acquaintance_deny": "0",
+        "privacyNewsAuthority": {
+          "userPrivacyNewsAuthorityType": 1,
+          "bandedUserCounts": 0
+        },
+        "photo_download_deny": "0",
+        "download_deny": "1",
+        "gift_unfollow": "0",
+        "allow_others_reward_me": "1",
+        "auto_save_to_local": "0",
+        "privacy_location": "0",
+        "privacy_user": "0",
+        "privacy_news": "1",
+        "missu_deny": "0",
+        "disable_push_my_comments_to_others": "0",
+        "not_allow_find_me_by_mobile": "0",
+        "not_public_collect": "1",
+        "photo_share_add_watermark": "0",
+        "enable_local_intelligence_album": "1",
+        "disable_smart_album_tabs": "1",
+        "disable_nearby_online_status": "1",
+        "disable_im_online_status": "0",
+        "not_recommend_to_qq_friends": "0",
+        "enable_hdr_video": "0",
+        "enable_show_album_in_profile": "1",
+        "not_share_live_stream_fragment": "0",
+        "not_recommend_to_contacts": "0",
+        "at_me_tab_privacy_setting": 1,
+        "follow_fans_list": 0
+      },
+      "enableMoment": true,
+      "ownerCount": {
+        "fan": 716538,
+        "magicFace": 0,
+        "novelDrama": 0,
+        "like": 0,
+        "photo": 434,
+        "recommend": 0,
+        "follow": 0,
+        "photo_public": 434,
+        "photo_private": 0,
+        "collect": 0,
+        "moment": 0
+      },
+      "canGuestShowMomentNews": true,
+      "verified": false,
+      "profile": {
+        "user_sex": "U",
+        "user_profile_bg_url": "https://static.yximgs.com/s1/i/def/bg4.jpg",
+        "user_id": 1052294368,
+        "user_name": "叫我壁画师明月",
+        "verified": false,
+        "headurl": "https://p66.a.kwimgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_s.jpg",
+        "headurls": [
+          {
+            "cdn": "p66.a.kwimgs.com",
+            "url": "https://p66.a.kwimgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_s.jpg"
+          },
+          {
+            "cdn": "p1-pro.a.yximgs.com",
+            "url": "https://p1-pro.a.yximgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_s.jpg"
+          }
+        ],
+        "isFavorited": false,
+        "bigHeadUrls": [
+          {
+            "cdn": "p66.a.kwimgs.com",
+            "url": "https://p66.a.kwimgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_b.jpg"
+          },
+          {
+            "cdn": "p1-pro.a.yximgs.com",
+            "url": "https://p1-pro.a.yximgs.com/uhead/AB/2023/11/14/21/BMjAyMzExMTQyMTI1MzJfMTA1MjI5NDM2OF8xX2hkMTE5XzUyNA==_b.jpg"
+          }
+        ],
+        "user_profile_bg_urls": [
+          {
+            "cdn": "static.yximgs.com",
+            "url": "https://static.yximgs.com/s1/i/def/bg4.jpg"
+          }
+        ],
+        "visitorBeFollowed": false,
+        "user_text": "找我做浮雕：luban8818\n\n找我学习：luban9989"
+      },
+      "showPhotoCollectTab": true,
+      "isUserBanned": false,
+      "isSubscribe": true,
+      "isFriend": false,
+      "isFollowing": false,
+      "isFavorited": false,
+      "showCount": true
+    }
+  },
+  "recordTime": null
+}

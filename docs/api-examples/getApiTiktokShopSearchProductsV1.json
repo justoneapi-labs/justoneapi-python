@@ -1,0 +1,1822 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:46.470938+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:23",
+  "code": 0,
+  "message": null,
+  "data": {
+    "code": 0,
+    "message": "success",
+    "data": {
+      "products": [
+        {
+          "product_id": "1732088709289316849",
+          "title": "phone stand",
+          "image": {
+            "height": 2094,
+            "width": 2400,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/000afd640e6c42f18fc4d00cd10a5e43",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/000afd640e6c42f18fc4d00cd10a5e43~tplv-fhlh96nyum-crop-webp:2400:2094.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/000afd640e6c42f18fc4d00cd10a5e43~tplv-fhlh96nyum-crop-webp:2400:2094.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1732088725982908913",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "29.99",
+            "sale_price_format": "29.99",
+            "single_product_price_format": "29.99",
+            "single_product_price_decimal": "29.99",
+            "sale_price_integer_part_format": "29",
+            "sale_price_decimal_part_format": "99",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {}
+          },
+          "rate_info": {
+            "score": 0,
+            "review_count": "0"
+          },
+          "sold_info": {
+            "sold_count": 1
+          },
+          "seller_info": {
+            "seller_id": "7494267477264664049",
+            "shop_name": "HMP Bikes",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1778012222598",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/compact-phone-stand-stable-portable-simple-assembly/1732088709289316849",
+            "slug": "compact-phone-stand-stable-portable-simple-assembly",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {
+              "3": [
+                {
+                  "id": "8",
+                  "default_style": 10,
+                  "is_show_icon": true,
+                  "type": 8,
+                  "text": "Free shipping",
+                  "icon": {
+                    "light_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    },
+                    "dark_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    }
+                  },
+                  "da_info": "{\"placement\":\"FREE_SHIPPING\",\"ranking\":\"1\",\"activity_name\":\"8\",\"has_icon\":\"true\",\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"promotion_id\":\"-999\"}",
+                  "feature": [
+                    {
+                      "property_name": "shipping_fee",
+                      "property_value": "0"
+                    }
+                  ]
+                }
+              ],
+              "10": [
+                {
+                  "id": "8",
+                  "default_style": 10,
+                  "is_show_icon": true,
+                  "type": 8,
+                  "text": "Free shipping",
+                  "icon": {
+                    "light_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    },
+                    "dark_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    }
+                  },
+                  "da_info": "{\"ranking\":\"1\",\"activity_name\":\"8\",\"promotion_id\":\"-999\",\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"true\"}",
+                  "feature": [
+                    {
+                      "property_name": "shipping_fee",
+                      "property_value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            "placement_labels_ui": {
+              "ui_list": [
+                {
+                  "placement": 3,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "8",
+                        "da_info": "{\"placement\":\"FREE_SHIPPING\",\"ranking\":\"1\",\"activity_name\":\"8\",\"has_icon\":\"true\",\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"promotion_id\":\"-999\"}",
+                        "label_style_id": "199"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "View",
+                        "value": "",
+                        "styles": "padding:0rpx 4rpx 2rpx 4rpx;background-color:#007B7B;border-radius:4rpx;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": [
+                          {
+                            "hidden": false,
+                            "type": "Text",
+                            "value": "Free shipping",
+                            "styles": "color:#fff;font-family:TikTokFont;font-size:11rpx;white-space:nowrap;text-overflow: ellipsis;line-height:1",
+                            "click_event": {
+                              "type": "",
+                              "arguments": {
+                                "schema": ""
+                              }
+                            },
+                            "extra": "",
+                            "strictMode": "",
+                            "visibilityScript": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                },
+                {
+                  "placement": 10,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "8",
+                        "da_info": "{\"ranking\":\"1\",\"activity_name\":\"8\",\"promotion_id\":\"-999\",\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"true\"}",
+                        "label_style_id": "194"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "Text",
+                        "value": "Free shipping",
+                        "styles": "line-height:1;color:{{theme({ \"light\": \"#007b7b\", \"dark\": \"#00b8b9\" })}};font-family:TikTokFont;font-size:12rpx;white-space:nowrap;text-overflow:ellipsis;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": []
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                }
+              ]
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1732088725982908913",
+              "PriceInfo": {
+                "sku_id": "1732088725982908913",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "29.99",
+                "sale_price_format": "29.99",
+                "single_product_price_format": "29.99",
+                "single_product_price_decimal": "29.99",
+                "sale_price_integer_part_format": "29",
+                "sale_price_decimal_part_format": "99",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            }
+          ],
+          "transparent_image": {
+            "height": 500,
+            "width": 500,
+            "uri": "tos-maliva-i-o3syd03w52-us/6186861b2e76d9fe2ecfcca432a32abe",
+            "url_list": [
+              "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/6186861b2e76d9fe2ecfcca432a32abe~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/6186861b2e76d9fe2ecfcca432a32abe~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          }
+        },
+        {
+          "product_id": "1732311810808648670",
+          "title": "Classic sliding cover phone for men and seniors, luxurious business backup phone, metal phone for the elderly",
+          "image": {
+            "height": 1920,
+            "width": 1920,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/a5aa3980c4f443de809be9f02e99237a",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/a5aa3980c4f443de809be9f02e99237a~tplv-fhlh96nyum-crop-webp:1920:1920.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/a5aa3980c4f443de809be9f02e99237a~tplv-fhlh96nyum-crop-webp:1920:1920.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1732311811359216606",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "71.66",
+            "sale_price_format": "71.66",
+            "single_product_price_format": "71.66",
+            "single_product_price_decimal": "71.66",
+            "sale_price_integer_part_format": "71",
+            "sale_price_decimal_part_format": "66",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {
+              "seller_subtotal_deduction": "76.66",
+              "seller_subtotal_deduction_decimal": "76.66"
+            }
+          },
+          "rate_info": {
+            "score": 0,
+            "review_count": "0"
+          },
+          "sold_info": {
+            "sold_count": 1
+          },
+          "seller_info": {
+            "seller_id": "7494094171285325790",
+            "shop_name": "MassMoto Shop",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-maliva-i-o3syd03w52-us/8fdd114d786643d1a53cc5781afc4a7b",
+              "url_list": [
+                "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/8fdd114d786643d1a53cc5781afc4a7b~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/8fdd114d786643d1a53cc5781afc4a7b~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1775571213884",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/classic-sliding-cover-phone-for-men-seniors-luxurious-metal/1732311810808648670",
+            "slug": "classic-sliding-cover-phone-for-men-seniors-luxurious-metal",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {
+              "1": [
+                {
+                  "id": "7682379214158382861",
+                  "default_style": 12,
+                  "is_show_icon": false,
+                  "type": 4,
+                  "text": "Limited time deal",
+                  "status": 102,
+                  "da_info": "{\"flash_sale_cost_role\":\"2\",\"limited_time_deal\":\"1\",\"placement\":\"DEFAULT\",\"label_type\":\"FLASH_SALE\",\"activity_name\":\"4\",\"has_icon\":\"false\",\"promotion_id\":\"7682379214158382861\",\"ranking\":\"1\"}",
+                  "feature": [
+                    {
+                      "property_name": "limited_time_deal",
+                      "property_value": "true"
+                    },
+                    {
+                      "property_name": "seller_non_live_flash_sale",
+                      "property_value": "true"
+                    },
+                    {
+                      "property_name": "metric_custom",
+                      "property_value": "seller_flash_sale"
+                    },
+                    {
+                      "property_name": "countdown",
+                      "property_value": "84100"
+                    },
+                    {
+                      "property_name": "countdown_start_time",
+                      "property_value": "1788693724000"
+                    },
+                    {
+                      "property_name": "countdown_end_time",
+                      "property_value": "1788952924000"
+                    },
+                    {
+                      "property_name": "countdown_less_than_24h",
+                      "property_value": "true"
+                    },
+                    {
+                      "property_name": "activity_price",
+                      "property_value": ""
+                    },
+                    {
+                      "property_name": "is_seller_flash_sale",
+                      "property_value": "1"
+                    }
+                  ]
+                }
+              ],
+              "3": [
+                {
+                  "id": "8",
+                  "default_style": 10,
+                  "is_show_icon": true,
+                  "type": 8,
+                  "text": "Free shipping",
+                  "icon": {
+                    "light_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    },
+                    "dark_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    }
+                  },
+                  "da_info": "{\"ranking\":\"1\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"true\",\"promotion_id\":\"-999\",\"delivery_tag\":\"free_shipping\",\"placement\":\"FREE_SHIPPING\",\"activity_name\":\"8\",\"is_free_shipping\":\"1\"}",
+                  "feature": [
+                    {
+                      "property_name": "shipping_fee",
+                      "property_value": "0"
+                    }
+                  ]
+                }
+              ],
+              "10": [
+                {
+                  "id": "8",
+                  "default_style": 10,
+                  "is_show_icon": true,
+                  "type": 8,
+                  "text": "Free shipping",
+                  "icon": {
+                    "light_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    },
+                    "dark_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    }
+                  },
+                  "da_info": "{\"is_free_shipping\":\"1\",\"activity_name\":\"8\",\"promotion_id\":\"-999\",\"delivery_tag\":\"free_shipping\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"ranking\":\"1\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"true\"}",
+                  "feature": [
+                    {
+                      "property_name": "shipping_fee",
+                      "property_value": "0"
+                    }
+                  ]
+                },
+                {
+                  "id": "7682379214158382861",
+                  "default_style": 12,
+                  "is_show_icon": false,
+                  "type": 4,
+                  "text": "Limited time deal",
+                  "status": 102,
+                  "da_info": "{\"promotion_id\":\"7682379214158382861\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"ranking\":\"2\",\"has_icon\":\"false\",\"flash_sale_cost_role\":\"2\",\"limited_time_deal\":\"1\",\"label_type\":\"FLASH_SALE\",\"activity_name\":\"4\"}",
+                  "feature": [
+                    {
+                      "property_name": "limited_time_deal",
+                      "property_value": "true"
+                    },
+                    {
+                      "property_name": "seller_non_live_flash_sale",
+                      "property_value": "true"
+                    },
+                    {
+                      "property_name": "metric_custom",
+                      "property_value": "seller_flash_sale"
+                    },
+                    {
+                      "property_name": "countdown",
+                      "property_value": "84100"
+                    },
+                    {
+                      "property_name": "countdown_start_time",
+                      "property_value": "1788693724000"
+                    },
+                    {
+                      "property_name": "countdown_end_time",
+                      "property_value": "1788952924000"
+                    },
+                    {
+                      "property_name": "countdown_less_than_24h",
+                      "property_value": "true"
+                    },
+                    {
+                      "property_name": "activity_price",
+                      "property_value": ""
+                    },
+                    {
+                      "property_name": "is_seller_flash_sale",
+                      "property_value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            "placement_labels_ui": {
+              "ui_list": [
+                {
+                  "placement": 3,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "8",
+                        "da_info": "{\"ranking\":\"1\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"true\",\"promotion_id\":\"-999\",\"delivery_tag\":\"free_shipping\",\"placement\":\"FREE_SHIPPING\",\"activity_name\":\"8\",\"is_free_shipping\":\"1\"}",
+                        "label_style_id": "199"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "View",
+                        "value": "",
+                        "styles": "padding:0rpx 4rpx 2rpx 4rpx;background-color:#007B7B;border-radius:4rpx;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": [
+                          {
+                            "hidden": false,
+                            "type": "Text",
+                            "value": "Free shipping",
+                            "styles": "color:#fff;font-family:TikTokFont;font-size:11rpx;white-space:nowrap;text-overflow: ellipsis;line-height:1",
+                            "click_event": {
+                              "type": "",
+                              "arguments": {
+                                "schema": ""
+                              }
+                            },
+                            "extra": "",
+                            "strictMode": "",
+                            "visibilityScript": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                },
+                {
+                  "placement": 10,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "8",
+                        "da_info": "{\"is_free_shipping\":\"1\",\"activity_name\":\"8\",\"promotion_id\":\"-999\",\"delivery_tag\":\"free_shipping\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"ranking\":\"1\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"true\"}",
+                        "label_style_id": "194"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "Text",
+                        "value": "Free shipping",
+                        "styles": "line-height:1;color:{{theme({ \"light\": \"#007b7b\", \"dark\": \"#00b8b9\" })}};font-family:TikTokFont;font-size:12rpx;white-space:nowrap;text-overflow:ellipsis;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": []
+                      }
+                    },
+                    {
+                      "meta": {
+                        "label_type": "4",
+                        "da_info": "{\"promotion_id\":\"7682379214158382861\",\"placement\":\"DEFAULT_SPLIT_ONE\",\"ranking\":\"2\",\"has_icon\":\"false\",\"flash_sale_cost_role\":\"2\",\"limited_time_deal\":\"1\",\"label_type\":\"FLASH_SALE\",\"activity_name\":\"4\"}",
+                        "label_style_id": "191"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "View",
+                        "value": "",
+                        "styles": "display:flex;flex-direction:row;align-items:center;justify-content:flex-start;padding:0;flex-wrap:nowrap;gap:1rpx;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": [
+                          {
+                            "hidden": false,
+                            "type": "Text",
+                            "value": "Limited time deal",
+                            "styles": "color:{{ theme({ \"light\": \"#E10543\", \"dark\": \"#FF576F\" }) }};font-family:TikTokFont;font-size:12rpx;word-break:keep-all;white-space:nowrap;text-overflow:ellipsis;line-height:1;",
+                            "click_event": {
+                              "type": "",
+                              "arguments": {
+                                "schema": ""
+                              }
+                            },
+                            "extra": "",
+                            "strictMode": "",
+                            "visibilityScript": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                },
+                {
+                  "placement": 1,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "4",
+                        "da_info": "{\"flash_sale_cost_role\":\"2\",\"limited_time_deal\":\"1\",\"placement\":\"DEFAULT\",\"label_type\":\"FLASH_SALE\",\"activity_name\":\"4\",\"has_icon\":\"false\",\"promotion_id\":\"7682379214158382861\",\"ranking\":\"1\"}",
+                        "label_style_id": "191"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "View",
+                        "value": "",
+                        "styles": "display:flex;flex-direction:row;align-items:center;justify-content:flex-start;padding:0;flex-wrap:nowrap;gap:1rpx;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": [
+                          {
+                            "hidden": false,
+                            "type": "Text",
+                            "value": "Limited time deal",
+                            "styles": "color:{{ theme({ \"light\": \"#E10543\", \"dark\": \"#FF576F\" }) }};font-family:TikTokFont;font-size:12rpx;word-break:keep-all;white-space:nowrap;text-overflow:ellipsis;line-height:1;",
+                            "click_event": {
+                              "type": "",
+                              "arguments": {
+                                "schema": ""
+                              }
+                            },
+                            "extra": "",
+                            "strictMode": "",
+                            "visibilityScript": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                }
+              ]
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1732311811359216606",
+              "PriceInfo": {
+                "sku_id": "1732311811359216606",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "71.66",
+                "sale_price_format": "71.66",
+                "single_product_price_format": "71.66",
+                "single_product_price_decimal": "71.66",
+                "sale_price_integer_part_format": "71",
+                "sale_price_decimal_part_format": "66",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {
+                  "seller_subtotal_deduction": "76.66",
+                  "seller_subtotal_deduction_decimal": "76.66"
+                }
+              }
+            },
+            {
+              "SkuId": "1732311811359282142",
+              "PriceInfo": {
+                "sku_id": "1732311811359282142",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "71.66",
+                "sale_price_format": "71.66",
+                "single_product_price_format": "71.66",
+                "single_product_price_decimal": "71.66",
+                "sale_price_integer_part_format": "71",
+                "sale_price_decimal_part_format": "66",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {
+                  "seller_subtotal_deduction": "76.66",
+                  "seller_subtotal_deduction_decimal": "76.66"
+                }
+              }
+            },
+            {
+              "SkuId": "1732311811359347678",
+              "PriceInfo": {
+                "sku_id": "1732311811359347678",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "71.66",
+                "sale_price_format": "71.66",
+                "single_product_price_format": "71.66",
+                "single_product_price_decimal": "71.66",
+                "sale_price_integer_part_format": "71",
+                "sale_price_decimal_part_format": "66",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {
+                  "seller_subtotal_deduction": "76.66",
+                  "seller_subtotal_deduction_decimal": "76.66"
+                }
+              }
+            }
+          ],
+          "transparent_image": {
+            "height": 500,
+            "width": 500,
+            "uri": "tos-maliva-i-o3syd03w52-us/4e28767b7b79d32778affd7bf7122ffc",
+            "url_list": [
+              "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/4e28767b7b79d32778affd7bf7122ffc~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/4e28767b7b79d32778affd7bf7122ffc~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          }
+        },
+        {
+          "product_id": "1729688949139345882",
+          "title": "Call Drops",
+          "image": {
+            "height": 1600,
+            "width": 1200,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/08964a7cb69444258617c5bec8a8c1d4",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/08964a7cb69444258617c5bec8a8c1d4~tplv-fhlh96nyum-crop-webp:1200:1600.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/08964a7cb69444258617c5bec8a8c1d4~tplv-fhlh96nyum-crop-webp:1200:1600.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1732092882165273050",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "7.99",
+            "sale_price_format": "7.99",
+            "single_product_price_format": "7.99",
+            "single_product_price_decimal": "7.99",
+            "sale_price_integer_part_format": "7",
+            "sale_price_decimal_part_format": "99",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {}
+          },
+          "rate_info": {
+            "score": 5,
+            "review_count": "2"
+          },
+          "sold_info": {
+            "sold_count": 7
+          },
+          "seller_info": {
+            "seller_id": "7495923319067740634",
+            "shop_name": "Take’em",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/5962c2c8767a4d16b38b009ea5f2a183",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5962c2c8767a4d16b38b009ea5f2a183~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/5962c2c8767a4d16b38b009ea5f2a183~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1746341345730",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/call-drops-by-brand-name-secure-your-goose-duck-calls-dog-whistles/1729688949139345882",
+            "slug": "call-drops-by-brand-name-secure-your-goose-duck-calls-dog-whistles",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {},
+            "placement_labels_ui": {
+              "ui_list": []
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1732092882165273050",
+              "PriceInfo": {
+                "sku_id": "1732092882165273050",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "7.99",
+                "sale_price_format": "7.99",
+                "single_product_price_format": "7.99",
+                "single_product_price_decimal": "7.99",
+                "sale_price_integer_part_format": "7",
+                "sale_price_decimal_part_format": "99",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            },
+            {
+              "SkuId": "1732092882165338586",
+              "PriceInfo": {
+                "sku_id": "1732092882165338586",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "7.99",
+                "sale_price_format": "7.99",
+                "single_product_price_format": "7.99",
+                "single_product_price_decimal": "7.99",
+                "sale_price_integer_part_format": "7",
+                "sale_price_decimal_part_format": "99",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            },
+            {
+              "SkuId": "1732092882165404122",
+              "PriceInfo": {
+                "sku_id": "1732092882165404122",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "7.99",
+                "sale_price_format": "7.99",
+                "single_product_price_format": "7.99",
+                "single_product_price_decimal": "7.99",
+                "sale_price_integer_part_format": "7",
+                "sale_price_decimal_part_format": "99",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            }
+          ]
+        },
+        {
+          "product_id": "1732035571293983362",
+          "title": "gorgeous phone chains",
+          "image": {
+            "height": 1920,
+            "width": 1920,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/9f5a46ce9e5e484e857368b58e49c28b",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/9f5a46ce9e5e484e857368b58e49c28b~tplv-fhlh96nyum-crop-webp:1920:1920.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/9f5a46ce9e5e484e857368b58e49c28b~tplv-fhlh96nyum-crop-webp:1920:1920.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1732035582142222978",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "3",
+            "sale_price_format": "3.00",
+            "single_product_price_format": "3.00",
+            "single_product_price_decimal": "3",
+            "sale_price_integer_part_format": "3",
+            "sale_price_decimal_part_format": "00",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {}
+          },
+          "rate_info": {
+            "score": 0,
+            "review_count": "0"
+          },
+          "sold_info": {
+            "sold_count": 49
+          },
+          "seller_info": {
+            "seller_id": "7494215955176392322",
+            "shop_name": "Village Haven",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/b34310f8ac344ea0989ddf5bffc9f36c",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b34310f8ac344ea0989ddf5bffc9f36c~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b34310f8ac344ea0989ddf5bffc9f36c~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1766070336871",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/gorgeous-phone-chains-durable-stylish-accessories/1732035571293983362",
+            "slug": "gorgeous-phone-chains-durable-stylish-accessories",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {},
+            "placement_labels_ui": {
+              "ui_list": []
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1732035582142222978",
+              "PriceInfo": {
+                "sku_id": "1732035582142222978",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "3",
+                "sale_price_format": "3.00",
+                "single_product_price_format": "3.00",
+                "single_product_price_decimal": "3",
+                "sale_price_integer_part_format": "3",
+                "sale_price_decimal_part_format": "00",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            }
+          ]
+        },
+        {
+          "product_id": "1732034080601248684",
+          "title": "Dean/Castiel phone charm",
+          "image": {
+            "height": 961,
+            "width": 961,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/3967738b42ad4c90aa199ac1f4bcda60",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3967738b42ad4c90aa199ac1f4bcda60~tplv-fhlh96nyum-crop-webp:961:961.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/3967738b42ad4c90aa199ac1f4bcda60~tplv-fhlh96nyum-crop-webp:961:961.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1732034069118620588",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "9.99",
+            "sale_price_format": "9.99",
+            "single_product_price_format": "9.99",
+            "single_product_price_decimal": "9.99",
+            "sale_price_integer_part_format": "9",
+            "sale_price_decimal_part_format": "99",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {}
+          },
+          "rate_info": {
+            "score": 0,
+            "review_count": "0"
+          },
+          "sold_info": {
+            "sold_count": 8
+          },
+          "seller_info": {
+            "seller_id": "7495437722335218604",
+            "shop_name": "Menace Made",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/fb23f6f6d91c4e50ad21945981be377e",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/fb23f6f6d91c4e50ad21945981be377e~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/fb23f6f6d91c4e50ad21945981be377e~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1768391411633",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/dean-castiel-phone-charm-electric-blue-green-eyes-handmade/1732034080601248684",
+            "slug": "dean-castiel-phone-charm-electric-blue-green-eyes-handmade",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {},
+            "placement_labels_ui": {
+              "ui_list": []
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1732034069118620588",
+              "PriceInfo": {
+                "sku_id": "1732034069118620588",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "9.99",
+                "sale_price_format": "9.99",
+                "single_product_price_format": "9.99",
+                "single_product_price_decimal": "9.99",
+                "sale_price_integer_part_format": "9",
+                "sale_price_decimal_part_format": "99",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            }
+          ]
+        },
+        {
+          "product_id": "1732160546089767043",
+          "title": "Magnetic phone mount",
+          "image": {
+            "height": 1304,
+            "width": 1320,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/37d7a7737ca64e68b3cc3f6bc622ed6f",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/37d7a7737ca64e68b3cc3f6bc622ed6f~tplv-fhlh96nyum-crop-webp:1320:1304.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/37d7a7737ca64e68b3cc3f6bc622ed6f~tplv-fhlh96nyum-crop-webp:1320:1304.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1732160586009645187",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "8.99",
+            "sale_price_format": "8.99",
+            "single_product_price_format": "8.99",
+            "single_product_price_decimal": "8.99",
+            "sale_price_integer_part_format": "8",
+            "sale_price_decimal_part_format": "99",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {}
+          },
+          "rate_info": {
+            "score": 0,
+            "review_count": "0"
+          },
+          "sold_info": {
+            "sold_count": 3
+          },
+          "seller_info": {
+            "seller_id": "7494320879601878147",
+            "shop_name": "Coronafinds",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1771942265398",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/magnetic-phone-mount-for-iphone-android-foldable-design/1732160546089767043",
+            "slug": "magnetic-phone-mount-for-iphone-android-foldable-design",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {
+              "3": [
+                {
+                  "id": "8",
+                  "default_style": 10,
+                  "is_show_icon": true,
+                  "type": 8,
+                  "text": "Free shipping",
+                  "icon": {
+                    "light_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    },
+                    "dark_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    }
+                  },
+                  "da_info": "{\"is_free_shipping\":\"1\",\"placement\":\"FREE_SHIPPING\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"activity_name\":\"8\",\"has_icon\":\"true\",\"delivery_tag\":\"free_shipping\",\"ranking\":\"1\",\"promotion_id\":\"-999\"}",
+                  "feature": [
+                    {
+                      "property_name": "shipping_fee",
+                      "property_value": "0"
+                    }
+                  ]
+                }
+              ],
+              "10": [
+                {
+                  "id": "8",
+                  "default_style": 10,
+                  "is_show_icon": true,
+                  "type": 8,
+                  "text": "Free shipping",
+                  "icon": {
+                    "light_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    },
+                    "dark_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    }
+                  },
+                  "da_info": "{\"placement\":\"DEFAULT_SPLIT_ONE\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"activity_name\":\"8\",\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"ranking\":\"1\",\"has_icon\":\"true\",\"promotion_id\":\"-999\"}",
+                  "feature": [
+                    {
+                      "property_name": "shipping_fee",
+                      "property_value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            "placement_labels_ui": {
+              "ui_list": [
+                {
+                  "placement": 10,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "8",
+                        "da_info": "{\"placement\":\"DEFAULT_SPLIT_ONE\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"activity_name\":\"8\",\"is_free_shipping\":\"1\",\"delivery_tag\":\"free_shipping\",\"ranking\":\"1\",\"has_icon\":\"true\",\"promotion_id\":\"-999\"}",
+                        "label_style_id": "194"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "Text",
+                        "value": "Free shipping",
+                        "styles": "line-height:1;color:{{theme({ \"light\": \"#007b7b\", \"dark\": \"#00b8b9\" })}};font-family:TikTokFont;font-size:12rpx;white-space:nowrap;text-overflow:ellipsis;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": []
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                },
+                {
+                  "placement": 3,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "8",
+                        "da_info": "{\"is_free_shipping\":\"1\",\"placement\":\"FREE_SHIPPING\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"activity_name\":\"8\",\"has_icon\":\"true\",\"delivery_tag\":\"free_shipping\",\"ranking\":\"1\",\"promotion_id\":\"-999\"}",
+                        "label_style_id": "199"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "View",
+                        "value": "",
+                        "styles": "padding:0rpx 4rpx 2rpx 4rpx;background-color:#007B7B;border-radius:4rpx;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": [
+                          {
+                            "hidden": false,
+                            "type": "Text",
+                            "value": "Free shipping",
+                            "styles": "color:#fff;font-family:TikTokFont;font-size:11rpx;white-space:nowrap;text-overflow: ellipsis;line-height:1",
+                            "click_event": {
+                              "type": "",
+                              "arguments": {
+                                "schema": ""
+                              }
+                            },
+                            "extra": "",
+                            "strictMode": "",
+                            "visibilityScript": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                }
+              ]
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1732160586009645187",
+              "PriceInfo": {
+                "sku_id": "1732160586009645187",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "8.99",
+                "sale_price_format": "8.99",
+                "single_product_price_format": "8.99",
+                "single_product_price_decimal": "8.99",
+                "sale_price_integer_part_format": "8",
+                "sale_price_decimal_part_format": "99",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            }
+          ],
+          "transparent_image": {
+            "height": 500,
+            "width": 500,
+            "uri": "tos-maliva-i-o3syd03w52-us/f4579440bdf6cf0d49d0c7ab34738703",
+            "url_list": [
+              "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/f4579440bdf6cf0d49d0c7ab34738703~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/f4579440bdf6cf0d49d0c7ab34738703~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          }
+        },
+        {
+          "product_id": "1731089798301717023",
+          "title": "Customize, phone straps, phone grip electrical device holder Cellphone",
+          "image": {
+            "height": 1024,
+            "width": 1024,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/260207781cc94d89a5016b18001a10a0",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/260207781cc94d89a5016b18001a10a0~tplv-fhlh96nyum-crop-webp:1024:1024.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/260207781cc94d89a5016b18001a10a0~tplv-fhlh96nyum-crop-webp:1024:1024.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1731355136087200287",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "10",
+            "sale_price_format": "10.00",
+            "single_product_price_format": "10.00",
+            "single_product_price_decimal": "10",
+            "sale_price_integer_part_format": "10",
+            "sale_price_decimal_part_format": "00",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {}
+          },
+          "rate_info": {
+            "score": 5,
+            "review_count": "9"
+          },
+          "sold_info": {
+            "sold_count": 47
+          },
+          "seller_info": {
+            "seller_id": "7495930726947523103",
+            "shop_name": "Tiny Treasures 4U2",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/b2e4212c888340ddad8e594ac60932e2",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b2e4212c888340ddad8e594ac60932e2~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/b2e4212c888340ddad8e594ac60932e2~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1767538149007",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/phone-holder-strap-colorful-beads-for-easy-access-functional/1731089798301717023",
+            "slug": "phone-holder-strap-colorful-beads-for-easy-access-functional",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {},
+            "placement_labels_ui": {
+              "ui_list": []
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1731355136087200287",
+              "PriceInfo": {
+                "sku_id": "1731355136087200287",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "10",
+                "sale_price_format": "10.00",
+                "single_product_price_format": "10.00",
+                "single_product_price_decimal": "10",
+                "sale_price_integer_part_format": "10",
+                "sale_price_decimal_part_format": "00",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            }
+          ]
+        },
+        {
+          "product_id": "1731987113638072822",
+          "title": "junk phone case",
+          "image": {
+            "height": 1290,
+            "width": 1290,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/94fdba7fde2e4228816fc2f6a1a9705b",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/94fdba7fde2e4228816fc2f6a1a9705b~tplv-fhlh96nyum-crop-webp:1290:1290.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/94fdba7fde2e4228816fc2f6a1a9705b~tplv-fhlh96nyum-crop-webp:1290:1290.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1731987120486257142",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "20",
+            "sale_price_format": "20.00",
+            "single_product_price_format": "20.00",
+            "single_product_price_decimal": "20",
+            "sale_price_integer_part_format": "20",
+            "sale_price_decimal_part_format": "00",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {}
+          },
+          "rate_info": {
+            "score": 0,
+            "review_count": "0"
+          },
+          "sold_info": {
+            "sold_count": 0
+          },
+          "seller_info": {
+            "seller_id": "7496085867160504822",
+            "shop_name": "jaidaalize",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/587383daaf8a4eaaa4dfb4c8f2b5944f~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1768407212939",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/pink-white-junk-phone-case-stylish-protective-cover/1731987113638072822",
+            "slug": "pink-white-junk-phone-case-stylish-protective-cover",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {},
+            "placement_labels_ui": {
+              "ui_list": []
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1731987120486257142",
+              "PriceInfo": {
+                "sku_id": "1731987120486257142",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "20",
+                "sale_price_format": "20.00",
+                "single_product_price_format": "20.00",
+                "single_product_price_decimal": "20",
+                "sale_price_integer_part_format": "20",
+                "sale_price_decimal_part_format": "00",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            }
+          ],
+          "transparent_image": {
+            "height": 500,
+            "width": 500,
+            "uri": "tos-maliva-i-o3syd03w52-us/25537fd3c1eaabaa7574d646de2e72ef",
+            "url_list": [
+              "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/25537fd3c1eaabaa7574d646de2e72ef~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/25537fd3c1eaabaa7574d646de2e72ef~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          }
+        },
+        {
+          "product_id": "1732317240629629865",
+          "title": "A versatile shower phone holder that rotates 360 degrees, suitable for 4-7 inch phones. It can be installed in various locations such as bathrooms, kitchens, and mirrors. Featuring a wall-mounted design and adjustable viewing angle, it's easy to install",
+          "image": {
+            "height": 634,
+            "width": 679,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/d62e4341d6ad4568b9350d7f5090cbda",
+            "url_list": [
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/d62e4341d6ad4568b9350d7f5090cbda~tplv-fhlh96nyum-crop-webp:679:634.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/d62e4341d6ad4568b9350d7f5090cbda~tplv-fhlh96nyum-crop-webp:679:634.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1732317237574210473",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "9.96",
+            "origin_price_decimal": "19.9",
+            "sale_price_format": "9.96",
+            "origin_price_format": "19.90",
+            "discount_format": "50%",
+            "discount_decimal": "0.5",
+            "reduce_price_format": "Saving $9.94",
+            "single_product_price_format": "9.96",
+            "single_product_price_decimal": "9.96",
+            "sale_price_integer_part_format": "9",
+            "sale_price_decimal_part_format": "96",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {
+              "seller_subtotal_deduction": "9.94",
+              "seller_subtotal_deduction_decimal": "9.94"
+            }
+          },
+          "rate_info": {
+            "score": 3.7,
+            "review_count": "3"
+          },
+          "sold_info": {
+            "sold_count": 16
+          },
+          "seller_info": {
+            "seller_id": "7496285288011828137",
+            "shop_name": "Motian Shop",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/447ddf85bc0c48718da0f6d70dbc97a0",
+              "url_list": [
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/447ddf85bc0c48718da0f6d70dbc97a0~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/447ddf85bc0c48718da0f6d70dbc97a0~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1775658434023",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/shower-phone-holder-360-rotatable-for-4-7-inch-devices-wall-mounted-adjustable-viewing-angle-easy-installation/1732317240629629865",
+            "slug": "shower-phone-holder-360-rotatable-for-4-7-inch-devices-wall-mounted-adjustable-viewing-angle-easy-installation",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {
+              "3": [
+                {
+                  "id": "8",
+                  "default_style": 10,
+                  "is_show_icon": true,
+                  "type": 8,
+                  "text": "Free shipping",
+                  "icon": {
+                    "light_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    },
+                    "dark_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    }
+                  },
+                  "da_info": "{\"delivery_tag\":\"free_shipping\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"is_free_shipping\":\"1\",\"placement\":\"FREE_SHIPPING\",\"ranking\":\"1\",\"activity_name\":\"8\",\"has_icon\":\"true\",\"promotion_id\":\"-999\"}",
+                  "feature": [
+                    {
+                      "property_name": "shipping_fee",
+                      "property_value": "0"
+                    }
+                  ]
+                }
+              ],
+              "10": [
+                {
+                  "id": "8",
+                  "default_style": 10,
+                  "is_show_icon": true,
+                  "type": 8,
+                  "text": "Free shipping",
+                  "icon": {
+                    "light_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    },
+                    "dark_icon": {
+                      "height": 800,
+                      "width": 800,
+                      "minetype": "",
+                      "uri": "tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png",
+                      "url_list": [
+                        "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299",
+                        "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-5i1jvf5urr-us/free_shipping_medium_light_dark.png~tplv-fhlh96nyum-resize-png:800:800.png?dr=12184&t=555f072d&ps=933b5bde&shp=cde50ccb&shcp=d9d491bf&idc=useast5&from=3454340299"
+                      ]
+                    }
+                  },
+                  "da_info": "{\"delivery_tag\":\"free_shipping\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"true\",\"is_free_shipping\":\"1\",\"ranking\":\"1\",\"activity_name\":\"8\",\"promotion_id\":\"-999\",\"placement\":\"DEFAULT_SPLIT_ONE\"}",
+                  "feature": [
+                    {
+                      "property_name": "shipping_fee",
+                      "property_value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            "placement_labels_ui": {
+              "ui_list": [
+                {
+                  "placement": 3,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "8",
+                        "da_info": "{\"delivery_tag\":\"free_shipping\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"is_free_shipping\":\"1\",\"placement\":\"FREE_SHIPPING\",\"ranking\":\"1\",\"activity_name\":\"8\",\"has_icon\":\"true\",\"promotion_id\":\"-999\"}",
+                        "label_style_id": "199"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "View",
+                        "value": "",
+                        "styles": "padding:0rpx 4rpx 2rpx 4rpx;background-color:#007B7B;border-radius:4rpx;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": [
+                          {
+                            "hidden": false,
+                            "type": "Text",
+                            "value": "Free shipping",
+                            "styles": "color:#fff;font-family:TikTokFont;font-size:11rpx;white-space:nowrap;text-overflow: ellipsis;line-height:1",
+                            "click_event": {
+                              "type": "",
+                              "arguments": {
+                                "schema": ""
+                              }
+                            },
+                            "extra": "",
+                            "strictMode": "",
+                            "visibilityScript": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                },
+                {
+                  "placement": 10,
+                  "labels": [
+                    {
+                      "meta": {
+                        "label_type": "8",
+                        "da_info": "{\"delivery_tag\":\"free_shipping\",\"label_type\":\"PRODUCT_FREE_SHIPPING\",\"has_icon\":\"true\",\"is_free_shipping\":\"1\",\"ranking\":\"1\",\"activity_name\":\"8\",\"promotion_id\":\"-999\",\"placement\":\"DEFAULT_SPLIT_ONE\"}",
+                        "label_style_id": "194"
+                      },
+                      "lom": {
+                        "hidden": false,
+                        "type": "Text",
+                        "value": "Free shipping",
+                        "styles": "line-height:1;color:{{theme({ \"light\": \"#007b7b\", \"dark\": \"#00b8b9\" })}};font-family:TikTokFont;font-size:12rpx;white-space:nowrap;text-overflow:ellipsis;",
+                        "click_event": {
+                          "type": "",
+                          "arguments": {
+                            "schema": ""
+                          }
+                        },
+                        "extra": "",
+                        "strictMode": "",
+                        "visibilityScript": "",
+                        "children": []
+                      }
+                    }
+                  ],
+                  "divider": {
+                    "value": "",
+                    "styles": "width:2rpx;height:16rpx;background:rgba(0,0,0,0.12);margin-left:8rpx;margin-right:8rpx;"
+                  }
+                }
+              ]
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1732317237574210473",
+              "PriceInfo": {
+                "sku_id": "1732317237574210473",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "9.96",
+                "origin_price_decimal": "19.9",
+                "sale_price_format": "9.96",
+                "origin_price_format": "19.90",
+                "discount_format": "50%",
+                "discount_decimal": "0.5",
+                "reduce_price_format": "Saving $9.94",
+                "single_product_price_format": "9.96",
+                "single_product_price_decimal": "9.96",
+                "sale_price_integer_part_format": "9",
+                "sale_price_decimal_part_format": "96",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {
+                  "seller_subtotal_deduction": "9.94",
+                  "seller_subtotal_deduction_decimal": "9.94"
+                }
+              }
+            }
+          ],
+          "transparent_image": {
+            "height": 500,
+            "width": 500,
+            "uri": "tos-maliva-i-o3syd03w52-us/99d4eca16393bec341a1b8c947f3ee16",
+            "url_list": [
+              "https://p16-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/99d4eca16393bec341a1b8c947f3ee16~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general.ttcdn-us.com/tos-maliva-i-o3syd03w52-us/99d4eca16393bec341a1b8c947f3ee16~tplv-fhlh96nyum-crop-webp:500:500.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          }
+        },
+        {
+          "product_id": "1730561776203371436",
+          "title": "Demon Dean phone charm",
+          "image": {
+            "height": 1200,
+            "width": 1200,
+            "uri": "tos-useast5-i-omjb5zjo8w-tx/6838feeb1db548299df2ab8c52ad26a1",
+            "url_list": [
+              "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6838feeb1db548299df2ab8c52ad26a1~tplv-fhlh96nyum-crop-webp:1200:1200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839",
+              "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/6838feeb1db548299df2ab8c52ad26a1~tplv-fhlh96nyum-crop-webp:1200:1200.webp?dr=12190&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=a6e80448&idc=useast5&from=2378011839"
+            ]
+          },
+          "product_price_info": {
+            "sku_id": "1730561813626262444",
+            "symbol_position": 1,
+            "show_currency_space": false,
+            "currency_show_mode": 1,
+            "currency_name": "USD",
+            "currency_symbol": "$",
+            "sale_price_decimal": "9.99",
+            "sale_price_format": "9.99",
+            "single_product_price_format": "9.99",
+            "single_product_price_decimal": "9.99",
+            "sale_price_integer_part_format": "9",
+            "sale_price_decimal_part_format": "99",
+            "decimal_point_symbol": ".",
+            "promotion_deduction_details": {}
+          },
+          "rate_info": {
+            "score": 5,
+            "review_count": "1"
+          },
+          "sold_info": {
+            "sold_count": 4
+          },
+          "seller_info": {
+            "seller_id": "7495437722335218604",
+            "shop_name": "Menace Made",
+            "shop_logo": {
+              "height": 300,
+              "width": 300,
+              "uri": "tos-useast5-i-omjb5zjo8w-tx/fb23f6f6d91c4e50ad21945981be377e",
+              "url_list": [
+                "https://p19-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/fb23f6f6d91c4e50ad21945981be377e~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039",
+                "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/fb23f6f6d91c4e50ad21945981be377e~tplv-fhlh96nyum-resize-png:300:300.png?dr=12184&t=555f072d&ps=933b5bde&shp=905da467&shcp=d9d491bf&idc=useast5&from=2422056039"
+              ]
+            }
+          },
+          "seo_url": {
+            "updated_at": "1768231349341",
+            "canonical_url": "https://shop.tiktok.com/us/pdp/demon-dean-phone-charm-handmade-pendant-inspired-by-mark-of-cain/1730561776203371436",
+            "slug": "demon-dean-phone-charm-handmade-pendant-inspired-by-mark-of-cain",
+            "type": 2,
+            "version": 2
+          },
+          "product_marketing_info": {
+            "placement_labels": {},
+            "placement_labels_ui": {
+              "ui_list": []
+            }
+          },
+          "sku_info": [
+            {
+              "SkuId": "1730561813626262444",
+              "PriceInfo": {
+                "sku_id": "1730561813626262444",
+                "symbol_position": 1,
+                "show_currency_space": false,
+                "currency_show_mode": 1,
+                "currency_name": "USD",
+                "currency_symbol": "$",
+                "sale_price_decimal": "9.99",
+                "sale_price_format": "9.99",
+                "single_product_price_format": "9.99",
+                "single_product_price_decimal": "9.99",
+                "sale_price_integer_part_format": "9",
+                "sale_price_decimal_part_format": "99",
+                "decimal_point_symbol": ".",
+                "promotion_deduction_details": {}
+              }
+            }
+          ]
+        }
+      ],
+      "shops": [],
+      "has_more": false,
+      "load_more_params": {
+        "offset": 0,
+        "page_token": "",
+        "api_source": 2
+      }
+    }
+  },
+  "recordTime": null
+}

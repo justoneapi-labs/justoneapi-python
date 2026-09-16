@@ -1,0 +1,14 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:16.827107+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:04",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "fans_growth_rate_30d": "0.005380763185702931"
+  },
+  "recordTime": null
+}

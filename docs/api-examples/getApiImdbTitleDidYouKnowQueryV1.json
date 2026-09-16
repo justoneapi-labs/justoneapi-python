@@ -1,0 +1,140 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:27.848658+08:00",
+  "_sourceCheckedAt": "2026-07-18T16:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "__typename": "Title",
+      "titleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "originalTitleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "trivia": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "TitleTrivia",
+              "id": "tr7375706",
+              "isSpoiler": false,
+              "interestScore": {
+                "__typename": "InterestScore",
+                "usersInterested": 1251,
+                "usersVoted": 1260
+              },
+              "text": {
+                "plainText": "George Miller said this film's script was already complete before Mad Max: Fury Road (2015) was filmed: \"In order to tell that story cohesively, we had to know everything that happened in the time before, so we wrote a story about Furiosa from the time she was taken as a child, as she refers to in Fury Road, until she became the Imperator Furiosa. That ended up as a full screenplay, with concept art and so on. And the actors, the designers, and all the crew got the screenplay of that before shooting Fury Road.\""
+              },
+              "category": {
+                "id": "uncategorized"
+              },
+              "relatedNames": null,
+              "trademark": null
+            }
+          }
+        ]
+      },
+      "quotes": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "TitleQuote",
+              "id": "qt7429439",
+              "isSpoiler": false,
+              "interestScore": {
+                "__typename": "InterestScore",
+                "usersInterested": 87,
+                "usersVoted": 89
+              },
+              "lines": [
+                {
+                  "characters": [
+                    {
+                      "character": "Dementus",
+                      "name": {
+                        "id": "nm1165110"
+                      }
+                    }
+                  ],
+                  "text": "You fabulous thing. You crawled out of a pitiless grave, deeper than hell. Only one thing that is going to do that for you. Not hope. Hate. No shame in hate. It's one of the greatest forces of nature.",
+                  "stageDirection": null
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "goofs": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "Goof",
+              "id": "gf7568572",
+              "isSpoiler": false,
+              "interestScore": {
+                "__typename": "InterestScore",
+                "usersInterested": 84,
+                "usersVoted": 96
+              },
+              "text": {
+                "plainText": "Shooting a gas can with a bullet will not make it blow up, this is one of the most common Hollywood firearms mistakes. In order for the gas to ignite a spark would need to be made, nearly all bullets have a copper jacket and a lead core, neither of which makes a spark when hitting metal."
+              },
+              "category": {
+                "id": "factual_error",
+                "text": "Factual errors"
+              }
+            }
+          }
+        ]
+      },
+      "crazyCredits": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "CrazyCredit",
+              "id": "cz0157303",
+              "interestScore": {
+                "__typename": "InterestScore",
+                "usersInterested": 63,
+                "usersVoted": 63
+              },
+              "text": {
+                "plainText": "There is a brief shot of Nux's (from Mad Max: Fury Road (2015)) crow-shaped bobble head from his car wobbling after the credits end."
+              }
+            }
+          }
+        ]
+      },
+      "soundtrack": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "Track",
+              "id": "sn2848601",
+              "text": "Anderlecht Champion AKA Ole Ole We Are the Champions",
+              "comments": [
+                {
+                  "plainText": "Written by Roland Verlooven and Jeanine Dee"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "triviaCount": {
+        "total": 158
+      },
+      "quotesCount": {
+        "total": 40
+      },
+      "goofsCount": {
+        "total": 12
+      }
+    }
+  },
+  "recordTime": null
+}

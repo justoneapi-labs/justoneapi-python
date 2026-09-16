@@ -1,0 +1,135 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:14.787728+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:02",
+  "code": 0,
+  "message": null,
+  "data": {
+    "page": 1,
+    "products": [
+      {
+        "promotion_id": "3752839743570837777",
+        "product_id": "3752839056392847364",
+        "title": "艾草蒸汽眼罩热敷缓解眼疲劳眼干遮光学生睡眠保护视力舒缓眼部",
+        "price": 2.01,
+        "cover": "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_d6a08d64955cda77e12f355002968944_sx_354167_www800-800",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 5992343
+      },
+      {
+        "promotion_id": "3738590203896529200",
+        "product_id": "3738589688685002988",
+        "title": "冰皮防晒口罩防紫外线冰丝透气高颜值护脸冰凉感夏天轻薄立体无痕",
+        "price": 2.01,
+        "cover": "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_1818ef1c25215100d74e9e52c8397cda_sx_323315_www2000-2000",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 1427910
+      },
+      {
+        "promotion_id": "3737808730327220563",
+        "product_id": "3737807957275050067",
+        "title": "艾草护腰护腹自发热暖宫贴暖腰宝暖胃暖腹蒸汽暖宝宝个人护理",
+        "price": 2.01,
+        "cover": "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_59a6f07e804287e33d114866cdd57b12_sx_78541_www800-800",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 1200161
+      },
+      {
+        "promotion_id": "3756543272378564698",
+        "product_id": "3756541331128844613",
+        "title": "艾草蒸汽眼罩热敷缓解眼疲劳眼干遮光学生睡眠保护视力舒缓眼部",
+        "price": 2.01,
+        "cover": "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_d6a08d64955cda77e12f355002968944_sx_354167_www800-800",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 743320
+      },
+      {
+        "promotion_id": "3738747736829329528",
+        "product_id": "3738746115529507605",
+        "title": "【6.6元抢4个】冰皮防晒口罩防紫外线透气高颜值冰凉感轻薄立体无痕",
+        "price": 6.6,
+        "cover": "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_1818ef1c25215100d74e9e52c8397cda_sx_323315_www2000-2000",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 643637
+      },
+      {
+        "promotion_id": "3775432620268192184",
+        "product_id": "3775431643330904384",
+        "title": "日货原单Celestine品质马桶洁厕块马桶泡泡洁厕灵除臭持久清新",
+        "price": 2.01,
+        "cover": "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_44ff2e4c0d6bcdb52a0c4f5ec0a8cb1e_sx_325969_www800-800",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 466548
+      },
+      {
+        "promotion_id": "3781207588071408010",
+        "product_id": "3781206170774143411",
+        "title": "暖颈热敷贴艾草藏红花护颈贴暖宝宝艾灸贴缓解颈椎疲劳肩颈保暖贴",
+        "price": 2.01,
+        "cover": "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_a6a3f95c4a784802dc79c8b7baa5b2c1_sx_1805244_www2000-2000",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 393983
+      },
+      {
+        "promotion_id": "3758746378076029289",
+        "product_id": "3758744892118008171",
+        "title": "叶黄素冰敷眼贴水凝胶清凉眼罩缓解疲劳护眼冷敷清润眼部冷感贴",
+        "price": 2.01,
+        "cover": "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_91f2154bf81b2355277e319f2c57d9f6_sx_303510_www800-800",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 367596
+      },
+      {
+        "promotion_id": "3735021062509953163",
+        "product_id": "3734893340886433978",
+        "title": "艾草护腰护腹自发热暖宫贴暖腰宝暖胃痛经暖腹蒸汽家用热敷腰腹贴",
+        "price": 2.01,
+        "cover": "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_59a6f07e804287e33d114866cdd57b12_sx_78541_www800-800",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 339809
+      },
+      {
+        "promotion_id": "3808459018268180783",
+        "product_id": "3808457364672217088",
+        "title": "春の樱花洁厕块马桶蓝泡泡香氛持久清洁去污清新除垢除异味留香",
+        "price": 2.01,
+        "cover": "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/jpeg_m_2c41409f18653d41534e9d712819f164_sx_543773_www800-800",
+        "product_tags": [
+          "极速退款",
+          "7天无理由退货"
+        ],
+        "month_sales": 304214
+      }
+    ],
+    "shop_id": "52125205",
+    "total": 108,
+    "total_pages": 11
+  },
+  "recordTime": null
+}

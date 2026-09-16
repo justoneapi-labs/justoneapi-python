@@ -1,0 +1,644 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:09.505783+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:48",
+  "code": 0,
+  "message": null,
+  "data": {
+    "id": "669214677",
+    "title": "年轻人如何被赶回老家去",
+    "type": "article",
+    "article_type": "normal",
+    "excerpt_title": "",
+    "url": "https://api.zhihu.com/articles/669214677",
+    "image_url": "",
+    "title_image": "",
+    "excerpt": "<img src=\"https://pic1.zhimg.com/v2-900eb30f808c6e94d3a88911ab9e4c84_200x112.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1028\" data-rawheight=\"542\" data-watermark=\"watermark\" data-original-src=\"v2-900eb30f808c6e94d3a88911ab9e4c84\" data-watermark-src=\"v2-8fb9d1a4a3f977330da6649595d47d9b\" data-private-watermark-src=\"\" class=\"origin_image inline-img zh-lightbox-thumb\" data-original=\"https://pic1.zhimg.com/v2-900eb30f808c6e94d3a88911ab9e4c84_r.png\"/>上世纪最繁华时代的日本，如何将年轻人赶回老家呢？ 话说，有个地产老板。 他指着窗外1980年代的东京，说这是地产的黄金时代，要淘汰旧的，开辟新的。 什么个流程呢？ 地价飞涨，物价飞涨，旧楼收不到高房租，租客数量也日益减少：是旧楼主付不起税，被迫卖…",
+    "created": 1701146885,
+    "updated": 1701154103,
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://pica.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=172ae18b",
+      "uid": "26731574460416",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "zhang-jia-wei",
+      "id": "f9de84865e3e8455a09af78bfe4d1da5",
+      "description": "",
+      "name": "张佳玮",
+      "is_advertiser": false,
+      "headline": "",
+      "gender": 1,
+      "url": "https://api.zhihu.com/people/f9de84865e3e8455a09af78bfe4d1da5",
+      "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge": [
+        {
+          "type": "best_answerer",
+          "topics": [
+            {
+              "url": "https://www.zhihu.com/topic/19609249",
+              "type": "topic",
+              "id": "19609249",
+              "name": "网球"
+            },
+            {
+              "url": "https://www.zhihu.com/topic/19556423",
+              "type": "topic",
+              "id": "19556423",
+              "name": "文学"
+            },
+            {
+              "url": "https://www.zhihu.com/topic/19557725",
+              "type": "topic",
+              "id": "19557725",
+              "name": "绘画"
+            },
+            {
+              "url": "https://www.zhihu.com/topic/19550994",
+              "type": "topic",
+              "id": "19550994",
+              "name": "游戏"
+            },
+            {
+              "url": "https://www.zhihu.com/topic/19559052",
+              "type": "topic",
+              "id": "19559052",
+              "name": "足球"
+            },
+            {
+              "url": "https://www.zhihu.com/topic/19562832",
+              "type": "topic",
+              "id": "19562832",
+              "name": "篮球"
+            },
+            {
+              "url": "https://www.zhihu.com/topic/19566456",
+              "type": "topic",
+              "id": "19566456",
+              "name": "翻译"
+            },
+            {
+              "url": "https://www.zhihu.com/topic/19550429",
+              "type": "topic",
+              "id": "19550429",
+              "name": "电影"
+            },
+            {
+              "url": "https://www.zhihu.com/topic/19550434",
+              "type": "topic",
+              "id": "19550434",
+              "name": "艺术"
+            }
+          ],
+          "description": "优秀答主"
+        }
+      ],
+      "badge_v2": {
+        "title": "新知答主",
+        "merged_badges": [
+          {
+            "type": "best",
+            "detail_type": "best",
+            "title": "年度新知答主",
+            "description": "新知答主",
+            "url": "https://www.zhihu.com/question/510340037",
+            "sources": [],
+            "icon": "",
+            "night_icon": "",
+            "badge_status": "passed"
+          }
+        ],
+        "detail_badges": [
+          {
+            "type": "reward",
+            "detail_type": "zhihu_yearly_answerer",
+            "title": "年度新知答主",
+            "description": "新知答主",
+            "url": "https://www.zhihu.com/question/510340037",
+            "sources": [
+              {
+                "id": "2023",
+                "token": "",
+                "type": "year",
+                "url": "",
+                "name": "",
+                "avatar_path": "",
+                "avatar_url": "",
+                "description": "",
+                "priority": 2023
+              }
+            ],
+            "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "badge_status": "passed"
+          },
+          {
+            "type": "reward",
+            "detail_type": "zhihu_yearly_answerer",
+            "title": "年度新知答主",
+            "description": "新知答主",
+            "url": "https://www.zhihu.com/question/510340037",
+            "sources": [
+              {
+                "id": "2021",
+                "token": "",
+                "type": "year",
+                "url": "",
+                "name": "",
+                "avatar_path": "",
+                "avatar_url": "",
+                "description": "",
+                "priority": 2021
+              }
+            ],
+            "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "badge_status": "passed"
+          },
+          {
+            "type": "reward",
+            "detail_type": "zhihu_10years_answerer",
+            "title": "新知答主",
+            "description": "新知答主",
+            "url": "https://zhuanlan.zhihu.com/p/344234033",
+            "sources": [],
+            "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "night_icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "badge_status": "passed"
+          },
+          {
+            "type": "reward",
+            "detail_type": "honored_vip",
+            "title": "年度新知答主",
+            "description": "新知答主",
+            "url": "https://www.zhihu.com/question/510340037",
+            "sources": [
+              {
+                "id": "2013",
+                "token": "",
+                "type": "year",
+                "url": "",
+                "name": "",
+                "avatar_path": "",
+                "avatar_url": "",
+                "description": "",
+                "priority": 2013
+              }
+            ],
+            "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "badge_status": "passed"
+          },
+          {
+            "type": "best",
+            "detail_type": "best_answerer",
+            "title": "优秀答主",
+            "description": "网球等 9 个话题下的优秀答主",
+            "url": "https://www.zhihu.com/question/48509984",
+            "sources": [
+              {
+                "id": "19609249",
+                "token": "19609249",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19609249",
+                "name": "网球",
+                "avatar_path": "v2-87f94f6ce4392fbecf763ad13da1de11",
+                "avatar_url": "https://pica.zhimg.com/v2-87f94f6ce4392fbecf763ad13da1de11_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              },
+              {
+                "id": "19556423",
+                "token": "19556423",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19556423",
+                "name": "文学",
+                "avatar_path": "v2-5621bb73af30de7549ed3ee385ea423c",
+                "avatar_url": "https://pic1.zhimg.com/v2-5621bb73af30de7549ed3ee385ea423c_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              },
+              {
+                "id": "19557725",
+                "token": "19557725",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19557725",
+                "name": "绘画",
+                "avatar_path": "v2-7e7d60ce71db32b7436b93732eac38be",
+                "avatar_url": "https://picx.zhimg.com/v2-7e7d60ce71db32b7436b93732eac38be_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              },
+              {
+                "id": "19550994",
+                "token": "19550994",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19550994",
+                "name": "游戏",
+                "avatar_path": "v2-ef5608869436909035792814ff650dab",
+                "avatar_url": "https://pica.zhimg.com/v2-ef5608869436909035792814ff650dab_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              },
+              {
+                "id": "19559052",
+                "token": "19559052",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19559052",
+                "name": "足球",
+                "avatar_path": "v2-bb0a7868f74c3c712efaecc9e12d772b",
+                "avatar_url": "https://picx.zhimg.com/v2-bb0a7868f74c3c712efaecc9e12d772b_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              },
+              {
+                "id": "19562832",
+                "token": "19562832",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19562832",
+                "name": "篮球",
+                "avatar_path": "v2-711d969a226f736dbefba213642fa75b",
+                "avatar_url": "https://picx.zhimg.com/v2-711d969a226f736dbefba213642fa75b_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              },
+              {
+                "id": "19566456",
+                "token": "19566456",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19566456",
+                "name": "翻译",
+                "avatar_path": "v2-e4387c9630be7cd118edf0ebadbc57aa",
+                "avatar_url": "https://pic1.zhimg.com/v2-e4387c9630be7cd118edf0ebadbc57aa_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              },
+              {
+                "id": "19550429",
+                "token": "19550429",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19550429",
+                "name": "电影",
+                "avatar_path": "v2-8f6afc735f1369ed827c4ec2e5b6366a",
+                "avatar_url": "https://picx.zhimg.com/v2-8f6afc735f1369ed827c4ec2e5b6366a_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              },
+              {
+                "id": "19550434",
+                "token": "19550434",
+                "type": "topic",
+                "url": "https://www.zhihu.com/topic/19550434",
+                "name": "艺术",
+                "avatar_path": "v2-2b5b7b35bd1f7aa96e24170410e5532a",
+                "avatar_url": "https://picx.zhimg.com/v2-2b5b7b35bd1f7aa96e24170410e5532a_720w.jpg?source=32738c0c",
+                "description": "",
+                "priority": 0
+              }
+            ],
+            "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "badge_status": "passed"
+          },
+          {
+            "type": "reward",
+            "detail_type": "super_activity",
+            "title": "社区成就",
+            "description": "知势榜影响力榜体育竞技领域上榜答主",
+            "url": "",
+            "sources": [
+              {
+                "id": "27",
+                "token": "",
+                "type": "content_potential_category",
+                "url": "",
+                "name": "知势榜8月",
+                "avatar_path": "",
+                "avatar_url": "",
+                "description": "",
+                "priority": 27
+              }
+            ],
+            "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "night_icon": "https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "badge_status": "passed"
+          }
+        ],
+        "icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+        "night_icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c"
+      },
+      "exposed_medal": {
+        "medal_id": "1750529444194553856",
+        "medal_name": "2023 年度新知答主",
+        "avatar_url": "https://picx.zhimg.com/v2-05b349562f395a352a39342dccbe834f_r.png?source=172ae18b",
+        "mini_avatar_url": "https://picx.zhimg.com/v2-05b349562f395a352a39342dccbe834f_l.png?source=172ae18b",
+        "description": "2023 年度新知答主获得者",
+        "medal_avatar_frame": ""
+      }
+    },
+    "comment_permission": "nobody",
+    "copyright_permission": "need_review",
+    "state": "published",
+    "ip_info": "江苏",
+    "image_width": 0,
+    "image_height": 0,
+    "content": "<p data-pid=\"rydgyn6J\">上世纪最繁华时代的日本，如何将年轻人赶回老家呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"68P6bwqf\">话说，有个地产老板。</p><p data-pid=\"XHI-eWmZ\">他指着窗外1980年代的东京，说这是地产的黄金时代，要淘汰旧的，开辟新的。</p><p data-pid=\"ydUzVnL2\">什么个流程呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"NltHnxcp\">地价飞涨，物价飞涨，旧楼收不到高房租，租客数量也日益减少：是旧楼主付不起税，被迫卖掉，搬去郊外，甚至回了老家。</p><p data-pid=\"Pt-ughEe\">新开发商买了地，甚至屯了地，盖新房，标高价，随心所欲：买不起也租不起新房的年轻人，也只好回老家去了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"vkGQ6pBI\">当然咯，这些老板也不是凭空能呼风唤雨。他们有向下的一手，和向上的一手。</p><p data-pid=\"Drorfr79\">向上的一手，是成立幽灵公司，向上头输送利益：上头当然也会还给他们利益。</p><p data-pid=\"OXIkJFeB\">向下的一手，是寻找帮派，强买地块。</p><p data-pid=\"SX02J6ya\">——以上剧情，见于村上春树的一个小说，《国境以南，太阳以西》。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"5UhtNKzC\">在村上春树另一个小说《舞舞舞》里，讲述了一个旧旅馆老板的具体命运：</p><p data-pid=\"aOs-utwX\">他的地段被看上了，却他不肯转让。</p><p data-pid=\"PLVWvil2\">于是帮派找人天天上门骚扰，甚至走进店里坐着，瞪视每一个上门的顾客，吓跑为止。久而久之，生意自然没法做了。</p><p data-pid=\"uqncNdVn\">老板也试图去求告，但求告无门：毕竟输送给上头的利益，也不是白拿的。</p><p data-pid=\"PDZseU_h\">最后老板只好让步，（以低廉的价格）出让土地，自己离开大城市，回老家去了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"ZOAMz1KI\">以上的现象当然不是村上春树凭空虚构的，而是1970-90年代日本真实的社会现象，比比皆是。</p><p data-pid=\"656FvdaY\">类似被赶走的人们，比比皆是。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"NrjkoKIK\">话说， 有个叫《如龙0》的游戏，打过的诸位，一定知道这个剧情：</p><p data-pid=\"qImrzqgj\">1988年泡沫经济时期，日本帮派为了凑一块黄金地段的产权，可以无所不用其极。追杀地段主人、你争我抢、软硬兼施，最后就是为了抢到那块地。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-8fb9d1a4a3f977330da6649595d47d9b_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1028\" data-rawheight=\"542\" data-original-token=\"v2-900eb30f808c6e94d3a88911ab9e4c84\" class=\"origin_image zh-lightbox-thumb\" width=\"1028\" data-original=\"https://picx.zhimg.com/v2-8fb9d1a4a3f977330da6649595d47d9b_r.jpg\"/></figure><p data-pid=\"kWAaNHlT\">帮派们也不是笨蛋：凭什么好处都是老板们沾？除了做做脏活，帮着啃点难啃的地皮，他们也想直接吃点好处。</p><p data-pid=\"zsAZpLo2\">要抢好地，当然也不是无目标乱买：他们输送利益的上头，会提前告诉他们，哪些地段要修地铁了、要搞公共建设了，地价一定会飞涨。</p><p data-pid=\"9Tp5gyha\">帮派们就开始搞产业一条龙了：拆旧、建新，建筑和建材都自己包办。一条龙。</p><p data-pid=\"y9Oj7_CH\">这是1980年代，日本山口组的大业务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"1Gl-vK-u\">实际上：1980年代，日本建楼卖楼的，许多有帮派背景为之背书。</p><p data-pid=\"MRXWY3aG\">秋叶良和的《日本地下经济》一书中估计，在1970-90年代，日本建筑年产值30万亿日元。</p><p data-pid=\"P_TNWvHH\">一般估计，到1990年代，帮派可以将这产值的2%到3%收入囊中。</p><p data-pid=\"qq40KzaT\">2007年，日本3000家建筑公司受调查，其中34%的企业承认：受过帮派威胁。</p><p data-pid=\"hL7SW-6N\">以至于2008年，承建东京天空树的东武铁道和东京大林，要专门搞个反帮派委员会，以免被帮派染指。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"ThHfj5eK\">反过来足以证明，日本帮派的风格就是如此：嘴里说的是道义，事实上追逐利益。</p><p data-pid=\"z-R0Bdqk\">比如1915年，山口春吉组织五十来个码头装卸工，成立了著名的山口组；但他儿子山口登觉得，搬运行业不赚钱，还是要搞娱乐业！</p><p data-pid=\"jUD3m1zk\">帮派本质逐利，不挑三拣四，哪行最赚钱，他们就去干哪行。反正他们可以用暴力驱逐竞争对手，对付不听话的。</p><p data-pid=\"1YHCePxY\">利益驱动暴力，暴力保证利益。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"4hE43D3P\">强行收买地皮，搞定平民。让那些在大城市努力的人们，无由得到土地，低头回老家；让那些付不起高房租的年轻人，离开自己血泪拼搏的大城市，低头回老家。</p><p data-pid=\"-DvAzvLy\">创建全新的城市，打磨出璀璨闪亮的外观：诱惑着日本的其他年轻人，一代又一代，前来大城市，贡献新的血汗。</p><p data-pid=\"QjL3rmgp\">这就是泡沫经济时代的日本，灯红酒绿之后的幽暗。</p><p></p>",
+    "content_need_truncated": false,
+    "force_login_when_click_read_more": false,
+    "admin_closed_comment": false,
+    "topics": [
+      {
+        "url": "https://api.zhihu.com/topics/19550917",
+        "type": "topic",
+        "id": "19550917",
+        "name": "日本"
+      },
+      {
+        "url": "https://api.zhihu.com/topics/19667648",
+        "type": "topic",
+        "id": "19667648",
+        "name": "房地产泡沫"
+      }
+    ],
+    "voteup_count": 291,
+    "voting": 0,
+    "heavy_up_status": "allow_heavy_up",
+    "column": {
+      "description": "",
+      "can_manage": false,
+      "intro": "",
+      "is_following": false,
+      "url_token": "zhangjiawei",
+      "id": "zhangjiawei",
+      "articles_count": 1518,
+      "accept_submission": true,
+      "title": "张佳玮写字的地方",
+      "url": "https://api.zhihu.com/columns/zhangjiawei",
+      "comment_permission": "all",
+      "created": 1375082249,
+      "updated": 1590739841,
+      "image_url": "https://pic1.zhimg.com/b69d8ce81_720w.jpg?source=172ae18b",
+      "author": {
+        "is_followed": false,
+        "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=172ae18b",
+        "uid": "26731574460416",
+        "user_type": "people",
+        "is_following": false,
+        "url_token": "zhang-jia-wei",
+        "id": "f9de84865e3e8455a09af78bfe4d1da5",
+        "description": "",
+        "name": "张佳玮",
+        "is_advertiser": false,
+        "headline": "",
+        "gender": 1,
+        "url": "https://api.zhihu.com/people/f9de84865e3e8455a09af78bfe4d1da5",
+        "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=172ae18b",
+        "is_org": false,
+        "type": "people",
+        "badge_v2": {
+          "title": "",
+          "merged_badges": [],
+          "detail_badges": [],
+          "icon": "",
+          "night_icon": ""
+        }
+      },
+      "followers": 266667,
+      "type": "column",
+      "column_type": "normal"
+    },
+    "comment_count": 13,
+    "contributions": [
+      {
+        "id": 47202281,
+        "state": "accepted",
+        "type": "first_publish",
+        "column": {
+          "description": "",
+          "can_manage": false,
+          "intro": "",
+          "is_following": false,
+          "url_token": "zhangjiawei",
+          "id": "zhangjiawei",
+          "articles_count": 1518,
+          "accept_submission": true,
+          "title": "张佳玮写字的地方",
+          "url": "https://api.zhihu.com/columns/zhangjiawei",
+          "comment_permission": "all",
+          "created": 1375082249,
+          "updated": 1590739841,
+          "image_url": "https://pic1.zhimg.com/b69d8ce81_720w.jpg?source=172ae18b",
+          "author": {
+            "is_followed": false,
+            "avatar_url_template": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7.jpg?source=172ae18b",
+            "uid": "26731574460416",
+            "user_type": "people",
+            "is_following": false,
+            "url_token": "zhang-jia-wei",
+            "id": "f9de84865e3e8455a09af78bfe4d1da5",
+            "description": "",
+            "name": "张佳玮",
+            "is_advertiser": false,
+            "headline": "",
+            "gender": 1,
+            "url": "https://api.zhihu.com/people/f9de84865e3e8455a09af78bfe4d1da5",
+            "avatar_url": "https://picx.zhimg.com/v2-d626957872f9b38fa594394db2d2e6e7_l.jpg?source=172ae18b",
+            "is_org": false,
+            "type": "people",
+            "badge_v2": {
+              "title": "",
+              "merged_badges": [],
+              "detail_badges": [],
+              "icon": "",
+              "night_icon": ""
+            }
+          },
+          "followers": 266667,
+          "type": "column",
+          "column_type": "normal"
+        }
+      }
+    ],
+    "is_title_image_full_screen": false,
+    "upvoted_followees": [],
+    "commercial_info": {
+      "is_commercial": false,
+      "plugin": {}
+    },
+    "suggest_edit": {
+      "status": false,
+      "reason": "",
+      "tip": "",
+      "url": "",
+      "title": ""
+    },
+    "reason": "",
+    "annotation_action": [],
+    "can_tip": false,
+    "tipjarors_count": 0,
+    "is_labeled": false,
+    "has_publishing_draft": false,
+    "is_favorited": false,
+    "favlists_count": 90,
+    "is_normal": true,
+    "status": 0,
+    "activity_topping_info": {
+      "state": "untopped"
+    },
+    "share_text": "年轻人如何被赶回老家去 - 来自知乎专栏「张佳玮写字的地方」，作者: 张佳玮 https://zhuanlan.zhihu.com/p/669214677 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+    "can_comment": {
+      "status": false,
+      "reason": "因作者设置，评论已关闭"
+    },
+    "linkbox": {
+      "url": "",
+      "category": "",
+      "pic": "",
+      "title": ""
+    },
+    "mcn_fp_show": -1,
+    "is_visible": true,
+    "is_liked": false,
+    "liked_count": 44,
+    "has_column": true,
+    "republishers": [],
+    "is_new_link_card": true,
+    "emoji_reaction": {
+      "like_count": 44,
+      "like_has_set": false
+    },
+    "ab_param": {
+      "qa_hidden_voteup": "",
+      "rs_interest1": "",
+      "zp_zhi_style": ""
+    },
+    "attached_info": "kgIkCgkyMzY4NDQ3NTUSCTY2OTIxNDY3NxgHIgpJTUFHRV9URVhU",
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    },
+    "settings": {
+      "table_of_contents": {
+        "enabled": false
+      }
+    },
+    "can_reference": false,
+    "reaction_instruction": {},
+    "reaction": {
+      "statistics": {
+        "up_vote_count": 291,
+        "down_vote_count": 2,
+        "like_count": 44,
+        "comment_count": 13,
+        "share_count": 0,
+        "play_count": 0,
+        "interest_play_count": 0,
+        "favorites": 90,
+        "pv_count": 0,
+        "bullet_count": 0,
+        "applaud_count": 0,
+        "question_follower_count": 0,
+        "question_answer_count": 0,
+        "plaincontent_vote_up_count": 0,
+        "plaincontent_like_count": 0,
+        "img_like_count": {
+          "v2-900eb30f808c6e94d3a88911ab9e4c84": 1
+        },
+        "subscribe_count": 0,
+        "republishers": []
+      },
+      "relation": {
+        "is_author": false,
+        "vote": "Neutral",
+        "liked": false,
+        "img_liked": {
+          "v2-900eb30f808c6e94d3a88911ab9e4c84": false
+        },
+        "faved": false,
+        "following": false,
+        "subcribed": false,
+        "is_navigator_vote": false,
+        "current_user_is_navigator": false,
+        "vote_next_step": ""
+      },
+      "image_reactions": {
+        "v2-900eb30f808c6e94d3a88911ab9e4c84": {
+          "like_count": 1,
+          "is_liked": false
+        }
+      }
+    },
+    "interaction_bar_plugins": [
+      {
+        "type": "comment",
+        "comment": {
+          "enable": true,
+          "placeholder": "发条带图评论"
+        }
+      }
+    ],
+    "bar_plugins_flip_time": 3000,
+    "podcast_audio_enter": {
+      "text": "听内容",
+      "text_color": "MapBrand",
+      "text_size": 13,
+      "action_url": "zhihu://podcast/audio_player/0?contentId=669214677&contentType=article"
+    },
+    "endorsements": [
+      {
+        "elements": [
+          {
+            "type": "IMAGE",
+            "image_key": "zhicon_icon_24_column_fill",
+            "image_color": {
+              "alpha": 1,
+              "group": "GBL01A"
+            },
+            "width": 16,
+            "height": 16
+          },
+          {
+            "type": "TEXT",
+            "content": "收录于 · 张佳玮写字的地方",
+            "font_size": 13,
+            "font_color": {
+              "alpha": 1,
+              "group": "GBL01A"
+            },
+            "is_bold": false,
+            "max_line": 1
+          },
+          {
+            "type": "IMAGE",
+            "image_key": "zhicon_icon_16_arrow_right",
+            "image_color": {
+              "alpha": 1,
+              "group": "GBL01A"
+            },
+            "width": 12,
+            "height": 12
+          }
+        ],
+        "sub_elements": [],
+        "sub_elements_type": "DESCRIPTION",
+        "background_color": {
+          "alpha": 0.08,
+          "group": "GBL01A"
+        },
+        "action_url": "https://www.zhihu.com/column/zhangjiawei",
+        "za": {
+          "block_text": "Column",
+          "type": "text",
+          "text": "收录于 · 张佳玮写字的地方"
+        }
+      }
+    ],
+    "allow_segment_interaction": 1,
+    "is_navigator": false,
+    "navigator_vote": false,
+    "vote_next_step": "vote"
+  },
+  "recordTime": null
+}

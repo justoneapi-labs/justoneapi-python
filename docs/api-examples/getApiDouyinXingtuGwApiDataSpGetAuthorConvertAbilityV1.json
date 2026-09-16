@@ -1,0 +1,19 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:19.382207+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:05",
+  "code": 0,
+  "message": null,
+  "data": {
+    "avg_sales_amount_range": "-",
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "component_click_cnt_range": "-",
+    "component_click_rate_range": "-",
+    "gpm_range": "-",
+    "rec_product_price_range": "-",
+    "related_cpc_range": "-"
+  },
+  "recordTime": null
+}

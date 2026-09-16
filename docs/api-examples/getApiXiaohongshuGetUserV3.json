@@ -1,0 +1,233 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:05.559200+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:41",
+  "code": 0,
+  "message": null,
+  "data": {
+    "location": "",
+    "default_collection_tab": "note",
+    "seller_info": {
+      "tab_code_names": [],
+      "is_tab_goods_first": true,
+      "tab_goods_api_version": 1
+    },
+    "is_login_user_pro_account": false,
+    "mute_view_to_user": false,
+    "collected": 31309,
+    "level": {
+      "image": "",
+      "image_link": "",
+      "level_name": ""
+    },
+    "liked": 105702,
+    "red_id": "",
+    "share_link": "https://www.xiaohongshu.com/user/profile/5d1778df00000000160339d1?xsec_token=YBZ0kpO2vpTAmd7WB40mNEdFBcIxavzDXtEccqrWT2CCc=&xsec_source=app_share",
+    "show_red_official_verify_icon": false,
+    "user_desc_info": {
+      "desc": "专业 让生活更简单",
+      "desc_at_users": [],
+      "desc_with_placeholder": "专业 让生活更简单",
+      "desc_keywords_switch": true
+    },
+    "sec_account_deeplink": "xhsdiscover://rn/accounts/account-detail?targetId=5d1778df00000000160339d1&new_page_exp=1&rn_min_version=3.3.6",
+    "imageb": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/65c34f43412e1900018eaefd.jpg?imageView2/2/w/540/format/webp",
+    "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/65c34f43412e1900018eaefd.jpg?imageView2/2/w/360/format/webp",
+    "tab_public": {
+      "collection": false,
+      "collection_note": true,
+      "collection_board": true,
+      "seed": true
+    },
+    "avatar_like_status": false,
+    "user_role_type": 4,
+    "recommend_info": "",
+    "share_info": {
+      "title": "中国平安",
+      "content": "专业 让生活更简单"
+    },
+    "red_official_verify_content": "保险",
+    "ip_location": "广东",
+    "block_view_to_user": false,
+    "fstatus": "none",
+    "real_name_deep_target": 1,
+    "red_official_verify_type": 2,
+    "community_rule_url": "https://www.xiaohongshu.com/user/community-rule",
+    "share_info_v2": {
+      "title": "@中国平安的个人主页",
+      "content": "粉丝: 5.4万\n获赞与收藏: 13.7万"
+    },
+    "user_widget_switch": false,
+    "desc": "专业 让生活更简单",
+    "desc_at_users": [],
+    "remark_name": "",
+    "gender": 2,
+    "collected_poi_num": 0,
+    "note_num_stat": {
+      "posted": 581,
+      "liked": 105702,
+      "collected": 31309
+    },
+    "avatar_handle_entry_list": [],
+    "collected_brand_num": 0,
+    "nickname": "中国平安",
+    "recommend_info_icon": "",
+    "userid": "5d1778df00000000160339d1",
+    "atme_notes_num": 1,
+    "collected_tags_num": 0,
+    "collected_book_num": 0,
+    "identity_deeplink": "xhsdiscover://rn/accounts/account-detail?targetId=5d1778df00000000160339d1&new_page_exp=1&rn_min_version=3.3.6",
+    "blocking": false,
+    "block_view_from_user": false,
+    "tags": [],
+    "fans": 53830,
+    "location_jump": false,
+    "collected_notes_num": 0,
+    "follows": 12,
+    "avatar_pendant": {
+      "current_user_pendant": false,
+      "current_user_pet": false
+    },
+    "hula_tabs": {
+      "andr_tab_padding_end": 10,
+      "all_show_tab_config": [
+        {
+          "tab_id": "note",
+          "tab_name": "笔记",
+          "tab_index_weight": 0
+        },
+        {
+          "tab_index_weight": 10,
+          "is_show_lock": true,
+          "tab_id": "collect",
+          "tab_name": "收藏"
+        },
+        {
+          "tab_id": "atMe",
+          "tab_name": "标记",
+          "tab_index_weight": 12
+        }
+      ],
+      "tab_id_selected": "note",
+      "andr_tab_padding_start": 10
+    },
+    "banner_info": {
+      "image": "http://sns-avatar-qc.rednotecdn.com/user_banner/15e327be-d0ff-375b-972d-28d27f4ef5ea?imageView2/2/w/540/format/jpg&ap=28&sc=USR_BG",
+      "bg_color": "fa7e51",
+      "like_status": false
+    },
+    "red_club_info": {
+      "red_club_url": "https://www.xiaohongshu.com/store/mc/landing"
+    },
+    "red_official_verify_arrow": 0,
+    "show_extra_info_button": false,
+    "identity_label_migrated": false,
+    "red_official_full_name": "中国平安保险（集团）股份有限公司",
+    "tab_visible": {
+      "note": true,
+      "collect": true,
+      "like": false,
+      "atme": true,
+      "goods": false,
+      "hotel": false,
+      "seed": true
+    },
+    "interactions": [
+      {
+        "type": "follows",
+        "name": "关注",
+        "count": 12,
+        "is_private": false,
+        "toast": ""
+      },
+      {
+        "type": "fans",
+        "name": "粉丝",
+        "count": 53830,
+        "is_private": false,
+        "toast": ""
+      },
+      {
+        "is_private": false,
+        "toast": "",
+        "type": "interaction",
+        "name": "获赞与收藏",
+        "count": 137011
+      }
+    ],
+    "collected_product_num": 0,
+    "red_official_verified": false,
+    "blocked": false,
+    "brand_account_info": {
+      "topics": [
+        {
+          "id": "693ba708000000002303d679",
+          "name": "新年向上跑马上有平安",
+          "link": "xhsdiscover://rn/ads-topic/page?id=693ba708026b000000000001",
+          "sub_title": "77万次浏览"
+        },
+        {
+          "id": "67720cd3000000000400d2f7",
+          "name": "蛇年许昕送平安",
+          "link": "xhsdiscover://rn/ads-topic/page?id=67720cd30043000000000001",
+          "sub_title": "205万次浏览"
+        },
+        {
+          "sub_title": "57万次浏览",
+          "id": "65658ee90000000023021fab",
+          "name": "解锁平安深马彩蛋",
+          "link": "xhsdiscover://rn/ads-topic/page?id=65658ee94cc02600017b56ce"
+        },
+        {
+          "sub_title": "171万次浏览",
+          "id": "65263d97000000000b0334df",
+          "name": "平安一路上友你",
+          "link": "xhsdiscover://rn/ads-topic/page?id=65263d97da2d410001fd62f9"
+        },
+        {
+          "link": "xhsdiscover://rn/ads-topic/page?id=64621a0e4d952a0001722360",
+          "sub_title": "37万次浏览",
+          "id": "64621a0e000000002901c51b",
+          "name": "平安520大方示爱"
+        }
+      ],
+      "conversions": [
+        {
+          "id": "13",
+          "name": "直播动态",
+          "icon": "https://picasso-static.xiaohongshu.com/fe-platform/c00e3b61f184657a36f35511e4878e381da8a2a5.png",
+          "link": "xhsdiscover://live_goods_development_page?source=PROFILE&host_id=5d1778df00000000160339d1&trailer_auto_subscribe=0",
+          "is_shop": false,
+          "is_red_shop": false,
+          "sub_title": "查看 6.21 直播回顾"
+        }
+      ],
+      "account_type_name": "企业账号",
+      "trade_type_first_name": ""
+    },
+    "user_page_widgets_info": {
+      "shop_widget_list": [],
+      "normal_widget_list": [
+        {
+          "template_id": "profile_new_widget_item",
+          "render_type": 1,
+          "widget_id": "live_02",
+          "business_id": "",
+          "business_type": "live",
+          "widget_name": "直播动态",
+          "widget_size": 1,
+          "widget_data_content": "{\"title\":\"直播动态\",\"content\":\"查看 6.21 直播回顾\",\"icon\":\"https://picasso-static.xiaohongshu.com/fe-platform/c00e3b61f184657a36f35511e4878e381da8a2a5.png\",\"deepLink\":\"xhsdiscover://live_goods_development_page?source\\u003dPROFILE\\u0026host_id\\u003d5d1778df00000000160339d1\\u0026trailer_auto_subscribe\\u003d0\"}"
+        }
+      ]
+    },
+    "result": {
+      "success": true,
+      "code": 0,
+      "message": "success"
+    },
+    "nboards": 0,
+    "ndiscovery": 581,
+    "collected_movie_num": 0,
+    "is_recommend_level_illegal": false
+  },
+  "recordTime": null
+}

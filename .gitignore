@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+*.egg-info/
+dist/
+build/
+.venv/
+.idea/
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+openapi/public-api.previous.json
+**/.DS_Store
+tests/_trial_temp/

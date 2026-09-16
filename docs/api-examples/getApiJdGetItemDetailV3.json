@@ -1,0 +1,216 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:33.166186+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:12",
+  "code": 0,
+  "message": null,
+  "data": {
+    "data1": {
+      "code": 2000,
+      "msg": "操作成功",
+      "ok": 1,
+      "result": {
+        "bigCategoryId": 17,
+        "brandId": 152,
+        "brandName": "联想",
+        "cTraceLog": {
+          "g_goods_brand_id": "152",
+          "g_goods_brand_name": "联想",
+          "g_goods_class_id": "86",
+          "g_goods_class_name": "",
+          "g_goods_site_id": "1",
+          "g_goods_type": "dsku",
+          "g_price_delivery": 9388.0,
+          "g_price_page": 11399.0,
+          "g_price_tag_name": [],
+          "g_spbh_id": "1|3QWdDL9vzw2PJtQ4eQ!!11011000110101"
+        },
+        "categoryId": 86,
+        "categoryName": "笔记本电脑",
+        "chartStyle": {
+          "backgroundAreaEndColor": "rgba(255, 103, 41,0)",
+          "backgroundAreaStartColor": "rgba(255, 103, 41, 0.08)",
+          "backgroundLineColor": "#F5F5F9",
+          "popColor": "#5B5B69",
+          "sizeScaleColor": "transparent",
+          "xInterval": 6,
+          "xlineColor": "#ee4d2d",
+          "yInterval": 6,
+          "ylineColor": "#ec652e"
+        },
+        "currentPrice": "11399",
+        "extraPrice": "9388",
+        "govSubsidyTrend": null,
+        "image": "https://img14.360buyimg.com/pop/jfs/t1/442607/15/508/42163/6a151072Fae1f9e12/00833203207d25a0.png",
+        "isNeedHidePrice": false,
+        "latestUpdateTime": null,
+        "limitInfo": {
+          "isLimit": false,
+          "limitDay": null,
+          "limitDescription": null
+        },
+        "link": "https://jingfen.jd.com/detail/hd4SVSD45dACShJpEOyxCS82mJARd4_3xcjr5OwCKCpTqnLVj.html",
+        "lowerDateyh": "2026-06-16 00:00:00",
+        "lowerPriceyh": "7044.8",
+        "multiSkuMerged": false,
+        "shopName": "联想西南官方授权专卖店",
+        "showLogin": false,
+        "siteId": 1,
+        "siteName": "京东商城",
+        "skuProperty": "酷睿i7-13645HX 16G 512G 满血RTX5060丨国补+16英寸2.5K专业电竞屏",
+        "spbh": "1|3QWdDL9vzw2PJtQ4eQ!!11011000110101",
+        "statisticInfo": {
+          "SuccessLevel": 4,
+          "changePriceCount": 36,
+          "jointDate": "2026-06-15",
+          "recordDay": 86,
+          "runtime": "32"
+        },
+        "title": "联想来酷斗战者 战7000 2026年补贴15% 电竞游戏笔记本电脑y 大学生本p图设计 联想全国联保 旗舰 酷睿i7-13645HX 16G 512G 满血RTX5060丨国补 16英寸2.5K专业电竞屏",
+        "trendMaxBuyNumber": 1,
+        "whiteImage": "https://img14.360buyimg.com/pop/jfs/t1/442607/15/508/42163/6a151072Fae1f9e12/00833203207d25a0.png"
+      }
+    },
+    "data2": {
+      "code": 2000,
+      "msg": "操作成功",
+      "ok": 1,
+      "result": {
+        "actionBtnText": "去购买",
+        "actionBtnType": 0,
+        "allPromotions": [
+          {
+            "content": "1件6折",
+            "limitPlatform": false,
+            "type": "满减"
+          },
+          {
+            "content": "满1410减80",
+            "limitPlatform": false,
+            "type": "满减"
+          },
+          {
+            "content": "满970减90",
+            "limitPlatform": false,
+            "type": "满减"
+          }
+        ],
+        "buyNumber": 1,
+        "commission": "0",
+        "currentTime": "1788868817408",
+        "discountAllTypeCount": null,
+        "discountBtn": null,
+        "exchangeExtraPrice": null,
+        "extraPrice": "13246.8",
+        "extraPriceDesc": null,
+        "extraPriceType": null,
+        "extraUnitPrice": null,
+        "extraUnitStr": null,
+        "govSubsidyPrice": null,
+        "govSubsidyTags": null,
+        "hasCommission": false,
+        "hasSubsidy": false,
+        "hideDiscountBtn": null,
+        "hideDiscountBtnSubText": null,
+        "hideDiscountList": null,
+        "hideDiscountSumPrice": null,
+        "hideDiscountTags": null,
+        "hidePromotionTagList": null,
+        "hidePromotionTags": null,
+        "isBybt": false,
+        "isSdk": false,
+        "isShowSameRecommendation": false,
+        "jintieExtraPrice": null,
+        "multiPlan": null,
+        "originPagePrice": null,
+        "originPrice": "22228",
+        "promotionTags": [
+          "1件6折",
+          "满1410减80",
+          "满970减90"
+        ],
+        "promotionTagsV2": null,
+        "runtime": "39",
+        "sameRecommendation": {
+          "curIsOfficial": null,
+          "currentActualPrice": "13246.8",
+          "currentCount": null,
+          "currentSinglePrice": "13246.8",
+          "currentSinglePriceStr": "13246.8",
+          "priceDifference": null,
+          "priceDifferenceStr": null,
+          "recommendProduct": {
+            "actualPrice": "9499",
+            "count": null,
+            "priceDifference": "3747.8",
+            "priceDifferenceStr": "3747.8",
+            "shopName": "联想恩珊创新专卖店",
+            "singlePrice": "9499.0",
+            "singlePriceStr": "9499",
+            "siteId": "1",
+            "siteName": "京东",
+            "spbh": "1|3CVJOUCXFrqOU6c612!!1111111100110",
+            "url": "https://jingfen.jd.com/detail/ejQpewyayAf04SM7wAoh04pIgknPhQ_3vbTdJL20ZwgILe7QU.html"
+          },
+          "showType": 5,
+          "unit": null,
+          "virtualSkuId": "27423",
+          "virtualSkuName": "联想 战7000 16英寸 i7-13645HX RTX5060 180Hz（16G 512G）"
+        },
+        "singlePlan": {
+          "buyNumber": 1,
+          "desc": "购买1件，当前价格22228，满减：满970减90，可叠加满减：1件6折",
+          "extraPrice": "13246.8",
+          "formula": [
+            {
+              "bottom": "页面价",
+              "middle": "",
+              "priceTips": null,
+              "tip": "",
+              "tips": [],
+              "top": "¥22228"
+            },
+            {
+              "bottom": "",
+              "middle": "-",
+              "priceTips": null,
+              "tip": "",
+              "tips": [],
+              "top": ""
+            },
+            {
+              "bottom": "满减",
+              "middle": "",
+              "priceTips": [
+                {
+                  "subPrice": "90.00",
+                  "tip": "满970减90"
+                },
+                {
+                  "subPrice": "8891.20",
+                  "tip": "1件6折"
+                }
+              ],
+              "tip": "满970减90,1件6折",
+              "tips": [
+                "满970减90",
+                "1件6折"
+              ],
+              "top": "¥8981.2"
+            }
+          ],
+          "originPrice": "22228",
+          "tip": "买1件单价"
+        },
+        "spbh": "1|3QWdDL9vzw2PJtQ4eQ!!11011000110101",
+        "specialExtraPriceRemark": null,
+        "subsidyInfo": null,
+        "taobaoCoinPopup": null,
+        "usedPromotionUrl": null,
+        "zkId": null,
+        "zkPriceInfo": null,
+        "zkRecommendInfo": null
+      }
+    }
+  },
+  "recordTime": null
+}

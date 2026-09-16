@@ -1,0 +1,65 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:26.313703+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "__typename": "Title",
+      "id": "tt12037194",
+      "titleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "originalTitleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "releaseYear": {
+        "year": 2024
+      },
+      "budget": {
+        "totalBudget": {
+          "__typename": "Money",
+          "amount": 168000000,
+          "currency": "USD"
+        }
+      },
+      "openingWeekendGrosses": {
+        "total": 1,
+        "edges": [
+          {
+            "node": {
+              "gross": {
+                "__typename": "BoxOfficeGross",
+                "total": {
+                  "__typename": "Money",
+                  "amount": 26326462,
+                  "currency": "USD"
+                }
+              },
+              "weekendStartDate": "2024-05-24"
+            }
+          }
+        ]
+      },
+      "domesticGross": {
+        "__typename": "BoxOfficeGross",
+        "total": {
+          "__typename": "Money",
+          "amount": 67475791,
+          "currency": "USD"
+        }
+      },
+      "worldwideGross": {
+        "__typename": "BoxOfficeGross",
+        "total": {
+          "__typename": "Money",
+          "amount": 174375791,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "recordTime": null
+}

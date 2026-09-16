@@ -1,0 +1,433 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:04.564544+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:36",
+  "code": 0,
+  "message": null,
+  "data": [
+    {
+      "comment_list": [],
+      "model_type": "note",
+      "note_list": [
+        {
+          "api_upgrade": -1,
+          "ats": [],
+          "biz_map": {},
+          "collected": false,
+          "collected_count": 553,
+          "comment_prompt_config": {
+            "forbidden_cmt_type": 0,
+            "placeholder_long": "有话要说，快来评论",
+            "placeholder_short": "说点什么..."
+          },
+          "comments_count": 937,
+          "content_trans_info": {
+            "strategy": 10
+          },
+          "cooperate_binds": [],
+          "countdown": 0,
+          "desc": "第一次入場睇波\n第一次覺得男人著粉紅色衫好靚\n現實氣氛超級正呀\n\t\n😂🎈🎈🎈\n#唐诗咏[话题]# #國際邁亞密對香港隊 #美斯訪港[话题]# #美斯[话题]#  #足球[话题]# #足球精彩瞬间[话题]# #足球的魅力[话题]# #体育[话题]# #一起出去玩[话题]# #梅西[话题]# #梅西香港[话题]#\n\t\n#",
+          "enable_brand_lottery": false,
+          "enable_co_produce": false,
+          "enable_fls_bridge_cards": false,
+          "enable_fls_related_cards": false,
+          "feedback_info": {
+            "dislike_status": 0
+          },
+          "foot_tags": [],
+          "function_switch": [
+            {
+              "enable": false,
+              "reason": "暂不支持保存5分钟以上视频",
+              "type": "video_download"
+            },
+            {
+              "enable": true,
+              "type": "quote_note"
+            },
+            {
+              "enable": true,
+              "type": "heat_for_author"
+            }
+          ],
+          "goods_info": {},
+          "has_co_produce": false,
+          "has_music": false,
+          "has_related_goods": false,
+          "hash_tag": [
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "5d2dfabc000000000f031447",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=5d2dfabc87fc700001f976d3&page_source=note_feed.click_new_big",
+              "name": "唐诗咏",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "657293a500000000230210dd",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=657293a55b5c740001546053&page_source=note_feed.click_new_big",
+              "name": "美斯訪港",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "601ed1b90000000001006451",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=601ed1b9a331170001012544&page_source=note_feed.click_new_big",
+              "name": "美斯",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "5be7b409aead090001f234ab",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=5be7b40986535d000193a773&page_source=note_feed.click_new_big",
+              "name": "足球",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "5c14b75100000000030117c1",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=5c14b7519fca2e0001f2bfde&page_source=note_feed.click_new_big",
+              "name": "足球精彩瞬间",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "613585a20000000001000315",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=613585a2aa290700013d2f5c&page_source=note_feed.click_new_big",
+              "name": "足球的魅力",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "597b1194e39faf7a98d2af77",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=5a438d9e8000860661720a14&page_source=note_feed.click_new_big",
+              "name": "体育",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "5eb950cd0000000001002fec",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=5eb950cee777ec0001f2fad5&page_source=note_feed.click_new_big",
+              "name": "一起出去玩",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "5478beddd6e4a97df440be2f",
+              "link": "xhsdiscover://rn/ads-topic/page?id=5bf65a71c910f50001da488e&page_source=note_feed.click_new_big",
+              "name": "梅西",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            },
+            {
+              "bizId": "",
+              "current_score": 0,
+              "id": "657277eb00000000200064ab",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=657277ebedbcb60001130ae8&page_source=note_feed.click_new_big",
+              "name": "梅西香港",
+              "record_count": 0,
+              "record_emoji": "",
+              "record_unit": "",
+              "tag_hint": "",
+              "type": "topic"
+            }
+          ],
+          "head_tags": [],
+          "id": "65bf5360000000002c03f684",
+          "images_list": [
+            {
+              "fileid": "1040g00830uoh4mv9l8005of0u59ockt5nhieqro",
+              "height": 1440,
+              "index": 0,
+              "latitude": 0,
+              "longitude": 0,
+              "need_load_original_image": true,
+              "origin_img": {
+                "height": 0,
+                "size": 0,
+                "width": 0
+              },
+              "original": "http://sns-img-bd.xhscdn.com/1040g00830uoh4mv9l8005of0u59ockt5nhieqro?imageView2/2/w/5000/h/5000/format/webp/q/90&ap=1&sc=V_ORG&sign=56aa7968637a96188f1b5da07aa1b46e&t=6a9ff8e7",
+              "scale_to_large": 4,
+              "text_intention": 0,
+              "trace_id": "1040g00830uoh4mv9l8005of0u59ockt5nhieqro",
+              "url": "http://sns-img-bd.xhscdn.com/1040g00830uoh4mv9l8005of0u59ockt5nhieqro?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=1&sc=V_PRV&sign=56aa7968637a96188f1b5da07aa1b46e&t=6a9ff8e7",
+              "url_multi_level": {
+                "high": "http://sns-img-bd.xhscdn.com/1040g00830uoh4mv9l8005of0u59ockt5nhieqro?imageView2/2/w/576/format/webp/q/75%7CimageMogr2/strip&redImage/frame/0&ap=1&sc=V_PRV&sign=56aa7968637a96188f1b5da07aa1b46e&t=6a9ff8e7",
+                "low": "http://sns-img-bd.xhscdn.com/1040g00830uoh4mv9l8005of0u59ockt5nhieqro?imageView2/2/w/576/format/webp/q/75%7CimageMogr2/strip&redImage/frame/0&ap=1&sc=V_PRV&sign=56aa7968637a96188f1b5da07aa1b46e&t=6a9ff8e7",
+                "medium": "http://sns-img-bd.xhscdn.com/1040g00830uoh4mv9l8005of0u59ockt5nhieqro?imageView2/2/w/576/format/webp/q/75%7CimageMogr2/strip&redImage/frame/0&ap=1&sc=V_PRV&sign=56aa7968637a96188f1b5da07aa1b46e&t=6a9ff8e7"
+              },
+              "width": 1080
+            }
+          ],
+          "in_censor": false,
+          "ip_location": "中国香港",
+          "last_update_time": 1707447500,
+          "liked": false,
+          "liked_count": 7315,
+          "liked_users": [],
+          "long_press_share_info": {
+            "block_private_msg": false,
+            "content": "",
+            "function_entries": [
+              {
+                "type": "image_download"
+              }
+            ],
+            "guide_audited": false,
+            "is_star": false,
+            "show_wechat_tag": false,
+            "title": ""
+          },
+          "may_have_red_packet": false,
+          "media_save_config": {
+            "disable_save": false,
+            "disable_watermark": false,
+            "disable_weibo_cover": false
+          },
+          "mini_program_info": {
+            "desc": "第一次入場睇波 第一次覺得男人著粉紅色衫好靚 現實氣氛超級正呀 😂🎈🎈🎈 #唐诗咏  #國際邁亞密對香港隊 #美斯訪港",
+            "path": "pages/main/home/index?redirect_path=%2Fpages%2Fmain%2Fnote%2Findex%3Fxsec_source%3Dapp_share%26id%3D65bf5360000000002c03f684%26type%3Dvideo%26xsec_token%3DCBuXHhTGtelntS4q3NSbFOfS7fkNBjBvqXcM6mz8SDfYw%3D",
+            "share_title": "@唐詩詠Natalie 发了一篇笔记，快点来看吧！",
+            "thumb": "http://sns-img-bd.xhscdn.com/1040g00830uoh4mv9l8005of0u59ockt5nhieqro?imageView2/2/w/540/format/jpg/q/75",
+            "title": "@唐詩詠Natalie 发了一篇笔记，快点来看吧！",
+            "user_name": "gh_52be748ce5b7",
+            "webpage_url": "https://www.xiaohongshu.com/discovery/item/65bf5360000000002c03f684?xsec_source=app_share&xsec_token=CBuXHhTGtelntS4q3NSbFOfS7fkNBjBvqXcM6mz8SDfYw="
+          },
+          "model_type": "note",
+          "native_voice_info": {
+            "cover": "https://picasso-static.xiaohongshu.com/fe-platform/b598691aefe712c51cbe29af0ddbe732937bc965.png",
+            "desc": "@唐詩詠Natalie创作的原声",
+            "duration": 18575,
+            "md5sum": "38812f24dc8a0993fbedea4190b77ef2",
+            "name": "唐詩詠Natalie的原声",
+            "optimize_exp_in_use_count": 0,
+            "sound_bg_music_type": 0,
+            "sound_id": "1145532045062699183",
+            "subtitle": "唐詩詠Nata...的原声",
+            "url": "https://sns-v28-ae.rednotecdn.com/audio/02e5bf536116931a010370038d8bcd47a6_0.wav?sign=4aa01dff6a1e1962f80e608fe5044d0d&t=6a9ff8e7",
+            "use_count": 1
+          },
+          "need_next_step": false,
+          "need_product_review": false,
+          "note_text_press_options": [
+            {
+              "extra": "",
+              "key": "copy"
+            }
+          ],
+          "privacy": {
+            "nick_names": "",
+            "show_tips": false,
+            "type": 0
+          },
+          "qq_mini_program_info": {
+            "desc": "第一次入場睇波 第一次覺得男人著粉紅色衫好靚 現實氣氛超級正呀 😂🎈🎈🎈 #唐诗咏  #國際邁亞密對香港隊 #美斯訪港",
+            "path": "pages/main/note/index?xsec_source=app_share&id=65bf5360000000002c03f684&type=video&xsec_token=CBuXHhTGtelntS4q3NSbFOfS7fkNBjBvqXcM6mz8SDfYw=",
+            "share_title": "@唐詩詠Natalie 发了一篇超赞的笔记，快点来看！",
+            "thumb": "http://sns-img-bd.xhscdn.com/1040g00830uoh4mv9l8005of0u59ockt5nhieqro?imageView2/2/w/540/format/jpg/q/75",
+            "title": "@唐詩詠Natalie 发了一篇超赞的笔记，快点来看！",
+            "user_name": "gh_66c53d495417",
+            "webpage_url": "https://www.xiaohongshu.com/discovery/item/65bf5360000000002c03f684?xsec_source=app_share&xsec_token=CBuXHhTGtelntS4q3NSbFOfS7fkNBjBvqXcM6mz8SDfYw="
+          },
+          "red_envelope_note": false,
+          "seeded": false,
+          "seeded_count": 0,
+          "share_code_flag": 0,
+          "share_info": {
+            "block_private_msg": false,
+            "content": "第一次入場睇波 第一次覺得男人著粉紅色衫好靚 現實氣氛超級正呀 😂🎈🎈🎈 #唐诗咏  #國際邁亞密對香港隊 #美斯訪港",
+            "function_entries": [
+              {
+                "type": "generate_image"
+              },
+              {
+                "type": "copy_link"
+              },
+              {
+                "type": "heat_for_author"
+              },
+              {
+                "type": "background_music"
+              },
+              {
+                "type": "video_speed"
+              },
+              {
+                "type": "dislike"
+              },
+              {
+                "type": "report"
+              },
+              {
+                "type": "video_feedback"
+              }
+            ],
+            "guide_audited": true,
+            "image": "http://sns-img-bd.xhscdn.com/1040g00830uoh4mv9l8005of0u59ockt5nhieqro?imageView2/2/w/360/format/jpg/q/75",
+            "is_star": false,
+            "link": "https://www.xiaohongshu.com/discovery/item/65bf5360000000002c03f684?app_platform=ios&app_version=9.25&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBuXHhTGtelntS4q3NSbFOfS7fkNBjBvqXcM6mz8SDfYw=&author_share=1",
+            "show_wechat_tag": false,
+            "title": "美斯 我來啦",
+            "wechat_share_desc": "@唐詩詠Natalie 的笔记\n255人分享"
+          },
+          "shared_count": 255,
+          "sticky": false,
+          "text_language_code": "zh-Hans",
+          "time": 1707037536,
+          "title": "美斯 我來啦🥳🥳🥳",
+          "topics": [
+            {
+              "activity_online": false,
+              "business_type": 0,
+              "discuss_num": 0,
+              "id": "5d2dfabc000000000f031447",
+              "image": "http://ci.xiaohongshu.com/fd75707a-37f8-45ad-b7a7-0feaf36e9cad@r_120w_120h.jpg",
+              "link": "xhsdiscover://topic/v2/5d2dfabc87fc700001f976d3?page_source=note_feed.click_new_big",
+              "name": "唐诗咏",
+              "style": 0
+            }
+          ],
+          "type": "video",
+          "use_water_color": false,
+          "user": {
+            "followed": false,
+            "fstatus": "none",
+            "id": "61e0f15300000000210253a5",
+            "image": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30spr2pnbk2005of0u59ockt5u75e3j0?imageView2/2/w/80/format/jpg",
+            "level": {
+              "image": ""
+            },
+            "name": "唐詩詠Natalie",
+            "nickname": "唐詩詠Natalie",
+            "red_id": "6549966580",
+            "red_official_verified": false,
+            "red_official_verify_type": 0,
+            "show_red_official_verify_icon": false,
+            "track_duration": 0,
+            "userid": "61e0f15300000000210253a5"
+          },
+          "view_count": 0,
+          "widgets_context": "{\"video\":true,\"flags\":{\"sound_track\":true},\"author_id\":\"61e0f15300000000210253a5\",\"author_name\":\"唐詩詠Natalie\",\"note_sound_info\":{\"sound_id\":\"1145532045062699183\",\"name\":\"唐詩詠Natalie的原声\",\"desc\":\"@唐詩詠Natalie创作的原声\",\"duration\":18575,\"url\":\"https://sns-v28-ae.rednotecdn.com/audio/02e5bf536116931a010370038d8bcd47a6_0.wav?sign=4aa01dff6a1e1962f80e608fe5044d0d&t=6a9ff8e7\",\"use_count\":1,\"subtitle\":\"唐詩詠Nata...的原声\",\"cover\":\"https://picasso-static.xiaohongshu.com/fe-platform/b598691aefe712c51cbe29af0ddbe732937bc965.png\",\"creator\":\"61e0f15300000000210253a5\",\"user_nickname\":\"唐詩詠Natalie\"},\"q_task_id\":\"\",\"video_rec_bar_info\":\"\",\"share_count\":255}",
+          "widgets_groups": [
+            [
+              "guos_test",
+              "note_next_step",
+              "second_jump_bar",
+              "cooperate_binds",
+              "note_collection",
+              "rec_next_infos",
+              "image_stickers",
+              "image_filters",
+              "product_review",
+              "related_search",
+              "cooperate_comment_component",
+              "image_goods_cards",
+              "ads_goods_cards",
+              "ads_comment_component",
+              "goods_card_v2",
+              "image_template",
+              "buyable_goods_card_v2",
+              "ads_engage_bar",
+              "challenge_card",
+              "cooperate_engage_bar",
+              "guide_post",
+              "pgy_comment_component",
+              "pgy_engage_bar",
+              "bar_below_image",
+              "aigc_collection",
+              "co_produce",
+              "widgets_ndb",
+              "next_note_guide",
+              "pgy_bbc_exp",
+              "async_group",
+              "super_activity",
+              "widgets_enhance",
+              "music_player",
+              "soundtrack_player"
+            ],
+            [
+              "guos_test",
+              "vote_stickers",
+              "bullet_comment_lead",
+              "note_search_box",
+              "interact_pk",
+              "interact_vote",
+              "guide_heuristic",
+              "share_to_msg",
+              "follow_guide",
+              "note_share_prompt_v1",
+              "sync_group",
+              "group_share",
+              "share_guide_bubble",
+              "widgets_share",
+              "guide_navigator"
+            ]
+          ]
+        }
+      ],
+      "track_id": "",
+      "user": {
+        "followed": false,
+        "fstatus": "none",
+        "id": "61e0f15300000000210253a5",
+        "image": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30spr2pnbk2005of0u59ockt5u75e3j0?imageView2/2/w/80/format/jpg",
+        "level": {
+          "image": ""
+        },
+        "name": "唐詩詠Natalie",
+        "nickname": "唐詩詠Natalie",
+        "red_id": "6549966580",
+        "red_official_verified": false,
+        "red_official_verify_type": 0,
+        "show_red_official_verify_icon": false,
+        "track_duration": 0,
+        "userid": "61e0f15300000000210253a5"
+      }
+    }
+  ],
+  "recordTime": null
+}

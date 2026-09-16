@@ -1,0 +1,510 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:13.605170+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:01",
+  "code": 0,
+  "message": null,
+  "data": {
+    "category": "tv",
+    "type": "tv",
+    "total": 189,
+    "items": [
+      {
+        "id": "37501131",
+        "title": "现在不是出轨的问题",
+        "pic": {
+          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2934748119.jpg",
+          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934748119.jpg"
+        },
+        "rating": {
+          "count": 28741,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 8.7
+        },
+        "uri": "douban://douban.com/tv/37501131",
+        "card_subtitle": "2026 / 韩国 / 剧情 惊悚 / 李昌熙 / 金惠秀 金志勋",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "tv"
+      },
+      {
+        "id": "36660844",
+        "title": "早春晴朗",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2932319485.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932319485.jpg"
+        },
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "uri": "douban://douban.com/tv/36660844",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 爱情 / 蒋继正 / 井柏然 孙千",
+        "is_new": false,
+        "episodes_info": "更新至20集",
+        "type": "tv"
+      },
+      {
+        "id": "37235098",
+        "title": "踮起脚尖",
+        "pic": {
+          "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2935357611.jpg",
+          "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2935357611.jpg"
+        },
+        "rating": {
+          "count": 20515,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 8.9
+        },
+        "uri": "douban://douban.com/tv/37235098",
+        "card_subtitle": "2026 / 英国 / 剧情 惊悚 / 彼得·霍尔 / 艾伦·卡明 大卫·莫瑞瑟",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "tv"
+      },
+      {
+        "id": "37233336",
+        "title": "生逢其时",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2925528426.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925528426.jpg"
+        },
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "uri": "douban://douban.com/tv/37233336",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 / 林妍 / 关晓彤 王子奇",
+        "is_new": true,
+        "episodes_info": "更新至8集",
+        "type": "tv"
+      },
+      {
+        "id": "36126289",
+        "title": "醒来",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2925520765.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925520765.jpg"
+        },
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "uri": "douban://douban.com/tv/36126289",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 / 赵宝刚 刘心刚 / 欧豪 古力娜扎",
+        "is_new": false,
+        "episodes_info": "22集全",
+        "type": "tv"
+      },
+      {
+        "id": "36314809",
+        "title": "交锋",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2931558074.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931558074.jpg"
+        },
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "uri": "douban://douban.com/tv/36314809",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 / 姚晓峰 / 王凯 周依然",
+        "is_new": true,
+        "episodes_info": "更新至6集",
+        "type": "tv"
+      },
+      {
+        "id": "36810153",
+        "title": "花开锦绣",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2934718593.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934718593.jpg"
+        },
+        "rating": {
+          "count": 93860,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 7.1
+        },
+        "uri": "douban://douban.com/tv/36810153",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 古装 / 邓科 / 丁禹兮 邓恩熙",
+        "is_new": false,
+        "episodes_info": "36集全",
+        "type": "tv"
+      },
+      {
+        "id": "36554071",
+        "title": "重器",
+        "pic": {
+          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2934828709.jpg",
+          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934828709.jpg"
+        },
+        "rating": {
+          "count": 34849,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 7.3
+        },
+        "uri": "douban://douban.com/tv/36554071",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 / 沈严 李江明 / 黄景瑜 蒋奇明",
+        "is_new": false,
+        "episodes_info": "33集全",
+        "type": "tv"
+      },
+      {
+        "id": "37325370",
+        "title": "金色",
+        "pic": {
+          "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2935130131.jpg",
+          "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2935130131.jpg"
+        },
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "uri": "douban://douban.com/tv/37325370",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 / 徐兵 / 辛芷蕾 尹昉",
+        "is_new": false,
+        "episodes_info": "13集全",
+        "type": "tv"
+      },
+      {
+        "id": "37252177",
+        "title": "蝉",
+        "pic": {
+          "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2923279291.jpg",
+          "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2923279291.jpg"
+        },
+        "rating": {
+          "count": 14153,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 6.1
+        },
+        "uri": "douban://douban.com/tv/37252177",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 悬疑 犯罪 / 袁玉梅 / 吴镇宇 郑云龙",
+        "is_new": false,
+        "episodes_info": "21集全",
+        "type": "tv"
+      },
+      {
+        "id": "38407616",
+        "title": "重案六组：消失的警号",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2935392983.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935392983.jpg"
+        },
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "uri": "douban://douban.com/tv/38407616",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 犯罪 / 李昂 / 张一山 李沐宸",
+        "is_new": false,
+        "episodes_info": "26集全",
+        "type": "tv"
+      },
+      {
+        "id": "37172262",
+        "title": "飞到我心上",
+        "pic": {
+          "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2932789951.jpg",
+          "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2932789951.jpg"
+        },
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "uri": "douban://douban.com/tv/37172262",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 爱情 / 郑世龙 / 魏哲鸣 刘些宁",
+        "is_new": false,
+        "episodes_info": "更新至14集",
+        "type": "tv"
+      },
+      {
+        "id": "37005231",
+        "title": "绅士们 第二季",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2935124143.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935124143.jpg"
+        },
+        "rating": {
+          "count": 1588,
+          "max": 10,
+          "star_count": 4.0,
+          "value": 8.2
+        },
+        "uri": "douban://douban.com/tv/37005231",
+        "card_subtitle": "2026 / 英国 美国 / 喜剧 动作 犯罪 / 盖·里奇 / 西奥·詹姆斯 卡雅·斯考达里奥",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "tv"
+      },
+      {
+        "id": "37291935",
+        "title": "狂怒追缉 第一季",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2933573106.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933573106.jpg"
+        },
+        "rating": {
+          "count": 7873,
+          "max": 10,
+          "star_count": 4.0,
+          "value": 8.3
+        },
+        "uri": "douban://douban.com/tv/37291935",
+        "card_subtitle": "2026 / 美国 / 惊悚 犯罪 / 布莱恩·柯克 / 埃米·罗森 洛拉·佩蒂克鲁",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "tv"
+      },
+      {
+        "id": "37317368",
+        "title": "雀骨",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2931739796.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931739796.jpg"
+        },
+        "rating": {
+          "count": 88990,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 6.9
+        },
+        "uri": "douban://douban.com/tv/37317368",
+        "card_subtitle": "2026 / 中国大陆 / 爱情 古装 / 高翊浚 孙梦飞 / 艾米 侯明昊",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "tv"
+      },
+      {
+        "id": "36406417",
+        "title": "师兄太稳健",
+        "pic": {
+          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2934541050.jpg",
+          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934541050.jpg"
+        },
+        "rating": {
+          "count": 13397,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.7
+        },
+        "uri": "douban://douban.com/tv/36406417",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 奇幻 古装 / 何澍培 / 敖瑞鹏 孙珍妮",
+        "is_new": false,
+        "episodes_info": "30集全",
+        "type": "tv"
+      },
+      {
+        "id": "26811535",
+        "title": "九门",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2934488566.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934488566.jpg"
+        },
+        "rating": {
+          "count": 44255,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 6.6
+        },
+        "uri": "douban://douban.com/tv/26811535",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 奇幻 冒险 / 柏杉 / 陈伟霆 陈瑶",
+        "is_new": false,
+        "episodes_info": "30集全",
+        "type": "tv"
+      },
+      {
+        "id": "36624136",
+        "title": "悬案",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2933759962.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933759962.jpg"
+        },
+        "rating": {
+          "count": 58964,
+          "max": 10,
+          "star_count": 4.0,
+          "value": 7.6
+        },
+        "uri": "douban://douban.com/tv/36624136",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 悬疑 犯罪 / 算 / 王传君 江奇霖",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "tv"
+      },
+      {
+        "id": "37071123",
+        "title": "铁拳教育",
+        "pic": {
+          "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2933103931.jpg",
+          "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2933103931.jpg"
+        },
+        "rating": {
+          "count": 188778,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 8.7
+        },
+        "uri": "douban://douban.com/tv/37071123",
+        "card_subtitle": "2026 / 韩国 / 剧情 动作 / 洪忠灿 / 金武烈 李星民",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "tv"
+      },
+      {
+        "id": "35653123",
+        "title": "藏锋",
+        "pic": {
+          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2935209228.jpg",
+          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2935209228.jpg"
+        },
+        "rating": {
+          "count": 8115,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 6.5
+        },
+        "uri": "douban://douban.com/tv/35653123",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 喜剧 犯罪 / 邢键钧 孙小光 / 段奕宏 余男",
+        "is_new": false,
+        "episodes_info": "23集全",
+        "type": "tv"
+      }
+    ],
+    "tags": [
+      {
+        "title": "最近热门剧集",
+        "category": "tv",
+        "selected": true,
+        "types": [
+          {
+            "title": "综合",
+            "type": "tv",
+            "selected": true
+          },
+          {
+            "title": "国产剧",
+            "type": "tv_domestic",
+            "selected": false
+          },
+          {
+            "title": "欧美剧",
+            "type": "tv_american",
+            "selected": false
+          },
+          {
+            "title": "日剧",
+            "type": "tv_japanese",
+            "selected": false
+          },
+          {
+            "title": "韩剧",
+            "type": "tv_korean",
+            "selected": false
+          },
+          {
+            "title": "动画",
+            "type": "tv_animation",
+            "selected": false
+          },
+          {
+            "title": "纪录片",
+            "type": "tv_documentary",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "title": "最近热门综艺",
+        "category": "show",
+        "selected": false,
+        "types": [
+          {
+            "title": "综合",
+            "type": "show",
+            "selected": false
+          },
+          {
+            "title": "国内",
+            "type": "show_domestic",
+            "selected": false
+          },
+          {
+            "title": "国外",
+            "type": "show_foreign",
+            "selected": false
+          }
+        ]
+      }
+    ],
+    "recommend_tags": [
+      {
+        "title": "综合",
+        "category": "tv",
+        "type": "tv",
+        "selected": true
+      },
+      {
+        "title": "国产剧",
+        "category": "tv",
+        "type": "tv_domestic",
+        "selected": false
+      },
+      {
+        "title": "综艺",
+        "category": "show",
+        "type": "show",
+        "selected": false
+      },
+      {
+        "title": "欧美剧",
+        "category": "tv",
+        "type": "tv_american",
+        "selected": false
+      },
+      {
+        "title": "日剧",
+        "category": "tv",
+        "type": "tv_japanese",
+        "selected": false
+      },
+      {
+        "title": "韩剧",
+        "category": "tv",
+        "type": "tv_korean",
+        "selected": false
+      },
+      {
+        "title": "动画",
+        "category": "tv",
+        "type": "tv_animation",
+        "selected": false
+      },
+      {
+        "title": "纪录片",
+        "category": "tv",
+        "type": "tv_documentary",
+        "selected": false
+      }
+    ]
+  },
+  "recordTime": null
+}

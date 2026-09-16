@@ -1,0 +1,20 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:08.063998+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:47",
+  "code": 0,
+  "message": null,
+  "data": {
+    "video_id": "8qAHj1a0H4c",
+    "captions": [
+      {
+        "language_code": "zh",
+        "language_name": "Chinese"
+      },
+      {
+        "language_code": "en",
+        "language_name": "English"
+      }
+    ]
+  },
+  "recordTime": null
+}

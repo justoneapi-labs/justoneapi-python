@@ -1,0 +1,47 @@
+name: auto-commit
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "*/5 * * * *"
+
+concurrency:
+  group: auto-commit-main
+  cancel-in-progress: false
+
+jobs:
+  autogreen:
+    if: github.repository == 'justoneapi-labs/justoneapi-python'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Auto commit
+        run: |
+          git config --local user.name "Anonymous Committer"
+          git config --local user.email "anonymous@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git fetch --no-tags origin refs/heads/main
+            # This checkout is disposable; always base the empty commit on current main.
+            git reset --hard FETCH_HEAD
+            git commit --allow-empty -m "chore: auto empty commit at $(date -u)"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              sleep 5
+            fi
+          done
+          echo "Failed to push the empty commit after 3 attempts." >&2
+          exit 1

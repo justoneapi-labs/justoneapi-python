@@ -1,0 +1,84 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:47.076805+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:25",
+  "code": 0,
+  "message": null,
+  "data": {
+    "userInfo": {
+      "user": {
+        "id": "107955",
+        "shortId": "",
+        "uniqueId": "tiktok",
+        "nickname": "TikTok",
+        "avatarLarger": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba67b11de451691939223e9d978e613a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=38a731e6&x-expires=1789038000&x-signature=O06LmWfUpSWyP8qCG4TyPy%2BUiAk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba67b11de451691939223e9d978e613a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=72d4666d&x-expires=1789038000&x-signature=BFScXyDj%2Bc77cNLcTlIAz9%2By03k%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "avatarThumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba67b11de451691939223e9d978e613a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=dcc9f1f5&x-expires=1789038000&x-signature=zADP0a9XfkTPfIbvDAswUWnw93A%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "signature": "One TikTok can make a big impact",
+        "createTime": 1425144149,
+        "verified": true,
+        "secUid": "MS4wLjABAAAAv7iSuuXDJGDvJkmH_vz1qkDZYo1apxgzaxdBSeIuPiM",
+        "ftc": false,
+        "relation": 0,
+        "openFavorite": false,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "commerceUser": false
+        },
+        "duetSetting": 0,
+        "stitchSetting": 0,
+        "privateAccount": false,
+        "secret": false,
+        "isADVirtual": false,
+        "roomId": "",
+        "uniqueIdModifyTime": 0,
+        "ttSeller": false,
+        "downloadSetting": 0,
+        "profileTab": {
+          "showMusicTab": false,
+          "showQuestionTab": true,
+          "showPlayListTab": true
+        },
+        "followingVisibility": 1,
+        "recommendReason": "",
+        "nowInvitationCardUrl": "",
+        "nickNameModifyTime": 1638559600,
+        "isEmbedBanned": false,
+        "canExpPlaylist": true,
+        "profileEmbedPermission": 1,
+        "language": "en",
+        "eventList": [],
+        "suggestAccountBind": false,
+        "isOrganization": 1,
+        "UserStoryStatus": 0,
+        "shortDramaCreator": {}
+      },
+      "stats": {
+        "followerCount": 95600000,
+        "followingCount": 1,
+        "heart": 463300000,
+        "heartCount": 463300000,
+        "videoCount": 1502,
+        "diggCount": 0,
+        "friendCount": 1
+      },
+      "statsV2": {
+        "followerCount": "95635008",
+        "followingCount": "1",
+        "heart": "463337002",
+        "heartCount": "463337002",
+        "videoCount": "1502",
+        "diggCount": "0",
+        "friendCount": "1"
+      },
+      "itemList": []
+    },
+    "shareMeta": {
+      "title": "TikTok on TikTok",
+      "desc": "@tiktok 95.6m Followers, 1 Following, 463.3m Likes - Watch awesome short videos created by TikTok"
+    },
+    "statusCode": 0,
+    "statusMsg": "",
+    "needFix": false
+  },
+  "recordTime": null
+}

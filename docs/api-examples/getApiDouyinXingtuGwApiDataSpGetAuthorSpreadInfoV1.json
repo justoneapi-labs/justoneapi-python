@@ -1,0 +1,43 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:20.317066+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:05",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "expect_cpe": {
+      "cpe_21_60": "230",
+      "cpe_60": "230"
+    },
+    "expect_cpm": {
+      "cpm_21_60": "11721",
+      "cpm_60": "11721"
+    },
+    "interact_rate": {
+      "label": "剧情搞笑"
+    },
+    "item_rate": {
+      "interact_rate": {},
+      "item_num": {
+        "label": "",
+        "overtake": 10800
+      },
+      "play_mid": {
+        "label": ""
+      }
+    },
+    "play_over_rate": {
+      "label": "剧情搞笑"
+    },
+    "play_stability": {
+      "label": "剧情搞笑",
+      "overtake": 8865,
+      "value": 540887
+    },
+    "sales_expect_cpm": {}
+  },
+  "recordTime": null
+}

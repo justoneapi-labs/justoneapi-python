@@ -1,0 +1,405 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:09.064307+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "result": {
+      "base": {
+        "totalResults": "60678",
+        "pageSize": "20",
+        "q": "iphone",
+        "sortValues": [
+          "default",
+          "salesDesc",
+          "priceAsc",
+          "priceDesc"
+        ],
+        "switchesList": []
+      },
+      "resultList": [
+        {
+          "item": {
+            "itemId": "3256812907115202",
+            "title": "Refurbished Apple iPhone 14 A2649 (Fully Unlocked) - Excellent Condition",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812907115202.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Sd83651fc546b48feaa9a3a693981662cY.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 238.56
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812917511417",
+            "title": "Refurbished Apple iPhone 14 Pro Max A2651 (Fully Unlocked) - Excellent Condition",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812917511417.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/S28cd54215e6b451dbd11323eede03982a.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 587.22
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812917483471",
+            "title": "Refurbished Apple iPhone 16e A3212 (Fully Unlocked) - Excellent Condition",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812917483471.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Sa3abd45d679c42309a4d84fc25a8b3b0S.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 344.26
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812845294523",
+            "title": "Apple / iPhone 16 Plus / A3082 / Ultramarine / Unlocked / 128GB Grade 1  Refurbished  Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included",
+            "sales": "3",
+            "itemUrl": "//www.aliexpress.com/item/3256812845294523.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Se6a408f6cca9482086cf3ffd8842fb83w.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 667.67
+              }
+            },
+            "averageStarRate": 5,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812755908633",
+            "title": "Apple / iPhone 12 / A2172  / Genuine Original Apple Device, Authentic ，Free Charging Cable Included Good Condition Grade 1-4  Refurbished Used Iphone",
+            "sales": "2",
+            "itemUrl": "//www.aliexpress.com/item/3256812755908633.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Se29f538550004ad38b330e384debddc2i.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 215.75
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812728620964",
+            "title": "Apple / iPhone 14 Pro / A2650 // GSM Unlocked/ Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Refurbished Used Iphone",
+            "sales": "54",
+            "itemUrl": "//www.aliexpress.com/item/3256812728620964.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/S6433eb5690bf4d7a997cdf9ff3aed8a44.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 565.56
+              }
+            },
+            "averageStarRate": 1,
+            "type": "gem"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812763959852",
+            "title": "Apple / iPhone 13 mini / A2481/ Unlocked/ Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Grade 1-4  Refurbished Used Iphone",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812763959852.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Sf2c61ae3ab274cd684ad297126203bedO.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 245.24
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812764613593",
+            "title": "Apple / iPhone 11 / A2111 / Genuine Original Apple Device, Authentic ，Free Charging Cable Included Good Condition Grade 1-4  Refurbished Used Iphone",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812764613593.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Sc1c2adb4d19f48d7aaaf1ebea87192f9i.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 217.37
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812763188033",
+            "title": "Apple / iPhone 15 / A2846  / Yellow / Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Grade 1-4 Refurbished Used Iphone",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812763188033.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/S1c028a6f4f854f86a106c845202afc69Y.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 496.76
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812521753571",
+            "title": "Original Apple iPhone 17 Pro Max, US Version, eSIM, 256GB/512GB/1TB/2TB - Unlocked (Like New)",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812521753571.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/A4891c078d48143adb6b5a374757f9609I.png",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 1319.64
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812807667600",
+            "title": "Apple - iPhone 17e (A3575 + Dual Esim) White (256GB) - Grade 1/ Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Refurbished Used Iphone",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812807667600.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Sfbe29a2b22714996a931f8bad3e2795ax.png",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 671.1
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812718987434",
+            "title": "Apple iPhone 16e A3212 Unlocked Cell‑Phone,128GB Black/White,Grade 1‑4 Refurbished Genuine Device  Good Condition Refurbished Cell Phone,With Free Charging Cable",
+            "sales": "1",
+            "itemUrl": "//www.aliexpress.com/item/3256812718987434.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Sc6d2037cad004778aa895f6c412328beA.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 468.6
+              }
+            },
+            "averageStarRate": null,
+            "type": "gem"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812728900764",
+            "title": "Apple /iPhone SE 3 / A2595/ Unlocked/ Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Refurbished Used Iphone",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812728900764.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/S66d0d95f1c884a3e8a373f545751e4f5F.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 151.83
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812746972761",
+            "title": "Apple / iPhone 15 Pro Max / A2849 / Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Refurbished Used Iphone",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812746972761.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/S686a211d762e4733b6ab1d880cce31f1v.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 665.56
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812907178487",
+            "title": "Refurbished Apple iPhone 16 Pro A3083 (Fully Unlocked) - Excellent Condition",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812907178487.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/S58ac583cbd6d418095c87b9b95a07540T.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 718.29
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812718691705",
+            "title": "Apple / iPhone 16 Plus / A3082 / Ultramarine / Unlocked / 128GB Grade 1  Refurbished  Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included",
+            "sales": "2",
+            "itemUrl": "//www.aliexpress.com/item/3256812718691705.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Se6a408f6cca9482086cf3ffd8842fb83w.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 718.87
+              }
+            },
+            "averageStarRate": 5,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812755528277",
+            "title": "Apple / iPhone 13 / A2481/ Unlocked/ Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Grade 1-4  Refurbished Used Iphone",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812755528277.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/S166c5fa5062341c081c62c40867a2338J.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 348.44
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812763137652",
+            "title": "Grade 1‑4 Used Refurbished Apple iPhone 15 Plus Model A2847, Yellow‑Genuine Original Cellphone, Authentic Hardware, Free USB Charging Cord Supplied",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812763137652.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/S1c028a6f4f854f86a106c845202afc69Y.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 507.36
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812708741098",
+            "title": "Apple / iPhone 14 Pro Max / A2651 /Space Black/ GSM Unlocked/ Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Refurbished Used Iphone",
+            "sales": "1",
+            "itemUrl": "//www.aliexpress.com/item/3256812708741098.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Sec030c68cae14c2f9b95dee17845daa7V.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 607.88
+              }
+            },
+            "averageStarRate": 3,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        },
+        {
+          "item": {
+            "itemId": "3256812746710510",
+            "title": "Apple / iPhone 17 Pro Max / A3257 / Genuine Original Apple Device, Authentic Hardware, Free Charging Cable Included Good Condition Refurbished Used Iphone",
+            "sales": 0,
+            "itemUrl": "//www.aliexpress.com/item/3256812746710510.html",
+            "image": "//ae-pic-a1.aliexpress-media.com/kf/Sc3fe6a671a33473cb30bd9ef65035a2bP.jpg",
+            "sku": {
+              "def": {
+                "price": null,
+                "promotionPrice": 1417.81
+              }
+            },
+            "averageStarRate": null,
+            "type": "natural"
+          },
+          "delivery": null,
+          "sellingPoints": null
+        }
+      ]
+    }
+  },
+  "recordTime": null
+}

@@ -1,0 +1,44 @@
+name: Sync README OpenAPI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17,47 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-readme-openapi
+  cancel-in-progress: false
+
+jobs:
+  sync-readme-openapi:
+    # The backup repository receives reviewed changes from the primary repository.
+    if: github.repository == 'justoneapi/justoneapi-python'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Refresh and publish README API lists
+        env:
+          README_SYNC_TARGETS: README.en.md:en,README.md:zh
+          OPENAPI_BASIC_AUTH_USER: ${{ secrets.OPENAPI_BASIC_AUTH_USER }}
+          OPENAPI_BASIC_AUTH_PASS: ${{ secrets.OPENAPI_BASIC_AUTH_PASS }}
+          OPENAPI_BASIC_AUTH_USERNAME: ${{ secrets.OPENAPI_BASIC_AUTH_USERNAME }}
+          OPENAPI_BASIC_AUTH_PASSWORD: ${{ secrets.OPENAPI_BASIC_AUTH_PASSWORD }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL }}
+        run: node scripts/sync-readme-openapi.mjs --publish

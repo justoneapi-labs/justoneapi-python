@@ -1,0 +1,315 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:23.879094+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:06",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "content_list": [
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "1944",
+          "core_user_id": "93512913160",
+          "cover_image_uri": "tos-cn-p-fd6e84/oQwEYqWRADDj9NaMtQFag0IElTeWD77foMBqPA",
+          "finish_rate": "0.080358",
+          "interact_cnt": "36776",
+          "interact_rate": "0.017266",
+          "is_star_item": "0",
+          "item_create_time": "1787563877",
+          "item_title": "带你看看广东家常菜都有些什么 #家常菜 #美食 #美食分享 #广东美食",
+          "like_cnt_all": "21518",
+          "quality_score": "73.333333",
+          "score": "1.365",
+          "share_cnt_all": "13314",
+          "star_author_id": "7505326547570524197",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62802]",
+          "vv_all": "2129948"
+        },
+        "id": "7677528373891009818",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_000d25ef029548b78584518f50ed8b59.jpeg?from=3782654143",
+          "core_user_id": "93512913160",
+          "follower": "74781",
+          "name": "茹同学",
+          "star_id": "7505326547570524197"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "20778",
+          "core_user_id": "2679930737920224",
+          "cover_image_uri": "tos-cn-p-0015c000-ce/oAEIQQRgGHD6yDL7gIeeAQDeJLGpuVJBZq07hj",
+          "finish_rate": "0.024637",
+          "interact_cnt": "68150",
+          "interact_rate": "0.126024",
+          "is_star_item": "0",
+          "item_create_time": "1787926502",
+          "item_title": "水蟑螂，你想吃吗？广东人越吃越爱吃，艾特你的朋友来吃 #地方特色美食 #地方美食 #美食推荐 #广东美食 #龙虱",
+          "like_cnt_all": "9388",
+          "quality_score": "83.333333",
+          "score": "1.4475",
+          "share_cnt_all": "37984",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62802]",
+          "vv_all": "540771"
+        },
+        "id": "7679085854799836645",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_oEIAfUhB0EtA1g7iD1QACLIJsbG7evAmqeKzZ8.jpeg?from=3782654143",
+          "core_user_id": "2679930737920224",
+          "follower": "3403",
+          "name": "中国舌尖美食"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "4975",
+          "core_user_id": "99312563579",
+          "cover_image_uri": "tos-cn-p-0015/oo3ZUAWfUVBUJmi5CwFEAYDeB8A7qYMIEZfSEs",
+          "finish_rate": "0.017247",
+          "interact_cnt": "193086",
+          "interact_rate": "0.061568",
+          "is_star_item": "1",
+          "item_create_time": "1786340680",
+          "item_title": "如果幸福是一碗可爱熊咖喱饭～ #治愈系美食#家乡美食大赛#小炒黄牛肉#美食爆料计划#京东七鲜小厨",
+          "like_cnt_all": "140852",
+          "quality_score": "90.0",
+          "score": "1.6537",
+          "share_cnt_all": "47259",
+          "star_author_id": "6940261596971139076",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62804]",
+          "vv_all": "3136158"
+        },
+        "id": "7672274798596921243",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_75ebbb8a1079b43ac87afbdbbd7c01a2.jpeg?from=3782654143",
+          "core_user_id": "99312563579",
+          "follower": "1401702",
+          "name": "桐桐家的小厨房",
+          "star_id": "6940261596971139076"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "3014",
+          "core_user_id": "2679930737920224",
+          "cover_image_uri": "tos-cn-p-0015c000-ce/oYRIqeSIEDCmNoCzVQF8wTQE9AvUCnNfAaBqnY",
+          "finish_rate": "0.029184",
+          "interact_cnt": "9192",
+          "interact_rate": "0.147547",
+          "is_star_item": "0",
+          "item_create_time": "1788446037",
+          "item_title": "童子尿肉，你想吃吗？浙江人越吃越爱吃，快艾特你的朋友来品尝#地方特色美食 #地方美食 #美食推荐 #浙江美食 #童子尿蛋",
+          "like_cnt_all": "910",
+          "quality_score": "63.333333",
+          "score": "1.2838",
+          "share_cnt_all": "5268",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62804]",
+          "vv_all": "62299"
+        },
+        "id": "7681317240037402811",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_oEIAfUhB0EtA1g7iD1QACLIJsbG7evAmqeKzZ8.jpeg?from=3782654143",
+          "core_user_id": "2679930737920224",
+          "follower": "3403",
+          "name": "中国舌尖美食"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "1526",
+          "core_user_id": "2524916378250239",
+          "cover_image_uri": "tos-cn-p-0015/oYDqPKF3DBywgAb42Ij5vvEBiAniaIR8QIltA",
+          "finish_rate": "0.353747",
+          "interact_cnt": "7849",
+          "interact_rate": "0.008715",
+          "is_star_item": "0",
+          "item_create_time": "1786332217",
+          "item_title": "妹妹和妈妈挑战美食版《刀枪炮》 #刀枪炮美食版 #翻唱 #趣味挑战",
+          "like_cnt_all": "5497",
+          "quality_score": "63.333333",
+          "score": "1.2838",
+          "share_cnt_all": "826",
+          "star_author_id": "7252584044133613606",
+          "v2_first_tag_id": "[618]",
+          "v2_second_tag_id": "[61802]",
+          "vv_all": "900638"
+        },
+        "id": "7672238452902023330",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_97091d514ae05d275892f93de7552514.jpeg?from=3782654143",
+          "core_user_id": "2524916378250239",
+          "follower": "91847",
+          "name": "依诺的快乐生活",
+          "star_id": "7252584044133613606"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "9649",
+          "core_user_id": "644747084435978",
+          "cover_image_uri": "tos-cn-p-0015/o4FEJVIBPiawBXiB1PAFEIpVdQuvTovA5A1Vn",
+          "finish_rate": "0.428494",
+          "interact_cnt": "26571",
+          "interact_rate": "0.022873",
+          "is_star_item": "0",
+          "item_create_time": "1786082963",
+          "item_title": "那就让你们看看山西菜 #山西菜申请出战暑假美食展 #经典硬菜 #美食讲究原汁原味 #这硬核美食给我整心动了 #美食打卡分享",
+          "like_cnt_all": "14396",
+          "quality_score": "76.666667",
+          "score": "1.3923",
+          "share_cnt_all": "2526",
+          "star_author_id": "7593269707111219206",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62802]",
+          "vv_all": "1161667"
+        },
+        "id": "7671167915953525094",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_2bcfe784f3c5b454d3e9738054cd004e.jpeg?from=3782654143",
+          "core_user_id": "644747084435978",
+          "follower": "665",
+          "name": "丁夏",
+          "star_id": "7593269707111219206"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "164",
+          "core_user_id": "7548299432464172090",
+          "cover_image_uri": "tos-cn-p-0015c000-ce/oMfxNZ9ejCEFqvcICQ3A4pAOmWuweqTODA9bE0",
+          "finish_rate": "0.17096",
+          "interact_cnt": "5862",
+          "interact_rate": "0.035259",
+          "is_star_item": "0",
+          "item_create_time": "1787665381",
+          "item_title": "美食房间挑战 被困美食房间 吃完奖励一个亿 你选哪个？#美食#asmr#治愈#解压",
+          "like_cnt_all": "3362",
+          "quality_score": "50.0",
+          "score": "1.1778",
+          "share_cnt_all": "2336",
+          "star_author_id": "7664459846476890148",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62802]",
+          "vv_all": "166254"
+        },
+        "id": "7677964347041576698",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_a4abf5383c14261126161c3891b1a4d4.jpeg?from=3782654143",
+          "core_user_id": "7548299432464172090",
+          "follower": "8897",
+          "name": "好梦美食家",
+          "star_id": "7664459846476890148"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "176",
+          "core_user_id": "1813533600290608",
+          "cover_image_uri": "tos-cn-p-0015c000-ce/ocQDqjIww5MPACy65GWEuyWAEceeZ8iILwfF96",
+          "finish_rate": "0.276749",
+          "interact_cnt": "5752",
+          "interact_rate": "0.019092",
+          "is_star_item": "0",
+          "item_create_time": "1787622882",
+          "item_title": "美食拼盘，每格一口吃完！",
+          "like_cnt_all": "5302",
+          "quality_score": "53.333333",
+          "score": "1.204",
+          "share_cnt_all": "274",
+          "star_author_id": "7542731317322973234",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62802]",
+          "vv_all": "301279"
+        },
+        "id": "7677781817214339065",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_4d0acd12446f2ed31b3da4f847888b3a.jpeg?from=3782654143",
+          "core_user_id": "1813533600290608",
+          "follower": "253883",
+          "name": "蛋定哥啥都吃",
+          "star_id": "7542731317322973234"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "487",
+          "core_user_id": "2156619210689483",
+          "cover_image_uri": "tos-cn-p-0015/oIiJBPQv5gdiYBIA0IrOAPP16aIIIgptI73mS",
+          "finish_rate": "0.027805",
+          "interact_cnt": "11648",
+          "interact_rate": "0.060664",
+          "is_star_item": "0",
+          "item_create_time": "1788355300",
+          "item_title": "安阳后营美食合集！！ 下面有进度条可以选择～！#安阳美食 #后营美食 #分享你的安阳必吃菜 #创作者中心 #真实生活分享计划",
+          "like_cnt_all": "3589",
+          "quality_score": "63.333333",
+          "score": "1.2838",
+          "share_cnt_all": "7572",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62801]",
+          "vv_all": "192008"
+        },
+        "id": "7680927530069080640",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_122655f786ecc97e4a078c5f7fc763c8.jpeg?from=3782654143",
+          "core_user_id": "2156619210689483",
+          "follower": "4756",
+          "name": "慧宝不挑食"
+        }
+      },
+      {
+        "attribute_datas": {
+          "comment_cnt_all": "502",
+          "core_user_id": "100217621672",
+          "cover_image_uri": "tos-cn-p-0015c000-ce/o8AUJB4UQE7By7aIsq4fDFaetDAnuGEu0wf8Rg",
+          "finish_rate": "0.284714",
+          "interact_cnt": "3050",
+          "interact_rate": "0.014837",
+          "is_star_item": "0",
+          "item_create_time": "1786276745",
+          "item_title": "#潍坊肉火烧 #美食#肉火烧教程",
+          "like_cnt_all": "1225",
+          "quality_score": "53.333333",
+          "score": "1.204",
+          "share_cnt_all": "1323",
+          "star_author_id": "7628995598602993707",
+          "v2_first_tag_id": "[628]",
+          "v2_second_tag_id": "[62802]",
+          "vv_all": "205573"
+        },
+        "id": "7672000203712821925",
+        "object_type": 2,
+        "user_info": {
+          "avatar_url": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-0813c000-ce_o8jlXDuhIAo08fAAkEXERD4AQEC9wAF9p6CpMf.jpeg?from=3782654143",
+          "core_user_id": "100217621672",
+          "follower": "8698",
+          "name": "哇 金源美食",
+          "star_id": "7628995598602993707"
+        }
+      }
+    ],
+    "pagination": {
+      "has_more": true,
+      "limit": 10,
+      "page": 1,
+      "total_count": 2000
+    }
+  },
+  "recordTime": null
+}

@@ -1,0 +1,27 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:15.940044+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:04",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "live_aa_statistics": {},
+    "live_convert_statistics": {},
+    "live_ecom_statistics": {
+      "avg_ecom_product_price_range": "0",
+      "avg_gmv_range": "0",
+      "avg_gpm_range": "0",
+      "ecom_live_product_num": "0"
+    },
+    "live_room_statistics": {
+      "acu_precede_percent": 0.059521358122016234,
+      "finish_order_cnt": "0",
+      "in_process_order_cnt": "0",
+      "room_cnt": "0"
+    }
+  },
+  "recordTime": null
+}

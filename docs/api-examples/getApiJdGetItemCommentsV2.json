@@ -1,0 +1,868 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:31.536805+08:00",
+  "_sourceCheckedAt": "2026-08-07T16:44:06",
+  "code": 0,
+  "message": null,
+  "data": {
+    "Summary": {
+      "AfterCount": 100,
+      "AfterCountStr": "100+",
+      "AverageScore": 5,
+      "BuyerShow": 0,
+      "CommentCount": 200000,
+      "CommentCountStr": "20万+",
+      "DefaultGoodCount": 200000,
+      "DefaultGoodCountStr": "20万+",
+      "ExtParam": {
+        "aigcFlag": 0,
+        "nfGoodCount": 31971
+      },
+      "FixCount": 0,
+      "GeneralCount": 200,
+      "GeneralCountStr": "200+",
+      "GeneralRate": 0.007,
+      "GeneralRateShow": 1,
+      "GeneralRateStyle": 2,
+      "GoodCount": 20000,
+      "GoodCountStr": "2万+",
+      "GoodRate": 0.99,
+      "GoodRateShow": 99,
+      "GoodRateStyle": 148,
+      "InstallRate": 0,
+      "MainSkuId": 10066666716164,
+      "OneYear": 0,
+      "PlusCount": 0,
+      "PlusCountStr": "0",
+      "PoorCount": 100,
+      "PoorCountStr": "100+",
+      "PoorRate": 0.003,
+      "PoorRateShow": 0,
+      "PoorRateStyle": 0,
+      "PureCount": 200000,
+      "PureGoodCount": 20000,
+      "PureGoodRate": 99,
+      "PureGoodRateShow": 99,
+      "Score1": 100,
+      "Score2": 52,
+      "Score3": 200,
+      "Score4": 500,
+      "Score5": 20000,
+      "SensitiveBook": 0,
+      "ShowCount": 2000,
+      "ShowCountStr": "2000+",
+      "SkuId": 10066666716164,
+      "VideoCount": 33,
+      "VideoCountStr": "33"
+    },
+    "filters": [
+      {
+        "filterType": 0,
+        "label": "全部",
+        "total": 200000,
+        "totalText": "20万+"
+      },
+      {
+        "filterType": 101,
+        "label": "最新",
+        "total": 200000,
+        "totalText": "20万+"
+      },
+      {
+        "filterType": 3,
+        "label": "好评",
+        "total": 20000,
+        "totalText": "2万+"
+      },
+      {
+        "filterType": 2,
+        "label": "中评",
+        "total": 200,
+        "totalText": "200+"
+      },
+      {
+        "filterType": 1,
+        "label": "差评",
+        "total": 100,
+        "totalText": "100+"
+      },
+      {
+        "filterType": 4,
+        "label": "有图评价",
+        "total": 2000,
+        "totalText": "2000+"
+      },
+      {
+        "filterType": 5,
+        "label": "追加评价",
+        "total": 100,
+        "totalText": "100+"
+      },
+      {
+        "filterType": 7,
+        "label": "视频晒单",
+        "total": 33,
+        "totalText": "33"
+      }
+    ],
+    "items": [
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 0,
+        "appVersion": "15.9.50",
+        "avatarUrl": "//storage.360buyimg.com/default.image/6a645f6465665f696d675f393836313831373632333134353936363836_sma.jpg",
+        "clientType": 4,
+        "createdAt": "2026-08-07 12:03:21",
+        "displayText": "货已收到很好用柔软舒适吸水量足很值得购买。",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-07 12:01:23",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105821310212528587",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "ZZtW4UJnvaFEZJFOsjX7qD7W24EEjdUlRXO5EiOT2nf7X6jfXXgnjJC9CxlJAwSfOUSTGwBGpzRMyFmGr4Sf8A"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 1
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "ipAddress": "240e:328:1311:6802:9fac:b08b:ae02:88fb",
+        "itemId": "10066666716164",
+        "mediaStatus": 0,
+        "memberLevel": 0,
+        "pinned": 0,
+        "purchasedAt": "2026-08-05 05:48:05",
+        "rating": 5,
+        "recordId": 105821310212528587,
+        "region": "天津",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "货已收到很好用柔软舒适吸水量足很值得购买。",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV2i50tdhuEXqSQxXeG",
+        "username": "j***s",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 0,
+        "appVersion": "15.9.50",
+        "avatarUrl": "//storage.360buyimg.com/i.imageUpload/6a645f3432396230623139623233393731363935343333353034333939_sma.jpg",
+        "clientType": 4,
+        "conversationId": 105823290204571608,
+        "createdAt": "2026-08-07 11:06:51",
+        "displayText": "买了多次这款纸皮，出现第一次是散包装。亲们看着下单",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-07 11:04:15",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105823290204571608",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "oeK-isYH-jbygUjn3FP9bxgDkNe-prq1i4VyI2VM1-bDXYmH1kWyPOZWeKFNVI70grgzpe4a7uFFoN-cEz2cdw"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 9
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "images": [
+          {
+            "state": 0,
+            "title": "",
+            "url": "jfs/t1/498547/16/4154/218941/6a754bc9F2713a98a/00a9438780208151.jpg"
+          },
+          {
+            "state": 0,
+            "title": "",
+            "url": "jfs/t1/494297/17/8306/3560501/6a754bcaF84759cc9/00a9bf4ff0d48a75.jpg"
+          }
+        ],
+        "ipAddress": "120.230.136.80",
+        "itemId": "10066666716164",
+        "mediaCount": 2,
+        "mediaStatus": 1,
+        "memberLevel": 0,
+        "orderMergeStatus": 2,
+        "pinned": 0,
+        "purchasedAt": "2026-08-05 15:10:42",
+        "rating": 5,
+        "recordId": 105823290204571608,
+        "region": "广东",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "买了多次这款纸皮，出现第一次是散包装。亲们看着下单",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV0ipUtdhqCXqGZxn-J",
+        "username": "j***w",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 0,
+        "appVersion": "15.9.50",
+        "avatarUrl": "//storage.360buyimg.com/default.image/6a645f6465665f696d675f393836323331373632333134353936333334_sma.jpg",
+        "clientType": 4,
+        "createdAt": "2026-08-07 09:52:04",
+        "displayText": "很好",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-07 09:51:37",
+          "engagementScore": 115,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105822620212223348",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "im6LF3cuTI4E4N-yVI4Uv9GlJ5RhVwqIR9Wqi07rAogyQo1EWQQY4R7rouWgmaZxT1K64BB1BeoN9gNDLkc8Lw"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 3
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "ipAddress": "2409:8a00:3011:a990:a144:440f:cd35:81d1",
+        "itemId": "10066666716164",
+        "mediaStatus": 0,
+        "memberLevel": 0,
+        "pinned": 0,
+        "purchasedAt": "2026-08-06 06:38:17",
+        "rating": 5,
+        "recordId": 105822620212223348,
+        "region": "北京",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "很好",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV1jp4tdhuEWaSbw3uJ",
+        "username": "j***9",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "clientType": 4,
+          "createdAt": "2026-08-06 22:51:55",
+          "displayText": "纸巾里面打个外包装不行吗，非要直接放快递袋吗",
+          "highlighted": false,
+          "mediaStatus": 1,
+          "recordId": 105822030212331894,
+          "region": "广东",
+          "removed": false,
+          "text": "纸巾里面打个外包装不行吗，非要直接放快递袋吗",
+          "textState": 1
+        },
+        "anonymous": 1,
+        "appVersion": "15.8.0",
+        "avatarUrl": "//storage.360buyimg.com/i.imageUpload/6a645f3461323538366237323666383731353932383433363530393838_sma.jpg",
+        "clientType": 4,
+        "conversationId": 105822030212331894,
+        "createdAt": "2026-08-06 22:46:48",
+        "displayText": "我收到的是散装的，太差了，快递袋都破了，真脏，真不卫生",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-06 22:43:01",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105822030212331894",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "e16qZ3uftAS14_qhn9XRK8Jq1RR5mYSz-lj3-2ZxvX6lcuT7wHGdc_9zGzBA8fxkVm4oj1Y1n5svEW5dqIWKhA"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 6
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "images": [
+          {
+            "state": 0,
+            "title": "",
+            "url": "jfs/t1/494579/12/5681/3168964/6a749e54F21a45cb0/00a9c00000e47dfb.jpg"
+          },
+          {
+            "state": 0,
+            "title": "",
+            "url": "jfs/t1/490726/28/11973/3035171/6a749e57Fd9f50152/00a9c0000057e016.jpg"
+          }
+        ],
+        "ipAddress": "240a:42c6:801:2faa:a09e:79a9:988d:a1ca",
+        "itemId": "10066666716164",
+        "mediaCount": 2,
+        "mediaStatus": 1,
+        "memberLevel": 0,
+        "orderMergeStatus": 2,
+        "pinned": 0,
+        "purchasedAt": "2026-08-03 23:38:39",
+        "rating": 1,
+        "recordId": 105822030212331894,
+        "region": "广东",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "我收到的是散装的，太差了，快递袋都破了，真脏，真不卫生",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV1iJ8tdhuEWKWZyHaF",
+        "username": "-***_",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 0,
+        "appVersion": "15.9.50",
+        "avatarUrl": "//storage.360buyimg.com/default.image/6a645f6465665f696d675f393836313931373632333134353936383338_sma.jpg",
+        "clientType": 4,
+        "conversationId": 105822760201900491,
+        "createdAt": "2026-08-06 22:15:18",
+        "displayText": "这个牌子的纸品一直都很好，在京东小游戏上买的很便宜。",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-06 22:12:47",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105822760201900491",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "CUgNcdiOfbVsuBRwV1wbWMRsFY6yAYW9rryntGuZQh8wu9D2PyptVh2I_5q8RD--BpPWhJTvQgYQS8ZfeNOmbQ"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 1
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "images": [
+          {
+            "state": 0,
+            "title": "",
+            "url": "jfs/t1/487489/1/10488/206088/6a7496f5Fd79cc9af/00a94387809534e5.jpg"
+          }
+        ],
+        "ipAddress": "120.238.231.209",
+        "itemId": "10066666716164",
+        "mediaCount": 1,
+        "mediaStatus": 1,
+        "memberLevel": 201,
+        "orderMergeStatus": 2,
+        "pinned": 0,
+        "purchasedAt": "2026-08-04 09:01:43",
+        "rating": 5,
+        "recordId": 105822760201900491,
+        "region": "广东",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "这个牌子的纸品一直都很好，在京东小游戏上买的很便宜。",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV1j5otdhqHUqaYxHaA",
+        "username": "jd-417e",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 0,
+        "appVersion": "15.9.50",
+        "avatarUrl": "//storage.360buyimg.com/default.image/6a645f6465665f696d675f393836323131373632333134353935323236_sma.jpg",
+        "clientType": 4,
+        "createdAt": "2026-08-06 20:07:57",
+        "displayText": "维达纸抽非常好用，继续光顾。",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-06 20:07:38",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105822920202863373",
+          "reviewStatus": 1,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "KXfwn4_Njmcsw0MMHyZI6-QFsl7YX-fQqjo3n-DpAzaqSBSQ3UktvbkPh2nHmpiDNdi5-Wf5KXHECqSc9x4JFg"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 2
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "ipAddress": "223.101.228.181",
+        "itemId": "10066666716164",
+        "mediaStatus": 0,
+        "memberLevel": 201,
+        "pinned": 0,
+        "purchasedAt": "2026-08-04 04:08:14",
+        "rating": 5,
+        "recordId": 105822920202863373,
+        "region": "辽宁",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "维达纸抽非常好用，继续光顾。",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV1gZ4tdhqEU6Cbw3iC",
+        "username": "j***p",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 0,
+        "appVersion": "15.9.0",
+        "avatarUrl": "//storage.360buyimg.com/i.imageUpload/31333931393031383531385f7031353035323730383432373939_sma.jpg",
+        "clientType": 4,
+        "createdAt": "2026-08-06 18:21:31",
+        "displayText": "这次是散装的",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-06 18:21:06",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105823050203599392",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "KfVIbZ2_ECm4_uP_RGto-VvubzI4Em_9w_MV4FDaZ8VVp5E2p29WWLur4_cNtXTe46QJsSTC-83JPATZ8cBzGg"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 2
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "ipAddress": "36.142.33.111",
+        "itemId": "10066666716164",
+        "mediaStatus": 0,
+        "memberLevel": 0,
+        "pinned": 0,
+        "purchasedAt": "2026-08-03 12:04:35",
+        "rating": 5,
+        "recordId": 105823050203599392,
+        "region": "甘肃",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "这次是散装的",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV0iJktdhqFXq-Rw3aD",
+        "username": "绵里藏针gzh",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 1,
+        "appVersion": "15.9.0",
+        "avatarUrl": "//storage.360buyimg.com/i.imageUpload/6a645f7162654b647546524e6b464e31373434373838393939333832_sma.jpg",
+        "clientType": 4,
+        "createdAt": "2026-08-06 17:46:28",
+        "displayText": "以前买都是10包一提的，这次为什么发来是散包的10包呀？",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-06 17:42:40",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105820410212628515",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "A2mioyomO_NdglDCk93qzcBbjkYR0yQrkbd3uNeumtl62kui667ugnKVRyazlrEuBA6rvNOgz69VBShFStTJRg"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 2
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "ipAddress": "240e:30e:a030:9600:caeb:36e9:4cd0:3dd2",
+        "itemId": "10066666716164",
+        "mediaStatus": 0,
+        "memberLevel": 0,
+        "pinned": 0,
+        "purchasedAt": "2026-08-02 21:54:47",
+        "rating": 5,
+        "recordId": 105820410212628515,
+        "region": "辽宁",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "以前买都是10包一提的，这次为什么发来是散包的10包呀？",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV3jJ0tdhuEXaSQxX6E",
+        "username": "是***呦",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 0,
+        "appVersion": "15.9.50",
+        "avatarUrl": "//storage.360buyimg.com/default.image/6a645f6465665f696d675f393836323331373632333134353936333334_sma.jpg",
+        "clientType": 4,
+        "createdAt": "2026-08-06 11:42:41",
+        "displayText": "发货很快，包装的很好！产品质量很好！",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-06 11:41:16",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105823580202301457",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tagMap": "{\"1\":[{\"tName\":\"耐用不易破\",\"tid\":46006,\"child\":[]},{\"tName\":\"不掉屑\",\"tid\":46007,\"child\":[]},{\"tName\":\"清新淡香\",\"tid\":46008,\"child\":[]},{\"tName\":\"舒适柔软\",\"tid\":46009,\"child\":[]},{\"tName\":\"足重足量\",\"tid\":46010,\"child\":[]}]}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "OceeLBPBpH4JD_dtllY-yaMiGKWjkCAh8aM8MkbmWkyp4HfwtyUEXYTKinhbiWpBV7oI8AzTruA2gXzSw2TSHw"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 1
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "ipAddress": "58.31.0.88",
+        "itemId": "10066666716164",
+        "mediaStatus": 0,
+        "memberLevel": 0,
+        "pinned": 0,
+        "purchasedAt": "2026-08-05 05:38:01",
+        "rating": 5,
+        "recordId": 105823580202301457,
+        "region": "北京",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "发货很快，包装的很好！产品质量很好！",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcV0jZQtdhqEWKaZxHqG",
+        "username": "j***v",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      },
+      {
+        "afterComment": {
+          "highlighted": false,
+          "removed": false
+        },
+        "anonymous": 0,
+        "appVersion": "15.9.50",
+        "avatarUrl": "//storage.360buyimg.com/i.imageUpload/6a645f3438353031643636356139303631373037353235373637353530_sma.jpg",
+        "clientType": 4,
+        "conversationId": 105810410212356929,
+        "createdAt": "2026-08-06 09:22:53",
+        "displayText": "纸巾收到了，舒适柔软，不掉屑，好用。",
+        "eventId": 0,
+        "extra": {
+          "businessType": 0,
+          "completedAt": "2026-08-06 09:18:40",
+          "engagementScore": 0,
+          "featured": false,
+          "itemImage": "jfs/t1/196930/11/38584/162709/64abfdeeF118fb28a/614930e2ab1bd4ed.jpg",
+          "itemName": "维达纸巾抽纸100抽大包家用实惠装纸抽餐巾纸卫生纸面巾纸擦手纸 超韧品质100抽*10包",
+          "primaryCategoryId": 15901,
+          "reviewId": "105810410212356929",
+          "reviewStatus": 0,
+          "secondaryCategoryId": 15902,
+          "selfVisible": 0,
+          "statusFlags": "{\"afterUsingAlgorithmOne\":0,\"afterUsingAlgorithmTwo\":0,\"replyStatusSeller\":0}",
+          "tertiaryCategoryId": 15908,
+          "userHash": "QFn95k7I7Ciydx71a6QXJ5-yhvdOF8O70HSkohXDwIbbI4qJoLKxnLstvKa8O0cZJoluTHwOh7NRGiOMEuxWIg"
+        },
+        "extraStats": {
+          "businessType": 0,
+          "purchaseCount": 2
+        },
+        "helpfulCount": 0,
+        "highlighted": false,
+        "images": [
+          {
+            "state": 0,
+            "title": "",
+            "url": "jfs/t1/487640/30/11662/62281/6a73e1ecFd4d3fbfa/00a94b08550501c3.jpg"
+          }
+        ],
+        "ipAddress": "123.118.100.143",
+        "itemId": "10066666716164",
+        "mediaCount": 1,
+        "mediaStatus": 1,
+        "memberLevel": 0,
+        "orderMergeStatus": 2,
+        "pinned": 0,
+        "purchasedAt": "2026-08-05 07:29:28",
+        "rating": 5,
+        "recordId": 105810410212356929,
+        "region": "北京",
+        "removed": false,
+        "responseCount": 0,
+        "responseThreadCount": 0,
+        "saleAttributes": "[{\"dim\":1,\"saleName\":\"规格\",\"saleValue\":\"超韧品质100抽*10包\"}]",
+        "text": "纸巾收到了，舒适柔软，不掉屑，好用。",
+        "textReward": 0,
+        "textState": 1,
+        "traceId": "T6NbMcZ3jJ0tdhuEWKOeyX2I",
+        "username": "j***m",
+        "variantName": "超韧品质100抽*10包",
+        "variantSize": ""
+      }
+    ],
+    "sortMode": 6,
+    "tagStats": [
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=9e08d052b352cd89^^pid=30024^^sku=10066666716164^^sversion=1000^^token=732e262d8af8ecaf",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "舒适柔软",
+        "recordId": "9e08d052b352cd89",
+        "stand": 1,
+        "total": 424
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=3b1087a0692c18e0^^pid=30024^^sku=10066666716164^^sversion=1000^^token=cf4155b6ff01ac42",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "厚薄适宜",
+        "recordId": "3b1087a0692c18e0",
+        "stand": 1,
+        "total": 267
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=a58e9cbc69f9835a^^pid=30024^^sku=10066666716164^^sversion=1000^^token=4cc662ba136b9466",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "不易掉渣",
+        "recordId": "a58e9cbc69f9835a",
+        "stand": 1,
+        "total": 223
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=bf41c620614e9e5b^^pid=30024^^sku=10066666716164^^sversion=1000^^token=448fe9e1e8cf51d8",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "质量极佳",
+        "recordId": "bf41c620614e9e5b",
+        "stand": 1,
+        "total": 211
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=f3225ba62d01698a^^pid=30024^^sku=10066666716164^^sversion=1000^^token=8fa7f19cd2bef9db",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "尺寸适宜",
+        "recordId": "f3225ba62d01698a",
+        "stand": 1,
+        "total": 170
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=58625e922175f1e2^^pid=30024^^sku=10066666716164^^sversion=1000^^token=b6b3311924192cc1",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "韧性十足",
+        "recordId": "58625e922175f1e2",
+        "stand": 1,
+        "total": 167
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=168ec8224f9ba51d^^pid=30024^^sku=10066666716164^^sversion=1000^^token=cc2694c396920bd0",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "操作简便",
+        "recordId": "168ec8224f9ba51d",
+        "stand": 1,
+        "total": 132
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=6640172dc525e1a4^^pid=30024^^sku=10066666716164^^sversion=1000^^token=87c3c7844f6fe550",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "毫无异味",
+        "recordId": "6640172dc525e1a4",
+        "stand": 1,
+        "total": 117
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=6166f220bf2c2243^^pid=30024^^sku=10066666716164^^sversion=1000^^token=510d39d730b38cd8",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "超强吸水",
+        "recordId": "6166f220bf2c2243",
+        "stand": 1,
+        "total": 88
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=afb5be0598ef8520^^pid=30024^^sku=10066666716164^^sversion=1000^^token=dc1ed7578eacd00e",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "不会受伤",
+        "recordId": "afb5be0598ef8520",
+        "stand": 1,
+        "total": 65
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=6720a974eddbf333^^pid=30024^^sku=10066666716164^^sversion=1000^^token=caef5bf6bd4b7da9",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "分量充足",
+        "recordId": "6720a974eddbf333",
+        "stand": 1,
+        "total": 36
+      },
+      {
+        "canBeFiltered": true,
+        "extra": {
+          "ckeBury": "eid=100^^tagid=2487c0f9e595f04d^^pid=30024^^sku=10066666716164^^sversion=1000^^token=6b8eefca9fb84925",
+          "flag": "false"
+        },
+        "filterType": 4,
+        "label": "手感一流",
+        "recordId": "2487c0f9e595f04d",
+        "stand": 1,
+        "total": 22
+      }
+    ],
+    "totalPages": 100
+  },
+  "recordTime": "2026-08-07T16:44:06.422727153"
+}

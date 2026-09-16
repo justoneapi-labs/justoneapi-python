@@ -1,0 +1,4172 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:07.343550+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:46",
+  "code": 0,
+  "message": null,
+  "data": {
+    "headers": {
+      "nobelTrackInfo": "1148:2646@a2h04.8165646@0@",
+      "manufacturingDate": "20260908 20:00:46"
+    },
+    "videoMap": {
+      "videoId": "XNjQ5ODcwMjQ4OA==",
+      "videoLongId": 1624675622,
+      "videoCategoryId": 97,
+      "videoCategory": "电视剧",
+      "videoType": null,
+      "videoTypeCode": null,
+      "videoImg": "https://m.ykimg.com/0548060168F6E9851F08888AB10C277D",
+      "videoImgV": "https://m.ykimg.com/0575060168F6E9851F08888AB10C277D",
+      "showVideoStage": null,
+      "videoPublishTime": "2025-10-21 10:05:43",
+      "videoTitle": "盛夏芬德拉：最后一场戏开拍前的情绪拉扯",
+      "showVideoStageDesc": "",
+      "showId": null,
+      "showLongId": null,
+      "showCategoryId": null,
+      "showCategory": null,
+      "episodeTotal": null,
+      "showName": null,
+      "showSubtitle": null,
+      "completed": null,
+      "showImg": null,
+      "showImgV": null,
+      "showImgW3H2": null,
+      "episodeLast": null,
+      "showReleaseTime": null,
+      "episodeFinalStage": null,
+      "playlistId": null,
+      "playlistLongId": null,
+      "playlistTitle": null,
+      "scgId": null,
+      "userId": null,
+      "allowComment": true,
+      "allowShare": true,
+      "allowDownload": true,
+      "allowLike": true,
+      "isFavorite": false,
+      "reportUrl": "",
+      "pageKey": "LOCVIDEO_OTHER_DEFAULT",
+      "prePaid": null,
+      "paid": 0,
+      "duration": 115.8,
+      "totalComment": 500,
+      "totalUp": 30,
+      "verticalStyle": null,
+      "isNewReservation": false,
+      "politicsSensitive": null,
+      "interactiveChapter": null,
+      "playingType": null,
+      "isTracking": false,
+      "isPugv": false,
+      "adRestricted": 0,
+      "autoPay": false,
+      "albumId": null,
+      "microVideoSchema": null,
+      "videoRiskMark": null,
+      "allowUnionRefresh": 1,
+      "dspPopDisplayTime": null,
+      "pcSearchSeoStr": null,
+      "audiolang": [],
+      "videoSizes": null,
+      "downloadStatus": [],
+      "videoKind": null,
+      "subCategories": null,
+      "hasVideoType": null,
+      "animeEdition": null,
+      "videoCacheConfig": null,
+      "showPackageType": null,
+      "videoPackageType": null,
+      "showLibraryTag": null,
+      "videoLibraryTag": null,
+      "streamTypes": [
+        "flvhd",
+        "hd",
+        "hd2"
+      ],
+      "safetyContentElement": null,
+      "videoUpsStream": null,
+      "isShort": true,
+      "toFind": true,
+      "isVideo": true,
+      "pageTitle": "盛夏芬德拉：最后一场戏开拍前的情绪拉扯",
+      "vId": "XNjQ5ODcwMjQ4OA=="
+    },
+    "pushInfo": {},
+    "drawerList": [
+      {
+        "type": 10001,
+        "id": 13682,
+        "componentList": [
+          51729,
+          102529,
+          51730,
+          88326,
+          150631
+        ]
+      }
+    ],
+    "componentList": [
+      {
+        "id": 51729,
+        "type": 10049,
+        "componentId": "h5-detail-guide",
+        "componentName": "播放页引导",
+        "dataNode": [
+          {
+            "data": {
+              "img": "http://ykimg.alicdn.com/develop/image/2019-08-02/89bcdfe700fc4babe08c7ca76a7ecb17.jpg",
+              "title": "预览播放中，打开优酷APP看高清完整版",
+              "action": {
+                "type": "JUMP_TO_NATIVE",
+                "value": "youku://",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": null,
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "h5_detail_guide",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "card_1",
+                  "spmD": "1_0",
+                  "scmAB": "20140719.manual",
+                  "scmC": "51721",
+                  "scmD": "native_youku%3A%2F%2F",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "h5_detail_guide",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 51729,
+                    "servertime": 1788868846519,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "subType": "NORMAL"
+            },
+            "id": 455807,
+            "type": 10030
+          }
+        ],
+        "title": "",
+        "props": {}
+      },
+      {
+        "id": 102529,
+        "type": 10066,
+        "componentId": "h5-detail-vip-guide",
+        "componentName": "播放页会员引导组件",
+        "dataNode": [
+          {
+            "data": {
+              "content": {
+                "btnText": "",
+                "buttonText": null,
+                "jumpUrl": "https://activity.youku.com/app/visp/cashier_5/index?en_vid=1624675622&h5params=%7B%22pageKey%22%3A%22COMMON24_YOUKUVIP%22%2C%22biz%22%3A%22default%22%2C%22subBiz%22%3A%22default%22%2C%22scenario%22%3A%22*%22%2C%22activityCode%22%3A%22n_crm_lxbys3y9.9%22%2C%22products%22%3A%5B%7B%22productId%22%3A%22128%22%2C%22promotions%22%3A%5B%7B%22activityId%22%3A%2235534%22%7D%5D%2C%22skuId%22%3A%22305%22%7D%2C%7B%22productId%22%3A%22128%22%2C%22promotions%22%3A%5B%7B%22activityId%22%3A%2231170%22%7D%5D%2C%22skuId%22%3A%22304%22%7D%5D%2C%22attributes%22%3A%22%7B%5C%22g_vid%5C%22%3A%5C%221624675622%5C%22%2C%5C%22crm_params%5C%22%3A%5C%22%7B%5C%5C%5C%22cvid%5C%5C%5C%22%3A%5C%5C%5C%221624675622%5C%5C%5C%22%2C%5C%5C%5C%22nvid%5C%5C%5C%22%3A%5C%5C%5C%22%5C%5C%5C%22%2C%5C%5C%5C%22cgid%5C%5C%5C%22%3A%5C%5C%5C%22%5C%5C%5C%22%2C%5C%5C%5C%22touch_point_code%5C%5C%5C%22%3A%5C%5C%5C%22h5playbox_banner%5C%5C%5C%22%2C%5C%5C%5C%22tab%5C%5C%5C%22%3A%5C%5C%5C%221%5C%5C%5C%22%2C%5C%5C%5C%22csid%5C%5C%5C%22%3A%5C%5C%5C%22%5C%5C%5C%22%2C%5C%5C%5C%22sv1%5C%5C%5C%22%3A%5C%5C%5C%221ff8434e9dd%5C%5C%5C%22%7D%5C%22%2C%5C%22ctid%5C%22%3A%5C%22212b82ef17888688465133676e4741%5C%22%2C%5C%22r2%5C%22%3A%5C%221%5C%22%7D%22%7D&hideNavigatorBar=true&sceneType=fullScreenCashier5&tabStyle=1&crmCode=h5playbox_banner&en_scm=20140732.0.0.crm_20140732-manual-263001_336001_1352001_207-102944_100140_0_1_21429_781_1788868846552_8d8a248a8e0745829a8fcc9e759c890410_0_0-syt_STANDARDRENDER&en_spm=a2h0j.10182321.card_2.1_0&from=h5playbox_banner",
+                "jumpType": "JUMP_TO_NEWPAY",
+                "vipScm": "20140732.0.0.crm_20140732-manual-263001_336001_1352001_207-102944_100140_0_1_21429_781_1788868846552_8d8a248a8e0745829a8fcc9e759c890410_0_0-syt_STANDARDRENDER",
+                "reportCrmd": "20140732-manual-263001_336001_1352001_207-102944_100140_0_1_21429_781_1788868846552_8d8a248a8e0745829a8fcc9e759c890410_0_0-syt_STANDARDRENDER",
+                "title": "",
+                "subTitle": "",
+                "payType": "general_jump",
+                "id": null,
+                "bgPic": "https://gw.alicdn.com/imgextra/i4/O1CN01Y8nnrH1L6Y7EbSbBU_!!6000000001250-2-tps-2228-444.png",
+                "cornText": "",
+                "bgPicNew": "https://img.alicdn.com/imgextra/i2/O1CN01Lx6ji31ulmR0mdScq_!!6000000006078-1-tps-1071-207.gif",
+                "linkNew": "weixin://dl/business/?appid=wx5de0c309a1472da6&path=pages/cashdeskMidway/index&query=from%3D86803%26refer%3Dyk_h5_site&env_version=release&crmCode=h5playbox_banner&en_scm=20140732.0.0.crm_20140732-manual-263001_336001_1352001_207-102944_100140_0_1_21429_781_1788868846552_8d8a248a8e0745829a8fcc9e759c890410_0_0-syt_STANDARDRENDER&en_spm=a2h0j.10182321.card_2.1_0&from=h5playbox_banner"
+              },
+              "bgPic": "https://gw.alicdn.com/imgextra/i4/O1CN01Y8nnrH1L6Y7EbSbBU_!!6000000001250-2-tps-2228-444.png",
+              "action": {
+                "type": "JUMP_TO_NEWPAY",
+                "value": "https://activity.youku.com/app/visp/cashier_5/index?en_vid=1624675622&h5params=%7B%22pageKey%22%3A%22COMMON24_YOUKUVIP%22%2C%22biz%22%3A%22default%22%2C%22subBiz%22%3A%22default%22%2C%22scenario%22%3A%22*%22%2C%22activityCode%22%3A%22n_crm_lxbys3y9.9%22%2C%22products%22%3A%5B%7B%22productId%22%3A%22128%22%2C%22promotions%22%3A%5B%7B%22activityId%22%3A%2235534%22%7D%5D%2C%22skuId%22%3A%22305%22%7D%2C%7B%22productId%22%3A%22128%22%2C%22promotions%22%3A%5B%7B%22activityId%22%3A%2231170%22%7D%5D%2C%22skuId%22%3A%22304%22%7D%5D%2C%22attributes%22%3A%22%7B%5C%22g_vid%5C%22%3A%5C%221624675622%5C%22%2C%5C%22crm_params%5C%22%3A%5C%22%7B%5C%5C%5C%22cvid%5C%5C%5C%22%3A%5C%5C%5C%221624675622%5C%5C%5C%22%2C%5C%5C%5C%22nvid%5C%5C%5C%22%3A%5C%5C%5C%22%5C%5C%5C%22%2C%5C%5C%5C%22cgid%5C%5C%5C%22%3A%5C%5C%5C%22%5C%5C%5C%22%2C%5C%5C%5C%22touch_point_code%5C%5C%5C%22%3A%5C%5C%5C%22h5playbox_banner%5C%5C%5C%22%2C%5C%5C%5C%22tab%5C%5C%5C%22%3A%5C%5C%5C%221%5C%5C%5C%22%2C%5C%5C%5C%22csid%5C%5C%5C%22%3A%5C%5C%5C%22%5C%5C%5C%22%2C%5C%5C%5C%22sv1%5C%5C%5C%22%3A%5C%5C%5C%221ff8434e9dd%5C%5C%5C%22%7D%5C%22%2C%5C%22ctid%5C%22%3A%5C%22212b82ef17888688465133676e4741%5C%22%2C%5C%22r2%5C%22%3A%5C%221%5C%22%7D%22%7D&hideNavigatorBar=true&sceneType=fullScreenCashier5&tabStyle=1&crmCode=h5playbox_banner&en_scm=20140732.0.0.crm_20140732-manual-263001_336001_1352001_207-102944_100140_0_1_21429_781_1788868846552_8d8a248a8e0745829a8fcc9e759c890410_0_0-syt_STANDARDRENDER&en_spm=a2h0j.10182321.card_2.1_0&from=h5playbox_banner",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": null,
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "h5_detail_vip_guide",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "card_2",
+                  "spmD": "1_0",
+                  "scmAB": "20140719.manual",
+                  "scmC": "102327",
+                  "scmD": "crm_20140732-manual-263001_336001_1352001_207-102944_100140_0_1_21429_781_1788868846552_8d8a248a8e0745829a8fcc9e759c890410_0_0-syt_STANDARDRENDER",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "h5_detail_vip_guide",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 102529,
+                    "servertime": 1788868846519,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "mark": {
+                "data": {
+                  "color": "RED"
+                },
+                "type": "SIMPLE"
+              }
+            },
+            "id": null,
+            "type": 10066
+          }
+        ],
+        "title": "",
+        "props": {}
+      },
+      {
+        "id": 51730,
+        "type": 10009,
+        "componentId": "h5-detail-info",
+        "componentName": "播放页简介组件",
+        "dataNode": [
+          {
+            "data": {
+              "scorePrefix": "评分:",
+              "introStyle": 0,
+              "subTitles": [
+                {
+                  "subtitleType": "TEN_WORDS"
+                },
+                {
+                  "subtitleType": "UPDATE_STATUS"
+                }
+              ],
+              "title": "简介元数据",
+              "displayExpandScore": false,
+              "heatDesc": "通过播放效果、用户互动等因子综合计算得出",
+              "introTitle": "盛夏芬德拉：最后一场戏开拍前的情绪拉扯",
+              "track": {
+                "checked": false
+              },
+              "showImg": true
+            },
+            "id": 445804,
+            "type": 10010
+          },
+          {
+            "data": {
+              "subtitles": [
+                {
+                  "subtitleType": "FOLLOW",
+                  "subtitle": "3005粉丝",
+                  "count": null
+                }
+              ],
+              "img": "https://static.youku.com/user/avatar/1350/38.png?x-oss-process=image/resize,m_fill,limit_0,h_310,w_310",
+              "title": "精彩影剧综",
+              "ownerStyle": 0,
+              "hasSubscribed": false,
+              "action": {
+                "type": "JUMP_TO_NATIVE",
+                "value": "youku://personalchannel/openpersonalchannel?uid=UODMwNzQ3ODM4OA==&tab=YW_ZPD_VIDEO_MIX",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": null,
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "h5_detail_info",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "card_3",
+                  "spmD": "2_1",
+                  "scmAB": "20140719.apircmd",
+                  "scmC": "51722",
+                  "scmD": "schema_youku%3A%2F%2Fpersonalchannel%2Fopenpersonalchannel%3Fuid%3DUODMwNzQ3ODM4OA%3D%3D%26tab%3DYW_ZPD_VIDEO_MIX",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "h5_detail_info",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 51730,
+                    "servertime": 1788868846519,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "uid": "UODMwNzQ3ODM4OA==",
+                    "drawerid": "13682",
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "ownerUid": "UODMwNzQ3ODM4OA=="
+            },
+            "id": null,
+            "type": 10012
+          }
+        ],
+        "title": "播放页简介",
+        "props": {}
+      },
+      {},
+      {
+        "id": 88326,
+        "type": 10019,
+        "componentId": "h5-detail-ugclists",
+        "componentName": "播放页ugc选集",
+        "dataNode": [
+          {
+            "data": {
+              "publishTime": "2025-10-21",
+              "img": "https://m.ykimg.com/0548060168F6E9851F08888AB10C277D",
+              "videoId": "XNjQ5ODcwMjQ4OA==",
+              "title": "盛夏芬德拉：最后一场戏开拍前的情绪拉扯",
+              "seconds": "01:55",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODcwMjQ4OA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "0",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODcwMjQ4OA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624675622,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0548060168F6E9851F08888AB10C277D",
+                    "video_id": 1624675622,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0548060168F6E9851F08888AB10C277D",
+              "videoLongId": 1624675622
+            },
+            "id": 1624675622,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-21",
+              "img": "https://m.ykimg.com/0548060168F6E95E1F088883000783D7",
+              "videoId": "XNjUwNzA0OTE2NA==",
+              "title": "盛夏芬德拉：解说",
+              "seconds": "04:34",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNzA0OTE2NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "1",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNzA0OTE2NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626762291,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0548060168F6E95E1F088883000783D7",
+                    "video_id": 1626762291,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0548060168F6E95E1F088883000783D7",
+              "videoLongId": 1626762291
+            },
+            "id": 1626762291,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A34C1F087ECFCB09DF71",
+              "videoId": "XNjQ5ODUxNDE2NA==",
+              "title": "仙尊归来：只手镇人间【第一季】 他曾是人人唾弃的废物，为攀附权贵将家庭逼入绝境；重生归来，他已是携五千年仙尊记忆的逍遥天尊。面对病榻上的母亲...",
+              "seconds": "01:01",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxNDE2NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "2",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxNDE2NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624628541,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A34C1F087ECFCB09DF71",
+                    "video_id": 1624628541,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A34C1F087ECFCB09DF71",
+              "videoLongId": 1624628541
+            },
+            "id": 1624628541,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A35D1F0879B8FB0567B5",
+              "videoId": "XNjUwNjg1Njg0NA==",
+              "title": "多年隐忍，却遭背弃！ 林默终于幡然醒悟，这次，他选择倾尽所有，将那个始终守候的她，亲手推上众生之巅！",
+              "seconds": "01:14",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjg1Njg0NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "3",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjg1Njg0NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626714211,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A35D1F0879B8FB0567B5",
+                    "video_id": 1626714211,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A35D1F0879B8FB0567B5",
+              "videoLongId": 1626714211
+            },
+            "id": 1626714211,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3581F08769F440CA665",
+              "videoId": "XNjUwNjg1NjgyNA==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "02:07",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjg1NjgyNA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "4",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjg1NjgyNA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626714206,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3581F08769F440CA665",
+                    "video_id": 1626714206,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3581F08769F440CA665",
+              "videoLongId": 1626714206
+            },
+            "id": 1626714206,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3471F0879AC2D08BBEE",
+              "videoId": "XNjQ5ODUxNzE3Ng==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:42",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxNzE3Ng==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "5",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxNzE3Ng==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624629294,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3471F0879AC2D08BBEE",
+                    "video_id": 1624629294,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3471F0879AC2D08BBEE",
+              "videoLongId": 1624629294
+            },
+            "id": 1624629294,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A34439519BBE3F029221",
+              "videoId": "XNjQ5ODUxNDE3Ng==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "03:05",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxNDE3Ng==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "6",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxNDE3Ng==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624628544,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A34439519BBE3F029221",
+                    "video_id": 1624628544,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A34439519BBE3F029221",
+              "videoLongId": 1624628544
+            },
+            "id": 1624628544,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3481F0885746802BE19",
+              "videoId": "XNjUwNjg1NTQzNg==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:10",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjg1NTQzNg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "7",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjg1NTQzNg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626713859,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3481F0885746802BE19",
+                    "video_id": 1626713859,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3481F0885746802BE19",
+              "videoLongId": 1626713859
+            },
+            "id": 1626713859,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3451F087D2C5A030C53",
+              "videoId": "XNjUwNjg1NTQ0MA==",
+              "title": "多年隐忍，却遭背弃！ 林默终于幡然醒悟，这次，他选择倾尽所有，将那个始终守候的她，亲手推上众生之巅！",
+              "seconds": "00:56",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjg1NTQ0MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "8",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjg1NTQ0MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626713860,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3451F087D2C5A030C53",
+                    "video_id": 1626713860,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3451F087D2C5A030C53",
+              "videoLongId": 1626713860
+            },
+            "id": 1626713860,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A34C1F08838F7604DD9E",
+              "videoId": "XNjQ5ODUxNTU4NA==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:29",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxNTU4NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "9",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxNTU4NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624628896,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A34C1F08838F7604DD9E",
+                    "video_id": 1624628896,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A34C1F08838F7604DD9E",
+              "videoLongId": 1624628896
+            },
+            "id": 1624628896,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A34239519BBDDE04CE4C",
+              "videoId": "XNjQ5ODUxNDE2OA==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:42",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxNDE2OA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "10",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxNDE2OA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624628542,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A34239519BBDDE04CE4C",
+                    "video_id": 1624628542,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A34239519BBDDE04CE4C",
+              "videoLongId": 1624628542
+            },
+            "id": 1624628542,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3481F086AFAD005FA7D",
+              "videoId": "XNjQ5ODUxMTA1Mg==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:17",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxMTA1Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "11",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxMTA1Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624627763,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3481F086AFAD005FA7D",
+                    "video_id": 1624627763,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3481F086AFAD005FA7D",
+              "videoLongId": 1624627763
+            },
+            "id": 1624627763,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3461F0873711E0DB2E0",
+              "videoId": "XNjQ5ODUxMjU1Mg==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "00:58",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxMjU1Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "12",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxMjU1Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624628138,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3461F0873711E0DB2E0",
+                    "video_id": 1624628138,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3461F0873711E0DB2E0",
+              "videoLongId": 1624628138
+            },
+            "id": 1624628138,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A34239519BBDE509190B",
+              "videoId": "XNjUwNjg1NDEyNA==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:00",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjg1NDEyNA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "13",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjg1NDEyNA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626713531,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A34239519BBDE509190B",
+                    "video_id": 1626713531,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A34239519BBDE509190B",
+              "videoLongId": 1626713531
+            },
+            "id": 1626713531,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A34A1F087ECFD20151F7",
+              "videoId": "XNjUwNjg1NjgyMA==",
+              "title": "多年隐忍，却遭背弃！ 林默终于幡然醒悟，这次，他选择倾尽所有，将那个始终守候的她，亲手推上众生之巅！",
+              "seconds": "01:06",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjg1NjgyMA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "14",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjg1NjgyMA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626714205,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A34A1F087ECFD20151F7",
+                    "video_id": 1626714205,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A34A1F087ECFD20151F7",
+              "videoLongId": 1626714205
+            },
+            "id": 1626714205,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3451F0879AC0B0543AD",
+              "videoId": "XNjUwNjg1MTEwMA==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "00:53",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjg1MTEwMA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "15",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjg1MTEwMA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626712775,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3451F0879AC0B0543AD",
+                    "video_id": 1626712775,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3451F0879AC0B0543AD",
+              "videoLongId": 1626712775
+            },
+            "id": 1626712775,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3401F0884AD2303F1A3",
+              "videoId": "XNjQ5ODUxMjU2MA==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:04",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxMjU2MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "16",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxMjU2MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624628140,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3401F0884AD2303F1A3",
+                    "video_id": 1624628140,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3401F0884AD2303F1A3",
+              "videoLongId": 1624628140
+            },
+            "id": 1624628140,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A33939519C15100AD4A5",
+              "videoId": "XNjQ5ODUxMTAyOA==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "00:56",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxMTAyOA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "17",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxMTAyOA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624627757,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A33939519C15100AD4A5",
+                    "video_id": 1624627757,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A33939519C15100AD4A5",
+              "videoLongId": 1624627757
+            },
+            "id": 1624627757,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3481F087ECFC2090AAC",
+              "videoId": "XNjQ5ODUxNzE3Mg==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:14",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxNzE3Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "18",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxNzE3Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624629293,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3481F087ECFC2090AAC",
+                    "video_id": 1624629293,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3481F087ECFC2090AAC",
+              "videoLongId": 1624629293
+            },
+            "id": 1624629293,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3411F08838FD20A5D21",
+              "videoId": "XNjQ5ODUxMjU1Ng==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:16",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxMjU1Ng==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "19",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxMjU1Ng==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624628139,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3411F08838FD20A5D21",
+                    "video_id": 1624628139,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3411F08838FD20A5D21",
+              "videoLongId": 1624628139
+            },
+            "id": 1624628139,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A3431F087371070A5A32",
+              "videoId": "XNjUwNjg1NDEyMA==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "01:03",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjg1NDEyMA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "20",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjg1NDEyMA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626713530,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A3431F087371070A5A32",
+                    "video_id": 1626713530,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A3431F087371070A5A32",
+              "videoLongId": 1626713530
+            },
+            "id": 1626713530,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-20",
+              "img": "https://m.ykimg.com/0541060168F5A33B39519790FB091434",
+              "videoId": "XNjQ5ODUxMTAzNg==",
+              "title": "叶凡隐居山村，本想低调生活。 可谁知，原来他早已无敌于世间！",
+              "seconds": "00:53",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODUxMTAzNg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "21",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODUxMTAzNg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624627759,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F5A33B39519790FB091434",
+                    "video_id": 1624627759,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F5A33B39519790FB091434",
+              "videoLongId": 1624627759
+            },
+            "id": 1624627759,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-19",
+              "img": "https://m.ykimg.com/0541060168F32F721F08834F430D909A",
+              "videoId": "XNjUwNjYzNzcwNA==",
+              "title": "一口气看超长《全民诡异：开局掌握零元购 第三季》精彩后续！！",
+              "seconds": "29:17",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjYzNzcwNA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "22",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjYzNzcwNA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626659426,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F32F721F08834F430D909A",
+                    "video_id": 1626659426,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F32F721F08834F430D909A",
+              "videoLongId": 1626659426
+            },
+            "id": 1626659426,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-19",
+              "img": "https://m.ykimg.com/0541060168F33AC91F08856194062511",
+              "videoId": "XNjUwNjYzOTk5Mg==",
+              "title": "一口气观看超长《全民诡异：开局掌握零元购 第二季》精彩后续！",
+              "seconds": "11:54",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjYzOTk5Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "23",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjYzOTk5Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626659998,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33AC91F08856194062511",
+                    "video_id": 1626659998,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33AC91F08856194062511",
+              "videoLongId": 1626659998
+            },
+            "id": 1626659998,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-19",
+              "img": "https://m.ykimg.com/0548060168F41F4C1F0867849A025D4C",
+              "videoId": "XNjQ5ODM5NDEyOA==",
+              "title": "这个地球人，狮在忒猛啦！",
+              "seconds": "10:15",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODM5NDEyOA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "24",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODM5NDEyOA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624598532,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0548060168F41F4C1F0867849A025D4C",
+                    "video_id": 1624598532,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0548060168F41F4C1F0867849A025D4C",
+              "videoLongId": 1624598532
+            },
+            "id": 1624598532,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F3639D1F0884F0260855C6",
+              "videoId": "XNjUwNjY3MTUxNg==",
+              "title": "竟然还有点甜甜的....",
+              "seconds": "01:53",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY3MTUxNg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "25",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY3MTUxNg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626667879,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F3639D1F0884F0260855C6",
+                    "video_id": 1626667879,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F3639D1F0884F0260855C6",
+              "videoLongId": 1626667879
+            },
+            "id": 1626667879,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F350A31F0884DA420A272D",
+              "videoId": "XNjUwNjY1NDM5Mg==",
+              "title": "一口气看超长《穿越反派大师兄，师妹全都是病娇》精彩后续！！！",
+              "seconds": "28:35",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY1NDM5Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "26",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY1NDM5Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626663598,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F350A31F0884DA420A272D",
+                    "video_id": 1626663598,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F350A31F0884DA420A272D",
+              "videoLongId": 1626663598
+            },
+            "id": 1626663598,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F1CB7B395197A0DF02DA82",
+              "videoId": "XNjQ5ODE0MzAzMg==",
+              "title": "活了4000多年的老男人了，却居然是个处男，最后更是嚎啕大哭",
+              "seconds": "03:22",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODE0MzAzMg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "27",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODE0MzAzMg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624535758,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F1CB7B395197A0DF02DA82",
+                    "video_id": 1624535758,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F1CB7B395197A0DF02DA82",
+              "videoLongId": 1624535758
+            },
+            "id": 1624535758,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F1DD9B3951972B0103B4EE",
+              "videoId": "XNjQ5ODE1MjYxNg==",
+              "title": "一口气看完超长2小时开局残魂被抛弃我觉醒天帝模板你哭什么后续",
+              "seconds": "160:37",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODE1MjYxNg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "28",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODE1MjYxNg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624538154,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F1DD9B3951972B0103B4EE",
+                    "video_id": 1624538154,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F1DD9B3951972B0103B4EE",
+              "videoLongId": 1624538154
+            },
+            "id": 1624538154,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F1E0C91F08855EFC0228EE",
+              "videoId": "XNjQ5ODE1NzI0MA==",
+              "title": "一口气看完超长2小时我靠契约自己横扫异界后续完整版全集",
+              "seconds": "178:55",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODE1NzI0MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "29",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODE1NzI0MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624539310,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F1E0C91F08855EFC0228EE",
+                    "video_id": 1624539310,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F1E0C91F08855EFC0228EE",
+              "videoLongId": 1624539310
+            },
+            "id": 1624539310,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33BB11F0873C55B0B64C1",
+              "videoId": "XNjQ5ODMwNTc4OA==",
+              "title": "一口气看超长《开局契约兽娘，我带太古十凶制霸蓝星》精彩后续！",
+              "seconds": "18:14",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwNTc4OA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "30",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwNTc4OA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624576447,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33BB11F0873C55B0B64C1",
+                    "video_id": 1624576447,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33BB11F0873C55B0B64C1",
+              "videoLongId": 1624576447
+            },
+            "id": 1624576447,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33BB71F086FB02B015205",
+              "videoId": "XNjUwNjY0MzAwOA==",
+              "title": "一口气观看超长起迹动漫短剧场后续剧情",
+              "seconds": "25:01",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY0MzAwOA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "31",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY0MzAwOA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626660752,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33BB71F086FB02B015205",
+                    "video_id": 1626660752,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33BB71F086FB02B015205",
+              "videoLongId": 1626660752
+            },
+            "id": 1626660752,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33BE939519742030ECDC5",
+              "videoId": "XNjUwNjY0NDMwMA==",
+              "title": "一口气看超长《大赢家系统：我解锁了万亿权限》精彩后续！！！",
+              "seconds": "29:47",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY0NDMwMA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "32",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY0NDMwMA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626661075,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33BE939519742030ECDC5",
+                    "video_id": 1626661075,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33BE939519742030ECDC5",
+              "videoLongId": 1626661075
+            },
+            "id": 1626661075,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33B921F087E8A830141FA",
+              "videoId": "XNjQ5ODMwMjU5Mg==",
+              "title": "一口气看超长《修为反弹，道友叫我掠夺者 第二季》精彩后续！！",
+              "seconds": "29:29",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwMjU5Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "33",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwMjU5Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624575648,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33B921F087E8A830141FA",
+                    "video_id": 1624575648,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33B921F087E8A830141FA",
+              "videoLongId": 1624575648
+            },
+            "id": 1624575648,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33AE81F08801F700DA72A",
+              "videoId": "XNjQ5ODMwMTA4MA==",
+              "title": "一口气看完超长《开局手搓核聚变，道友请留步》精彩后续！！！",
+              "seconds": "19:39",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwMTA4MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "34",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwMTA4MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624575270,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33AE81F08801F700DA72A",
+                    "video_id": 1624575270,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33AE81F08801F700DA72A",
+              "videoLongId": 1624575270
+            },
+            "id": 1624575270,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33BCF1F087D171A0EC648",
+              "videoId": "XNjUwNjY0NTg3Mg==",
+              "title": "一口气看超长《修为反弹，道友叫我掠夺者 第二季》精彩后续！！",
+              "seconds": "29:11",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY0NTg3Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "35",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY0NTg3Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626661468,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33BCF1F087D171A0EC648",
+                    "video_id": 1626661468,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33BCF1F087D171A0EC648",
+              "videoLongId": 1626661468
+            },
+            "id": 1626661468,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33B641F0884C88305C19D",
+              "videoId": "XNjUwNjY0NDI4MA==",
+              "title": "看我的视频，就是看一整个人生",
+              "seconds": "20:29",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY0NDI4MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "36",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY0NDI4MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626661070,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33B641F0884C88305C19D",
+                    "video_id": 1626661070,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33B641F0884C88305C19D",
+              "videoLongId": 1626661070
+            },
+            "id": 1626661070,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33BEB1F087D175709DB00",
+              "videoId": "XNjQ5ODI5OTU3Mg==",
+              "title": "一口气看完超长《全民诡异：开局掌握零元购 第三季》精彩后续！",
+              "seconds": "19:09",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODI5OTU3Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "37",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODI5OTU3Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624574893,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33BEB1F087D175709DB00",
+                    "video_id": 1624574893,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33BEB1F087D175709DB00",
+              "videoLongId": 1624574893
+            },
+            "id": 1624574893,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33BA139519CD88006C9AA",
+              "videoId": "XNjUwNjY0NTg0MA==",
+              "title": "一口气看完超长《假面系统：我的称号炸穿诡异试炼》精彩后续！！",
+              "seconds": "17:03",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY0NTg0MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "38",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY0NTg0MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626661460,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33BA139519CD88006C9AA",
+                    "video_id": 1626661460,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33BA139519CD88006C9AA",
+              "videoLongId": 1626661460
+            },
+            "id": 1626661460,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33B1A395197EC7208CACB",
+              "videoId": "XNjQ5ODMwMjU3Mg==",
+              "title": "一口气看超长《我在修仙界开杂货铺》精彩后续！！！",
+              "seconds": "18:38",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwMjU3Mg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "39",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwMjU3Mg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624575643,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33B1A395197EC7208CACB",
+                    "video_id": 1624575643,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33B1A395197EC7208CACB",
+              "videoLongId": 1624575643
+            },
+            "id": 1624575643,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33B621F0885776703A782",
+              "videoId": "XNjUwNjY0Mjk5Ng==",
+              "title": "一口气看超长《我直播向女鬼求婚 第一季》精彩后续！！！",
+              "seconds": "19:30",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY0Mjk5Ng==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "40",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY0Mjk5Ng==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626660749,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33B621F0885776703A782",
+                    "video_id": 1626660749,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33B621F0885776703A782",
+              "videoLongId": 1626660749
+            },
+            "id": 1626660749,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33ABF1F0884B7D00CD86B",
+              "videoId": "XNjUwNjY0Mjk0NA==",
+              "title": "一口气看完超长《神级奸商：全服求我别薅了第二季》精彩后续！！",
+              "seconds": "19:23",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY0Mjk0NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "41",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY0Mjk0NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626660736,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33ABF1F0884B7D00CD86B",
+                    "video_id": 1626660736,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33ABF1F0884B7D00CD86B",
+              "videoLongId": 1626660736
+            },
+            "id": 1626660736,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33B0B395197EC130BF9AD",
+              "videoId": "XNjQ5ODMwNDE0OA==",
+              "title": "一口气看完超长《末日倒计时》精彩后续！！！",
+              "seconds": "19:55",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwNDE0OA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "42",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwNDE0OA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624576037,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33B0B395197EC130BF9AD",
+                    "video_id": 1624576037,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33B0B395197EC130BF9AD",
+              "videoLongId": 1624576037
+            },
+            "id": 1624576037,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33A441F08886590058E86",
+              "videoId": "XNjQ5ODMwMjUzMg==",
+              "title": "一口气看完超长《末日倒计时》精彩后续！！！",
+              "seconds": "18:47",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwMjUzMg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "43",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwMjUzMg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624575633,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33A441F08886590058E86",
+                    "video_id": 1624575633,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33A441F08886590058E86",
+              "videoLongId": 1624575633
+            },
+            "id": 1624575633,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33B2E39519BEB47081961",
+              "videoId": "XNjQ5ODI5OTUxNg==",
+              "title": "一口气看完超长《欧皇重生：荒古圣体签到就送？》精彩后续！！！",
+              "seconds": "16:58",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODI5OTUxNg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "44",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODI5OTUxNg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624574879,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33B2E39519BEB47081961",
+                    "video_id": 1624574879,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33B2E39519BEB47081961",
+              "videoLongId": 1624574879
+            },
+            "id": 1624574879,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33A831F086A10A403AF7F",
+              "videoId": "XNjQ5ODMwMTA2MA==",
+              "title": "一口气看超长《修为反弹，道友叫我掠夺者 第二季》精彩后续！！",
+              "seconds": "19:53",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwMTA2MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "45",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwMTA2MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624575265,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33A831F086A10A403AF7F",
+                    "video_id": 1624575265,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33A831F086A10A403AF7F",
+              "videoLongId": 1624575265
+            },
+            "id": 1624575265,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33AF11F086A292F02D2F4",
+              "videoId": "XNjUwNjY0MDAwMA==",
+              "title": "一口气观看超长《星石传说》精彩后续！！！",
+              "seconds": "26:52",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwNjY0MDAwMA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "46",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjUwNjY0MDAwMA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1626660000,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33AF11F086A292F02D2F4",
+                    "video_id": 1626660000,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33AF11F086A292F02D2F4",
+              "videoLongId": 1626660000
+            },
+            "id": 1626660000,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33A9B1F087E3E8F0D26F9",
+              "videoId": "XNjQ5ODMwNTcxNg==",
+              "title": "一口气看超长《我能无限剥离超能力 第一季》精彩后续！！！",
+              "seconds": "20:26",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwNTcxNg==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "47",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwNTcxNg==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624576429,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33A9B1F087E3E8F0D26F9",
+                    "video_id": 1624576429,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33A9B1F087E3E8F0D26F9",
+              "videoLongId": 1624576429
+            },
+            "id": 1624576429,
+            "type": 10013
+          },
+          {
+            "data": {
+              "publishTime": "2025-10-18",
+              "img": "https://m.ykimg.com/0541060168F33B0239519CB0CF00A289",
+              "videoId": "XNjQ5ODMwNDE0NA==",
+              "title": "一口气看完超长《人在高武，从一碗蛋炒饭开始无敌》精彩后续！！",
+              "seconds": "20:04",
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjQ5ODMwNDE0NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "extraParams": {
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                  "spmAB": "a2h0j.10182321",
+                  "spmC": "1_4",
+                  "spmD": "48",
+                  "scmAB": "20140719.manual",
+                  "scmC": "88326",
+                  "scmD": "video_XNjQ5ODMwNDE0NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "component_id": "H5_DETAIL_COMPONENT_UP_VIDEO",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 88326,
+                    "servertime": 1788868846519,
+                    "videoid": 1624576036,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "drawerid": "13682",
+                    "material_id": "media_0541060168F33B0239519CB0CF00A289",
+                    "video_id": 1624576036,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "thumbUrl": "https://m.ykimg.com/0541060168F33B0239519CB0CF00A289",
+              "videoLongId": 1624576036
+            },
+            "id": 1624576036,
+            "type": 10013
+          }
+        ],
+        "title": "Ta的视频",
+        "props": {}
+      },
+      {
+        "id": 150631,
+        "type": 10170,
+        "componentId": "h5-player-recommend",
+        "componentName": "播放器打断页组件",
+        "dataNode": [
+          {
+            "data": {
+              "doubleImg": "https://m.ykimg.com/054F060169F367F81F0C8E01A10CBD99",
+              "doubleType": 0,
+              "summary": "02:25",
+              "img": "https://m.ykimg.com/054F060169F367F81F0C8E01A10CBD99",
+              "reasons": {
+                "text": null,
+                "color": "#9d9fa8",
+                "action": null
+              },
+              "videoId": "XNjUzNDI1NTc2MA==",
+              "recInfo": {
+                "itemId": "XNjUzNDI1NTc2MA==",
+                "parentItemType": "0",
+                "cmsAppId": "24915",
+                "itemType": "1"
+              },
+              "title": "玉婷家的新玩意儿：全家齐动手，共探光明乐",
+              "interacts": [
+                {
+                  "interactType": "PLAY_VV",
+                  "title": "6696",
+                  "count": 6696,
+                  "checked": null
+                },
+                {
+                  "interactType": "UP_USER",
+                  "title": "布朗滴非常软糯",
+                  "count": null,
+                  "checked": null
+                }
+              ],
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUzNDI1NTc2MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNjUzNDI1NTc2MA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_0",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNjUzNDI1NTc2MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1633563940,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21633563940-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F060169F367F81F0C8E01A10CBD99",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1633563940,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "lbTexts": [
+                {
+                  "borderColor": null,
+                  "textColor": "#ffffff",
+                  "textSize": null,
+                  "title": "6696",
+                  "subTitle": null,
+                  "bgColor": null,
+                  "iconFontTitle": null,
+                  "useBrandLocalColor": null,
+                  "contentDesc": "播放量 6696",
+                  "colorLevel": null,
+                  "extra": null
+                }
+              ],
+              "doubleAction": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUzNDI1NTc2MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNjUzNDI1NTc2MA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_0",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNjUzNDI1NTc2MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1633563940,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21633563940-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F060169F367F81F0C8E01A10CBD99",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1633563940,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "upUser": {
+                "id": "UODI0ODk0OTU3Ng==",
+                "icon": "https://static.youku.com/user/avatar/1350/35.png?x-oss-process=image/resize,m_fill,limit_0,h_310,w_310",
+                "collaboratorDesc": null,
+                "name": "布朗滴非常软糯",
+                "subTitle": null,
+                "subtitle": "0粉丝·4.6万个作品",
+                "desc": null,
+                "flag": null,
+                "clickClosePage": null,
+                "textColor": "#9d9fa8",
+                "living": null,
+                "liveRoomId": null,
+                "verifyType": null,
+                "verifyIcon": null,
+                "verifyDynamicIcon": null,
+                "verifyName": null,
+                "verifyReason": null,
+                "liveIcon": null,
+                "caBelonging": null,
+                "isCircleOwner": null,
+                "isCircleAdmin": null,
+                "circleMarkUrl": null,
+                "circleMarkDarkUrl": null,
+                "lastActiveIpGeoArea": null,
+                "collaborators": null,
+                "action": {
+                  "type": "JUMP_TO_NATIVE",
+                  "value": "youku://personalchannel/openpersonalchannel?uid=UODI0ODk0OTU3Ng==&feedtype=YW_ZPD_SELECT",
+                  "contentType": null,
+                  "contentValue": null,
+                  "reportDisabled": false,
+                  "extra": null,
+                  "callback": null,
+                  "reportConfig": null,
+                  "report": {
+                    "pageName": "page_playpage",
+                    "arg1": "phone_detail_break",
+                    "spmAB": "a2h17.pugvpage",
+                    "spmC": "fullplayer",
+                    "spmD": "follow_0",
+                    "scmAB": "20140719.rcmd",
+                    "scmC": "150631",
+                    "scmD": "user_UODI0ODk0OTU3Ng==",
+                    "index": 0,
+                    "reportDataOpt": null,
+                    "trackInfo": {
+                      "pv_req_id": "null",
+                      "component_id": "phone_detail_break",
+                      "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                      "component_instance_id": 150631,
+                      "servertime": 1788868846519,
+                      "videoid": 1633563940,
+                      "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                      "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21633563940-1scatterFlag-2true",
+                      "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "drawerid": "13682",
+                      "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "material_id": "media_054F060169F367F81F0C8E01A10CBD99",
+                      "sam": "1007.110529.0.242697",
+                      "video_id": 1633563940,
+                      "cms_req_id": "212b82ef17888688465133676e4741"
+                    },
+                    "utParam": null
+                  }
+                },
+                "roomAction": null,
+                "info": null,
+                "atmosphere": null,
+                "ykPugcBenefits": null,
+                "medalAttr": null,
+                "avatarPendant": null,
+                "levelAttr": null,
+                "vipUserInfo": null,
+                "nftInfo": null
+              }
+            },
+            "id": 1633563940,
+            "type": 12731
+          },
+          {
+            "data": {
+              "doubleImg": "https://m.ykimg.com/054F0101630C79E336596E9BF8D61D1D",
+              "doubleType": 0,
+              "summary": "02:15",
+              "img": "https://m.ykimg.com/054F0101630C79E336596E9BF8D61D1D",
+              "reasons": {
+                "text": "精彩速看",
+                "color": "#9d9fa8",
+                "action": null
+              },
+              "videoId": "XNTg5ODg0Nzk0OA==",
+              "recInfo": {
+                "itemId": "XNTg5ODg0Nzk0OA==",
+                "parentItemType": "0",
+                "cmsAppId": "24915",
+                "itemType": "1"
+              },
+              "title": "父亲娶了个巫婆后妈，从此女孩的生活变了样",
+              "interacts": [
+                {
+                  "interactType": "PLAY_VV",
+                  "title": "6.2万",
+                  "count": 62225,
+                  "checked": null
+                },
+                {
+                  "interactType": "UP_USER",
+                  "title": "七沐电影_YKSTAR",
+                  "count": null,
+                  "checked": null
+                }
+              ],
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNTg5ODg0Nzk0OA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNTg5ODg0Nzk0OA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_1",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNTg5ODg0Nzk0OA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1474711987,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21474711987-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F0101630C79E336596E9BF8D61D1D",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1474711987,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "lbTexts": [
+                {
+                  "borderColor": null,
+                  "textColor": "#ffffff",
+                  "textSize": null,
+                  "title": "6.2万",
+                  "subTitle": null,
+                  "bgColor": null,
+                  "iconFontTitle": null,
+                  "useBrandLocalColor": null,
+                  "contentDesc": "播放量 6.2万",
+                  "colorLevel": null,
+                  "extra": null
+                }
+              ],
+              "doubleAction": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNTg5ODg0Nzk0OA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNTg5ODg0Nzk0OA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_1",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNTg5ODg0Nzk0OA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1474711987,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21474711987-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F0101630C79E336596E9BF8D61D1D",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1474711987,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "upUser": {
+                "id": "UMTMyMzMwODMxMjg=",
+                "icon": "https://ykimg.alicdn.com/product/image/2022-01-10/68230f8ca4d22f3927db77b9c43148a7.png",
+                "collaboratorDesc": null,
+                "name": "七沐电影",
+                "subTitle": null,
+                "subtitle": "0粉丝·361个作品",
+                "desc": null,
+                "flag": null,
+                "clickClosePage": null,
+                "textColor": "#9d9fa8",
+                "living": null,
+                "liveRoomId": null,
+                "verifyType": null,
+                "verifyIcon": null,
+                "verifyDynamicIcon": null,
+                "verifyName": null,
+                "verifyReason": null,
+                "liveIcon": null,
+                "caBelonging": null,
+                "isCircleOwner": null,
+                "isCircleAdmin": null,
+                "circleMarkUrl": null,
+                "circleMarkDarkUrl": null,
+                "lastActiveIpGeoArea": null,
+                "collaborators": null,
+                "action": {
+                  "type": "JUMP_TO_NATIVE",
+                  "value": "youku://personalchannel/openpersonalchannel?uid=UMTMyMzMwODMxMjg=&feedtype=YW_ZPD_SELECT",
+                  "contentType": null,
+                  "contentValue": null,
+                  "reportDisabled": false,
+                  "extra": null,
+                  "callback": null,
+                  "reportConfig": null,
+                  "report": {
+                    "pageName": "page_playpage",
+                    "arg1": "phone_detail_break",
+                    "spmAB": "a2h17.pugvpage",
+                    "spmC": "fullplayer",
+                    "spmD": "follow_1",
+                    "scmAB": "20140719.rcmd",
+                    "scmC": "150631",
+                    "scmD": "user_UMTMyMzMwODMxMjg=",
+                    "index": 0,
+                    "reportDataOpt": null,
+                    "trackInfo": {
+                      "pv_req_id": "null",
+                      "component_id": "phone_detail_break",
+                      "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                      "component_instance_id": 150631,
+                      "servertime": 1788868846519,
+                      "videoid": 1474711987,
+                      "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                      "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21474711987-1scatterFlag-2true",
+                      "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "drawerid": "13682",
+                      "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "material_id": "media_054F0101630C79E336596E9BF8D61D1D",
+                      "sam": "1007.110529.0.242697",
+                      "video_id": 1474711987,
+                      "cms_req_id": "212b82ef17888688465133676e4741"
+                    },
+                    "utParam": null
+                  }
+                },
+                "roomAction": null,
+                "info": null,
+                "atmosphere": null,
+                "ykPugcBenefits": null,
+                "medalAttr": null,
+                "avatarPendant": null,
+                "levelAttr": null,
+                "vipUserInfo": null,
+                "nftInfo": null
+              }
+            },
+            "id": 1474711987,
+            "type": 12731
+          },
+          {
+            "data": {
+              "doubleImg": "https://m.ykimg.com/054F0108699D46BB1F0B5101B20BADFA",
+              "doubleType": 0,
+              "summary": "01:04",
+              "img": "https://m.ykimg.com/054F0108699D46BB1F0B5101B20BADFA",
+              "reasons": {
+                "text": null,
+                "color": "#9d9fa8",
+                "action": null
+              },
+              "videoId": "XNjUyNDgxMDQ0NA==",
+              "recInfo": {
+                "itemId": "XNjUyNDgxMDQ0NA==",
+                "parentItemType": "0",
+                "cmsAppId": "24915",
+                "itemType": "1"
+              },
+              "title": "男人女扮男装试图逃过八路扫查！",
+              "interacts": [
+                {
+                  "interactType": "PLAY_VV",
+                  "title": "9651",
+                  "count": 9651,
+                  "checked": null
+                },
+                {
+                  "interactType": "UP_USER",
+                  "title": "疯狂输出说电影",
+                  "count": null,
+                  "checked": null
+                }
+              ],
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUyNDgxMDQ0NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNjUyNDgxMDQ0NA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_2",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNjUyNDgxMDQ0NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1631202611,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21631202611-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F0108699D46BB1F0B5101B20BADFA",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1631202611,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "lbTexts": [
+                {
+                  "borderColor": null,
+                  "textColor": "#ffffff",
+                  "textSize": null,
+                  "title": "9651",
+                  "subTitle": null,
+                  "bgColor": null,
+                  "iconFontTitle": null,
+                  "useBrandLocalColor": null,
+                  "contentDesc": "播放量 9651",
+                  "colorLevel": null,
+                  "extra": null
+                }
+              ],
+              "doubleAction": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUyNDgxMDQ0NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNjUyNDgxMDQ0NA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_2",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNjUyNDgxMDQ0NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1631202611,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21631202611-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F0108699D46BB1F0B5101B20BADFA",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1631202611,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "upUser": {
+                "id": "UMTM5MDQyMDkyNjA=",
+                "icon": "https://ykimg.alicdn.com/develop/image/2024-07-06/b77be3bc7637c274a2e78aa3cd9d14f0.png",
+                "collaboratorDesc": null,
+                "name": "疯狂输出说电影",
+                "subTitle": null,
+                "subtitle": "影视领域优质博主·0粉丝",
+                "desc": null,
+                "flag": null,
+                "clickClosePage": null,
+                "textColor": "#9d9fa8",
+                "living": null,
+                "liveRoomId": null,
+                "verifyType": null,
+                "verifyIcon": "https://img.alicdn.com/imgextra/i3/O1CN01zI0ueU1QhFpEyTre1_!!6000000002007-2-tps-45-45.png",
+                "verifyDynamicIcon": null,
+                "verifyName": "影视领域优质博主",
+                "verifyReason": null,
+                "liveIcon": null,
+                "caBelonging": null,
+                "isCircleOwner": null,
+                "isCircleAdmin": null,
+                "circleMarkUrl": null,
+                "circleMarkDarkUrl": null,
+                "lastActiveIpGeoArea": null,
+                "collaborators": null,
+                "action": {
+                  "type": "JUMP_TO_NATIVE",
+                  "value": "youku://personalchannel/openpersonalchannel?uid=UMTM5MDQyMDkyNjA=&feedtype=YW_ZPD_SELECT",
+                  "contentType": null,
+                  "contentValue": null,
+                  "reportDisabled": false,
+                  "extra": null,
+                  "callback": null,
+                  "reportConfig": null,
+                  "report": {
+                    "pageName": "page_playpage",
+                    "arg1": "phone_detail_break",
+                    "spmAB": "a2h17.pugvpage",
+                    "spmC": "fullplayer",
+                    "spmD": "follow_2",
+                    "scmAB": "20140719.rcmd",
+                    "scmC": "150631",
+                    "scmD": "user_UMTM5MDQyMDkyNjA=",
+                    "index": 0,
+                    "reportDataOpt": null,
+                    "trackInfo": {
+                      "pv_req_id": "null",
+                      "component_id": "phone_detail_break",
+                      "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                      "component_instance_id": 150631,
+                      "servertime": 1788868846519,
+                      "videoid": 1631202611,
+                      "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                      "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21631202611-1scatterFlag-2true",
+                      "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "drawerid": "13682",
+                      "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "material_id": "media_054F0108699D46BB1F0B5101B20BADFA",
+                      "sam": "1007.110529.0.242697",
+                      "video_id": 1631202611,
+                      "cms_req_id": "212b82ef17888688465133676e4741"
+                    },
+                    "utParam": null
+                  }
+                },
+                "roomAction": null,
+                "info": null,
+                "atmosphere": null,
+                "ykPugcBenefits": null,
+                "medalAttr": null,
+                "avatarPendant": null,
+                "levelAttr": null,
+                "vipUserInfo": null,
+                "nftInfo": null
+              }
+            },
+            "id": 1631202611,
+            "type": 12731
+          },
+          {
+            "data": {
+              "doubleImg": "https://m.ykimg.com/054F01016539C944F8EAD41160A0E27E",
+              "doubleType": 0,
+              "summary": "02:44",
+              "img": "https://m.ykimg.com/054F01016539C944F8EAD41160A0E27E",
+              "reasons": {
+                "text": null,
+                "color": "#9d9fa8",
+                "action": null
+              },
+              "videoId": "XNjEyNTgxMjY2MA==",
+              "recInfo": {
+                "itemId": "XNjEyNTgxMjY2MA==",
+                "parentItemType": "0",
+                "cmsAppId": "24915",
+                "itemType": "1"
+              },
+              "title": "男人喜得两个儿子，一个宠成宝，一个视如草",
+              "interacts": [
+                {
+                  "interactType": "PLAY_VV",
+                  "title": "26.5万",
+                  "count": 264520,
+                  "checked": null
+                },
+                {
+                  "interactType": "UP_USER",
+                  "title": "星雪剪辑_YKSTAR",
+                  "count": null,
+                  "checked": null
+                }
+              ],
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjEyNTgxMjY2MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNjEyNTgxMjY2MA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_3",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNjEyNTgxMjY2MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1531453165,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21531453165-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F01016539C944F8EAD41160A0E27E",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1531453165,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "lbTexts": [
+                {
+                  "borderColor": null,
+                  "textColor": "#ffffff",
+                  "textSize": null,
+                  "title": "26.5万",
+                  "subTitle": null,
+                  "bgColor": null,
+                  "iconFontTitle": null,
+                  "useBrandLocalColor": null,
+                  "contentDesc": "播放量 26.5万",
+                  "colorLevel": null,
+                  "extra": null
+                }
+              ],
+              "doubleAction": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjEyNTgxMjY2MA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNjEyNTgxMjY2MA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_3",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNjEyNTgxMjY2MA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1531453165,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21531453165-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F01016539C944F8EAD41160A0E27E",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1531453165,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "upUser": {
+                "id": "UNDg3NDc1Mjg5Ng==",
+                "icon": "https://wwc.alicdn.com/avatar/getAvatar.do?userIdStrV2=ic0Y5ILgI83mtjKywxz62gTT&width=160&height=160&type=sns",
+                "collaboratorDesc": null,
+                "name": "星雪剪辑",
+                "subTitle": null,
+                "subtitle": "0粉丝·1349个作品",
+                "desc": null,
+                "flag": null,
+                "clickClosePage": null,
+                "textColor": "#9d9fa8",
+                "living": null,
+                "liveRoomId": null,
+                "verifyType": null,
+                "verifyIcon": null,
+                "verifyDynamicIcon": null,
+                "verifyName": null,
+                "verifyReason": null,
+                "liveIcon": null,
+                "caBelonging": null,
+                "isCircleOwner": null,
+                "isCircleAdmin": null,
+                "circleMarkUrl": null,
+                "circleMarkDarkUrl": null,
+                "lastActiveIpGeoArea": null,
+                "collaborators": null,
+                "action": {
+                  "type": "JUMP_TO_NATIVE",
+                  "value": "youku://personalchannel/openpersonalchannel?uid=UNDg3NDc1Mjg5Ng==&feedtype=YW_ZPD_SELECT",
+                  "contentType": null,
+                  "contentValue": null,
+                  "reportDisabled": false,
+                  "extra": null,
+                  "callback": null,
+                  "reportConfig": null,
+                  "report": {
+                    "pageName": "page_playpage",
+                    "arg1": "phone_detail_break",
+                    "spmAB": "a2h17.pugvpage",
+                    "spmC": "fullplayer",
+                    "spmD": "follow_3",
+                    "scmAB": "20140719.rcmd",
+                    "scmC": "150631",
+                    "scmD": "user_UNDg3NDc1Mjg5Ng==",
+                    "index": 0,
+                    "reportDataOpt": null,
+                    "trackInfo": {
+                      "pv_req_id": "null",
+                      "component_id": "phone_detail_break",
+                      "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                      "component_instance_id": 150631,
+                      "servertime": 1788868846519,
+                      "videoid": 1531453165,
+                      "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                      "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21531453165-1scatterFlag-2true",
+                      "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "drawerid": "13682",
+                      "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "material_id": "media_054F01016539C944F8EAD41160A0E27E",
+                      "sam": "1007.110529.0.242697",
+                      "video_id": 1531453165,
+                      "cms_req_id": "212b82ef17888688465133676e4741"
+                    },
+                    "utParam": null
+                  }
+                },
+                "roomAction": null,
+                "info": null,
+                "atmosphere": null,
+                "ykPugcBenefits": null,
+                "medalAttr": null,
+                "avatarPendant": null,
+                "levelAttr": null,
+                "vipUserInfo": null,
+                "nftInfo": null
+              }
+            },
+            "id": 1531453165,
+            "type": 12731
+          },
+          {
+            "data": {
+              "doubleImg": "https://m.ykimg.com/054F0601691CE00C1F08704C8C05BB54",
+              "doubleType": 0,
+              "summary": "01:05",
+              "img": "https://m.ykimg.com/054F0601691CE00C1F08704C8C05BB54",
+              "reasons": {
+                "text": null,
+                "color": "#9d9fa8",
+                "action": null
+              },
+              "videoId": "XNjUwMzI0MjI2NA==",
+              "recInfo": {
+                "itemId": "XNjUwMzI0MjI2NA==",
+                "parentItemType": "0",
+                "cmsAppId": "24915",
+                "itemType": "1"
+              },
+              "title": "神秘诗歌引寻宝之旅，石桥东侧藏宝线索？",
+              "interacts": [
+                {
+                  "interactType": "PLAY_VV",
+                  "title": "9702",
+                  "count": 9702,
+                  "checked": null
+                },
+                {
+                  "interactType": "UP_USER",
+                  "title": "夜行笔记",
+                  "count": null,
+                  "checked": null
+                }
+              ],
+              "action": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwMzI0MjI2NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNjUwMzI0MjI2NA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_4",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNjUwMzI0MjI2NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1625810566,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21625810566-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F0601691CE00C1F08704C8C05BB54",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1625810566,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "lbTexts": [
+                {
+                  "borderColor": null,
+                  "textColor": "#ffffff",
+                  "textSize": null,
+                  "title": "9702",
+                  "subTitle": null,
+                  "bgColor": null,
+                  "iconFontTitle": null,
+                  "useBrandLocalColor": null,
+                  "contentDesc": "播放量 9702",
+                  "colorLevel": null,
+                  "extra": null
+                }
+              ],
+              "doubleAction": {
+                "type": "JUMP_TO_VIDEO",
+                "value": "XNjUwMzI0MjI2NA==",
+                "contentType": null,
+                "contentValue": null,
+                "reportDisabled": false,
+                "extra": {
+                  "mode": "full_horizontal",
+                  "verticalStyle": 1,
+                  "videoId": "XNjUwMzI0MjI2NA==",
+                  "extraParams": {
+                    "verticalStyle": 1,
+                    "allowMulti": false,
+                    "playMode": null
+                  },
+                  "playMode": null
+                },
+                "callback": null,
+                "reportConfig": null,
+                "report": {
+                  "pageName": "page_playpage",
+                  "arg1": "phone_detail_break",
+                  "spmAB": "a2h17.pugvpage",
+                  "spmC": "fullplayer",
+                  "spmD": "recommend_4",
+                  "scmAB": "20140719.rcmd",
+                  "scmC": "150631",
+                  "scmD": "video_XNjUwMzI0MjI2NA==",
+                  "index": 0,
+                  "reportDataOpt": null,
+                  "trackInfo": {
+                    "pv_req_id": "null",
+                    "component_id": "phone_detail_break",
+                    "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                    "component_instance_id": 150631,
+                    "servertime": 1788868846519,
+                    "videoid": 1625810566,
+                    "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                    "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21625810566-1scatterFlag-2true",
+                    "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "vertical_style": true,
+                    "drawerid": "13682",
+                    "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                    "material_id": "media_054F0601691CE00C1F08704C8C05BB54",
+                    "sam": "1007.110529.0.242697",
+                    "video_id": 1625810566,
+                    "cms_req_id": "212b82ef17888688465133676e4741"
+                  },
+                  "utParam": null
+                }
+              },
+              "upUser": {
+                "id": "UODI0ODk0OTM3Ng==",
+                "icon": "https://static.youku.com/user/avatar/1350/25.png?x-oss-process=image/resize,m_fill,limit_0,h_310,w_310",
+                "collaboratorDesc": null,
+                "name": "夜行笔记",
+                "subTitle": null,
+                "subtitle": "0粉丝·4.3万个作品",
+                "desc": null,
+                "flag": null,
+                "clickClosePage": null,
+                "textColor": "#9d9fa8",
+                "living": null,
+                "liveRoomId": null,
+                "verifyType": null,
+                "verifyIcon": null,
+                "verifyDynamicIcon": null,
+                "verifyName": null,
+                "verifyReason": null,
+                "liveIcon": null,
+                "caBelonging": null,
+                "isCircleOwner": null,
+                "isCircleAdmin": null,
+                "circleMarkUrl": null,
+                "circleMarkDarkUrl": null,
+                "lastActiveIpGeoArea": null,
+                "collaborators": null,
+                "action": {
+                  "type": "JUMP_TO_NATIVE",
+                  "value": "youku://personalchannel/openpersonalchannel?uid=UODI0ODk0OTM3Ng==&feedtype=YW_ZPD_SELECT",
+                  "contentType": null,
+                  "contentValue": null,
+                  "reportDisabled": false,
+                  "extra": null,
+                  "callback": null,
+                  "reportConfig": null,
+                  "report": {
+                    "pageName": "page_playpage",
+                    "arg1": "phone_detail_break",
+                    "spmAB": "a2h17.pugvpage",
+                    "spmC": "fullplayer",
+                    "spmD": "follow_4",
+                    "scmAB": "20140719.rcmd",
+                    "scmC": "150631",
+                    "scmD": "user_UODI0ODk0OTM3Ng==",
+                    "index": 0,
+                    "reportDataOpt": null,
+                    "trackInfo": {
+                      "pv_req_id": "null",
+                      "component_id": "phone_detail_break",
+                      "pvv_vid": "XNjQ5ODcwMjQ4OA==",
+                      "component_instance_id": 150631,
+                      "servertime": 1788868846519,
+                      "videoid": 1625810566,
+                      "pageid": "LOCVIDEO_OTHER_DEFAULT",
+                      "alginfo": "-1pn-21-1scatter-2show_id_-1rcType-2BACKUP-1sceneId-224915-1itemType-21-1abId-2242697-1itemId-21625810566-1scatterFlag-2true",
+                      "req_id": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "drawerid": "13682",
+                      "recext": "reqid=fc1b8b81-779d-41d1-9e9b-b5ee279681f2#1788868846540",
+                      "material_id": "media_054F0601691CE00C1F08704C8C05BB54",
+                      "sam": "1007.110529.0.242697",
+                      "video_id": 1625810566,
+                      "cms_req_id": "212b82ef17888688465133676e4741"
+                    },
+                    "utParam": null
+                  }
+                },
+                "roomAction": null,
+                "info": null,
+                "atmosphere": null,
+                "ykPugcBenefits": null,
+                "medalAttr": null,
+                "avatarPendant": null,
+                "levelAttr": null,
+                "vipUserInfo": null,
+                "nftInfo": null
+              }
+            },
+            "id": 1625810566,
+            "type": 12731
+          }
+        ],
+        "title": "",
+        "props": {},
+        "nextSession": "{\"componentIndex\":\"5\",\"componentId\":\"150631\",\"spmA\":\"a2h0j\",\"level\":\"2\",\"spmB\":\"10182321\",\"itemPageNo\":\"1\",\"lastItemIndex\":\"5\",\"pageKey\":\"LOCVIDEO_OTHER_DEFAULT\",\"pageName\":\"page_playpage\",\"group\":\"0\"}"
+      }
+    ],
+    "nobelTrackHeader": "",
+    "nobelInfo": {
+      "a2h04.8165646": {
+        "0": [
+          {
+            "nobelId": "1148:2646"
+          }
+        ]
+      },
+      "abTestId": ""
+    },
+    "playPageData": {
+      "headerCallApp": {
+        "btnTitle": "下载APP",
+        "type": "JUMP_TO_NATIVE",
+        "jumpUrl": ""
+      },
+      "PopCallApp": {
+        "btnTitle": "打开",
+        "type": "JUMP_TO_NATIVE",
+        "jumpUrl": "",
+        "subtitle": "为好内容全力以赴",
+        "expires": 1,
+        "unit": "hour",
+        "logo": "https://gw.alicdn.com/imgextra/i3/O1CN01CO6s7L1qQvicY255E_!!6000000005491-2-tps-112-112.png",
+        "title": "优酷"
+      },
+      "bottomCallApp": {
+        "btnTitle": "打开优酷APP更流畅",
+        "type": "JUMP_TO_NATIVE",
+        "jumpUrl": ""
+      },
+      "callSwitch": true
+    }
+  },
+  "recordTime": null
+}

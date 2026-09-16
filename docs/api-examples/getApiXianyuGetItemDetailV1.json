@@ -1,0 +1,1847 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:00.311839+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:32",
+  "code": 0,
+  "message": null,
+  "data": {
+    "b2cBuyerDO": {
+      "buyQualificationActList": [],
+      "isFirstOrderUser": "false",
+      "isNewUserIn7Day": "false",
+      "favored": "false"
+    },
+    "picDetailDO": {},
+    "flowData": {
+      "needDecryptKeys": [
+        "flowData.floating.components.data.nick",
+        "flowData.body.sections.components.data.sellerId",
+        "flowData.body.sections.components.data.uniqueName",
+        "flowData.body.sections.components.data.nick",
+        "flowData.body.sections.components.data.waterMark",
+        "flowData.body.sections.components.data.gameUserInfo.userInfo.nick",
+        "flowData.body.sections.components.data.lat",
+        "flowData.body.sections.components.data.lng",
+        "flowData.body.sections.components.data.metaInfo.waterMark",
+        "flowData.floating.components.data.sellerId",
+        "flowData.body.sections.components.data.userInfo.nick"
+      ],
+      "trackParams": {
+        "medal_id": "xymedal_ecofriendly3",
+        "icTagsForCep": "[260033, 4694210, 4688450, 4693890, 4694082, 4694146, 4697666, 4697730, 4697794, 4697986, 353986, 612801, 14731, 14155, 9099, 9995, 12171, 9867, 7371, 8459, 4491, 139, 3083, 14603, 16651, 19403, 23115, 26699, 28491, 31947, 33547, 33803, 41035, 44363, 3215426]",
+        "target_type": "item",
+        "sellerProIdentity": "playboy",
+        "idlelabel_bucketId": "5",
+        "buyerOptions": "",
+        "target_id": "930696442206",
+        "sellerInBuyOptions": "gameReportCpvShow|spuGuide|showBuyerPhoneInfoA|intraCityTransportation|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|nearbyLuxury|sellerUpgrade|nearbyBulk|offlineMakePrice|seaMarketChat|nearbyLowValue|normalAttitude|quickQuestionOffline|shopAvatarSuperLike|shareWxMini|skuBannerShow|goodValueShow|skuRateAb|zxTagShow|storeGroupAb|b2cItemDetail|couponSuperLink|skillCertficate|trendyHandbookDx|detailCouponSuperLink|b2cItemDetailAuction|b2cInspectionReportV2|b2cDetail20250709|strictSelectionAskSeller|rigorousItemDetailTag|yanxuanVirtualSoldQuality|yuliB2cNewVersion|itemCircleCard",
+        "detailSpiVersion": "2",
+        "itemId": "930696442206",
+        "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyQuery|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|spuBottomBarItem|showResellList|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|priceReferenceTag|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee|albef_tpp|PROPERTY_TPP|spuBottomBarActionUrl",
+        "sellerId": "2***3",
+        "rootChannelCatId": "126866978",
+        "detailRedirectPublishUrl": "",
+        "idlelabel_serviceUtParams": "[]",
+        "channelCatId": "126912060",
+        "mainPic": "http://img.alicdn.com/bao/uploaded/i1/O1CN01OZEhVk1D07f3bfCjH_!!4611686018427380553-0-fleamarket.jpg",
+        "sellerBucketId": "18",
+        "sellerInBuyBucketId": "1",
+        "currentFlowVersion": "3",
+        "categoryId": "50114004",
+        "idlelabel_unShowTrackParams": "{}"
+      },
+      "floating": {
+        "components": [
+          {
+            "data": {
+              "nick": "不二优选",
+              "itemId": "930696442206",
+              "sellerId": "2***3",
+              "left": "0",
+              "bottom": "54",
+              "safeArea": "true",
+              "right": "0",
+              "status": "0"
+            },
+            "render": "Basic_Native_quick_question_1",
+            "key": "normal"
+          },
+          {
+            "data": {
+              "isVideoOrPanoStyle": "true",
+              "itemId": "930696442206",
+              "priceUnit": "",
+              "showFocus": "false",
+              "shareImageUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01VjYdxZ1D07epZCAic_!!4611686018427380553-53-fleamarket.heic",
+              "originalPrice": "0",
+              "avatarUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01YmHJQ51D07e8F4g0n_!!4611686018427380553-0-mtopupload.jpg",
+              "shareData": {
+                "shareReportUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/cro-report-center/pages/report-type?titleVisible=false&useCusFont=true&pageSourceCode=itemDetail&reportSubjectId=930696442206",
+                "shareHelpUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/customer-service-hall/pages/home?loadingVisible=false&fromType=ITEM_DETAIL&from=kVNljbMN5B&item_id=930696442206",
+                "shareInfoJsonString": "{\"canShareToWxMini\":false,\"contentParams\":{\"headerParams\":{\"subTitle\":\"北京\",\"title\":\"不二优选\",\"userAvatar\":\"http://img.alicdn.com/bao/uploaded/i3/O1CN01YmHJQ51D07e8F4g0n_!!4611686018427380553-0-mtopupload.jpg\"},\"mainParams\":{\"content\":\"优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红格纹设计，胸前有米奇刺绣图案。纯棉面料，舒适透气。衣服成色很好，几乎全新。因衣柜太满所以出售，二手物品售出不退不换。偏远地区不包邮，感兴趣的朋友可以点击\\\"我想要\\\"私聊哦～\",\"contentMaxLine\":\"2\",\"extra\":{\"descRelativeTags\":[],\"priceRelativeTags\":[{\"additionMap\":{},\"bgColor\":\"#FFFFFF\",\"borderColor\":\"#FFFFFF\",\"order\":99,\"text\":\"包邮\",\"textColor\":\"#1F1F1F\",\"trackParams\":{\"tagType\":\"baoyou\"}}],\"soldPrice\":\"58\"},\"images\":[{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i3/O1CN01VjYdxZ1D07epZCAic_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i3/O1CN011ymmS71D07eraLWUy_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i3/O1CN01iMZptj1D07eo2LN7d_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i1/O1CN01QIiLvR1D07epmupHp_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i4/O1CN01kAuyxs1D07eqpjaEP_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i1/O1CN01pxIlil1D07erHQodh_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1440\",\"image\":\"http://img.alicdn.com/bao/uploaded/i4/O1CN017P6tPn1D07f1rVxFF_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1080\"}]}},\"customIcons\":[{\"icon\":\"https://gw.alicdn.com/imgextra/i2/O1CN01TsFkDX20ToHXwZ7Gw_!!6000000006851-2-tps-144-144.png\",\"key\":\"idlefish-assistant\",\"title\":\"帮助与客服\",\"type\":\"link\",\"url\":\"https://h5.m.goofish.com/wow/moyu/moyu-project/customer-service-hall/pages/home?loadingVisible=false&fromType=ITEM_DETAIL&from=kVNljbMN5B&item_id=930696442206\"}],\"disabledChannel\":\"fish-assistant\",\"sceneId\":\"930696442206\",\"sceneType\":\"detail\",\"shareMessageCard\":{\"coverImg\":\"\",\"subTitle\":\"\",\"title\":\"\"},\"url\":\"fleamarket://awesome_detail?itemId=930696442206&hitNativeDetail=true&flutter=true&needNotPreGet=true&ignoreMiddle=true&id=930696442206\",\"version\":2}"
+              },
+              "price": "58",
+              "userId": "2***3",
+              "transparent": "true"
+            },
+            "render": "Basic_Native_appbar_1",
+            "key": "normal"
+          },
+          {
+            "data": {
+              "itemId": "930696442206",
+              "sellerId": "2***3",
+              "left": "0",
+              "bottom": "0",
+              "safeArea": "true",
+              "right": "0"
+            },
+            "render": "Basic_Native_business_coming_1",
+            "key": "normal"
+          }
+        ]
+      },
+      "context": {
+        "is_glue_code": "true"
+      },
+      "configInfo": {
+        "showResellList": "true",
+        "jumpXyh": "true",
+        "hitIdleFishCreditAb": "true",
+        "currentFlowVersion": "3",
+        "paymentGuideMask": "true"
+      },
+      "dynamicConfig": {},
+      "body": {
+        "sections": [
+          {
+            "layout": "list",
+            "components": [
+              {
+                "data": {
+                  "itemId": "930696442206",
+                  "priceUnit": "",
+                  "imageInfos": [
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN01VjYdxZ1D07epZCAic_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN01VjYdxZ1D07epZCAic_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN011ymmS71D07eraLWUy_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN011ymmS71D07eraLWUy_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN01iMZptj1D07eo2LN7d_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN01iMZptj1D07eo2LN7d_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi1%2FO1CN01QIiLvR1D07epmupHp_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i1/O1CN01QIiLvR1D07epmupHp_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi4%2FO1CN01kAuyxs1D07eqpjaEP_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i4/O1CN01kAuyxs1D07eqpjaEP_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi1%2FO1CN01pxIlil1D07erHQodh_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i1/O1CN01pxIlil1D07erHQodh_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi4%2FO1CN017P6tPn1D07f1rVxFF_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1080",
+                      "heightSize": "1440",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i4/O1CN017P6tPn1D07f1rVxFF_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "true",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    }
+                  ],
+                  "videoPlayInfo": {
+                    "major": "true",
+                    "ld320pUrl": "https://cloud.video.taobao.com/play/u/2217739150153/p/1/e/6/t/1/d/ld/522569075249.mp4",
+                    "sd480pUrl": "https://cloud.video.taobao.com/play/u/2217739150153/p/1/e/6/t/1/d/sd/522569075249.mp4",
+                    "videoId": "556747285",
+                    "widthSize": "1080",
+                    "heightSize": "1920",
+                    "type": "10000",
+                    "mtsVid": "522569075249",
+                    "url": "http://img.alicdn.com/bao/uploaded/i1/O1CN01OZEhVk1D07f3bfCjH_!!4611686018427380553-0-fleamarket.jpg",
+                    "labels": [],
+                    "playUrl": "http://xianyu-video.alicdn.com/aus/xianyu_item/1964527310/5cb4058424e14a5da168635924625b29.mp4"
+                  },
+                  "originalPrice": "0",
+                  "descriptionInfo": "优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红格纹设计，胸前有米奇刺绣图案。纯棉面料，舒适透气。衣服成色很好，几乎全新。因衣柜太满所以出售，二手物品售出不退不换。偏远地区不包邮，感兴趣的朋友可以点击\"我想要\"私聊哦～",
+                  "soldPrice": "58",
+                  "isShowCountDown": "true",
+                  "isNeedCountDown": "false",
+                  "countDownString": "",
+                  "title": "优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红"
+                },
+                "render": "Basic_Native_video_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "userInfo": {
+                    "nick": "不***选",
+                    "sellerId": "2***3",
+                    "uniqueName": "不***选",
+                    "lastVisitTime": "2小时前来过",
+                    "avatarUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01YmHJQ51D07e8F4g0n_!!4611686018427380553-0-mtopupload.jpg",
+                    "city": "北京",
+                    "portraitUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01YmHJQ51D07e8F4g0n_!!4611686018427380553-0-mtopupload.jpg",
+                    "desensitizationNick": "不***选",
+                    "levelTags": [
+                      {
+                        "iconHeight": "32",
+                        "iconWidth": "128",
+                        "iconUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01GoAHKO1R9eCMlFW8j_!!6000000002069-2-tps-195-48.png",
+                        "additionMap": {},
+                        "order": "99"
+                      }
+                    ]
+                  },
+                  "trackParams": {
+                    "itemId": "930696442206",
+                    "sellerId": "2***3",
+                    "sellerBucketId": "18",
+                    "buyerOptions": ""
+                  },
+                  "enableJumpXyh": "true"
+                },
+                "render": "Basic_Native_user_info_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "defaultPrice": "false",
+                  "priceUnit": "",
+                  "itemType": "detailCommonBuy",
+                  "originalPrice": "0",
+                  "transportFee": "0.00",
+                  "wantCnt": "0",
+                  "soldPrice": "58",
+                  "qualityUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01yU5CER1wslIj9m7bv_!!6000000006364-2-tps-252-60.png",
+                  "commonTags": [
+                    {
+                      "borderColor": "ECF9FF",
+                      "bgColor": "ECF9FF",
+                      "text": "包邮",
+                      "additionMap": {},
+                      "textColor": "0DAEFF",
+                      "order": "99"
+                    }
+                  ],
+                  "browseCnt": "2232",
+                  "idlePromotionInfo": {
+                    "reserved": "false",
+                    "additionMap": {}
+                  }
+                },
+                "render": "Basic_Native_price_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemId": "930696442206"
+                },
+                "render": "Basic_Native_interest_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "editorVersion": "0.0.1",
+                  "sellerId": "2***3",
+                  "trackParams": {
+                    "itemId": "930696442206",
+                    "sellerId": "2***3",
+                    "sellerBucketId": "18"
+                  },
+                  "topics": [
+                    {
+                      "trackParams": {
+                        "is_useradd": "0",
+                        "theme_id": "12240",
+                        "theme_name": "Uniqlo/优衣库",
+                        "theme_type": "2"
+                      },
+                      "pvList": [
+                        {
+                          "valueId": "29527",
+                          "propertyId": "20000"
+                        }
+                      ],
+                      "name": "Uniqlo/优衣库",
+                      "id": "12240",
+                      "targetUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/shopping-guide/pages/home?titleVisible=false&topicId=12240"
+                    }
+                  ],
+                  "descRelativeTags": [],
+                  "desc": "优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红格纹设计，胸前有米奇刺绣图案。纯棉面料，舒适透气。衣服成色很好，几乎全新。因衣柜太满所以出售，二手物品售出不退不换。偏远地区不包邮，感兴趣的朋友可以点击\"我想要\"私聊哦～\n#Uniqlo/优衣库 "
+                },
+                "render": "Basic_Native_desc_text_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemType": "detailCommonBuy",
+                  "sellerId": "2***3",
+                  "trackParams": {
+                    "itemId": "930696442206",
+                    "sellerId": "2***3",
+                    "sellerBucketId": "18"
+                  },
+                  "cpvLabels": [
+                    {
+                      "valueObject": "15994218",
+                      "valueId": "15994218",
+                      "propertyName": "成色",
+                      "valueName": "几乎全新",
+                      "propertyId": "20879"
+                    },
+                    {
+                      "valueObject": "28315",
+                      "valueId": "28315",
+                      "propertyName": "尺码",
+                      "valueName": "M",
+                      "propertyId": "20509"
+                    },
+                    {
+                      "valueObject": "31341",
+                      "valueId": "31341",
+                      "propertyName": "适用季节",
+                      "valueName": "春秋季",
+                      "propertyId": "122216345"
+                    },
+                    {
+                      "valueObject": "28342",
+                      "valueId": "28342",
+                      "propertyName": "面料",
+                      "valueName": "纯棉",
+                      "propertyId": "20551"
+                    },
+                    {
+                      "valueObject": "29444",
+                      "valueId": "29444",
+                      "propertyName": "袖长",
+                      "valueName": "长袖",
+                      "propertyId": "122216348"
+                    }
+                  ]
+                },
+                "render": "Basic_Native_cpv_label_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemId": "930696442206",
+                  "sellerId": "2***3",
+                  "trackParams": {
+                    "itemId": "930696442206",
+                    "sellerId": "2***3",
+                    "idlelabel_serviceUtParams": "[]",
+                    "sellerBucketId": "18",
+                    "idlelabel_bucketId": "5",
+                    "idlelabel_unShowTrackParams": "{}"
+                  }
+                },
+                "render": "Basic_Native_question_answer_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemId": "930696442206",
+                  "imageInfos": [
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN01VjYdxZ1D07epZCAic_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN01VjYdxZ1D07epZCAic_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN011ymmS71D07eraLWUy_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN011ymmS71D07eraLWUy_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN01iMZptj1D07eo2LN7d_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN01iMZptj1D07eo2LN7d_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi1%2FO1CN01QIiLvR1D07epmupHp_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i1/O1CN01QIiLvR1D07epmupHp_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi4%2FO1CN01kAuyxs1D07eqpjaEP_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i4/O1CN01kAuyxs1D07eqpjaEP_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi1%2FO1CN01pxIlil1D07erHQodh_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1440",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i1/O1CN01pxIlil1D07erHQodh_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "false",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    },
+                    {
+                      "major": "false",
+                      "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi4%2FO1CN017P6tPn1D07f1rVxFF_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+                      "widthSize": "1080",
+                      "heightSize": "1440",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i4/O1CN017P6tPn1D07f1rVxFF_!!4611686018427380553-53-fleamarket.heic",
+                      "extraInfo": {
+                        "raw": "true",
+                        "isT": "false",
+                        "isH": "false"
+                      },
+                      "labels": []
+                    }
+                  ],
+                  "isBizHelpSale": "false",
+                  "displayWaterMark": "false",
+                  "waterMark": "闲***选"
+                },
+                "render": "Basic_Native_image_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "trackParams": {
+                    "medal_id": "xymedal_ecofriendly3",
+                    "icTagsForCep": "[260033, 4694210, 4688450, 4693890, 4694082, 4694146, 4697666, 4697730, 4697794, 4697986, 353986, 612801, 14731, 14155, 9099, 9995, 12171, 9867, 7371, 8459, 4491, 139, 3083, 14603, 16651, 19403, 23115, 26699, 28491, 31947, 33547, 33803, 41035, 44363, 3215426]",
+                    "target_type": "item",
+                    "sellerProIdentity": "playboy",
+                    "idlelabel_bucketId": "5",
+                    "buyerOptions": "",
+                    "target_id": "930696442206",
+                    "sellerInBuyOptions": "gameReportCpvShow|spuGuide|showBuyerPhoneInfoA|intraCityTransportation|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|nearbyLuxury|sellerUpgrade|nearbyBulk|offlineMakePrice|seaMarketChat|nearbyLowValue|normalAttitude|quickQuestionOffline|shopAvatarSuperLike|shareWxMini|skuBannerShow|goodValueShow|skuRateAb|zxTagShow|storeGroupAb|b2cItemDetail|couponSuperLink|skillCertficate|trendyHandbookDx|detailCouponSuperLink|b2cItemDetailAuction|b2cInspectionReportV2|b2cDetail20250709|strictSelectionAskSeller|rigorousItemDetailTag|yanxuanVirtualSoldQuality|yuliB2cNewVersion|itemCircleCard",
+                    "detailSpiVersion": "2",
+                    "itemId": "930696442206",
+                    "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyQuery|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|spuBottomBarItem|showResellList|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|priceReferenceTag|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee|albef_tpp|PROPERTY_TPP|spuBottomBarActionUrl",
+                    "sellerId": "2***3",
+                    "rootChannelCatId": "126866978",
+                    "detailRedirectPublishUrl": "",
+                    "idlelabel_serviceUtParams": "[]",
+                    "channelCatId": "126912060",
+                    "mainPic": "http://img.alicdn.com/bao/uploaded/i1/O1CN01OZEhVk1D07f3bfCjH_!!4611686018427380553-0-fleamarket.jpg",
+                    "sellerBucketId": "18",
+                    "sellerInBuyBucketId": "1",
+                    "currentFlowVersion": "3",
+                    "categoryId": "50114004",
+                    "idlelabel_unShowTrackParams": "{}"
+                  }
+                },
+                "render": "Basic_Native_ref_product_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemId": "930696442206",
+                  "trackParams": {
+                    "medal_id": "xymedal_ecofriendly3",
+                    "icTagsForCep": "[260033, 4694210, 4688450, 4693890, 4694082, 4694146, 4697666, 4697730, 4697794, 4697986, 353986, 612801, 14731, 14155, 9099, 9995, 12171, 9867, 7371, 8459, 4491, 139, 3083, 14603, 16651, 19403, 23115, 26699, 28491, 31947, 33547, 33803, 41035, 44363, 3215426]",
+                    "target_type": "item",
+                    "sellerProIdentity": "playboy",
+                    "idlelabel_bucketId": "5",
+                    "buyerOptions": "",
+                    "target_id": "930696442206",
+                    "sellerInBuyOptions": "gameReportCpvShow|spuGuide|showBuyerPhoneInfoA|intraCityTransportation|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|nearbyLuxury|sellerUpgrade|nearbyBulk|offlineMakePrice|seaMarketChat|nearbyLowValue|normalAttitude|quickQuestionOffline|shopAvatarSuperLike|shareWxMini|skuBannerShow|goodValueShow|skuRateAb|zxTagShow|storeGroupAb|b2cItemDetail|couponSuperLink|skillCertficate|trendyHandbookDx|detailCouponSuperLink|b2cItemDetailAuction|b2cInspectionReportV2|b2cDetail20250709|strictSelectionAskSeller|rigorousItemDetailTag|yanxuanVirtualSoldQuality|yuliB2cNewVersion|itemCircleCard",
+                    "detailSpiVersion": "2",
+                    "itemId": "930696442206",
+                    "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyQuery|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|spuBottomBarItem|showResellList|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|priceReferenceTag|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee|albef_tpp|PROPERTY_TPP|spuBottomBarActionUrl",
+                    "sellerId": "2***3",
+                    "rootChannelCatId": "126866978",
+                    "detailRedirectPublishUrl": "",
+                    "idlelabel_serviceUtParams": "[]",
+                    "channelCatId": "126912060",
+                    "mainPic": "http://img.alicdn.com/bao/uploaded/i1/O1CN01OZEhVk1D07f3bfCjH_!!4611686018427380553-0-fleamarket.jpg",
+                    "sellerBucketId": "18",
+                    "sellerInBuyBucketId": "1",
+                    "currentFlowVersion": "3",
+                    "categoryId": "50114004",
+                    "idlelabel_unShowTrackParams": "{}"
+                  },
+                  "userNick": "不二优选",
+                  "editTimeStr": "2025-05-28",
+                  "targetType": "item",
+                  "reportUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/cro-report-center/pages/report-type?titleVisible=false&useCusFont=true&pageSourceCode=itemDetail&reportSubjectId=930696442206",
+                  "secuGuide": {
+                    "secuTitle": "什么是闲鱼支付宝担保交易？",
+                    "secuIcon": "https://img.alicdn.com/imgextra/i4/O1CN01rK5Qxk23BR5gvdj8j_!!6000000007217-2-tps-48-48.png",
+                    "secuContent": "担保交易",
+                    "secuBtmContext": "点击查看更多知识",
+                    "secuBtm": "请保证在闲鱼平台进行支付，否则闲鱼将无法保证您交易的安全。",
+                    "secuBtmUrl": "https://alimebot.goofish.com/intl/index.htm?from=vcWV25EkPP",
+                    "secuBody": "https://gw.alicdn.com/mt/TB1V4Q9OVXXXXa7aXXXXXXXXXXX-488-430.png"
+                  },
+                  "showDislike": "true",
+                  "desc": "不二优选·北京"
+                },
+                "render": "Basic_Native_visit_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "nick": "不***选",
+                  "rateTitle": "宝贝评价",
+                  "itemId": "930696442206",
+                  "isMakePriceTabHidden": "true",
+                  "sellerId": "2***3",
+                  "itemStatus": "0",
+                  "showSkuRateModule": "false",
+                  "title": "优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红"
+                },
+                "render": "Basic_Native_bid_comment_1",
+                "key": "normal"
+              }
+            ]
+          },
+          {
+            "layout": "grid",
+            "components": [
+              {
+                "data": {
+                  "itemId": "930696442206",
+                  "itemType": "detailCommonBuy",
+                  "sellerId": "2***3",
+                  "trackParams": {
+                    "medal_id": "xymedal_ecofriendly3",
+                    "icTagsForCep": "[260033, 4694210, 4688450, 4693890, 4694082, 4694146, 4697666, 4697730, 4697794, 4697986, 353986, 612801, 14731, 14155, 9099, 9995, 12171, 9867, 7371, 8459, 4491, 139, 3083, 14603, 16651, 19403, 23115, 26699, 28491, 31947, 33547, 33803, 41035, 44363, 3215426]",
+                    "target_type": "item",
+                    "sellerProIdentity": "playboy",
+                    "idlelabel_bucketId": "5",
+                    "buyerOptions": "",
+                    "target_id": "930696442206",
+                    "sellerInBuyOptions": "gameReportCpvShow|spuGuide|showBuyerPhoneInfoA|intraCityTransportation|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|nearbyLuxury|sellerUpgrade|nearbyBulk|offlineMakePrice|seaMarketChat|nearbyLowValue|normalAttitude|quickQuestionOffline|shopAvatarSuperLike|shareWxMini|skuBannerShow|goodValueShow|skuRateAb|zxTagShow|storeGroupAb|b2cItemDetail|couponSuperLink|skillCertficate|trendyHandbookDx|detailCouponSuperLink|b2cItemDetailAuction|b2cInspectionReportV2|b2cDetail20250709|strictSelectionAskSeller|rigorousItemDetailTag|yanxuanVirtualSoldQuality|yuliB2cNewVersion|itemCircleCard",
+                    "detailSpiVersion": "2",
+                    "itemId": "930696442206",
+                    "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyQuery|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|spuBottomBarItem|showResellList|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|priceReferenceTag|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee|albef_tpp|PROPERTY_TPP|spuBottomBarActionUrl",
+                    "sellerId": "2***3",
+                    "rootChannelCatId": "126866978",
+                    "detailRedirectPublishUrl": "",
+                    "idlelabel_serviceUtParams": "[]",
+                    "channelCatId": "126912060",
+                    "mainPic": "http://img.alicdn.com/bao/uploaded/i1/O1CN01OZEhVk1D07f3bfCjH_!!4611686018427380553-0-fleamarket.jpg",
+                    "sellerBucketId": "18",
+                    "sellerInBuyBucketId": "1",
+                    "currentFlowVersion": "3",
+                    "categoryId": "50114004",
+                    "idlelabel_unShowTrackParams": "{}"
+                  },
+                  "lng": "1***4",
+                  "title": "优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红",
+                  "xianyuhaoNew": "true",
+                  "lat": "3***9"
+                },
+                "render": "Basic_Native_recommend_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "color": "0xFF000000"
+                },
+                "render": "Basic_Native_padding_1",
+                "key": "normal"
+              }
+            ]
+          }
+        ]
+      },
+      "version": "1.0"
+    },
+    "b2cItemDO": {
+      "priceRelativeTags": [],
+      "benefitLabels": [],
+      "priceTextTags": [],
+      "benefitTags": [],
+      "wantBuyCount": "0",
+      "needCollapseTitle": "false",
+      "descRelativeTags": [],
+      "templateId": "0",
+      "activityInfo": {},
+      "commonTags": [],
+      "browseCnt": "0"
+    },
+    "uiCountDownInfoDO": {},
+    "brokerDO": {},
+    "logisticsDO": {},
+    "trackParams": {
+      "medal_id": "xymedal_ecofriendly3",
+      "globalBizCode": null,
+      "item_type": null,
+      "sellerInBuyOptions": "gameReportCpvShow|spuGuide|showBuyerPhoneInfoA|intraCityTransportation|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|nearbyLuxury|sellerUpgrade|nearbyBulk|offlineMakePrice|seaMarketChat|nearbyLowValue|normalAttitude|quickQuestionOffline|shopAvatarSuperLike|shareWxMini|skuBannerShow|goodValueShow|skuRateAb|zxTagShow|storeGroupAb|b2cItemDetail|couponSuperLink|skillCertficate|trendyHandbookDx|detailCouponSuperLink|b2cItemDetailAuction|b2cInspectionReportV2|b2cDetail20250709|strictSelectionAskSeller|rigorousItemDetailTag|yanxuanVirtualSoldQuality|yuliB2cNewVersion|itemCircleCard",
+      "detailType": "detailCommonBuy",
+      "sellerId": "2***3",
+      "rootChannelCatId": "126866978",
+      "idlelabel_serviceUtParams": "[]",
+      "channelCatId": "126912060",
+      "mainPic": "http://img.alicdn.com/bao/uploaded/i1/O1CN01OZEhVk1D07f3bfCjH_!!4611686018427380553-0-fleamarket.jpg",
+      "sellerInBuyBucketId": "1",
+      "currentFlowVersion": "3",
+      "idlelabel_unShowTrackParams": "{}",
+      "icTagsForCep": "[260033, 4694210, 4688450, 4693890, 4694082, 4694146, 4697666, 4697730, 4697794, 4697986, 353986, 612801, 14731, 14155, 9099, 9995, 12171, 9867, 7371, 8459, 4491, 139, 3083, 14603, 16651, 19403, 23115, 26699, 28491, 31947, 33547, 33803, 41035, 44363, 3215426]",
+      "target_type": "item",
+      "sellerProIdentity": "playboy",
+      "idlelabel_bucketId": "5",
+      "buyerOptions": "",
+      "target_id": "930696442206",
+      "detailSpiVersion": "2",
+      "ab_type": "new_detailCommonBuy",
+      "itemId": "930696442206",
+      "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyQuery|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|spuBottomBarItem|showResellList|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|priceReferenceTag|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee|albef_tpp|PROPERTY_TPP|spuBottomBarActionUrl",
+      "detailRedirectPublishUrl": "",
+      "xnamespace": null,
+      "xGlobalBizCode": null,
+      "namespace": null,
+      "sellerBucketId": "18",
+      "categoryId": "50114004"
+    },
+    "seafoodDO": {},
+    "configInfo": {
+      "showResellList": "true",
+      "jumpXyh": "true",
+      "hitIdleFishCreditAb": "true",
+      "currentFlowVersion": "3",
+      "paymentGuideMask": "true"
+    },
+    "serverTime": "2026-09-08 20:00:32",
+    "flexibleJobInfoDO": {},
+    "buyerDO": {
+      "buyQualificationActList": [],
+      "isFirstOrderUser": "false",
+      "isNewUserIn7Day": "false",
+      "favored": "false"
+    },
+    "needDecryptKeys": [
+      "sellerDO.nick",
+      "flowData.body.sections.components.data.sellerId",
+      "sellerDO.uniqueName",
+      "flowData.body.sections.components.data.nick",
+      "flowData.body.sections.components.data.gameUserInfo.userInfo.nick",
+      "trackParams.sellerId",
+      "sellerDO.identityTags.link",
+      "flowData.floating.components.data.sellerId",
+      "flowData.body.sections.components.data.userInfo.sellerId",
+      "flowData.floating.components.data.nick",
+      "flowData.body.sections.components.data.uniqueName",
+      "flowData.body.sections.components.data.trackParams.sellerId",
+      "flowData.body.sections.components.data.waterMark",
+      "flowData.floating.components.data.userId",
+      "flowData.body.sections.components.data.lat",
+      "flowData.body.sections.components.data.lng",
+      "flowData.body.sections.components.data.metaInfo.waterMark",
+      "itemDO.trackParams.sellerId",
+      "flowData.body.sections.components.data.userInfo.nick"
+    ],
+    "itemDO": {
+      "noPicItem": "false",
+      "soldCnt": "0",
+      "shareData": {
+        "shareReportUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/cro-report-center/pages/report-type?titleVisible=false&useCusFont=true&pageSourceCode=itemDetail&reportSubjectId=930696442206",
+        "shareHelpUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/customer-service-hall/pages/home?loadingVisible=false&fromType=ITEM_DETAIL&from=kVNljbMN5B&item_id=930696442206",
+        "shareInfoJsonString": "{\"canShareToWxMini\":false,\"contentParams\":{\"headerParams\":{\"subTitle\":\"北京\",\"title\":\"不二优选\",\"userAvatar\":\"http://img.alicdn.com/bao/uploaded/i3/O1CN01YmHJQ51D07e8F4g0n_!!4611686018427380553-0-mtopupload.jpg\"},\"mainParams\":{\"content\":\"优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红格纹设计，胸前有米奇刺绣图案。纯棉面料，舒适透气。衣服成色很好，几乎全新。因衣柜太满所以出售，二手物品售出不退不换。偏远地区不包邮，感兴趣的朋友可以点击\\\"我想要\\\"私聊哦～\",\"contentMaxLine\":\"2\",\"extra\":{\"descRelativeTags\":[],\"priceRelativeTags\":[{\"additionMap\":{},\"bgColor\":\"#FFFFFF\",\"borderColor\":\"#FFFFFF\",\"order\":99,\"text\":\"包邮\",\"textColor\":\"#1F1F1F\",\"trackParams\":{\"tagType\":\"baoyou\"}}],\"soldPrice\":\"58\"},\"images\":[{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i3/O1CN01VjYdxZ1D07epZCAic_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i3/O1CN011ymmS71D07eraLWUy_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i3/O1CN01iMZptj1D07eo2LN7d_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i1/O1CN01QIiLvR1D07epmupHp_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i4/O1CN01kAuyxs1D07eqpjaEP_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i1/O1CN01pxIlil1D07erHQodh_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1440\"},{\"height\":\"1440\",\"image\":\"http://img.alicdn.com/bao/uploaded/i4/O1CN017P6tPn1D07f1rVxFF_!!4611686018427380553-53-fleamarket.heic\",\"width\":\"1080\"}]}},\"customIcons\":[{\"icon\":\"https://gw.alicdn.com/imgextra/i2/O1CN01TsFkDX20ToHXwZ7Gw_!!6000000006851-2-tps-144-144.png\",\"key\":\"idlefish-assistant\",\"title\":\"帮助与客服\",\"type\":\"link\",\"url\":\"https://h5.m.goofish.com/wow/moyu/moyu-project/customer-service-hall/pages/home?loadingVisible=false&fromType=ITEM_DETAIL&from=kVNljbMN5B&item_id=930696442206\"}],\"disabledChannel\":\"fish-assistant\",\"sceneId\":\"930696442206\",\"sceneType\":\"detail\",\"shareMessageCard\":{\"coverImg\":\"\",\"subTitle\":\"\",\"title\":\"\"},\"url\":\"fleamarket://awesome_detail?itemId=930696442206&hitNativeDetail=true&flutter=true&needNotPreGet=true&ignoreMiddle=true&id=930696442206\",\"version\":2}"
+      },
+      "templateId": "0",
+      "worthBuySimilarFeeds": "false",
+      "trackParams": {
+        "itemId": "930696442206",
+        "sellerId": "2***3",
+        "idlelabel_serviceUtParams": "[]",
+        "sellerBucketId": "18",
+        "idlelabel_bucketId": "5",
+        "idlelabel_unShowTrackParams": "{}"
+      },
+      "userInputTopics": [],
+      "videoPlayInfo": {
+        "major": "true",
+        "ld320pUrl": "https://cloud.video.taobao.com/play/u/2217739150153/p/1/e/6/t/1/d/ld/522569075249.mp4",
+        "sd480pUrl": "https://cloud.video.taobao.com/play/u/2217739150153/p/1/e/6/t/1/d/sd/522569075249.mp4",
+        "videoId": "556747285",
+        "widthSize": "1080",
+        "heightSize": "1920",
+        "type": "10000",
+        "mtsVid": "522569075249",
+        "url": "http://img.alicdn.com/bao/uploaded/i1/O1CN01OZEhVk1D07f3bfCjH_!!4611686018427380553-0-fleamarket.jpg",
+        "labels": [],
+        "playUrl": "http://xianyu-video.alicdn.com/aus/xianyu_item/1964527310/5cb4058424e14a5da168635924625b29.mp4"
+      },
+      "soldPrice": "58",
+      "itemLabelExtList": [
+        {
+          "valueId": "126912060",
+          "valueText": "女士衬衫",
+          "channelCateId": "126912060",
+          "labelId": "90810880",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "propertyText": "分类",
+          "text": "女士衬衫",
+          "propertyId": "-10000",
+          "properties": "-10000##分类:126912060##女士衬衫"
+        },
+        {
+          "valueId": "29527",
+          "valueText": "Uniqlo/优衣库",
+          "channelCateId": "126912060",
+          "labelId": "309",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "propertyText": "品牌",
+          "text": "Uniqlo/优衣库",
+          "propertyId": "20000",
+          "properties": "20000##品牌:29527##Uniqlo/优衣库"
+        },
+        {
+          "valueId": "15994218",
+          "valueText": "几乎全新",
+          "channelCateId": "126912060",
+          "labelId": "15443458",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "propertyText": "成色",
+          "text": "几乎全新",
+          "propertyId": "20879",
+          "properties": "20879##成色:15994218##几乎全新"
+        },
+        {
+          "valueId": "28315",
+          "valueText": "M",
+          "channelCateId": "126912060",
+          "labelId": "126",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "propertyText": "尺码",
+          "text": "M",
+          "propertyId": "20509",
+          "properties": "20509##尺码:28315##M"
+        },
+        {
+          "valueId": "31341",
+          "valueText": "春秋季",
+          "channelCateId": "126912060",
+          "labelId": "125226900",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "propertyText": "适用季节",
+          "text": "春秋季",
+          "propertyId": "122216345",
+          "properties": "122216345##适用季节:31341##春秋季"
+        },
+        {
+          "valueId": "28342",
+          "valueText": "纯棉",
+          "channelCateId": "126912060",
+          "labelId": "3260",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "propertyText": "面料",
+          "text": "纯棉",
+          "propertyId": "20551",
+          "properties": "20551##面料:28342##纯棉"
+        },
+        {
+          "valueId": "29444",
+          "valueText": "长袖",
+          "channelCateId": "126912060",
+          "labelId": "310",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "propertyText": "袖长",
+          "text": "长袖",
+          "propertyId": "122216348",
+          "properties": "122216348##袖长:29444##长袖"
+        }
+      ],
+      "qualityUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01yU5CER1wslIj9m7bv_!!6000000006364-2-tps-252-60.png",
+      "tradeBanners": [],
+      "browseCnt": "2232",
+      "priceRelativeTags": [
+        {
+          "borderColor": "#FFFFFF",
+          "trackParams": {
+            "tagType": "baoyou"
+          },
+          "bgColor": "#FFFFFF",
+          "text": "包邮",
+          "additionMap": {},
+          "textColor": "#1F1F1F",
+          "order": "99"
+        }
+      ],
+      "priceUnit": "",
+      "imageInfos": [
+        {
+          "major": "false",
+          "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN01VjYdxZ1D07epZCAic_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+          "widthSize": "1440",
+          "heightSize": "1920",
+          "type": "0",
+          "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN01VjYdxZ1D07epZCAic_!!4611686018427380553-53-fleamarket.heic",
+          "extraInfo": {
+            "raw": "false",
+            "isT": "false",
+            "isH": "false"
+          },
+          "labels": []
+        },
+        {
+          "major": "false",
+          "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN011ymmS71D07eraLWUy_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+          "widthSize": "1440",
+          "heightSize": "1920",
+          "type": "0",
+          "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN011ymmS71D07eraLWUy_!!4611686018427380553-53-fleamarket.heic",
+          "extraInfo": {
+            "raw": "false",
+            "isT": "false",
+            "isH": "false"
+          },
+          "labels": []
+        },
+        {
+          "major": "false",
+          "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi3%2FO1CN01iMZptj1D07eo2LN7d_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+          "widthSize": "1440",
+          "heightSize": "1920",
+          "type": "0",
+          "url": "http://img.alicdn.com/bao/uploaded/i3/O1CN01iMZptj1D07eo2LN7d_!!4611686018427380553-53-fleamarket.heic",
+          "extraInfo": {
+            "raw": "false",
+            "isT": "false",
+            "isH": "false"
+          },
+          "labels": []
+        },
+        {
+          "major": "false",
+          "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi1%2FO1CN01QIiLvR1D07epmupHp_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+          "widthSize": "1440",
+          "heightSize": "1920",
+          "type": "0",
+          "url": "http://img.alicdn.com/bao/uploaded/i1/O1CN01QIiLvR1D07epmupHp_!!4611686018427380553-53-fleamarket.heic",
+          "extraInfo": {
+            "raw": "false",
+            "isT": "false",
+            "isH": "false"
+          },
+          "labels": []
+        },
+        {
+          "major": "false",
+          "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi4%2FO1CN01kAuyxs1D07eqpjaEP_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+          "widthSize": "1440",
+          "heightSize": "1920",
+          "type": "0",
+          "url": "http://img.alicdn.com/bao/uploaded/i4/O1CN01kAuyxs1D07eqpjaEP_!!4611686018427380553-53-fleamarket.heic",
+          "extraInfo": {
+            "raw": "false",
+            "isT": "false",
+            "isH": "false"
+          },
+          "labels": []
+        },
+        {
+          "major": "false",
+          "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi1%2FO1CN01pxIlil1D07erHQodh_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+          "widthSize": "1440",
+          "heightSize": "1920",
+          "type": "0",
+          "url": "http://img.alicdn.com/bao/uploaded/i1/O1CN01pxIlil1D07erHQodh_!!4611686018427380553-53-fleamarket.heic",
+          "extraInfo": {
+            "raw": "false",
+            "isT": "false",
+            "isH": "false"
+          },
+          "labels": []
+        },
+        {
+          "major": "false",
+          "photoSearchUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-photo-search/pages/home?kun=true&wh_ttid=native&opaque=false&extra=%7B%22imageInfo%22%3A%7B%22bizCode%22%3A%22idledetail%22%2C%22reqFromPage%22%3A%22idle_detail%22%2C%22source%22%3A%22itempic%22%2C%22url%22%3A%22http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi4%2FO1CN017P6tPn1D07f1rVxFF_%21%214611686018427380553-53-fleamarket.heic_640x640q90.jpg%22%7D%7D",
+          "widthSize": "1080",
+          "heightSize": "1440",
+          "type": "0",
+          "url": "http://img.alicdn.com/bao/uploaded/i4/O1CN017P6tPn1D07f1rVxFF_!!4611686018427380553-53-fleamarket.heic",
+          "extraInfo": {
+            "raw": "true",
+            "isT": "false",
+            "isH": "false"
+          },
+          "labels": []
+        }
+      ],
+      "titleIsUserInput": "false",
+      "recommendTagList": [],
+      "tbSupportTrade": "true",
+      "croControl": [],
+      "itemId": "930696442206",
+      "inChemicalReagentItemPool": "false",
+      "GMT_CREATE_DATE_KEY": "2025-05-28 20:29:51",
+      "charitableItem": "false",
+      "uiItemServiceDOList": [],
+      "pcSupportTrade": "true",
+      "commonTags": [
+        {
+          "borderColor": "ECF9FF",
+          "bgColor": "ECF9FF",
+          "text": "包邮",
+          "additionMap": {},
+          "textColor": "0DAEFF",
+          "order": "99"
+        }
+      ],
+      "desc": "优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红格纹设计，胸前有米奇刺绣图案。纯棉面料，舒适透气。衣服成色很好，几乎全新。因衣柜太满所以出售，二手物品售出不退不换。偏远地区不包邮，感兴趣的朋友可以点击\"我想要\"私聊哦～",
+      "descTagColor": "#FFF58300",
+      "itemType": "detailCommonBuy",
+      "simpleItem": "true",
+      "originalPrice": "0",
+      "transportFee": "0.00",
+      "itemStatusStr": "在线",
+      "cpvLabels": [
+        {
+          "valueObject": "29527",
+          "valueId": "29527",
+          "propertyName": "品牌",
+          "valueName": "Uniqlo/优衣库",
+          "propertyId": "20000",
+          "url": "https://h5.m.goofish.com/wow/moyu/moyu-project/shopping-guide/pages/home?titleVisible=false&topicId=12240"
+        },
+        {
+          "valueObject": "15994218",
+          "valueId": "15994218",
+          "propertyName": "成色",
+          "valueName": "几乎全新",
+          "propertyId": "20879"
+        },
+        {
+          "valueObject": "28315",
+          "valueId": "28315",
+          "propertyName": "尺码",
+          "valueName": "M",
+          "propertyId": "20509"
+        },
+        {
+          "valueObject": "31341",
+          "valueId": "31341",
+          "propertyName": "适用季节",
+          "valueName": "春秋季",
+          "propertyId": "122216345"
+        },
+        {
+          "valueObject": "28342",
+          "valueId": "28342",
+          "propertyName": "面料",
+          "valueName": "纯棉",
+          "propertyId": "20551"
+        },
+        {
+          "valueObject": "29444",
+          "valueId": "29444",
+          "propertyName": "袖长",
+          "valueName": "长袖",
+          "propertyId": "122216348"
+        }
+      ],
+      "richTextDesc": "{\"type\":null,\"children\":[{\"type\":\"Element\",\"children\":[{\"type\":\"Text\",\"text\":\"优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红格纹设计，胸前有米奇刺绣图案。纯棉面料，舒适透气。衣服成色很好，几乎全新。因衣柜太满所以出售，二手物品售出不退不换。偏远地区不包邮，感兴趣的朋友可以点击\\\"我想要\\\"私聊哦～\",\"properties\":{}}],\"properties\":{}}],\"properties\":{},\"version\":\"1.0\"}",
+      "wantCntUnit": "人想要",
+      "title": "优衣库迪士尼联名款格子衬衫，M码，适合春秋季节穿着。深蓝白红",
+      "promotionPriceDO": {
+        "reserved": "false",
+        "additionMap": {}
+      },
+      "interactFavorCnt": "0",
+      "itemStatus": "0",
+      "inUAVItemPool": "false",
+      "charitableTag": {
+        "iconHeight": "60",
+        "iconWidth": "204",
+        "iconUrl": "http://gw.alicdn.com/mt/TB1FjjLdkcx_u4jSZFlXXXnUFXa-204-60.png"
+      },
+      "descRelativeTags": [],
+      "spuTopics": [],
+      "defaultPrice": "false",
+      "quantity": "1",
+      "priceTextTags": [],
+      "bargained": "false",
+      "collectCnt": "0",
+      "favorCnt": "0",
+      "reportUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/cro-report-center/pages/report-type?titleVisible=false&useCusFont=true&pageSourceCode=itemDetail&reportSubjectId=930696442206",
+      "cpvTopics": [
+        {
+          "trackParams": {
+            "is_useradd": "0",
+            "theme_id": "12240",
+            "theme_name": "Uniqlo/优衣库",
+            "theme_type": "2"
+          },
+          "pvList": [
+            {
+              "valueId": "29527",
+              "propertyId": "20000"
+            }
+          ],
+          "name": "Uniqlo/优衣库",
+          "id": "12240",
+          "targetUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/shopping-guide/pages/home?titleVisible=false&topicId=12240"
+        }
+      ],
+      "gmtCreate": "1748435391000",
+      "tradeAccessType": "1",
+      "wantCnt": "0",
+      "defaultPicture": "false",
+      "secuGuide": {
+        "secuTitle": "什么是闲鱼支付宝担保交易？",
+        "secuIcon": "https://img.alicdn.com/imgextra/i4/O1CN01rK5Qxk23BR5gvdj8j_!!6000000007217-2-tps-48-48.png",
+        "secuContent": "担保交易",
+        "secuBtmContext": "点击查看更多知识",
+        "secuBtm": "请保证在闲鱼平台进行支付，否则闲鱼将无法保证您交易的安全。",
+        "secuBtmUrl": "https://alimebot.goofish.com/intl/index.htm?from=vcWV25EkPP",
+        "secuBody": "https://gw.alicdn.com/mt/TB1V4Q9OVXXXXa7aXXXXXXXXXXX-488-430.png"
+      },
+      "itemCatDTO": {
+        "catId": "50114004",
+        "leafId": "702",
+        "rootChannelCatId": "126866978",
+        "sugShow": "false",
+        "level3ChannelCatId": "126918078",
+        "tbCatId": "162104",
+        "channelCatId": "126912060",
+        "level2ChannelCatId": "126914057"
+      },
+      "categoryId": "50114004"
+    },
+    "b2cSellerDO": {
+      "sellerInfoTagsV2": [],
+      "sellerStatisticsInfoList": [],
+      "yxpPro": "false",
+      "identityTags": [],
+      "levelTags": [],
+      "sellerBizTags": [],
+      "userRegDay": "0",
+      "sellerServiceInfoTagsV2": [],
+      "sellerInfoTags": []
+    },
+    "sellerDO": {
+      "newGoodRatioRate": "94%",
+      "sellerInfoTagsV2": [],
+      "aoiType": "0",
+      "city": "北京",
+      "signature": "二手成衣，衣服都是把关过的，放心购买不二是一种态度",
+      "userRegDay": "879",
+      "hasSoldNumInteger": "559",
+      "playboy": "true",
+      "publishCity": "北京",
+      "nick": "不***选",
+      "sellerStatisticsInfoList": [],
+      "sellerId": "2217739150153",
+      "idleFishCreditTag": {
+        "iconHeight": "36",
+        "trackParams": {
+          "sellerLevel": "5",
+          "pageUserId": "2217739150153"
+        },
+        "iconWidth": "171",
+        "iconUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01YTUhW41aSHETi0kIJ_!!6000000003328-2-tps-228-48.png",
+        "additionMap": {},
+        "order": "99"
+      },
+      "lastVisitTime": "2小时前来过",
+      "replyIn24hRatioDouble": "0.7526",
+      "avgReply30dLong": "51",
+      "sellerBizTags": [],
+      "sellerServiceInfoTagsV2": [],
+      "replyRatio24h": "75%",
+      "replyInterval": "51分钟",
+      "registerTime": "1712877086000",
+      "portraitUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01YmHJQ51D07e8F4g0n_!!4611686018427380553-0-mtopupload.jpg",
+      "sellerTypeString": null,
+      "desensitizationNick": "不***选",
+      "playboyIconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01j69lEo1U1LzoFCyNu_!!6000000002457-2-tps-162-48.png",
+      "remarkDO": {
+        "sellerDefaultRemarkCnt": "51",
+        "sellerGoodRemarkCnt": "101",
+        "sellerBadRemarkCnt": "6"
+      },
+      "zhimaAuth": "true",
+      "sellerItems": [
+        {
+          "itemId": "975955330277",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "lfId": "704",
+            "newComment": "1",
+            "pSourceId": "publishSuccessAgain",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603398827",
+            "cM": "0",
+            "playboy": "1",
+            "bargain": "1",
+            "pubV": "7.20.81",
+            "freeShipping": "1",
+            "uniqueCode": "1757842484037776",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "extra": "1",
+            "ends": "1758972754",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "nfr_policy": "false",
+            "editorVersion": "0.0.1",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126912046",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "162201",
+            "aigc": "1",
+            "firstPrice": "99.00",
+            "noBargain": "0",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948194559",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%210975955330277%2111808840879",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=975955330277&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01AxfDfI1D07gi1NFWu_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥45",
+          "title": "OTHERMIX绿色条纹阔腿裤，全新带吊牌。面料采用89.2",
+          "type": "1"
+        },
+        {
+          "itemId": "975435355579",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "lfId": "693",
+            "newComment": "1",
+            "pSourceId": "publishSuccessAgain",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603398901",
+            "cM": "0",
+            "playboy": "1",
+            "bargain": "1",
+            "pubV": "7.20.81",
+            "freeShipping": "1",
+            "uniqueCode": "1757842193583783",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "extra": "1",
+            "ends": "1758972681",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "nfr_policy": "false",
+            "editorVersion": "0.0.1",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126916001",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "50000671",
+            "aigc": "1",
+            "firstPrice": "45.00",
+            "noBargain": "0",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948194655",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%210975435355579%2112686959904",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=975435355579&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01EFnFWn1D07gjV3YgB_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥45",
+          "title": "HOO黑色短款上衣，全新带吊牌。面料100%聚酯纤维，收腰设",
+          "type": "1"
+        },
+        {
+          "itemId": "977312392212",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "lfId": "704",
+            "newComment": "1",
+            "pSourceId": "publishSuccessAgain",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603399089",
+            "cM": "0",
+            "playboy": "1",
+            "bargain": "1",
+            "pubV": "7.20.81",
+            "freeShipping": "1",
+            "uniqueCode": "1757842659651316",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "extra": "1",
+            "ends": "1758972993",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "nfr_policy": "false",
+            "editorVersion": "0.0.1",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126912046",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "162201",
+            "aigc": "1",
+            "firstPrice": "49.00",
+            "noBargain": "0",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948194261",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%210977312392212%2112788536504",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=977312392212&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01B3mRiO1D07gjkD8YY_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥49",
+          "title": "ANNANDEL曼德斑马纹休闲裤，黑白条纹设计，松紧腰带暗纹",
+          "type": "1"
+        },
+        {
+          "itemId": "975957658528",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "newComment": "1",
+            "pSourceId": "main_publish_item",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603399138",
+            "cM": "0",
+            "playboy": "1",
+            "bargain": "1",
+            "pubV": "7.20.81",
+            "freeShipping": "1",
+            "uniqueCode": "175784337456758",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "extra": "1",
+            "ends": "1758973486",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "nfr_policy": "false",
+            "editorVersion": "0.0.1",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126860581",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "1629",
+            "aigc": "1",
+            "firstPrice": "99.00",
+            "noBargain": "0",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948194007",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%210975957658528%211451730375",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=975957658528&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01DYItRS1D07gisOq3y_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥99",
+          "title": "OTHERMIX竖条纹连衣裙，白色条纹设计，七分袖，裙摆荷叶",
+          "type": "1"
+        },
+        {
+          "itemId": "976936044540",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "lfId": "1808",
+            "newComment": "1",
+            "pSourceId": "main_publish_item",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603399097",
+            "cM": "0",
+            "playboy": "1",
+            "pubV": "7.20.81",
+            "bargain": "1",
+            "freeShipping": "1",
+            "uniqueCode": "175766537042413",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "ends": "1758875097",
+            "extra": "1",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "editorVersion": "0.0.1",
+            "nfr_policy": "false",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126914056",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "50011123",
+            "aigc": "1",
+            "firstPrice": "99.00",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948217326",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%210976936044540%2113204889876",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=976936044540&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN011GHUjM1D07ghhiVZw_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥99",
+          "title": "Trendiano黑白条纹短袖衬衫，L码，全新。面料采用61",
+          "type": "1"
+        },
+        {
+          "itemId": "972024406545",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "newComment": "1",
+            "pSourceId": "publishSuccessAgain",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603399253",
+            "cM": "0",
+            "playboy": "1",
+            "pubV": "7.20.81",
+            "bargain": "1",
+            "freeShipping": "1",
+            "uniqueCode": "175681668155088",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "ends": "1758026392",
+            "extra": "1",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "editorVersion": "0.0.1",
+            "nfr_policy": "false",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126860581",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "1629",
+            "aigc": "1",
+            "firstPrice": "199.00",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948233469",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%210972024406545%2112624480525",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=972024406545&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01gHAlue1D07gZy6gEM_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥199",
+          "title": "香云纱连衣裙，3XL码，上身黑色下摆橘色拼接设计，精美花卉图",
+          "type": "1"
+        },
+        {
+          "itemId": "1003997199133",
+          "attributeMap": {
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "lfId": "2016",
+            "newComment": "1",
+            "pSourceId": "publishSuccessAgain",
+            "proPolishTime": "1788603398817",
+            "cM": "0",
+            "playboy": "1",
+            "bargain": "1",
+            "pubV": "7.20.81",
+            "freeShipping": "1",
+            "uniqueCode": "1766240127287949",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,2157506,4502530",
+            "extra": "1",
+            "ends": "1767449555",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "nfr_policy": "false",
+            "editorVersion": "0.0.1",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126856782",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "50014785",
+            "gmtShelf": "1766239955311",
+            "aigc": "1",
+            "firstPrice": "299.00",
+            "topicIsSysH": "1",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%2101003997199133%2111026476420"
+          },
+          "link": "fleamarket://awesome_detail?itemId=1003997199133&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i4/O1CN01auhJ8v1D07i6nyiXQ_!!4611686018427380553-0-fleamarket.jpg",
+          "text": "¥999",
+          "title": "THE NORTH FACE北面UE先锋设计冲锋衣，M码（亚",
+          "type": "1"
+        },
+        {
+          "itemId": "972719021870",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "lfId": "1804",
+            "newComment": "1",
+            "pSourceId": "publishSuccessAgain",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603399305",
+            "cM": "0",
+            "playboy": "1",
+            "pubV": "7.20.81",
+            "bargain": "1",
+            "freeShipping": "1",
+            "uniqueCode": "175681601704581",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "ends": "1758025719",
+            "extra": "1",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "editorVersion": "0.0.1",
+            "nfr_policy": "false",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126860480",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "50010402",
+            "aigc": "1",
+            "firstPrice": "39.00",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948233624",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%210972719021870%2114271164604",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=972719021870&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i4/O1CN01TBx3Il1D07ga7JgBP_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥39",
+          "title": "Semir/森马男士短袖polo衫，M码，红色主体配深蓝领口",
+          "type": "1"
+        },
+        {
+          "itemId": "971510159646",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "newComment": "1",
+            "pSourceId": "publishSuccessAgain",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603399520",
+            "cM": "0",
+            "playboy": "1",
+            "pubV": "7.20.81",
+            "bargain": "1",
+            "freeShipping": "1",
+            "uniqueCode": "1756816959274132",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "ends": "1758026670",
+            "extra": "1",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "130529",
+            "poiId": "B0FFGPSMLD",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "editorVersion": "0.0.1",
+            "nfr_policy": "false",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126860581",
+            "iasId": "33496",
+            "poiName": "祥美茗都小区",
+            "tbCatId": "1629",
+            "aigc": "1",
+            "firstPrice": "88.00",
+            "48hs_policy": "false",
+            "aoiName": "祥美茗都小区",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948253527",
+            "imgVer": "1",
+            "aoiId": "B0FFGPSMLD",
+            "rdp": "desc%2Ficoss%210971510159646%2112974309259",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=971510159646&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01eYnAfl1D07gauvFnc_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥88",
+          "title": "BAZAR de Christian Lacroix x S",
+          "type": "1"
+        },
+        {
+          "itemId": "973837707545",
+          "attributeMap": {
+            "cpsFeeRate": "0.03",
+            "24hs_policy": "false",
+            "sugShow": "0",
+            "iM": "1",
+            "onlyInSameCity": "0",
+            "lfId": "704",
+            "newComment": "1",
+            "pSourceId": "PubSucceedAgain",
+            "cpsSourceRef": "0",
+            "proPolishTime": "1788603399238",
+            "cM": "0",
+            "playboy": "1",
+            "bargain": "1",
+            "pubV": "7.20.81",
+            "freeShipping": "1",
+            "uniqueCode": "175742399653918",
+            "tbCatIdSource": "1",
+            "supportFreight": "1",
+            "icTag": "353986,3469442,2157506,4502530",
+            "extra": "1",
+            "ends": "1758599176",
+            "cpsVisibleArea": "*",
+            "cainiaoDivision": "110101",
+            "biz_line": "normalbuynow",
+            "mnfr": "1",
+            "itemCpsServing": "1",
+            "editorVersion": "0.0.1",
+            "nfr_policy": "false",
+            "pScene": "mainPublish",
+            "iaId": "34031",
+            "cCatId": "126912046",
+            "iasId": "33496",
+            "tbCatId": "162201",
+            "aigc": "1",
+            "firstPrice": "88.00",
+            "noBargain": "0",
+            "48hs_policy": "false",
+            "simItem": "1",
+            "borrow": "0",
+            "cpsInfoVersion": "1764948217595",
+            "imgVer": "1",
+            "rdp": "desc%2Ficoss%210973837707545%2111018952590",
+            "cpsFeeSplitRateRef": "sr_90_10"
+          },
+          "link": "fleamarket://awesome_detail?itemId=973837707545&hitNativeDetail=true&flutter=true&needNotPreGet=true&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01LQgW6b1D07gfDL5m7_!!4611686018427380553-53-fleamarket.heic",
+          "text": "¥88",
+          "title": "GIRDEAR卡其色休闲裤，36码，适合四季穿着。裤型修身显",
+          "type": "1"
+        },
+        {
+          "link": "fleamarket://personalPage?userid=2217739150153",
+          "fontSize": "12.0",
+          "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01xb9Lx31ZLZQwXccBK_!!6000000003178-2-tps-276-276.png",
+          "type": "3"
+        }
+      ],
+      "sellerInfoTags": [
+        {
+          "iconHeight": "32",
+          "iconWidth": "108",
+          "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01j69lEo1U1LzoFCyNu_!!6000000002457-2-tps-162-48.png",
+          "additionMap": {},
+          "order": "99"
+        }
+      ],
+      "itemCount": "3085",
+      "zhimaLevelInfo": {
+        "levelCode": "B",
+        "levelName": "信用优秀"
+      },
+      "uniqueName": "不***选",
+      "yxpPro": "false",
+      "identityTags": [
+        {
+          "iconHeight": "32",
+          "trackParams": {
+            "appearTrackName": "",
+            "trackCtrlName": "Button-Shiren"
+          },
+          "iconWidth": "32",
+          "link": "h***1",
+          "iconUrl": "https://gw.alicdn.com/bao/uploaded/TB1E3aKPFXXXXcKXpXXXXXXXXXX-32-32.png",
+          "text": "实人认证已通过",
+          "type": "1",
+          "additionMap": {},
+          "order": "99"
+        }
+      ],
+      "levelTags": [
+        {
+          "iconHeight": "32",
+          "iconWidth": "128",
+          "iconUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01GoAHKO1R9eCMlFW8j_!!6000000002069-2-tps-195-48.png",
+          "additionMap": {},
+          "order": "99"
+        },
+        {
+          "iconHeight": "36",
+          "trackParams": {
+            "sellerLevel": "5",
+            "pageUserId": "2217739150153"
+          },
+          "iconWidth": "171",
+          "iconUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01YTUhW41aSHETi0kIJ_!!6000000003328-2-tps-228-48.png",
+          "additionMap": {},
+          "order": "99"
+        }
+      ]
+    },
+    "dataType": "1",
+    "b2cUiIdleDetailConfigDO": {
+      "enableShowOthersSellInfoGuide": "true",
+      "needGroupInfo": "true",
+      "needItemGuideInfo": "true",
+      "supportTradeTips": "false",
+      "showSellerOtherItems": "true",
+      "enableShowQuickAskExp": "true",
+      "needFishPoolInfo": "true",
+      "enableShowBidInfo": "true",
+      "needShirenInfo": "true",
+      "needZhimaInfo": "true",
+      "enableShowSellSimple": "true",
+      "extendUserWantUnit": "false",
+      "enableNfgcService": "true",
+      "showManager": "true",
+      "extendPriceUnit": "false",
+      "enableJumpXyh": "true",
+      "extendDescItemType": "false",
+      "extendSellerStatisticInfo": "false",
+      "enableNfrService": "true",
+      "enableSdrService": "true",
+      "enableSellerVipLogo": "true",
+      "extendSellerInfoTags": "false",
+      "hit202109NewDetail": "false",
+      "extendSellerCertificate": "false",
+      "extendSellerLevelTags": "false"
+    },
+    "commerceDO": {},
+    "charityLuxuryDO": {},
+    "uiTemplateDO": {},
+    "bizFlagDO": {
+      "hitCountBanner": "true"
+    },
+    "uiPostDO": {},
+    "interactDO": {},
+    "skillServiceDO": {}
+  },
+  "recordTime": null
+}

@@ -1,0 +1,284 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:05.232678+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:39",
+  "code": 0,
+  "message": null,
+  "data": {
+    "comments": [
+      {
+        "at_users": [],
+        "biz_label": {
+          "group_invite": "unknown",
+          "product_review": false,
+          "rich_text": "unknown"
+        },
+        "collected": false,
+        "comment_type": 0,
+        "content": "估计又系个假号[笑哭R]",
+        "downvoted": false,
+        "friend_liked_msg": "",
+        "hidden": false,
+        "id": "65bf6392000000000800b405",
+        "like_count": 161,
+        "liked": false,
+        "note_id": "65bf5360000000002c03f684",
+        "score": 0,
+        "share_strategy": 0,
+        "show_tags": [],
+        "show_tags_v2": [],
+        "show_type": "common",
+        "status": 3,
+        "target_comment": {
+          "id": "65bf56d3000000000803f4ec",
+          "status": 0,
+          "user": {
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30rmoae6j2g5g5o6poeg08lrqd2p83no?imageView2/2/w/120/format/jpg",
+            "level": {
+              "image": ""
+            },
+            "nickname": "豪",
+            "red_id": "9530496503",
+            "userid": "a5c7ddac47f1c1d8927d630bf68c0"
+          }
+        },
+        "time": 1707041682,
+        "translation_strategy": 10,
+        "user": {
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
+          "level": {
+            "image": ""
+          },
+          "nickname": "榴莲在摩天轮",
+          "red_id": "371915976",
+          "userid": "aed4b890dd64525f862ca70b97b7c"
+        }
+      },
+      {
+        "at_users": [],
+        "biz_label": {
+          "group_invite": "unknown",
+          "product_review": false,
+          "rich_text": "unknown"
+        },
+        "collected": false,
+        "comment_type": 0,
+        "content": "别胡说吧…去年媒体当面采访还问她为什么开小红书，她也说之前答应了粉丝要开的…本人都官宣的号怎么到你这里就变假号了[石化R]",
+        "downvoted": false,
+        "friend_liked_msg": "",
+        "hidden": false,
+        "id": "65bf659700000000080142ec",
+        "like_count": 44,
+        "liked": false,
+        "note_id": "65bf5360000000002c03f684",
+        "score": 0,
+        "share_strategy": 0,
+        "show_tags": [],
+        "show_tags_v2": [],
+        "show_type": "common",
+        "status": 0,
+        "target_comment": {
+          "id": "65bf6392000000000800b405",
+          "status": 3,
+          "user": {
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
+            "level": {
+              "image": ""
+            },
+            "nickname": "榴莲在摩天轮",
+            "red_id": "371915976",
+            "userid": "aed4b890dd64525f862ca70b97b7c"
+          }
+        },
+        "time": 1707042199,
+        "translation_strategy": 10,
+        "user": {
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg",
+          "level": {
+            "image": ""
+          },
+          "nickname": "喜欢唱跳rap写信",
+          "red_id": "1635985618",
+          "userid": "a4e2a77823960e971e924ae056d0f"
+        }
+      },
+      {
+        "at_users": [],
+        "biz_label": {
+          "group_invite": "unknown",
+          "product_review": false,
+          "rich_text": "unknown"
+        },
+        "collected": false,
+        "comment_type": 0,
+        "content": "你自己搜下有几个咯[微笑R]",
+        "downvoted": false,
+        "friend_liked_msg": "",
+        "hidden": false,
+        "id": "65bf65dc000000000803286b",
+        "like_count": 2,
+        "liked": false,
+        "note_id": "65bf5360000000002c03f684",
+        "score": 0,
+        "share_strategy": 0,
+        "show_tags": [],
+        "show_tags_v2": [],
+        "show_type": "common",
+        "status": 3,
+        "target_comment": {
+          "id": "65bf659700000000080142ec",
+          "status": 0,
+          "user": {
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg",
+            "level": {
+              "image": ""
+            },
+            "nickname": "喜欢唱跳rap写信",
+            "red_id": "1635985618",
+            "userid": "a4e2a77823960e971e924ae056d0f"
+          }
+        },
+        "time": 1707042268,
+        "translation_strategy": 10,
+        "user": {
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
+          "level": {
+            "image": ""
+          },
+          "nickname": "榴莲在摩天轮",
+          "red_id": "371915976",
+          "userid": "aed4b890dd64525f862ca70b97b7c"
+        }
+      },
+      {
+        "at_users": [],
+        "biz_label": {
+          "group_invite": "unknown",
+          "product_review": false,
+          "rich_text": "unknown"
+        },
+        "collected": false,
+        "comment_type": 0,
+        "content": "她打tag也写了美斯啊…而且正文写梅西没问题吧？迁就内地广东以外的网友",
+        "downvoted": false,
+        "friend_liked_msg": "",
+        "hidden": false,
+        "id": "65bf65ff000000000803cfe8",
+        "like_count": 40,
+        "liked": false,
+        "note_id": "65bf5360000000002c03f684",
+        "score": 0,
+        "share_strategy": 0,
+        "show_tags": [],
+        "show_tags_v2": [],
+        "show_type": "common",
+        "status": 0,
+        "target_comment": {
+          "id": "65bf56d3000000000803f4ec",
+          "status": 0,
+          "user": {
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo30rmoae6j2g5g5o6poeg08lrqd2p83no?imageView2/2/w/120/format/jpg",
+            "level": {
+              "image": ""
+            },
+            "nickname": "豪",
+            "red_id": "9530496503",
+            "userid": "a5c7ddac47f1c1d8927d630bf68c0"
+          }
+        },
+        "time": 1707042303,
+        "translation_strategy": 10,
+        "user": {
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg",
+          "level": {
+            "image": ""
+          },
+          "nickname": "喜欢唱跳rap写信",
+          "red_id": "1635985618",
+          "userid": "a4e2a77823960e971e924ae056d0f"
+        }
+      },
+      {
+        "at_users": [],
+        "biz_label": {
+          "group_invite": "unknown",
+          "product_review": false,
+          "rich_text": "unknown"
+        },
+        "collected": false,
+        "comment_type": 0,
+        "content": "拜托她就这一个小红书号…你看到有好几个吗？",
+        "downvoted": false,
+        "friend_liked_msg": "",
+        "hidden": false,
+        "id": "65bf662f0000000008017f77",
+        "like_count": 7,
+        "liked": false,
+        "note_id": "65bf5360000000002c03f684",
+        "score": 0,
+        "share_strategy": 0,
+        "show_tags": [],
+        "show_tags_v2": [],
+        "show_type": "common",
+        "status": 0,
+        "target_comment": {
+          "id": "65bf65dc000000000803286b",
+          "status": 3,
+          "user": {
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo3205fu7edis605nre2evg8uucrsh38go?imageView2/2/w/120/format/jpg",
+            "level": {
+              "image": ""
+            },
+            "nickname": "榴莲在摩天轮",
+            "red_id": "371915976",
+            "userid": "aed4b890dd64525f862ca70b97b7c"
+          }
+        },
+        "time": 1707042351,
+        "translation_strategy": 10,
+        "user": {
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "images": "https://sns-avatar-qc-ae.rednotecdn.com/avatar/1040g2jo316u8dgg50o005odpdq9417mfgt60vuo?imageView2/2/w/120/format/jpg",
+          "level": {
+            "image": ""
+          },
+          "nickname": "喜欢唱跳rap写信",
+          "red_id": "1635985618",
+          "userid": "a4e2a77823960e971e924ae056d0f"
+        }
+      }
+    ],
+    "cursor": "{\"cursor\":\"65bf662f0000000008017f77\",\"index\":2}",
+    "has_more": true,
+    "page_context": "{\"highlight\":[\"抬头蛙\"]}"
+  },
+  "recordTime": null
+}

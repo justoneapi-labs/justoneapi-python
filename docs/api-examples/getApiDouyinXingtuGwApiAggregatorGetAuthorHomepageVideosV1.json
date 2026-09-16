@@ -1,0 +1,380 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:15.751414+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:04",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "items": [
+      {
+        "comment_cnt": "2566",
+        "content_theme_labels": [],
+        "cover_uri": "tos-cn-i-dy/5a970b10ba5440ebbf57f9c9a6541ec6",
+        "create_time": "1788690066",
+        "duration": 504.043,
+        "finish_rate": 0.045807,
+        "interact_rate": 0.020549,
+        "item_id": "7682365291682221366",
+        "like_cnt": "85151",
+        "title": "烟火广场的胜负与温柔 #陈翔六点半 #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7682365291682221366/?region=CN&mid=7682365510989761323&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=uSmXGr4_fO3a_YQYrilWb9CWkRgAHzFtJv9jH3qT5Ko-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000daeicj7og65pgunms7ng",
+        "watch_cnt": "5348100"
+      },
+      {
+        "comment_cnt": "5717",
+        "content_theme_labels": [],
+        "cover_uri": "tos-cn-i-dy/35cc31f84b40407d96bc4d7fe57f0c61",
+        "create_time": "1788604260",
+        "duration": 487.723,
+        "finish_rate": 0.092291,
+        "interact_rate": 0.015055,
+        "item_id": "7681896949825408302",
+        "like_cnt": "592067",
+        "title": "为生活奔波的日子，总在忽略最疼我的人 #陈翔六点半#舒肤佳海洋#舒肤佳雪松",
+        "url": "https://www.iesdouyin.com/share/video/7681896949825408302/?region=CN&mid=7681897098144713513&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=vKBz1RUhfXKIFHd0uJgvH4ZOsc35wc7lpc16J2h._9c-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000dadp2m7og65siuotj0fg",
+        "watch_cnt": "37972327"
+      },
+      {
+        "comment_cnt": "9950",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "恋爱剧情",
+          "剧情反转"
+        ],
+        "cover_uri": "tos-cn-i-dy/d07e0fbe924a4beda11d1bc242cf339d",
+        "create_time": "1788518282",
+        "duration": 317.633,
+        "finish_rate": 0.10427,
+        "interact_rate": 0.023588,
+        "item_id": "7681627509745519918",
+        "like_cnt": "635230",
+        "title": "初听不知曲中意，再听已是曲中人 #陈翔六点半 #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7681627509745519918/?region=CN&mid=7681627574392425225&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=ZNAegtLfzWvUn7vJPPJRL7n1quTpMklav_HZUk3C8rA-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0300fg10000dad9pg7og65gea7slpkg",
+        "watch_cnt": "43544054"
+      },
+      {
+        "comment_cnt": "2293",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "意外结局",
+          "剧情反转"
+        ],
+        "cover_uri": "tos-cn-i-dy/7de9862745014e759e3425f770b78983",
+        "create_time": "1788431400",
+        "duration": 490.148,
+        "finish_rate": 0.062383,
+        "interact_rate": 0.02396,
+        "item_id": "7681165122441628971",
+        "like_cnt": "150650",
+        "title": "一句话能有多重？ #法润彩云南 #法治光辉照边疆 #陈翔六点半 #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7681165122441628971/?region=CN&mid=7681198606787169065&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=C2rOrWA2AA6u4XFVxuy.SsojNUgz4.iJnTb5s1mQNdQ-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000dachf6vog65rrsfr0dvg",
+        "watch_cnt": "7262820"
+      },
+      {
+        "comment_cnt": "3522",
+        "content_theme_labels": [
+          "感人短剧",
+          "意外结局",
+          "陈翔短剧"
+        ],
+        "cover_uri": "tos-cn-i-dy/8a9434802d6d4b0d80e6323fb2258203",
+        "create_time": "1788344925",
+        "duration": 492.48,
+        "finish_rate": 0.070881,
+        "interact_rate": 0.01848,
+        "item_id": "7680882940624112923",
+        "like_cnt": "267492",
+        "title": "您拨的电话正在为爱前行 #陈翔六点半 #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7680882940624112923/?region=CN&mid=7680882861334924095&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=GzrdhR1sHlOyYBvVC2aoHfj3V1b_D36vBVbV0yASr8U-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0200fg10000dabvk37og65g5ad6f6m0",
+        "watch_cnt": "15652479"
+      },
+      {
+        "comment_cnt": "1873",
+        "content_theme_labels": [],
+        "cover_uri": "tos-cn-i-dy/af6529c47e6d4fc08579da8ba83503dd",
+        "create_time": "1788258634",
+        "duration": 503.766,
+        "finish_rate": 0.070382,
+        "interact_rate": 0.01909,
+        "item_id": "7680129091453865216",
+        "like_cnt": "223230",
+        "title": "生活就像盲盒，你永远不知道下一个是什么 #陈翔六点半",
+        "url": "https://www.iesdouyin.com/share/video/7680129091453865216/?region=CN&mid=7680129261868501811&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=Myhfa37NWvlE3hn08.grPNp0Ks92Mud8LLGbzoDQ4Ds-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0300fg10000daakghfog65i20ne8uog",
+        "watch_cnt": "12551506"
+      },
+      {
+        "comment_cnt": "2543",
+        "content_theme_labels": [],
+        "cover_uri": "tos-cn-i-dy/6c6d4a99403c46e89729370375a02b1b",
+        "create_time": "1788085839",
+        "duration": 434.049,
+        "finish_rate": 0.044921,
+        "interact_rate": 0.018113,
+        "item_id": "7679028616008584486",
+        "like_cnt": "423433",
+        "title": "过了期爱情还能修吗？ #陈翔六点半",
+        "url": "https://www.iesdouyin.com/share/video/7679028616008584486/?region=CN&mid=7679028755922242345&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=_FoyPwndjMH90DZA5yDHEUhEfBXdm5Nb2szEEDaIgLI-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000da8m517og65h3aar3dmg",
+        "watch_cnt": "23135831"
+      },
+      {
+        "comment_cnt": "959",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "搞笑剧情",
+          "有趣剧情创作"
+        ],
+        "cover_uri": "tos-cn-i-dy/2c5ac90534714cd8a52aa9fb70d603fc",
+        "create_time": "1787913019",
+        "duration": 305.28,
+        "finish_rate": 0.084107,
+        "interact_rate": 0.021581,
+        "item_id": "7678947382112849190",
+        "like_cnt": "187144",
+        "title": "老丈人的服务热线 #清风红山动物园联名 #美好捕捉计划 #被红山动物园联名纸巾萌翻了#陈翔六点半",
+        "url": "https://www.iesdouyin.com/share/video/7678947382112849190/?region=CN&mid=7678947493371054911&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=dYoJ.D.HkTcZrsOjdxGKwJGqCooj8bjbGmrDO2T_Sa0-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000da8hesfog65ibl5u2jr0",
+        "watch_cnt": "9294756"
+      },
+      {
+        "comment_cnt": "5672",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "生活喜剧情节",
+          "搞笑剧情"
+        ],
+        "cover_uri": "tos-cn-i-dy/9dac5dd0fa8643ffaf06807f202c0dd3",
+        "create_time": "1787826759",
+        "duration": 260.843,
+        "finish_rate": 0.106847,
+        "interact_rate": 0.016011,
+        "item_id": "7678657428732382514",
+        "like_cnt": "263093",
+        "title": "渴望远方，却困在楼下 #陈翔六点半 #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7678657428732382514/?region=CN&mid=7678657530532236083&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=JaK4QWbfgNcqdLH9SxQd1I7CeLtTr9bhT8Sr9k9hNyI-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000da8143fog65h4lq4bvdg",
+        "watch_cnt": "19464753"
+      },
+      {
+        "comment_cnt": "25715",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "奇幻剧情",
+          "剧情反转"
+        ],
+        "cover_uri": "tos-cn-i-dy/e33cd37ec93349f98d424552f558391c",
+        "create_time": "1787653280",
+        "duration": 556.139,
+        "finish_rate": 0.093031,
+        "interact_rate": 0.035218,
+        "item_id": "7677912347075218723",
+        "like_cnt": "2384583",
+        "title": "明明已经结束，可她却从未开始 #陈翔六点半 #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7677912347075218723/?region=CN&mid=7677912511928388390&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=pMXa0BGyExc5Ki8KmiaKYrI458juq4WciNFKIE8TE8E-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000da6ln0fog65vc2iet770",
+        "watch_cnt": "77106242"
+      },
+      {
+        "comment_cnt": "2456",
+        "content_theme_labels": [],
+        "cover_uri": "tos-cn-i-dy/66cfef9e53524a5faa6f3fb55e34a144",
+        "create_time": "1788172220",
+        "duration": 543.936,
+        "finish_rate": 0.069902,
+        "interact_rate": 0.016919,
+        "item_id": "7677802801438690600",
+        "like_cnt": "294917",
+        "title": "喜柿映红运，橙意照人生 #陈翔六点半  #剧情  #搞笑  #喜事  #NX8新皮肤",
+        "url": "https://www.iesdouyin.com/share/video/7677802801438690600/?region=CN&mid=7677802947123710783&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=tBGOiHAjfU2asoIG2r7yPY8bkdl_SzX27p.mGbHveg0-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0300fg10000da6gd6fog65jv8gf67e0",
+        "watch_cnt": "18209676"
+      },
+      {
+        "comment_cnt": "1786",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "感人短剧",
+          "剧情反转"
+        ],
+        "cover_uri": "tos-cn-i-dy/f4f1e2d14c3b4c2ab2a66263b08c262e",
+        "create_time": "1787569478",
+        "duration": 675.691,
+        "finish_rate": 0.069048,
+        "interact_rate": 0.02892,
+        "item_id": "7677552419441610010",
+        "like_cnt": "153088",
+        "title": "我们长大了，灰姑娘也变老了 #陈翔六点半#未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7677552419441610010/?region=CN&mid=7677552675881224970&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=Zk.d.SqAiO1l5_s1iTc168_9R6xOJ9iM947dQeFW6Kw-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000da629knog65glsipnrkg",
+        "watch_cnt": "5729301"
+      },
+      {
+        "comment_cnt": "4804",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "剧情反转"
+        ],
+        "cover_uri": "tos-cn-i-dy/8b32a82f52424648839911f035318311",
+        "create_time": "1787394209",
+        "duration": 319.211,
+        "finish_rate": 0.07744,
+        "interact_rate": 0.013436,
+        "item_id": "7676799647263870262",
+        "like_cnt": "566883",
+        "title": "标签贴上去，人情撕下来 #陈翔六点半  #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7676799647263870262/?region=CN&mid=7676799768542186303&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=05Uny1m1w0OKOBTcmzN_cpUh0O7tfTecRa.iQZwTCyI-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0200fg10000da4n2bvog65m09dv2070",
+        "watch_cnt": "45657214"
+      },
+      {
+        "comment_cnt": "1845",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "情感短剧",
+          "职场趣闻"
+        ],
+        "cover_uri": "tos-cn-i-dy/f4cf5ede9fe347c99f9707a5c20ff73c",
+        "create_time": "1787307807",
+        "duration": 342.635,
+        "finish_rate": 0.077832,
+        "interact_rate": 0.019842,
+        "item_id": "7676428556682972452",
+        "like_cnt": "224340",
+        "title": "他走后，再也没有来过 #陈翔六点半 #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7676428556682972452/?region=CN&mid=7676428685150292779&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=ixwEGqP_5C2WLL.iFFVV0__ir58TGycuyGiHrm_yJ2c-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0200fg10000da40v4nog65ulde6kev0",
+        "watch_cnt": "12317896"
+      },
+      {
+        "comment_cnt": "2094",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "家庭幽默演绎",
+          "搞笑剧情"
+        ],
+        "cover_uri": "tos-cn-i-dy/21c95b5f9a6f446390f039cdadc7cc9e",
+        "create_time": "1787136386",
+        "duration": 358.934,
+        "finish_rate": 0.074112,
+        "interact_rate": 0.01935,
+        "item_id": "7675692303461240115",
+        "like_cnt": "405992",
+        "title": "本欲抽身远是非，偏偏风波逐人来 #陈翔六点半 #未来导演扶持计划",
+        "url": "https://www.iesdouyin.com/share/video/7675692303461240115/?region=CN&mid=7675692516515040019&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=H49jhHybCNMtzZurvtyoYpeDYLaZFykFEt9HOUfJBUk-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0300fg10000da2oe97og65h1nv9i2ig",
+        "watch_cnt": "23344187"
+      },
+      {
+        "comment_cnt": "5284",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "剧情反转",
+          "搞笑剧情"
+        ],
+        "cover_uri": "tos-cn-i-dy/f7e9a12f727944ea87c4d7086283abab",
+        "create_time": "1786962600",
+        "duration": 383.531,
+        "finish_rate": 0.077167,
+        "interact_rate": 0.016961,
+        "item_id": "7674904228460105000",
+        "like_cnt": "461636",
+        "title": "对象是哪里人真的很重要，不信你看 #陈翔六点半",
+        "url": "https://www.iesdouyin.com/share/video/7674904228460105000/?region=CN&mid=7674904281983585075&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=U9khpfD.7RuQPSnf_Ae557fNX6qJ4Xg0Vy5EpaFeRzU-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0300fg10000da1bof7og65ub2f1ds60",
+        "watch_cnt": "34263531"
+      },
+      {
+        "comment_cnt": "3302",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "情感短剧",
+          "剧情反转"
+        ],
+        "cover_uri": "tos-cn-i-dy/6305fc772a964b0db6cc461b3a5f2fcf",
+        "create_time": "1786876144",
+        "duration": 477.803,
+        "finish_rate": 0.093138,
+        "interact_rate": 0.017683,
+        "item_id": "7674574566185848105",
+        "like_cnt": "298893",
+        "title": "好的伴侣互相滋养，坏的婚姻彼此消耗 #陈翔六点半",
+        "url": "https://www.iesdouyin.com/share/video/7674574566185848105/?region=CN&mid=7674574744458185491&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=fGDK.I42AjUnZLrqugAl4g8iv_Q.LhLMNxS8CTM1lHA-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0200fg10000da0ovhnog65tbqtu7bo0",
+        "watch_cnt": "19811438"
+      },
+      {
+        "comment_cnt": "2369",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "搞笑剧情",
+          "有趣剧情创作"
+        ],
+        "cover_uri": "tos-cn-i-dy/ff255aa7a37e417c8541ea292c8619d5",
+        "create_time": "1786789394",
+        "duration": 367.874,
+        "finish_rate": 0.040207,
+        "interact_rate": 0.019991,
+        "item_id": "7674201991786155291",
+        "like_cnt": "161500",
+        "title": "大家还记得自己是从什么时候走上P图这条路的 #陈翔六点半",
+        "url": "https://www.iesdouyin.com/share/video/7674201991786155291/?region=CN&mid=7674202145868024595&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=UAYoqf.L6..dpiqWmiH.Y6FFDqRLVzGpAFI69ZKXotM-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0200fg10000da03mgvog65g0qs4rc9g",
+        "watch_cnt": "9896116"
+      },
+      {
+        "comment_cnt": "1614",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "搞笑剧情",
+          "剧情反转"
+        ],
+        "cover_uri": "tos-cn-i-dy/e0164ff425f54e88b06835c60eeae9ef",
+        "create_time": "1786699832",
+        "duration": 646.251,
+        "finish_rate": 0.065072,
+        "interact_rate": 0.014247,
+        "item_id": "7673770414836878634",
+        "like_cnt": "205427",
+        "title": "手心手背都是肉，帮来帮去我难受 #陈翔六点半",
+        "url": "https://www.iesdouyin.com/share/video/7673770414836878634/?region=CN&mid=7673770565865605938&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=iiA8lIwApKKRdxjRyW3Ph3bEF3HEho3kic0_rsDmvag-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0300fg10000d9vb1mvog65i8rtub330",
+        "watch_cnt": "15436062"
+      },
+      {
+        "comment_cnt": "2351",
+        "content_theme_labels": [
+          "陈翔短剧",
+          "搞笑剧情",
+          "剧情反转"
+        ],
+        "cover_uri": "tos-cn-i-dy/b6c5565e115c4f46baec4c6db9383a10",
+        "create_time": "1786616791",
+        "duration": 426.88,
+        "finish_rate": 0.070458,
+        "interact_rate": 0.013307,
+        "item_id": "7673460672222514458",
+        "like_cnt": "283812",
+        "title": "厕所里不能说的秘密 #陈翔六点半",
+        "url": "https://www.iesdouyin.com/share/video/7673460672222514458/?region=CN&mid=7673460795996523302&u_code=1l6efb08&did=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&video_share_track_ver=&titleType=title&share_sign=dpacEqBYh2YbNcNbMsYVCuI.a8COce4Y37SAn3S53ok-&share_version=260800&ts=1788868805&from_aid=1128&from_ssr=1&share_track_info=%7B%22link_description_type%22%3A%22%22%7D",
+        "video_id": "v0d00fg10000d9uop77og65i364ar9bg",
+        "watch_cnt": "25093639"
+      }
+    ],
+    "pagination": {
+      "has_more": true,
+      "limit": 20,
+      "page": 1,
+      "total_count": 120
+    }
+  },
+  "recordTime": null
+}

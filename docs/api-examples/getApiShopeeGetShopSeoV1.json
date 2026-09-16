@@ -1,0 +1,243 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:42.372190+08:00",
+  "_sourceCheckedAt": "2026-08-12T13:16:55",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "ID",
+    "market": "Indonesia",
+    "data": {
+      "error": 0,
+      "error_msg": "",
+      "data": {
+        "page_title": "Toko Online AEROSTREET Official Shop - Produk Resmi Terlengkap & Harga Terbaru Agustus 2026",
+        "meta_description": "Beli Sepatu, Sneakers, dan Pakaian AEROSTREET Official Shop Berkualitas Tinggi & Harga Termurah. Temukan Penawaran AEROSTREET Official Shop Terbaik Hanya di Shopee. Promo Diskon Cashback Menarik ✓ Gratis Ongkir ✓ 100% Original.",
+        "indexable": true,
+        "footer": {
+          "data": ""
+        },
+        "items": [
+          {
+            "itemid": 42877161619,
+            "shopid": 177400943,
+            "name": "Aerostreet Fuji Kaos Wanita Perfect Fit Cotton Cloud Putih Fitted T-shirt Cewek Women Casual Cotton Premium Basic Minimalis Lembut Nyaman 1B300",
+            "label_ids": [
+              1000381,
+              1000109,
+              1000201,
+              1000230,
+              1000167,
+              1000544,
+              1000504,
+              1000549,
+              1000514,
+              1428713,
+              1000653,
+              1012865,
+              1002164,
+              700185038,
+              1015496,
+              700195012,
+              700025154,
+              2018618,
+              298768325,
+              700195013,
+              997921094,
+              1718087960,
+              844931064601283,
+              844931086908638,
+              1718093079,
+              1119699,
+              1059156,
+              700000499,
+              822059908662278,
+              2048660,
+              2048661,
+              825465608499232,
+              825465608497696,
+              1015914,
+              700190087,
+              2213652,
+              1400025118,
+              1400285055,
+              2203635,
+              700765096,
+              299108355,
+              299103323,
+              700810080,
+              700960097,
+              298988318,
+              298983369,
+              298623321,
+              1993623
+            ],
+            "image": "id-11134207-822wr-mmil5wre9c757c",
+            "images": [
+              "id-11134207-822wr-mmil5wre9c757c",
+              "id-11134207-8224s-mi3ypugmkruo5a",
+              "id-11134207-82251-mi3ypugmozk04a",
+              "id-11134207-82250-mi3zavlelji966",
+              "id-11134207-822wr-mmgypk5qp91fe9"
+            ],
+            "currency": "IDR",
+            "stock": 1,
+            "status": 1,
+            "ctime": 1765425440,
+            "sold": 6000,
+            "historical_sold": 70000,
+            "liked": false,
+            "liked_count": 54511,
+            "catid": 100017,
+            "brand": "",
+            "cmt_count": 19963,
+            "flag": 196608,
+            "cb_option": 0,
+            "item_status": "normal",
+            "price": 7490000000,
+            "price_min": 7490000000,
+            "price_max": 7490000000,
+            "price_min_before_discount": 17980000000,
+            "price_max_before_discount": 17980000000,
+            "price_before_discount": 17980000000,
+            "has_lowest_price_guarantee": false,
+            "show_discount": 0,
+            "raw_discount": 58,
+            "discount": "-58%",
+            "size_chart": "id-11134207-822wr-mmgypk5qp91fe9",
+            "tier_variations": [
+              {
+                "name": "Warna",
+                "options": [
+                  "Black",
+                  "White",
+                  "Dark Grey",
+                  "Brown",
+                  "Denim",
+                  "Charcoal",
+                  "Mocca",
+                  "Light Grey",
+                  "Sage",
+                  "Pink Coral",
+                  "Cream"
+                ],
+                "images": [
+                  "id-11134207-8224t-mkaf9ya8wm4m10",
+                  "id-11134207-8224v-mkaf9ya8y0p2b0",
+                  "id-11134207-8224y-mkaf9ya8zf9ib8",
+                  "id-11134207-8224y-mkaf9ya90tty1a",
+                  "id-11134207-8224u-mkaf9ya928ee75",
+                  "id-11134207-8224s-mkaf9ya93myu65",
+                  "id-11134207-82250-mkaf9ya951ja7c",
+                  "id-11134207-8224s-mkaf9ya96g3q8a",
+                  "id-11134207-8224z-mkaf9ya97uo611",
+                  "id-11134207-82252-mkaf9ya9998mac",
+                  "id-11134207-8224t-mkaeyxyo6epw60"
+                ],
+                "type": 0
+              },
+              {
+                "name": "Ukuran",
+                "options": [
+                  "S",
+                  "M",
+                  "L",
+                  "XL"
+                ],
+                "type": 0
+              }
+            ],
+            "item_rating": {
+              "rating_star": 4.93367730301057,
+              "rating_count": [
+                19963,
+                21,
+                33,
+                146,
+                849,
+                18914
+              ],
+              "rcount_with_context": 2658,
+              "rcount_with_image": 1560
+            },
+            "item_type": 0,
+            "reference_item_id": "",
+            "transparent_background_image": "",
+            "is_adult": false,
+            "badge_icon_type": 0,
+            "shopee_verified": false,
+            "is_official_shop": true,
+            "show_official_shop_label": true,
+            "show_shopee_verified_label": false,
+            "show_official_shop_label_in_title": true,
+            "is_cc_installment_payment_eligible": false,
+            "is_non_cc_installment_payment_eligible": false,
+            "show_free_shipping": false,
+            "bundle_deal_id": 0,
+            "can_use_bundle_deal": false,
+            "add_on_deal_info": {
+              "add_on_deal_id": 488687981048287,
+              "add_on_deal_label": "Kombo Hemat",
+              "sub_type": 0,
+              "status": 1
+            },
+            "can_use_wholesale": false,
+            "is_preferred_plus_seller": false,
+            "shop_location": "KAB. KLATEN",
+            "has_model_with_available_shopee_stock": false,
+            "can_use_cod": true,
+            "is_on_flash_sale": false,
+            "is_service_by_shopee": false,
+            "shop_rating": 4.862463,
+            "flash_sale_ongoing_sold_count": 0,
+            "shop_name": "AEROSTREET Official Shop",
+            "flash_sale_stock": 0,
+            "item_card_display_price": {
+              "item_id": 42877161619,
+              "model_id": 365280853258,
+              "promotion_type": 201,
+              "promotion_id": 491265020158246,
+              "price": 7490000000,
+              "strikethrough_price": 17980000000,
+              "discount": 58,
+              "discount_text": "-58%",
+              "original_price": 17980000000,
+              "model_selection_logic": 3,
+              "applied_product_promo_price": 7490000000
+            },
+            "item_card_display_label": {
+              "item_id": 42877161619,
+              "model_id": 365280853258,
+              "promotion_type": 201,
+              "promotion_id": 491265020158246,
+              "label_type": 0,
+              "is_teaser": false
+            },
+            "need_kyc": false,
+            "is_shopee_choice": false,
+            "item_card_display_sold_count": {
+              "display_sold_count": 70000,
+              "rounded_display_sold_count": 70000,
+              "display_sold_count_text": "10RB+",
+              "rounded_local_monthly_sold_count": 6000,
+              "local_monthly_sold_count_text": "1RB+",
+              "rounded_local_historical_sold_count": 70000,
+              "local_historical_sold_count_text": "10RB+",
+              "rounded_global_historical_sold_count": 70000,
+              "global_historical_sold_count_text": "10RB+"
+            },
+            "is_sexual": false,
+            "global_cat": {
+              "catid": [
+                100017,
+                100099,
+                100352
+              ]
+            },
+            "is_mart": false
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": "2026-08-12T13:16:54.534721871"
+}

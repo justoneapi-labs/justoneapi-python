@@ -1,0 +1,224 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:39.121109+08:00",
+  "_sourceCheckedAt": "2026-08-12T13:13:47",
+  "code": 0,
+  "message": null,
+  "data": {
+    "found": true,
+    "status": "found",
+    "site": "TW",
+    "market": "Taiwan",
+    "currency": "TWD",
+    "version": "1.0",
+    "product": {
+      "item_id": 24428454365,
+      "shop_id": 526184774,
+      "name": "MHW-3BOMBER 轟炸機 馭系列旋風攪粉針 58mm 咖啡布粉針旋轉均勻打散結塊 散粉針 按壓式攪粉針 針式布粉器",
+      "image_id": "tw-11134207-7r98w-lvpoigvt1z2q48",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lvpoigvt1z2q48",
+      "images": [
+        "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lvpoigvt1z2q48"
+      ],
+      "status": "listed"
+    },
+    "price": {
+      "currency": "TWD",
+      "current": 1855,
+      "min": 1880,
+      "max": 1880,
+      "display": 1855,
+      "original": null,
+      "original_min": null,
+      "original_max": null,
+      "discount_percent": null
+    },
+    "sales": {
+      "current": null,
+      "historical": null,
+      "display": "已售出 1000+",
+      "display_count": 1000
+    },
+    "stock": {
+      "quantity": null,
+      "available": true,
+      "status": "listed"
+    },
+    "sku": {
+      "dimension_count": 1,
+      "combination_count": 7,
+      "dimensions": [
+        {
+          "index": 0,
+          "name": "規格",
+          "options": [
+            {
+              "index": 0,
+              "name": "馭系列-旋風攪粉針-58MM通用",
+              "image_id": "tw-11134207-7r990-luw6zdym86vf57",
+              "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7r990-luw6zdym86vf57"
+            },
+            {
+              "index": 1,
+              "name": "馭系列-旋風攪粉針-53MM通用",
+              "image_id": "tw-11134207-7rasl-m5wmvl4kyw9984",
+              "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rasl-m5wmvl4kyw9984"
+            },
+            {
+              "index": 2,
+              "name": "馭系列-旋風攪粉針-51MM通用",
+              "image_id": "tw-11134207-7rasj-m4sguw1h5x3h52",
+              "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rasj-m4sguw1h5x3h52"
+            },
+            {
+              "index": 3,
+              "name": "馭系列三件組-58mm通用",
+              "image_id": "tw-11134207-7rbk6-mamcni1h9lh589",
+              "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk6-mamcni1h9lh589"
+            },
+            {
+              "index": 4,
+              "name": "馭系列五件組-58mm通用",
+              "image_id": "tw-11134207-7rbka-mamcnktd7f95f6",
+              "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbka-mamcnktd7f95f6"
+            },
+            {
+              "index": 5,
+              "name": "馭系列三件與有槽壓粉墊組合-58mm通用",
+              "image_id": "tw-11134207-7ra0l-md2p6mkdh3l647",
+              "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0l-md2p6mkdh3l647"
+            },
+            {
+              "index": 6,
+              "name": "馭系列四件與有槽壓粉墊組合-58mm通用",
+              "image_id": "tw-11134207-7ra0r-md2p6qyt194a6a",
+              "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0r-md2p6qyt194a6a"
+            }
+          ]
+        }
+      ],
+      "combinations": [
+        {
+          "key": "0",
+          "selectors": [
+            "0"
+          ],
+          "options": [
+            {
+              "dimension_index": 0,
+              "dimension": "規格",
+              "option_index": 0,
+              "option": "馭系列-旋風攪粉針-58MM通用"
+            }
+          ],
+          "review_count": 416
+        },
+        {
+          "key": "1",
+          "selectors": [
+            "1"
+          ],
+          "options": [
+            {
+              "dimension_index": 0,
+              "dimension": "規格",
+              "option_index": 1,
+              "option": "馭系列-旋風攪粉針-53MM通用"
+            }
+          ],
+          "review_count": 19
+        },
+        {
+          "key": "2",
+          "selectors": [
+            "2"
+          ],
+          "options": [
+            {
+              "dimension_index": 0,
+              "dimension": "規格",
+              "option_index": 2,
+              "option": "馭系列-旋風攪粉針-51MM通用"
+            }
+          ],
+          "review_count": 15
+        },
+        {
+          "key": "3",
+          "selectors": [
+            "3"
+          ],
+          "options": [
+            {
+              "dimension_index": 0,
+              "dimension": "規格",
+              "option_index": 3,
+              "option": "馭系列三件組-58mm通用"
+            }
+          ],
+          "review_count": 4
+        },
+        {
+          "key": "4",
+          "selectors": [
+            "4"
+          ],
+          "options": [
+            {
+              "dimension_index": 0,
+              "dimension": "規格",
+              "option_index": 4,
+              "option": "馭系列五件組-58mm通用"
+            }
+          ],
+          "review_count": 3
+        },
+        {
+          "key": "5",
+          "selectors": [
+            "5"
+          ],
+          "options": [
+            {
+              "dimension_index": 0,
+              "dimension": "規格",
+              "option_index": 5,
+              "option": "馭系列三件與有槽壓粉墊組合-58mm通用"
+            }
+          ],
+          "review_count": 2
+        },
+        {
+          "key": "6",
+          "selectors": [
+            "6"
+          ],
+          "options": [
+            {
+              "dimension_index": 0,
+              "dimension": "規格",
+              "option_index": 6,
+              "option": "馭系列四件與有槽壓粉墊組合-58mm通用"
+            }
+          ],
+          "review_count": 10
+        }
+      ],
+      "models": []
+    },
+    "reviews": {
+      "tags": [],
+      "insights": [],
+      "size_filter_count": null
+    },
+    "coverage": {
+      "basic": true,
+      "price": true,
+      "sales": true,
+      "stock": true,
+      "sku": true,
+      "reviews": false
+    },
+    "updated_at": "2026-08-12T13:13:46.602427+08:00"
+  },
+  "recordTime": "2026-08-12T13:13:47.172908404"
+}

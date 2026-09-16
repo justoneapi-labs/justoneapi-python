@@ -1,0 +1,1054 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:15.433451+08:00",
+  "_sourceCheckedAt": "2026-09-08T19:00:01",
+  "code": 0,
+  "message": null,
+  "data": {
+    "id": "3620553568169403454",
+    "name": "老管家杀蟑饵剂厨房家用室内除小强专用学生宿舍灭蟑螂杀虫剂神器",
+    "description": "",
+    "mainImg": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800",
+    "salePrice": 990,
+    "originalPrice": 990,
+    "sellNum": 19465990,
+    "shopId": 2303170,
+    "skus": [
+      {
+        "id": 1767848415471651,
+        "shopId": 2303170,
+        "productId": "3620553568169403454",
+        "price": 990,
+        "type": 0,
+        "salePropertyValues": [
+          {
+            "seq": 1,
+            "pairId": 1835801176166500,
+            "pic": "ecom-shop-material/jpeg_m_8c5208f63f9072898b1ef34fa4f9f942_sx_373186_www800-800",
+            "property": {
+              "PropertyId": 0,
+              "PropertyName": "规格",
+              "SpecType": 0
+            },
+            "value": {
+              "ValueName": "1盒【全屋适用】6枚",
+              "DisplayValueName": "1盒【全屋适用】6枚"
+            }
+          }
+        ]
+      },
+      {
+        "id": 1767848415471667,
+        "shopId": 2303170,
+        "productId": "3620553568169403454",
+        "price": 990,
+        "type": 0,
+        "salePropertyValues": [
+          {
+            "seq": 1,
+            "pairId": 1842400947014688,
+            "pic": "ecom-shop-material/jpeg_m_a148c6cdd8876e98ab2d14fbce8a642f_sx_372800_www800-800",
+            "property": {
+              "PropertyId": 0,
+              "PropertyName": "规格",
+              "SpecType": 0
+            },
+            "value": {
+              "ValueName": "3盒【大多数用户选择】18枚",
+              "DisplayValueName": "3盒【大多数用户选择】18枚"
+            }
+          }
+        ]
+      }
+    ],
+    "category": {
+      "firstCid": 1000004647,
+      "secondCid": 1000004655,
+      "thirdCid": 1000004709,
+      "fourthCid": 0,
+      "firstCName": "家清纸品",
+      "secondCName": "驱虫用品",
+      "thirdCName": "家用杀虫剂",
+      "fourthCName": ""
+    },
+    "promotion_h5": {
+      "basic_info_data": {
+        "price_info": {
+          "price": {
+            "min_price": "?",
+            "suffix": "起"
+          }
+        },
+        "title_info": {
+          "title": "老管家杀蟑饵剂厨房家用室内除小强专用学生宿舍灭蟑螂杀虫剂神器"
+        },
+        "bottom_label_list": [
+          {
+            "render_type": 0,
+            "label_type": 0
+          }
+        ],
+        "product_id": "3620553568169403454"
+      },
+      "shop_info": {
+        "basic_info": {
+          "shop_logo": "https://p26-item.ecombdimg.com/img/tos-cn-i-6vegkygxbk/ea54329b2bc9414698dd9aef00d97d91~tplv-5mmsx3fupr-resize:74:74.png",
+          "shop_name": "老管家家居生活旗舰店",
+          "shop_link_button": {
+            "text": "进店逛逛",
+            "background": "#FE2C55FF",
+            "link": "sslocal://goods/store?entrance_location=product_detail_live&pass_through_api=%7B%22pre_product_id_new%22%3A%223620553568169403454%22%2C%22product_author_info_map%22%3A%22%7B%5C%223620553568169403454%5C%22%3A%5B%5C%22MS4wLjABAAAA2I9NdgAKZrz9e0tLm1csyDMNqLESPDm34TdYYqXe8-I%5C%22%5D%7D%22%7D&sec_shop_id=uHLbQgx&url_maker=shop_sdk"
+          },
+          "brand_icon": "",
+          "new_brand_icon": "",
+          "grade_info": {
+            "score": 4.5,
+            "is_new_style": true
+          },
+          "shop_extra_info": null,
+          "shop_icon_list": null,
+          "background": "http://p26-detailpage.byteimg.com/tos-cn-i-ojoqa5bfdv/20b2e8d6ea843df4816686f5b295a769.png~tplv-ojoqa5bfdv-image.image",
+          "status_icon_info": {
+            "icon": "https://p3-piu.byteimg.com/tos-cn-i-8jisjyls3a/30c8e6e7757340babb23305267117929~tplv-8jisjyls3a-2:0:0:q75.image",
+            "icon_type": 1
+          },
+          "account_url": ""
+        },
+        "style_type": 0
+      },
+      "head_figure_data": {
+        "media_list": [
+          {
+            "name": "商品",
+            "type": "image",
+            "content_list": [
+              {
+                "url": "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_2b76c19d9cc489f0b6d5d7817fd2ed99_sx_478666_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "height": 0,
+                "width": 0,
+                "combination_info": {
+                  "combination_jump": {}
+                }
+              },
+              {
+                "url": "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_84e07ca0e96aeb4dba1a247a1dae87b3_sx_329245_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "height": 0,
+                "width": 0,
+                "combination_info": {
+                  "combination_jump": {}
+                }
+              },
+              {
+                "url": "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_3a721a7cab446b60623ae5df6eae615c_sx_256748_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "height": 0,
+                "width": 0,
+                "combination_info": {
+                  "combination_jump": {}
+                }
+              },
+              {
+                "url": "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_3f2a5cac76ed2ad7373a400e44a895e5_sx_392109_www800-800~tplv-5mmsx3fupr-resize_q:1080:1080:q90.webp",
+                "height": 0,
+                "width": 0,
+                "combination_info": {
+                  "combination_jump": {}
+                }
+              }
+            ]
+          }
+        ],
+        "live_info": {
+          "status": "live",
+          "url": "sslocal://webcast_room/?ecom_live_params=%7B%22params_version%22%3A1%2C%22related_info%22%3A%22%7B%5C%22detail_product_id%5C%22%3A%5C%223620553568169403454%5C%22%2C%5C%22related_config%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22detail_product_id%5C%22%2C%5C%22client_config%5C%22%3A%7B%5C%22type%5C%22%3A%5B%5C%22promotion_list_top%5C%22%5D%2C%5C%22list_show_count%5C%22%3A2147483647%7D%2C%5C%22server_config%5C%22%3A%7B%5C%22list_show_duration%5C%22%3A-1%2C%5C%22list_show_index%5C%22%3Atrue%7D%7D%5D%7D%22%2C%22jump_schema%22%3A%22sslocal%3A%2F%2Fec_live_list%2F%3Fpassthrough_params%3D%257B%2522live_list_channel%2522%253A%2522product_detail_shown%2522%257D%22%7D&room_id=7681352847736195876&user_id=99514375927",
+          "icon": "https://p3-piu.byteimg.com/tos-cn-i-8jisjyls3a/30c8e6e7757340babb23305267117929~tplv-8jisjyls3a-2:0:0:q75.image",
+          "text": "直播中"
+        },
+        "container_size": 0,
+        "style_type": 0
+      },
+      "product_support_info_data": {
+        "header_content": {
+          "background": "#FFFFFF",
+          "service_tag": {},
+          "content_color": "#161823"
+        },
+        "safety_content": {
+          "safety_popup_content": [
+            {
+              "left_icon": "http://p3-item.ecombdimg.com/tos-cn-i-5mmsx3fupr/second_page_priority_icon_blue.png~tplv-5mmsx3fupr-image.webp",
+              "title": "运费险",
+              "content": "发货90天内退/换货，使用上门取件可享3公斤内免运费，使用快递柜或驿站邮寄可享1公斤内免运费。若选择自行寄回，享受和上门取件同样的免运费金额，需上传真实的运单号，退/换货成功后，将打款至消费者的订单支付账户",
+              "url": "sslocal://webcast_webview?radius=20&up_height_percent=73&up_offset_height=400&up_full_screen=1&up_trans_status_bar=1&close_icon_position=-1&pull_down_indicator_not_show=1&pull_down_close=1&type=popup&top_level=1&mask_alpha=0.3&height_percent=73&width_percent=100&open_animate=1&web_bg_color=ffffffff&use_real_screen_height=1&add_safe_area_height=0&gravity=bottom&loader_name=forest&use_wk_falcon=2&disable_host_jsb_method=1&disable_thread_spread=1&android_reuse_activity=1&enable_font_scale=1&pad_ratio=0.5&enable_pad_ratio=1&screen_size_adaptation=1&enable_pad_adapter=1&landscape_custom_height=1&rate_height=360&pad_use_phone_size=1&margin_right=0&margin_bottom=0&hide_nav_bar=1&trans_status_bar=1&status_bar_color=black&url=https%3A%2F%2Fffh.jinritemai.com%2Fforest%2Frender%2Ffe%2Ftemplate%2Fchannel%2Fecommerce_rights_pia2_h5%2Fhtml%2Fservice-rule-v2.html%3F_pia_%3D1%26enter_from_live_saas%3D0%26page_type%3Drule%26enter_from%3Dservice_configuration_platform%26privilege_code%3Dinsurance_freight_weight_upgrade%26biz_params%3D"
+            },
+            {
+              "left_icon": "http://p3-item.ecombdimg.com/tos-cn-i-5mmsx3fupr/second_page_common_icon_blue.png~tplv-5mmsx3fupr-image.webp",
+              "title": "7天无理由退货",
+              "content": "自物流显示商品签收的次日零时起7天内，支持消费者因主观原因申请退货，退回商品需完好",
+              "url": "sslocal://webcast_webview?radius=20&up_height_percent=73&up_offset_height=400&up_full_screen=1&up_trans_status_bar=1&close_icon_position=-1&pull_down_indicator_not_show=1&pull_down_close=1&type=popup&top_level=1&mask_alpha=0.3&height_percent=73&width_percent=100&open_animate=1&web_bg_color=ffffffff&use_real_screen_height=1&add_safe_area_height=0&gravity=bottom&loader_name=forest&use_wk_falcon=2&disable_host_jsb_method=1&disable_thread_spread=1&android_reuse_activity=1&enable_font_scale=1&pad_ratio=0.5&enable_pad_ratio=1&screen_size_adaptation=1&enable_pad_adapter=1&landscape_custom_height=1&rate_height=360&pad_use_phone_size=1&margin_right=0&margin_bottom=0&hide_nav_bar=1&trans_status_bar=1&status_bar_color=black&url=https%3A%2F%2Fffh.jinritemai.com%2Fforest%2Frender%2Ffe%2Ftemplate%2Fchannel%2Fecommerce_rights_pia2_h5%2Fhtml%2Fservice-rule-v2.html%3F_pia_%3D1%26enter_from_live_saas%3D0%26page_type%3Drule%26enter_from%3Dservice_configuration_platform%26privilege_code%3Dsupport_7days_refund%26biz_params%3D"
+            },
+            {
+              "left_icon": "http://p3-item.ecombdimg.com/tos-cn-i-5mmsx3fupr/second_page_common_icon_blue.png~tplv-5mmsx3fupr-image.webp",
+              "title": "商家资质",
+              "content": "查看商家详细资质信息",
+              "url": "https://haohuo.jinritemai.com/views/shop/multipleLicenses?id=uHLbQgx"
+            },
+            {
+              "left_icon": "http://p3-item.ecombdimg.com/tos-cn-i-5mmsx3fupr/second_page_common_icon_blue.png~tplv-5mmsx3fupr-image.webp",
+              "title": "本商品享受上述商家服务",
+              "content": "点击查看平台公示专区",
+              "url": "https://mix.jinritemai.com/falcon/mix_page/index.html?__live_platform__=webcast&allowMediaAutoPlay=1&enter_from=others&hide_nav_bar=1&hide_system_video_poster=1&id=7117178766052294949&origin_type=others&should_full_screen=1&trans_status_bar=1&ttwebview_extension_mixrender=1",
+              "tag": "public_zone"
+            }
+          ],
+          "service_type": "2,6,9,10",
+          "content_list": [
+            {
+              "render_type": 0,
+              "label_type": 1,
+              "coms": [
+                {
+                  "type": "text",
+                  "text": "运费险"
+                },
+                {
+                  "type": "text",
+                  "text": "·",
+                  "color": "rgba(22, 24, 35, 0.5)"
+                },
+                {
+                  "type": "text",
+                  "text": "7天无理由退货"
+                },
+                {
+                  "type": "text",
+                  "text": "·",
+                  "color": "rgba(22, 24, 35, 0.5)"
+                },
+                {
+                  "type": "text",
+                  "text": "商家资质"
+                }
+              ]
+            }
+          ]
+        },
+        "reward_content": {
+          "title": "活动",
+          "content_list": [
+            {
+              "render_type": 0,
+              "coms": [
+                {
+                  "type": "icon",
+                  "url": "https://p6-piu.byteimg.com/tos-cn-i-8jisjyls3a/2fdfa37015924263adedb19a57796fc1~tplv-8jisjyls3a-3:0:0:q75.png"
+                },
+                {
+                  "type": "text",
+                  "header": "入会领",
+                  "text": "满49减3"
+                }
+              ],
+              "link": "sslocal://webcast_lynxview?url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2Fwebcast%2Fecom%2Flynx%2Ffe_reactlynx_ecommerce_coupon_panel%2Fapp%2Ftemplate.js&type=popup&gravity=bottom&add_safe_area_height=0&height_percent=73&top_level=1&mask_alpha=0.5&use_real_screen_height=1",
+              "label_type": 1
+            }
+          ]
+        },
+        "logistics_content": {
+          "title": "物流",
+          "content_list": [
+            {
+              "label_type": 0,
+              "link": "sslocal://webcast_lynxview?add_safe_area_height=0&gravity=bottom&height_percent=60&mask_alpha=0.5&top_level=1&type=popup&url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2Fwebcast%2Fecom%2Flynx%2Fecom_goods_detail_popup_panels%2Flogistics_timeliness_popup%2Ftemplate.js%3Finfos%3D%255B%257B%2522main_text%2522%253A%2522%25E9%25A2%2584%25E8%25AE%25A1%25E6%2598%258E%25E5%25A4%25A9%25E4%25B8%258A%25E5%258D%2588%25E5%258F%2591%25E8%25B4%25A7%2522%252C%2522sub_text%2522%253A%2522%25E6%25A0%25B9%25E6%258D%25AE%25E8%25AF%25A5%25E5%2595%2586%25E5%2593%2581%25E8%25BF%25917%25E5%25A4%25A9%25E5%258F%2591%25E8%25B4%25A7%25E6%2583%2585%25E5%2586%25B5%25E6%258E%25A8%25E6%25B5%258B%25EF%25BC%258C%25E8%25AF%25A5%25E5%2595%2586%25E5%2593%2581%25E9%25A2%2584%25E8%25AE%25A1%25E6%2598%258E%25E5%25A4%25A9%25E4%25B8%258A%25E5%258D%2588%25E5%258F%2591%25E8%25B4%25A7%25E3%2580%2582%25E5%2585%25B7%25E4%25BD%2593%25E4%25BB%25A5%25E5%2595%2586%25E5%25AE%25B6%25E5%25AE%259E%25E9%2599%2585%25E5%258F%2591%25E8%25B4%25A7%25E6%2597%25B6%25E9%2597%25B4%25E4%25B8%25BA%25E5%2587%2586%25E3%2580%2582%2522%257D%255D%26title%3D%25E7%2589%25A9%25E6%25B5%2581%25E6%2597%25B6%25E6%2595%2588%25E8%25AF%25B4%25E6%2598%258E&use_real_screen_height=1",
+              "coms": [
+                {
+                  "type": "icon",
+                  "url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/rjhw.ajbkvyweh7tvjl/ljhwZthlaukjlkulzlp/xianhuo.png",
+                  "border_radius": ""
+                },
+                {
+                  "type": "text",
+                  "text": "现在下单，预计明天上午发货",
+                  "border_radius": ""
+                }
+              ]
+            },
+            {
+              "label_type": 4,
+              "link": "",
+              "coms": [
+                {
+                  "type": "text",
+                  "text": "包邮",
+                  "border_radius": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "comment_data": {
+        "good_comment": {
+          "title_bar": {
+            "sum": 1398729,
+            "link": "sslocal://ec_goods_comment/?comment_entrance=product_flow_page&product_id=3620553568169403454&show_header=1"
+          },
+          "tag_list": [
+            {
+              "text": "回头客",
+              "sentiment": 1,
+              "num": 375851
+            },
+            {
+              "text": "效果很好",
+              "sentiment": 1,
+              "num": 69472
+            },
+            {
+              "text": "很好",
+              "sentiment": 1,
+              "num": 36392
+            },
+            {
+              "text": "会回购",
+              "sentiment": 1,
+              "num": 19079
+            },
+            {
+              "text": "包装是正品",
+              "sentiment": 1,
+              "num": 18171
+            },
+            {
+              "text": "性价比高",
+              "sentiment": 1,
+              "num": 16633
+            },
+            {
+              "text": "物流很快",
+              "sentiment": 1,
+              "num": 15165
+            },
+            {
+              "text": "发货快",
+              "sentiment": 1,
+              "num": 13407
+            },
+            {
+              "text": "值得购买",
+              "sentiment": 1,
+              "num": 11639
+            }
+          ],
+          "comment_list": [
+            {
+              "comment_id": "4016978507858362659",
+              "avatar": "https://p3-ecom-commentpic.byteimg.com/tos-cn-i-fceoirpogb/ab7a986fcd88d32507ddc60ddccac576.png~tplv-fceoirpogb-image.image",
+              "name": "·**b",
+              "content": "今天刚收到货，迫不及待的就给房间、厨房、卧室、卫生间各个角落都贴了，相信老管家这个品牌，家里的洗涤用品几乎都用这个品牌，效果不错，等用后再评价吧。"
+            },
+            {
+              "comment_id": "3516515999774114090",
+              "avatar": "https://p26-product-comment-sign.byteimg.com/bnyhBcN6RPF6istYQXksdUm5ghxIo_mGro3KzjOELshqPO3AQ-IfXBJ5p4GB91rk8iVlLf9rWxivV4YXdBg44wzD2JX01wA4iIhMwOE2Q3f-q2K558uOvk00ArQfpmDYS30ehovPX5hzbataWwkFbWRV3XHJGV1-l3-hglrhu1tBNlErcYFMU4taig==?lk3s=e100c300&x-conf-key=LL5P3CZdqnFFZahSI1kh46bHQtKOpKbI8arsp3Awxq38BptZOk3SEjkO0A86Vg3Ozpjb0NARZgwrIXIFLO0aAGvlXvteAZaIt0I__e972EugPjS9e7CChNr0MPca9EKJx4-RerGesFBQfWs65xYKWdphTCJ-XHD410Xb938Lsb0%3D&x-expires=1788606039&x-signature=UUTsVRKjLtRjsrFQPTUAyGLaF88%3D",
+              "name": "缘**t",
+              "tag_list": [
+                {}
+              ],
+              "content": "货收到了，今天按排放上了，应该明天就能看到，特流很快，完整没有坏的，用好了，在追评"
+            }
+          ]
+        },
+        "buyer_show": {
+          "title_bar": {
+            "sum": 2173,
+            "link": "aweme://ecom_buyer_show?title=%E4%B9%B0%E5%AE%B6%E7%A7%80&product_id=3620553568169403454&track_params=%7B%22comment_entrance%22%3A%22product_detail%22%2C%22comment_module%22%3A%22selected_comment%22%7D"
+          },
+          "media_list": [
+            {
+              "type": 1,
+              "image_info": {
+                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/bfaaef9a31d14f25af14c712db6f96a6~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789207239&x-signature=D%2BXJEq9bL07w6jkh%2Fvh%2BvkNygto%3D"
+              },
+              "video_info": {},
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=4200169789170630922&comment_cursor=0&comment_entrance=product_detail"
+            },
+            {
+              "type": 1,
+              "image_info": {
+                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/tos-cn-i-8y5sebgt5i/778d12b56e88458da2115cd49a784888~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789207239&x-signature=QQ8zW3jMJLiGiyfId%2BjYMund%2FOo%3D"
+              },
+              "video_info": {},
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=2645090909913792814&comment_cursor=1&comment_entrance=product_detail"
+            },
+            {
+              "type": 2,
+              "image_info": {},
+              "video_info": {
+                "poster_url": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-2253/okL2GMMiah9fDQbsCQBgMIcZEB60C4BRtyHAiA~tplv-noop.image?cquery=100D&dy_q=1788602439&l=202609051800396C98A662250B70E734F5&x-expires=1788613256&x-signature=mIwFQlfUkX%2Fdw6k%2F4DdmmcMQMlI%3D"
+              },
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1083143796067205403&comment_cursor=2&comment_entrance=product_detail"
+            },
+            {
+              "type": 2,
+              "image_info": {},
+              "video_info": {
+                "poster_url": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-2253/oYvBFXD1FmZ1p8TSerKGECkZF1xIQECfARfmdE~tplv-noop.image?cquery=100D&dy_q=1788602439&l=202609051800396C98A662250B70E734F5&x-expires=1788613243&x-signature=kYCcAlJyqYJp9FqNPxGrzXsi9UA%3D"
+              },
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1101101019305476362&comment_cursor=3&comment_entrance=product_detail"
+            },
+            {
+              "type": 1,
+              "image_info": {
+                "thumbnail": "https://p3-ecom-commentpic-sign.byteimg.com/douyin-user-image-file/e2c81306acc4391cd3ce542a6f029b7c~tplv-fceoirpogb-re_cp:360:0:q100.heic?lk3s=e100c300&x-expires=1789207239&x-signature=sp5UVJPeDo3jlBAchgxLAVloYeQ%3D"
+              },
+              "video_info": {},
+              "preview_url": "sslocal://ec_comment_detail?product_id=3620553568169403454&comment_id=1779720422066946355&comment_cursor=4&comment_entrance=product_detail"
+            }
+          ]
+        },
+        "shop_extra_comment": {
+          "title_bar": {}
+        },
+        "good_evaluation": {},
+        "style_type": 0
+      },
+      "shop_coupon_data": {},
+      "footer_data": {
+        "small_button_list": [
+          {
+            "name": "店铺",
+            "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ljylttvjl_lmp/ljhwZthlaukjlkulzlp/ecom_detail/detail_page__shop_icon--gray.png"
+          },
+          {
+            "name": "客服",
+            "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/jpw_uvlnpw/ljhwZthlaukjlkulzlp/pigeon_icon/new/good_detail.png"
+          },
+          {
+            "name": "购物车",
+            "icon_url": "https://p26-piu.byteimg.com/tos-cn-i-8jisjyls3a/5839312b6e2348109c5328267a75dc5a~tplv-8jisjyls3a-3:0:0:q75.png",
+            "subscript": "0"
+          }
+        ],
+        "big_button_list": [
+          {
+            "button_type": -3,
+            "button_status": "normal",
+            "text_info": {
+              "content": "加入购物车",
+              "color": "#FE2C55"
+            },
+            "sub_text_info": {},
+            "bg_color": "#FE2C550D"
+          },
+          {
+            "button_type": 0,
+            "button_status": "normal",
+            "text_info": {
+              "content": "去抢购",
+              "color": "#FFFFFF"
+            },
+            "sub_text_info": {},
+            "bg_color": "#FE2C55"
+          }
+        ]
+      },
+      "init_popup_data": {
+        "find_sim": {}
+      },
+      "pack_detail": {
+        "style_type": 0
+      },
+      "page_data": {},
+      "redirect_location_v2": "",
+      "style_type": 0,
+      "collapse_detail": false
+    },
+    "detail_info": {
+      "detail_imgs": [
+        {
+          "uri": "ecom-shop-material/jpeg_m_1aa152129c1295c45417ca92d577e0ff_sx_354432_www790-836",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1aa152129c1295c45417ca92d577e0ff_sx_354432_www790-836~tplv-5mmsx3fupr-resize:790:836.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1aa152129c1295c45417ca92d577e0ff_sx_354432_www790-836~tplv-5mmsx3fupr-resize:790:836.jpeg"
+          ],
+          "width": 790,
+          "height": 836
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206",
+          "url_list": [
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg"
+          ],
+          "width": 790,
+          "height": 1206
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
+          ],
+          "width": 790,
+          "height": 1329
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_c4e47955564a19a4331f68e6944fc6ba_sx_579382_www790-1376",
+          "url_list": [
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c4e47955564a19a4331f68e6944fc6ba_sx_579382_www790-1376~tplv-5mmsx3fupr-resize:790:1376.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c4e47955564a19a4331f68e6944fc6ba_sx_579382_www790-1376~tplv-5mmsx3fupr-resize:790:1376.jpeg"
+          ],
+          "width": 790,
+          "height": 1376
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_84e4af97d39c38a4fd38b4c2a681d05e_sx_270955_www790-1284",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_84e4af97d39c38a4fd38b4c2a681d05e_sx_270955_www790-1284~tplv-5mmsx3fupr-resize:790:1284.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_84e4af97d39c38a4fd38b4c2a681d05e_sx_270955_www790-1284~tplv-5mmsx3fupr-resize:790:1284.jpeg"
+          ],
+          "width": 790,
+          "height": 1284
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg"
+          ],
+          "width": 790,
+          "height": 1184
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg"
+          ],
+          "width": 790,
+          "height": 1168
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg"
+          ],
+          "width": 790,
+          "height": 1512
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_4b22e27a9649b62baa2bbbf94be69b19_sx_202842_www790-773",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_4b22e27a9649b62baa2bbbf94be69b19_sx_202842_www790-773~tplv-5mmsx3fupr-resize:790:773.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_4b22e27a9649b62baa2bbbf94be69b19_sx_202842_www790-773~tplv-5mmsx3fupr-resize:790:773.jpeg"
+          ],
+          "width": 790,
+          "height": 773
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_1917cb8d2f98aaab5f6b123b5fd54a78_sx_424690_www790-1149",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1917cb8d2f98aaab5f6b123b5fd54a78_sx_424690_www790-1149~tplv-5mmsx3fupr-resize:790:1149.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1917cb8d2f98aaab5f6b123b5fd54a78_sx_424690_www790-1149~tplv-5mmsx3fupr-resize:790:1149.jpeg"
+          ],
+          "width": 790,
+          "height": 1149
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_381bc753fa9a3f1e11748d08c5e8b48d_sx_742567_www790-1338",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_381bc753fa9a3f1e11748d08c5e8b48d_sx_742567_www790-1338~tplv-5mmsx3fupr-resize:790:1338.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_381bc753fa9a3f1e11748d08c5e8b48d_sx_742567_www790-1338~tplv-5mmsx3fupr-resize:790:1338.jpeg"
+          ],
+          "width": 790,
+          "height": 1338
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804",
+          "url_list": [
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg"
+          ],
+          "width": 750,
+          "height": 804
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg"
+          ],
+          "width": 790,
+          "height": 734
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244",
+          "url_list": [
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
+          ],
+          "width": 790,
+          "height": 1244
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907",
+          "url_list": [
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg"
+          ],
+          "width": 790,
+          "height": 907
+        },
+        {
+          "uri": "ecom-shop-material/uHLbQgx_m_2df28e08aef4f938aeab7e8f86f28ee4_sx_58207_www790-349",
+          "url_list": [
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_2df28e08aef4f938aeab7e8f86f28ee4_sx_58207_www790-349~tplv-5mmsx3fupr-resize:790:349.jpeg",
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_2df28e08aef4f938aeab7e8f86f28ee4_sx_58207_www790-349~tplv-5mmsx3fupr-resize:790:349.jpeg"
+          ],
+          "width": 790,
+          "height": 349
+        },
+        {
+          "uri": "ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550",
+          "url_list": [
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg"
+          ],
+          "width": 790,
+          "height": 550
+        },
+        {
+          "uri": "ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200",
+          "url_list": [
+            "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg",
+            "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg"
+          ],
+          "width": 790,
+          "height": 200
+        }
+      ],
+      "product_format": [
+        {
+          "format": [
+            {
+              "name": "品牌",
+              "message": [
+                {
+                  "desc": "老管家"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "1687"
+            },
+            {
+              "name": "生产企业名称",
+              "message": [
+                {
+                  "desc": "浙江天丰生物科学有限公司"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "2685"
+            },
+            {
+              "name": "适用对象",
+              "message": [
+                {
+                  "desc": "蟑螂"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "2199"
+            },
+            {
+              "name": "农药生产许可证/批准文号",
+              "message": [
+                {
+                  "desc": "农药生许（浙）0007"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "3992"
+            },
+            {
+              "name": "商品条形码",
+              "message": [
+                {
+                  "desc": "6957411124860"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "2500"
+            },
+            {
+              "name": "产地",
+              "message": [
+                {
+                  "desc": "中国大陆"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "1880"
+            },
+            {
+              "name": "产品形态",
+              "message": [
+                {
+                  "desc": "胶饵"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "995"
+            },
+            {
+              "name": "农药登记证号",
+              "message": [
+                {
+                  "desc": "WP20150031"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "633"
+            },
+            {
+              "name": "产品净含量",
+              "message": [
+                {
+                  "desc": "3g*6个"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "4715"
+            },
+            {
+              "name": "产品名称",
+              "message": [
+                {
+                  "desc": "杀蟑胶饵"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "1479"
+            },
+            {
+              "name": "农药名称",
+              "message": [
+                {
+                  "desc": "吡虫啉"
+                }
+              ],
+              "pic_urls": null,
+              "property_id": "4562"
+            }
+          ],
+          "media_elements": null
+        }
+      ],
+      "detail_config": [
+        {
+          "main_content": [
+            {
+              "content": [
+                "售卖价，由商家依照《价格法》规定的定价原则及定价依据通过商家后台页面自主填写（适用政府指导价或者政府定价除外），如商品未通过商家后台参加促销活动（如优惠券、满减、秒杀、拼团等）的，售卖价将作为销售价格展示。",
+                "如商品通过商家后台参加促销活动（如优惠券、满减、秒杀、拼团等），售卖价将会作为被比较价格，可能以“划线价（即价格上划横线）”、“参考价”等形式展示，此时售卖价作为被比较的价格，并非原价，仅用于向消费者展示商品未参与促销活动的价格。",
+                "到手价，指商品使用各种优惠券、参与满减等促销活动后，消费者实际支付的价格。到手价可能因促销活动、达人主播专享、补贴、特殊时段等各类因素而产生变动，最终以消费者在商品订单中的支付金额为准。",
+                "商品价格由商家自主决定，如商家及/或达人对商品价格有特别说明的，以商家/达人表述为准。平台依据法律法规及平台规则，坚决打击各类价格违法行为，如消费者发现价格违法情形的，请及时向平台投诉举报。",
+                "抖音电商平台价格标签说明"
+              ],
+              "type": 0,
+              "title": "价格说明",
+              "links": [
+                {
+                  "key": "抖音电商平台价格标签说明",
+                  "link": "https://school.jinritemai.com/doudian/web/article/aHzox7KpPT94"
+                }
+              ],
+              "default_show": false
+            }
+          ],
+          "main_title": "",
+          "main_type": 0
+        },
+        {
+          "main_content": [
+            {
+              "content": [
+                "温馨提示：18周岁以下未成年人请勿购买此类商品。"
+              ],
+              "type": 0,
+              "title": "使用说明",
+              "links": [],
+              "default_show": true
+            }
+          ],
+          "main_title": "",
+          "main_type": 0
+        },
+        {
+          "main_content": [
+            {
+              "content": [
+                "“已售”，指该店铺在抖音电商平台内，销售该款商品的数量。",
+                "“同款热销”，系同型号同规格的同款商品，在抖音电商平台内多店铺历史销量汇总统计所得，供消费者参考。该销量数据基于平台内各店铺数据和算法计算所得，可能存在识别不准确的情形，我们将持续优化。"
+              ],
+              "type": 0,
+              "title": "销量说明",
+              "links": [],
+              "default_show": false
+            },
+            {
+              "content": [
+                "小店平台用户服务协议",
+                "小店隐私政策"
+              ],
+              "type": 0,
+              "title": "协议",
+              "links": [
+                {
+                  "key": "小店平台用户服务协议",
+                  "link": "https://school.jinritemai.com/doudian/web/article/104868?rank=1&fromPage=search_result&searchInfo=10700604816031273580%3A1%3A0&query=%E5%B0%8F%E5%BA%97%E7%94%A8%E6%88%B7%E5%8D%8F%E8%AE%AE"
+                },
+                {
+                  "key": "小店隐私政策",
+                  "link": "https://school.jinritemai.com/doudian/web/article/aHJfD81heWcT"
+                }
+              ],
+              "default_show": false
+            }
+          ],
+          "main_title": "",
+          "main_type": 0
+        }
+      ],
+      "jump_url": "sslocal://webcast_lynxview?type=popup&url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2F10181%2Fgecko%2Fresource%2Fecommerce_extensions_aweme%2Fextensions%2Fspecifications%2Ftemplate.js&gravity=bottom&height_percent=73&top_level=1&mask_alpha=0.56&add_safe_area_height=0&use_real_screen_height=1&feature_page_source=changmiao&screen_size_adaptation=1",
+      "detail_imgs_new": [
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_1aa152129c1295c45417ca92d577e0ff_sx_354432_www790-836",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1aa152129c1295c45417ca92d577e0ff_sx_354432_www790-836~tplv-5mmsx3fupr-resize:790:836.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1aa152129c1295c45417ca92d577e0ff_sx_354432_www790-836~tplv-5mmsx3fupr-resize:790:836.jpeg"
+            ],
+            "width": 790,
+            "height": 836
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206",
+            "url_list": [
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_67a35bbf8262bfe53efbd35167bf9329_sx_384433_www790-1206~tplv-5mmsx3fupr-resize:790:1206.jpeg"
+            ],
+            "width": 790,
+            "height": 1206
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_071cf61f062be960f061179c17d5c6f5_sx_392923_www790-1329~tplv-5mmsx3fupr-resize:790:1329.jpeg"
+            ],
+            "width": 790,
+            "height": 1329
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_c4e47955564a19a4331f68e6944fc6ba_sx_579382_www790-1376",
+            "url_list": [
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c4e47955564a19a4331f68e6944fc6ba_sx_579382_www790-1376~tplv-5mmsx3fupr-resize:790:1376.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c4e47955564a19a4331f68e6944fc6ba_sx_579382_www790-1376~tplv-5mmsx3fupr-resize:790:1376.jpeg"
+            ],
+            "width": 790,
+            "height": 1376
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_84e4af97d39c38a4fd38b4c2a681d05e_sx_270955_www790-1284",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_84e4af97d39c38a4fd38b4c2a681d05e_sx_270955_www790-1284~tplv-5mmsx3fupr-resize:790:1284.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_84e4af97d39c38a4fd38b4c2a681d05e_sx_270955_www790-1284~tplv-5mmsx3fupr-resize:790:1284.jpeg"
+            ],
+            "width": 790,
+            "height": 1284
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a837fe66628c6425a7ad7b0674ff5d15_sx_391633_www790-1184~tplv-5mmsx3fupr-resize:790:1184.jpeg"
+            ],
+            "width": 790,
+            "height": 1184
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_309914784525cf347c52f584d9eb8805_sx_247895_www790-1168~tplv-5mmsx3fupr-resize:790:1168.jpeg"
+            ],
+            "width": 790,
+            "height": 1168
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_9d6d0074b83cbd50f387550eee62003c_sx_398769_www790-1512~tplv-5mmsx3fupr-resize:790:1512.jpeg"
+            ],
+            "width": 790,
+            "height": 1512
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_4b22e27a9649b62baa2bbbf94be69b19_sx_202842_www790-773",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_4b22e27a9649b62baa2bbbf94be69b19_sx_202842_www790-773~tplv-5mmsx3fupr-resize:790:773.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_4b22e27a9649b62baa2bbbf94be69b19_sx_202842_www790-773~tplv-5mmsx3fupr-resize:790:773.jpeg"
+            ],
+            "width": 790,
+            "height": 773
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_1917cb8d2f98aaab5f6b123b5fd54a78_sx_424690_www790-1149",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1917cb8d2f98aaab5f6b123b5fd54a78_sx_424690_www790-1149~tplv-5mmsx3fupr-resize:790:1149.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1917cb8d2f98aaab5f6b123b5fd54a78_sx_424690_www790-1149~tplv-5mmsx3fupr-resize:790:1149.jpeg"
+            ],
+            "width": 790,
+            "height": 1149
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_381bc753fa9a3f1e11748d08c5e8b48d_sx_742567_www790-1338",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_381bc753fa9a3f1e11748d08c5e8b48d_sx_742567_www790-1338~tplv-5mmsx3fupr-resize:790:1338.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_381bc753fa9a3f1e11748d08c5e8b48d_sx_742567_www790-1338~tplv-5mmsx3fupr-resize:790:1338.jpeg"
+            ],
+            "width": 790,
+            "height": 1338
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804",
+            "url_list": [
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_1d01583e62950023b3f64bcd5a9c71a2_sx_208058_www750-804~tplv-5mmsx3fupr-resize:750:804.jpeg"
+            ],
+            "width": 750,
+            "height": 804
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_ab282dda7aa75b08c3552f15276ebc50_sx_275428_www790-734~tplv-5mmsx3fupr-resize:790:734.jpeg"
+            ],
+            "width": 790,
+            "height": 734
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244",
+            "url_list": [
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_fbb0f2b81ad81b30e355b0d706527a7e_sx_378311_www790-1244~tplv-5mmsx3fupr-resize:790:1244.jpeg"
+            ],
+            "width": 790,
+            "height": 1244
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907",
+            "url_list": [
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_a42530088da58afb0d5275d8986898c2_sx_269862_www790-907~tplv-5mmsx3fupr-resize:790:907.jpeg"
+            ],
+            "width": 790,
+            "height": 907
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/uHLbQgx_m_2df28e08aef4f938aeab7e8f86f28ee4_sx_58207_www790-349",
+            "url_list": [
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_2df28e08aef4f938aeab7e8f86f28ee4_sx_58207_www790-349~tplv-5mmsx3fupr-resize:790:349.jpeg",
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_2df28e08aef4f938aeab7e8f86f28ee4_sx_58207_www790-349~tplv-5mmsx3fupr-resize:790:349.jpeg"
+            ],
+            "width": 790,
+            "height": 349
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550",
+            "url_list": [
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/uHLbQgx_m_452587b1812528e4ca752bb50a08a492_sx_245772_www790-550~tplv-5mmsx3fupr-resize:790:550.jpeg"
+            ],
+            "width": 790,
+            "height": 550
+          },
+          "pic_type": "pic"
+        },
+        {
+          "image": {
+            "uri": "ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200",
+            "url_list": [
+              "https://p3-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg",
+              "https://p26-item.ecombdimg.com/img/ecom-shop-material/jpeg_m_c50286c0966a4d720c5975a24420a742_sx_48000_www790-200~tplv-5mmsx3fupr-resize:790:200.jpeg"
+            ],
+            "width": 790,
+            "height": 200
+          },
+          "pic_type": "pic"
+        }
+      ],
+      "title_image": {
+        "uri": "tos-cn-i-5mmsx3fupr/product_detail_head.png",
+        "url_list": [
+          "http://p26-item.ecombdimg.com/tos-cn-i-5mmsx3fupr/product_detail_head.png~tplv-5mmsx3fupr-origin-png.png"
+        ],
+        "width": 149,
+        "height": 21
+      },
+      "ai_question": null,
+      "tag_card": null
+    }
+  },
+  "recordTime": null
+}

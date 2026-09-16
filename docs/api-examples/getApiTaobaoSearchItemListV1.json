@@ -1,0 +1,1528 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:45.906769+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:22",
+  "code": 0,
+  "message": null,
+  "data": {
+    "code": "SUCCESS",
+    "extraMap": {
+      "MtopCostMillis": 71
+    },
+    "model": {
+      "brandList": [
+        {
+          "brandId": 1116992510,
+          "brandName": "徽味和",
+          "count": 14
+        },
+        {
+          "brandId": 3475727,
+          "brandName": "欧贝拉",
+          "count": 7
+        },
+        {
+          "brandId": 194954687,
+          "brandName": "其妙",
+          "count": 38
+        },
+        {
+          "brandId": 1466344051,
+          "brandName": "LAO XIAN SHENG FOOD/老先生食品",
+          "count": 1
+        },
+        {
+          "brandId": 9550963,
+          "brandName": "沈大成",
+          "count": 30
+        },
+        {
+          "brandId": 8339639,
+          "brandName": "知味观",
+          "count": 19
+        },
+        {
+          "brandId": 92540,
+          "brandName": "稻香村",
+          "count": 89
+        },
+        {
+          "brandId": 25320736,
+          "brandName": "友臣",
+          "count": 15
+        },
+        {
+          "brandId": 139429029,
+          "brandName": "口口妙",
+          "count": 0
+        },
+        {
+          "brandId": 1863329994,
+          "brandName": "零趣（食品）",
+          "count": 14
+        },
+        {
+          "brandId": 6370618910,
+          "brandName": "比比赞（食品类）",
+          "count": 54
+        },
+        {
+          "brandId": 19540673,
+          "brandName": "老顾客",
+          "count": 0
+        },
+        {
+          "brandId": 855252721,
+          "brandName": "乡气",
+          "count": 33
+        },
+        {
+          "brandId": 11714362,
+          "brandName": "BE＆CHEERY/百草味",
+          "count": 23
+        },
+        {
+          "brandId": 152974195,
+          "brandName": "jiahua food/嘉华",
+          "count": 35
+        },
+        {
+          "brandId": 92543,
+          "brandName": "御食园",
+          "count": 68
+        },
+        {
+          "brandId": 277214113,
+          "brandName": "welcome/惠康",
+          "count": 0
+        },
+        {
+          "brandId": 191098186,
+          "brandName": "1\r9787201171043\r9787513660587\r9787516830697\r9787500170587",
+          "count": 0
+        },
+        {
+          "brandId": 1475188323,
+          "brandName": "新邻坊",
+          "count": 0
+        },
+        {
+          "brandId": 4539516,
+          "brandName": "五芳斋",
+          "count": 14
+        },
+        {
+          "brandId": 265718902,
+          "brandName": "老盛",
+          "count": 0
+        },
+        {
+          "brandId": 540536139,
+          "brandName": "上好旺",
+          "count": 0
+        },
+        {
+          "brandId": 11229217,
+          "brandName": "老潮夫",
+          "count": 21
+        },
+        {
+          "brandId": 7724367,
+          "brandName": "良品铺子",
+          "count": 12
+        },
+        {
+          "brandId": 147280915,
+          "brandName": "Three Squirrels/三只松鼠",
+          "count": 38
+        },
+        {
+          "brandId": 266818727,
+          "brandName": "润之禧",
+          "count": 0
+        },
+        {
+          "brandId": 308328652,
+          "brandName": "吴玉源",
+          "count": 13
+        },
+        {
+          "brandId": 280064842,
+          "brandName": "YUMMYHi/丫眯乐",
+          "count": 1
+        },
+        {
+          "brandId": 33480,
+          "brandName": "杏花楼",
+          "count": 29
+        },
+        {
+          "brandId": 119079,
+          "brandName": "盼盼",
+          "count": 7
+        },
+        {
+          "brandId": 16931506,
+          "brandName": "葡记",
+          "count": 0
+        },
+        {
+          "brandId": 2661030872,
+          "brandName": "爱尚亿园",
+          "count": 0
+        },
+        {
+          "brandId": 1961203199,
+          "brandName": "都乐梦",
+          "count": 4
+        },
+        {
+          "brandId": 65530419,
+          "brandName": "阿婆家的",
+          "count": 1
+        },
+        {
+          "brandId": 15319730,
+          "brandName": "北京稻香村",
+          "count": 104
+        },
+        {
+          "brandId": 28908436,
+          "brandName": "杨先生",
+          "count": 8
+        }
+      ],
+      "costMillis": 71,
+      "extraMap": {
+        "WorldsearchIP": "33.102.181.148",
+        "WorldsearchName": "worldsearch033102181148.center.na620",
+        "EndpointHost": "33.5.193.244",
+        "sp_status": "OK",
+        "Endpoint": "taobao_item",
+        "afterSearchCostMillis": 0
+      },
+      "itemList": [
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 14.9,
+          "discntRate": 373,
+          "discntType": "优惠价",
+          "extraMap": {},
+          "fahuoDsr": "487",
+          "frontStock": 92697,
+          "fuwuDsr": "486",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 638549822878,
+          "itemLoc": "湖南 长沙",
+          "itemName": "皇家小虎手抓饼面饼皮正品旗舰店早餐半成品美食葱油煎饼卷饼商用",
+          "itemNameEn": "",
+          "itemSubName": "猪油起酥 千层酥脆 无需解冻 3分钟营养早餐",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "483",
+          "options": 17750295040,
+          "orderPayUV": "1万+",
+          "picUrl": "i3/3578271683/O1CN01La7m7l1OIriYcjUDR_!!4611686018427385795-0-item_pic.jpg",
+          "picUrlFull": "https://g.search.alicdn.com/img/bao/uploaded/i4/i3/3578271683/O1CN01La7m7l1OIriYcjUDR_!!4611686018427385795-0-item_pic.jpg",
+          "picUrlList": [
+            "i1/3578271683/O1CN01HjLE5T1OIrYaObHf5_!!3578271683.jpg",
+            "i2/3578271683/O1CN01J6mXmM1OIrYhMZYVL_!!3578271683.jpg",
+            "i2/3578271683/O1CN01CUqj0W1OIrYlMI7qO_!!3578271683.jpg",
+            "i3/3578271683/O1CN01PboOgH1OIrYj7ZJto_!!3578271683.jpg"
+          ],
+          "priceFen": 39900,
+          "priceYuanDouble": 399.0,
+          "priceZKFen": 1490,
+          "priceZKYuanDouble": 14.9,
+          "prodId": 255522572,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 18,
+          "sellerLoc": "上海 上海",
+          "serviceList": [],
+          "shopId": 3578271683,
+          "shopName": "皇家小虎旗舰店",
+          "spuId": 8750681503,
+          "tagList": [],
+          "tmcTagList": [
+            "49227",
+            "49117",
+            "49468",
+            "49116",
+            "100048300",
+            "100049468",
+            "100049116",
+            "100049117",
+            "100049227",
+            "49270",
+            "100049113",
+            "48300",
+            "49113",
+            "100049270"
+          ],
+          "userTag": 18014535948435464,
+          "userType": 1,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 11.05,
+          "discntRate": 4437,
+          "discntType": "优惠价",
+          "extraMap": {},
+          "fahuoDsr": "491",
+          "frontStock": 13408,
+          "fuwuDsr": "491",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 854378539175,
+          "itemLoc": "上海",
+          "itemName": "好丽友好多鱼3连包休闲零食儿童薯片零嘴美食膨化礼包小吃99g*1盒",
+          "itemNameEn": "",
+          "itemSubName": "好丽友 | 好多鱼 | 酥酥脆脆",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "488",
+          "options": 18295874056618496,
+          "orderPayUV": "1万+",
+          "picUrl": "i3/6000000005532/O1CN01p7h2O48q5nI1chua_!!6000000005532-0-sm.jpg",
+          "picUrlFull": "https://g.search1.alicdn.com/img/bao/uploaded/i4/i3/6000000005532/O1CN01p7h2O48q5nI1chua_!!6000000005532-0-sm.jpg",
+          "picUrlList": [
+            "i4/6000000000092/O1CN0122uF7e1CYBapPiTHh_!!6000000000092-0-at.jpg",
+            "i1/6000000006232/O1CN01qV9QCa1vuJR9Cxc8N_!!6000000006232-0-at.jpg",
+            "i2/6000000005994/O1CN01HLQIuD1u9JAnz7j6e_!!6000000005994-0-at.jpg",
+            "i1/6000000001387/O1CN01cR5zks1M7IUsni4HJ_!!6000000001387-0-at.jpg"
+          ],
+          "priceFen": 2490,
+          "priceYuanDouble": 24.9,
+          "priceZKFen": 1105,
+          "priceZKYuanDouble": 11.05,
+          "prodId": 1481282835,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 20,
+          "sellerLoc": "上海 上海",
+          "serviceList": [],
+          "shopId": 725677994,
+          "shopName": "天猫超市",
+          "spuId": 221605601,
+          "tagList": [],
+          "tmcTagList": [
+            "49227",
+            "49117",
+            "49556",
+            "49468",
+            "49116",
+            "100048300",
+            "100049556",
+            "100049468",
+            "100049116",
+            "100049117",
+            "100049227",
+            "49270",
+            "100049113",
+            "48300",
+            "49113",
+            "100049270"
+          ],
+          "userTag": 1170937140066910216,
+          "userType": 1,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 12.9,
+          "discntRate": 8657,
+          "discntType": "天天团购",
+          "extraMap": {},
+          "fahuoDsr": "487",
+          "frontStock": 441756,
+          "fuwuDsr": "487",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 923576557108,
+          "itemLoc": "河北 沧州",
+          "itemName": "【100g*10块】到手2斤老式五仁月饼糕点传统美食早餐代餐独立包装",
+          "itemNameEn": "",
+          "itemSubName": "",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "484",
+          "options": 17716740096,
+          "orderPayUV": "1000+",
+          "picUrl": "i4/1087296789/O1CN01aQGTPH201PwgqNnci_!!1087296789.webp",
+          "picUrlFull": "https://g.search2.alicdn.com/img/bao/uploaded/i4/i4/1087296789/O1CN01aQGTPH201PwgqNnci_!!1087296789.webp",
+          "picUrlList": [
+            "i1/1087296789/O1CN01oaTAhH201Pwgovdf9_!!1087296789.webp",
+            "i4/1087296789/O1CN01mE2owE201Pwj9ip3b_!!1087296789.webp",
+            "i4/1087296789/O1CN01jxrzod201PwjPdcqV_!!1087296789.webp",
+            "i3/1087296789/O1CN01Myqg1q201Pwia9V3Y_!!1087296789.webp"
+          ],
+          "priceFen": 1490,
+          "priceYuanDouble": 14.9,
+          "priceZKFen": 1290,
+          "priceZKYuanDouble": 12.9,
+          "prodId": 1527866432,
+          "provEn": "",
+          "sellerGoodrat": 9864,
+          "sellerLevel": 13,
+          "sellerLoc": "山东 日照",
+          "serviceList": [],
+          "shopId": 1087296789,
+          "shopName": "诗然家零食铺子",
+          "spuId": 0,
+          "tagList": [],
+          "tmcTagList": [],
+          "userTag": 1170940490143498244,
+          "userType": 0,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 19.8,
+          "discntRate": 6875,
+          "discntType": "优惠价",
+          "extraMap": {},
+          "fahuoDsr": "488",
+          "frontStock": 385842,
+          "fuwuDsr": "487",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 619692267191,
+          "itemLoc": "江苏 南通",
+          "itemName": "钱家香老卤鸭脖熟食卤味小吃休闲零食鸭脖子散装鸭肉类浙江美食",
+          "itemNameEn": "",
+          "itemSubName": "每一口都是味蕾的享受，【500g约8袋】",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "486",
+          "options": 17750295040,
+          "orderPayUV": "1000+",
+          "picUrl": "i1/2208046333922/O1CN01mVnTD91eqKSNy2zYV_!!4611686018427387874-0-item_pic.jpg",
+          "picUrlFull": "https://g.search3.alicdn.com/img/bao/uploaded/i4/i1/2208046333922/O1CN01mVnTD91eqKSNy2zYV_!!4611686018427387874-0-item_pic.jpg",
+          "picUrlList": [
+            "i1/2208046333922/O1CN01PN90pu1eqKNpS3UmF_!!2208046333922.jpg",
+            "i2/2208046333922/O1CN018hfXpt1eqKMg5KIZk_!!2208046333922.jpg",
+            "i4/2208046333922/O1CN01jXsdM61eqK1lAWbEX_!!2208046333922.jpg",
+            "i3/2208046333922/O1CN01caq2KA1eqKMdoYkAl_!!2208046333922.jpg"
+          ],
+          "priceFen": 2880,
+          "priceYuanDouble": 28.8,
+          "priceZKFen": 1980,
+          "priceZKYuanDouble": 19.8,
+          "prodId": 1627587986,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 15,
+          "sellerLoc": "",
+          "serviceList": [],
+          "shopId": 2208046333922,
+          "shopName": "钱家香旗舰店",
+          "spuId": 1339011712,
+          "tagList": [],
+          "tmcTagList": [
+            "49270",
+            "100049113",
+            "49117",
+            "49556",
+            "49468",
+            "48300",
+            "49113",
+            "100049270",
+            "100048300",
+            "100049556",
+            "100049468",
+            "100049117"
+          ],
+          "userTag": 18014535948435456,
+          "userType": 1,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 15.9,
+          "discntRate": 2449,
+          "discntType": "优惠价",
+          "extraMap": {},
+          "fahuoDsr": "479",
+          "frontStock": 242720,
+          "fuwuDsr": "479",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 625378132982,
+          "itemLoc": "山东 日照",
+          "itemName": "葱油饼老上海正宗手抓饼皮旗舰店早餐半成品美食食品千层葱花煎饼",
+          "itemNameEn": "",
+          "itemSubName": "",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "474",
+          "options": 17750294528,
+          "orderPayUV": "1000+",
+          "picUrl": "i4/3314768299/O1CN01IXAdKV2BB06YoTvGY_!!4611686018427386283-0-item_pic.jpg",
+          "picUrlFull": "https://g.search.alicdn.com/img/bao/uploaded/i4/i4/3314768299/O1CN01IXAdKV2BB06YoTvGY_!!4611686018427386283-0-item_pic.jpg",
+          "picUrlList": [
+            "i2/3314768299/O1CN01EPXYI12BAztN0IXsk_!!3314768299.jpg",
+            "i4/3314768299/O1CN01wzB8yc2BAztN0IXsw_!!3314768299.jpg",
+            "i3/3314768299/O1CN01m9qIVz2BB06MwygV1_!!3314768299.jpg",
+            "i1/3314768299/O1CN01bCWeuz2BAztOKaZEv_!!3314768299.jpg"
+          ],
+          "priceFen": 6490,
+          "priceYuanDouble": 64.9,
+          "priceZKFen": 1590,
+          "priceZKYuanDouble": 15.9,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 18,
+          "sellerLoc": "",
+          "serviceList": [],
+          "shopId": 3314768299,
+          "shopName": "九岭夼旗舰店",
+          "spuId": 8771918808,
+          "tagList": [],
+          "tmcTagList": [
+            "49227",
+            "49117",
+            "49468",
+            "49116",
+            "100048300",
+            "100049468",
+            "100049116",
+            "100049117",
+            "100049227",
+            "49270",
+            "100049113",
+            "48300",
+            "49113",
+            "100049270"
+          ],
+          "userTag": 18014535948435456,
+          "userType": 1,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 11.9,
+          "discntRate": 3979,
+          "discntType": "优惠价",
+          "extraMap": {},
+          "fahuoDsr": "484",
+          "frontStock": 7597,
+          "fuwuDsr": "486",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 705251895845,
+          "itemLoc": "江苏 南京",
+          "itemName": "泸溪河桃酥中秋礼盒糕点心饼干酥饼休闲小零食无糖桃酥核特产美食",
+          "itemNameEn": "",
+          "itemSubName": "传统中式糕点 家庭装桃酥！",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "482",
+          "options": 570425856,
+          "orderPayUV": "1000+",
+          "picUrl": "i3/2201469456119/O1CN01HjArIV1v4YeYrVcjb_!!4611686018427383543-0-item_pic.jpg",
+          "picUrlFull": "https://g.search1.alicdn.com/img/bao/uploaded/i4/i3/2201469456119/O1CN01HjArIV1v4YeYrVcjb_!!4611686018427383543-0-item_pic.jpg",
+          "picUrlList": [
+            "i1/2201469456119/O1CN01DAvYCW1v4YdyYaiFw_!!2201469456119.jpg",
+            "i3/2201469456119/O1CN01sbRCDE1v4YdyMzTjk_!!2201469456119.jpg",
+            "i1/2201469456119/O1CN017X05Fq1v4YcLUu3r7_!!2201469456119.jpg",
+            "i2/2201469456119/O1CN01CGirAI1v4YcM1D2UP_!!2201469456119.jpg"
+          ],
+          "priceFen": 2990,
+          "priceYuanDouble": 29.9,
+          "priceZKFen": 1190,
+          "priceZKYuanDouble": 11.9,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 16,
+          "sellerLoc": "",
+          "serviceList": [],
+          "shopId": 2201469456119,
+          "shopName": "泸溪河旗舰店",
+          "spuId": 3762831423,
+          "tagList": [],
+          "tmcTagList": [
+            "49515",
+            "49227",
+            "49117",
+            "49468",
+            "49116",
+            "100049515",
+            "100048300",
+            "100049468",
+            "100049116",
+            "100049117",
+            "100049227",
+            "49270",
+            "100049113",
+            "48300",
+            "49113",
+            "100049270"
+          ],
+          "userTag": 18014535948435456,
+          "userType": 1,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 9.9,
+          "discntRate": 4974,
+          "discntType": "优惠价",
+          "extraMap": {},
+          "fahuoDsr": "491",
+          "frontStock": 5662,
+          "fuwuDsr": "491",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 865387472383,
+          "itemLoc": "上海",
+          "itemName": "阿宽红油拌面网红美食面皮400g*1提速食成都特色干拌升级新包装",
+          "itemNameEn": "",
+          "itemSubName": "非油炸面",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "488",
+          "options": 18295891236487680,
+          "orderPayUV": "1000+",
+          "picUrl": "i1/6000000006906/O1CN01hdRkddwtEsJ1chua_!!6000000006906-0-sm.jpg",
+          "picUrlFull": "https://g.search2.alicdn.com/img/bao/uploaded/i4/i1/6000000006906/O1CN01hdRkddwtEsJ1chua_!!6000000006906-0-sm.jpg",
+          "picUrlList": [
+            "i2/725677994/O1CN01al43tQ28vJAg9AdGC_!!725677994.jpg",
+            "i4/725677994/O1CN01NJRV6b28vJAiXebRd_!!725677994.jpg",
+            "i4/725677994/O1CN01TqUprT28vJAhMPcPm_!!725677994.jpg",
+            "i3/725677994/O1CN01QbX3PP28vJAi0GmTd_!!725677994.jpg"
+          ],
+          "priceFen": 1989,
+          "priceYuanDouble": 19.9,
+          "priceZKFen": 990,
+          "priceZKYuanDouble": 9.9,
+          "prodId": 1285892886,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 20,
+          "sellerLoc": "上海 上海",
+          "serviceList": [],
+          "shopId": 725677994,
+          "shopName": "天猫超市",
+          "spuId": 0,
+          "tagList": [],
+          "tmcTagList": [
+            "49556",
+            "49468",
+            "100049556",
+            "100049468"
+          ],
+          "userTag": 1170937140066910216,
+          "userType": 1,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 19.9,
+          "discntRate": 4987,
+          "discntType": "特价秒杀",
+          "extraMap": {},
+          "fahuoDsr": "491",
+          "frontStock": 2644,
+          "fuwuDsr": "491",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 730663092602,
+          "itemLoc": "上海",
+          "itemName": "三只松鼠肉松饼1000g中式糕点心早餐面包美食休闲小零食",
+          "itemNameEn": "",
+          "itemSubName": "手工开酥 | 绵而不腻 | 咸香耐嚼",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "488",
+          "options": 18295890699616768,
+          "orderPayUV": "1000+",
+          "picUrl": "i1/6000000007182/O1CN01LQK8vA22vPhZyJHxd_!!6000000007182-0-sm.jpg",
+          "picUrlFull": "https://g.search3.alicdn.com/img/bao/uploaded/i4/i1/6000000007182/O1CN01LQK8vA22vPhZyJHxd_!!6000000007182-0-sm.jpg",
+          "picUrlList": [
+            "i3/6000000006372/O1CN01fWEjIr1wwQlZErpBp_!!6000000006372-0-at.jpg",
+            "i4/725677994/O1CN01F7xqCE28vJ0seNAuK_!!725677994.jpg",
+            "i2/725677994/O1CN014dg8M328vJ0pCRDF1_!!725677994.jpg",
+            "i3/6000000001284/O1CN011sZKPu1LM7aan5L15_!!6000000001284-0-at.jpg"
+          ],
+          "priceFen": 3990,
+          "priceYuanDouble": 39.9,
+          "priceZKFen": 1989,
+          "priceZKYuanDouble": 19.9,
+          "prodId": 458175760,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 20,
+          "sellerLoc": "上海 上海",
+          "serviceList": [],
+          "shopId": 725677994,
+          "shopName": "天猫超市",
+          "spuId": 0,
+          "tagList": [],
+          "tmcTagList": [],
+          "userTag": 1170937140066910216,
+          "userType": 1,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 24.9,
+          "discntRate": 1251,
+          "discntType": "优惠价",
+          "extraMap": {},
+          "fahuoDsr": "487",
+          "frontStock": 213743,
+          "fuwuDsr": "486",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 682755624524,
+          "itemLoc": "江苏 南京",
+          "itemName": "皇家小虎牛肉馅饼儿童早餐半成品速食猪肉酸菜手抓饼煎饼早饭美食",
+          "itemNameEn": "",
+          "itemSubName": "大粒牛肉 营养早餐 外酥内香 只需简单3步",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "483",
+          "options": 17750295040,
+          "orderPayUV": "1000+",
+          "picUrl": "i1/3578271683/O1CN01Leyiip1OIrjGBm0QB_!!4611686018427385795-0-item_pic.jpg",
+          "picUrlFull": "https://g.search.alicdn.com/img/bao/uploaded/i4/i1/3578271683/O1CN01Leyiip1OIrjGBm0QB_!!4611686018427385795-0-item_pic.jpg",
+          "picUrlList": [
+            "i1/3578271683/O1CN01ttrhfs1OIrYk9Lv75_!!3578271683.jpg",
+            "i2/3578271683/O1CN01omXoV51OIrYlcCi8o_!!3578271683.jpg",
+            "i3/3578271683/O1CN01r9tkNu1OIrYiYWTwV_!!3578271683.jpg",
+            "i4/3578271683/O1CN01yGVn7L1OIrYiYXDhf_!!3578271683.jpg"
+          ],
+          "priceFen": 19900,
+          "priceYuanDouble": 199.0,
+          "priceZKFen": 2490,
+          "priceZKYuanDouble": 24.9,
+          "prodId": 175219025,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 18,
+          "sellerLoc": "上海 上海",
+          "serviceList": [],
+          "shopId": 3578271683,
+          "shopName": "皇家小虎旗舰店",
+          "spuId": 8750681503,
+          "tagList": [],
+          "tmcTagList": [
+            "49227",
+            "49117",
+            "49556",
+            "49468",
+            "49116",
+            "100048300",
+            "100049556",
+            "100049468",
+            "100049116",
+            "100049117",
+            "100049227",
+            "49270",
+            "100049113",
+            "48300",
+            "49113",
+            "100049270"
+          ],
+          "userTag": 18014535948435464,
+          "userType": 1,
+          "vidname": ""
+        },
+        {
+          "cityEn": "",
+          "commentCount": "",
+          "discntPriceYuan": 7.5,
+          "discntRate": 961,
+          "discntType": "热卖促销",
+          "extraMap": {},
+          "fahuoDsr": "478",
+          "frontStock": 312751,
+          "fuwuDsr": "476",
+          "hasTongkuan": false,
+          "hasXiangsi": false,
+          "itemGradeAvg": 0.0,
+          "itemId": 678932283519,
+          "itemLoc": "安徽 黄山",
+          "itemName": "中华老字号桃酥传统手工美食老式糕点心饼干休闲食品特产零食小吃",
+          "itemNameEn": "",
+          "itemSubName": "中华老字号 经典老式桃酥",
+          "itemSubNameEn": "",
+          "itemType": "b",
+          "miaoshuDsr": "470",
+          "options": 570425345,
+          "orderPayUV": "1000+",
+          "picUrl": "i4/2780349775/O1CN01XTNxbM2M50dkAdfId_!!4611686018427381071-0-item_pic.jpg",
+          "picUrlFull": "https://g.search1.alicdn.com/img/bao/uploaded/i4/i4/2780349775/O1CN01XTNxbM2M50dkAdfId_!!4611686018427381071-0-item_pic.jpg",
+          "picUrlList": [
+            "i2/2780349775/O1CN01VFpqhB2M50JFJpR3P_!!2780349775.jpg",
+            "i1/2780349775/O1CN01JE7ZZp2M50J9sa0bK_!!2780349775.png",
+            "i3/2780349775/O1CN013ptpsj2M50JJdAzo2_!!2780349775.jpg"
+          ],
+          "priceFen": 7800,
+          "priceYuanDouble": 78.0,
+          "priceZKFen": 750,
+          "priceZKYuanDouble": 7.5,
+          "prodId": 221341879,
+          "provEn": "",
+          "sellerGoodrat": 10000,
+          "sellerLevel": 18,
+          "sellerLoc": "安徽 黄山",
+          "serviceList": [],
+          "shopId": 2780349775,
+          "shopName": "徽味和旗舰店",
+          "spuId": 2575430445,
+          "tagList": [],
+          "tmcTagList": [],
+          "userTag": 18014535948435456,
+          "userType": 1,
+          "vidname": ""
+        }
+      ],
+      "page": {
+        "nextNo": 2,
+        "pageNo": 1,
+        "pageSize": 10,
+        "prevNo": 1,
+        "showBegin": 1,
+        "showEnd": 3,
+        "totalItems": 182854,
+        "totalPages": 18286
+      },
+      "propertyList": [
+        {
+          "flag": "qp_commend",
+          "pid": 122450261,
+          "pname": "省份",
+          "valueList": [
+            {
+              "count": 1369,
+              "flag": "qp_commend",
+              "vid": 52863,
+              "vname": "福建省"
+            },
+            {
+              "count": 780,
+              "flag": "qp_commend",
+              "vid": 52852,
+              "vname": "安徽省"
+            },
+            {
+              "count": 1283,
+              "flag": "qp_commend",
+              "vid": 52860,
+              "vname": "浙江省"
+            },
+            {
+              "count": 958,
+              "flag": "qp_commend",
+              "vid": 52849,
+              "vname": "河南省"
+            },
+            {
+              "count": 1746,
+              "flag": "qp_commend",
+              "vid": 52862,
+              "vname": "广东省"
+            },
+            {
+              "count": 838,
+              "flag": "qp_commend",
+              "vid": 29423,
+              "vname": "上海"
+            },
+            {
+              "count": 700,
+              "flag": "qp_commend",
+              "vid": 29400,
+              "vname": "北京"
+            },
+            {
+              "count": 1387,
+              "flag": "qp_commend",
+              "vid": 52855,
+              "vname": "江苏省"
+            },
+            {
+              "count": 636,
+              "flag": "qp_commend",
+              "vid": 52858,
+              "vname": "云南省"
+            },
+            {
+              "count": 876,
+              "flag": "qp_commend",
+              "vid": 52856,
+              "vname": "四川省"
+            },
+            {
+              "count": 1146,
+              "flag": "qp_commend",
+              "vid": 52850,
+              "vname": "山东省"
+            },
+            {
+              "count": 377,
+              "flag": "qp_commend",
+              "vid": 52853,
+              "vname": "湖北省"
+            },
+            {
+              "count": 392,
+              "flag": "qp_commend",
+              "vid": 3296643,
+              "vname": "广西壮族自治区"
+            },
+            {
+              "count": 501,
+              "flag": "qp_commend",
+              "vid": 52843,
+              "vname": "吉林省"
+            },
+            {
+              "count": 194,
+              "flag": "qp_commend",
+              "vid": 52851,
+              "vname": "山西省"
+            },
+            {
+              "count": 95,
+              "flag": "qp_commend",
+              "vid": 29428,
+              "vname": "天津"
+            },
+            {
+              "count": 710,
+              "flag": "qp_commend",
+              "vid": 52854,
+              "vname": "湖南省"
+            },
+            {
+              "count": 311,
+              "flag": "qp_commend",
+              "vid": 52845,
+              "vname": "河北省"
+            },
+            {
+              "count": 504,
+              "flag": "qp_commend",
+              "vid": 3296646,
+              "vname": "新疆维吾尔自治区"
+            },
+            {
+              "count": 1204,
+              "flag": "qp_commend",
+              "vid": 52848,
+              "vname": "陕西省"
+            }
+          ]
+        },
+        {
+          "flag": "qp_commend",
+          "pid": 122216446,
+          "pname": "糕点种类",
+          "valueList": [
+            {
+              "count": 112,
+              "flag": "qp_commend",
+              "vid": 14226637,
+              "vname": "蛋黄酥"
+            },
+            {
+              "count": 145,
+              "flag": "qp_commend",
+              "vid": 42546,
+              "vname": "麻花"
+            },
+            {
+              "count": 49,
+              "flag": "qp_commend",
+              "vid": 14961484,
+              "vname": "肉松饼"
+            },
+            {
+              "count": 170,
+              "flag": "qp_commend",
+              "vid": 42548,
+              "vname": "烧饼"
+            },
+            {
+              "count": 111,
+              "flag": "qp_commend",
+              "vid": 92552,
+              "vname": "绿豆糕"
+            },
+            {
+              "count": 110,
+              "flag": "qp_commend",
+              "vid": 14192939,
+              "vname": "桃酥"
+            },
+            {
+              "count": 95,
+              "flag": "qp_commend",
+              "vid": 14771589,
+              "vname": "鲜花饼"
+            },
+            {
+              "count": 15,
+              "flag": "qp_commend",
+              "vid": 11824573,
+              "vname": "馅饼"
+            },
+            {
+              "count": 36,
+              "flag": "qp_commend",
+              "vid": 119090,
+              "vname": "组合系列"
+            },
+            {
+              "count": 38,
+              "flag": "qp_commend",
+              "vid": 9726697,
+              "vname": "酥饼"
+            },
+            {
+              "count": 121,
+              "flag": "qp_commend",
+              "vid": 13202464,
+              "vname": "桂花糕"
+            },
+            {
+              "count": 121,
+              "flag": "qp_commend",
+              "vid": 102657,
+              "vname": "蛋糕"
+            },
+            {
+              "count": 50,
+              "flag": "qp_commend",
+              "vid": 92560,
+              "vname": "沙琪玛"
+            },
+            {
+              "count": 27,
+              "flag": "qp_commend",
+              "vid": 15121012,
+              "vname": "麻薯"
+            },
+            {
+              "count": 91,
+              "flag": "qp_commend",
+              "vid": 92545,
+              "vname": "龙须酥"
+            },
+            {
+              "count": 30,
+              "flag": "qp_commend",
+              "vid": 92558,
+              "vname": "芝麻糕"
+            },
+            {
+              "count": 40,
+              "flag": "qp_commend",
+              "vid": 15956428,
+              "vname": "太谷饼"
+            },
+            {
+              "count": 28,
+              "flag": "qp_commend",
+              "vid": 92555,
+              "vname": "云片糕"
+            },
+            {
+              "count": 21,
+              "flag": "qp_commend",
+              "vid": 10293484,
+              "vname": "驴打滚"
+            },
+            {
+              "count": 13,
+              "flag": "qp_commend",
+              "vid": 10293438,
+              "vname": "芡实糕"
+            }
+          ]
+        },
+        {
+          "flag": "qp_commend",
+          "pid": 26722862,
+          "pname": "特产品类",
+          "valueList": [
+            {
+              "count": 17,
+              "flag": "qp_commend",
+              "vid": 374892361,
+              "vname": "厦门蛋黄酥"
+            },
+            {
+              "count": 1,
+              "flag": "qp_commend",
+              "vid": 527560152,
+              "vname": "厦门蜜麻花"
+            },
+            {
+              "count": 11,
+              "flag": "qp_commend",
+              "vid": 201518861,
+              "vname": "沈大成糕点"
+            },
+            {
+              "count": 55,
+              "flag": "qp_commend",
+              "vid": 8073359,
+              "vname": "黄山烧饼"
+            },
+            {
+              "count": 36,
+              "flag": "qp_commend",
+              "vid": 15866776,
+              "vname": "厦门馅饼"
+            },
+            {
+              "count": 37,
+              "flag": "qp_commend",
+              "vid": 48569347,
+              "vname": "稻香村糕点"
+            },
+            {
+              "count": 24,
+              "flag": "qp_commend",
+              "vid": 201378108,
+              "vname": "杭州桃酥"
+            },
+            {
+              "count": 17,
+              "flag": "qp_commend",
+              "vid": 16128874,
+              "vname": "茯苓夹饼"
+            },
+            {
+              "count": 2,
+              "flag": "qp_commend",
+              "vid": 87763577,
+              "vname": "临朐煎饼"
+            },
+            {
+              "count": 4,
+              "flag": "qp_commend",
+              "vid": 378006523,
+              "vname": "成都军屯锅盔"
+            },
+            {
+              "count": 19,
+              "flag": "qp_commend",
+              "vid": 232550173,
+              "vname": "天津糕点"
+            },
+            {
+              "count": 1,
+              "flag": "qp_commend",
+              "vid": 591386648,
+              "vname": "天津贵妃饼"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 9596956,
+              "vname": "阜宁大糕"
+            },
+            {
+              "count": 83,
+              "flag": "qp_commend",
+              "vid": 201384982,
+              "vname": "西安甑糕"
+            },
+            {
+              "count": 8,
+              "flag": "qp_commend",
+              "vid": 554954467,
+              "vname": "万载百合糕"
+            },
+            {
+              "count": 85,
+              "flag": "qp_commend",
+              "vid": 21396429,
+              "vname": "新疆馕饼"
+            },
+            {
+              "count": 10,
+              "flag": "qp_commend",
+              "vid": 8731802,
+              "vname": "德辉酥饼"
+            }
+          ]
+        },
+        {
+          "flag": "qp_commend",
+          "pid": 31560,
+          "pname": "口味",
+          "valueList": [
+            {
+              "count": 299,
+              "flag": "qp_commend",
+              "vid": 94572,
+              "vname": "原味"
+            },
+            {
+              "count": 3,
+              "flag": "qp_commend",
+              "vid": 39450231,
+              "vname": "酱香味"
+            },
+            {
+              "count": 18,
+              "flag": "qp_commend",
+              "vid": 15267418,
+              "vname": "芝麻味"
+            },
+            {
+              "count": 2,
+              "flag": "qp_commend",
+              "vid": 19322341,
+              "vname": "红豆味"
+            },
+            {
+              "count": 11,
+              "flag": "qp_commend",
+              "vid": 15388760,
+              "vname": "抹茶味"
+            },
+            {
+              "count": 7,
+              "flag": "qp_commend",
+              "vid": 15301749,
+              "vname": "综合口味"
+            },
+            {
+              "count": 2,
+              "flag": "qp_commend",
+              "vid": 35488806,
+              "vname": "紫薯味"
+            },
+            {
+              "count": 20,
+              "flag": "qp_commend",
+              "vid": 6966386,
+              "vname": "桂花味"
+            },
+            {
+              "count": 49,
+              "flag": "qp_commend",
+              "vid": 4285520,
+              "vname": "甜味"
+            },
+            {
+              "count": 13,
+              "flag": "qp_commend",
+              "vid": 4134475,
+              "vname": "玫瑰味"
+            },
+            {
+              "count": 4,
+              "flag": "qp_commend",
+              "vid": 58499014,
+              "vname": "蔓越梅味"
+            },
+            {
+              "count": 4,
+              "flag": "qp_commend",
+              "vid": 20334606,
+              "vname": "黑糖味"
+            },
+            {
+              "count": 8,
+              "flag": "qp_commend",
+              "vid": 15328252,
+              "vname": "花生味"
+            },
+            {
+              "count": 10,
+              "flag": "qp_commend",
+              "vid": 3819599,
+              "vname": "芒果味"
+            },
+            {
+              "count": 40,
+              "flag": "qp_commend",
+              "vid": 4285523,
+              "vname": "咸味"
+            },
+            {
+              "count": 19,
+              "flag": "qp_commend",
+              "vid": 24779970,
+              "vname": "咸香口味"
+            },
+            {
+              "count": 8,
+              "flag": "qp_commend",
+              "vid": 6524487,
+              "vname": "蓝莓味"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 14941010,
+              "vname": "芋头味"
+            },
+            {
+              "count": 6,
+              "flag": "qp_commend",
+              "vid": 15402006,
+              "vname": "奶香味"
+            },
+            {
+              "count": 5,
+              "flag": "qp_commend",
+              "vid": 18194246,
+              "vname": "葱香味"
+            }
+          ]
+        },
+        {
+          "flag": "qp_commend",
+          "pid": 33488,
+          "pname": "月饼馅种类",
+          "valueList": [
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 119555,
+              "vname": "蛋黄"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 15589575,
+              "vname": "鲜肉"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 119554,
+              "vname": "豆沙"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 7538510,
+              "vname": "莲蓉"
+            },
+            {
+              "count": 1,
+              "flag": "qp_commend",
+              "vid": 119553,
+              "vname": "五仁"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 7383266,
+              "vname": "多口味"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 28895,
+              "vname": "_compensation,lack_compensation;taobao_grocery_7d:n;auto_spu:1;*tags:31883,31947,23115,7371;\u0003郁金香ĝ;hem"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 54842685,
+              "vname": "玫瑰豆沙"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 3436372,
+              "vname": "肉松"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 6933414,
+              "vname": "抹茶"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 15824491,
+              "vname": "枣泥"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 84703,
+              "vname": "桂花"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 27036358,
+              "vname": "蛋黄莲蓉"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 3618077,
+              "vname": "冰糖"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 4506726,
+              "vname": "黑芝麻"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 41314,
+              "vname": "火腿"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 7680530,
+              "vname": "椒盐"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 16234625,
+              "vname": "百果"
+            }
+          ]
+        },
+        {
+          "flag": "qp_commend",
+          "pid": 18877585,
+          "pname": "套餐份量",
+          "valueList": [
+            {
+              "count": 43,
+              "flag": "qp_commend",
+              "vid": 6070043,
+              "vname": "3人份"
+            },
+            {
+              "count": 43,
+              "flag": "qp_commend",
+              "vid": 44158624,
+              "vname": "1人份"
+            },
+            {
+              "count": 39,
+              "flag": "qp_commend",
+              "vid": 13397025,
+              "vname": "2人份"
+            },
+            {
+              "count": 11,
+              "flag": "qp_commend",
+              "vid": 13390043,
+              "vname": "4人份"
+            },
+            {
+              "count": 51,
+              "flag": "qp_commend",
+              "vid": 16775852,
+              "vname": "5人份"
+            }
+          ]
+        },
+        {
+          "flag": "qp_commend",
+          "pid": 122562138,
+          "pname": "市及以下",
+          "valueList": [
+            {
+              "count": 24,
+              "flag": "qp_commend",
+              "vid": 3297377,
+              "vname": "阿克苏地区"
+            },
+            {
+              "count": 8,
+              "flag": "qp_commend",
+              "vid": 108380569,
+              "vname": "千岛湖"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 117893521,
+              "vname": "库车县"
+            },
+            {
+              "count": 1,
+              "flag": "qp_commend",
+              "vid": 117889472,
+              "vname": "屯溪区"
+            },
+            {
+              "count": 12,
+              "flag": "qp_commend",
+              "vid": 3297379,
+              "vname": "喀什地区"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 117892151,
+              "vname": "绥德县"
+            },
+            {
+              "count": 2,
+              "flag": "qp_commend",
+              "vid": 3297372,
+              "vname": "吐鲁番地区"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 117888628,
+              "vname": "潮阳区"
+            },
+            {
+              "count": 0,
+              "flag": "qp_commend",
+              "vid": 117892403,
+              "vname": "榆次区"
+            },
+            {
+              "count": 5,
+              "flag": "qp_commend",
+              "vid": 117888629,
+              "vname": "澄海区"
+            }
+          ]
+        }
+      ],
+      "responseStatus": 0,
+      "success": true,
+      "traceList": []
+    }
+  },
+  "recordTime": null
+}

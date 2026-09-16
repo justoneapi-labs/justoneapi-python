@@ -1,0 +1,940 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:44.043532+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:19",
+  "code": 0,
+  "message": null,
+  "data": {
+    "areaLimit": false,
+    "coupon": {
+      "coupon": {
+        "couponKey": "ZoOeYhrMirBLnTB6d6sntSdIBJfZDbUGaFPh4+IxJaV7yW7uzf6YPnSK7/vuqyg4gfTQZuLsHtNvr/6wDgIW60OxTAP/C2d4NUrM82BQswzzWtH4pu6AIuz4zM8dDdgn",
+        "itemUrl": "https://s.click.taobao.com/t?e=m%3D2%26s%3DN%2BI8CwI6PGZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0D6B3H5h75LF2WFMbnqrtQIisfKzO8so1xu6na8EXhhnAaBgo8F%2B%2BfGrSFDTfU7vT1EfMORkUP3MUyNpxLfgKr0jWpzpm6nEC9oKDWXexbvtZUmE%2FEyZZ5ck59Eb6m%2BSqXWVGo74UhvxhFL5W703QHgxlGRjwmnBoOKPdIkbF9a6%2FMruFiF2soYGdUkvICiPaRsyrKc0ezSal%2FUuYAMKA8Y%3D&union_lens=lensId%3AOPT%401785204007%40213ee9de_0d04_19fa673623c_a2ec%4001%40eyJmbG9vcklkIjo3MjU3OH0ie"
+      }
+    },
+    "creativeText": "温和清洁保湿保湿,舒缓肌肤保湿保湿",
+    "freeShipping": false,
+    "item": {
+      "beehiveContent": {
+        "accountName": "热***酱",
+        "contentAggreName": "好物点评团",
+        "contentCover": "//img.alicdn.com/imgextra/i2/918269672/O1CN01tjVNvM2LJpTTQLZSU_!!918269672-0-beehive-scenes.jpg",
+        "contentDetailUrl": "https://market.m.taobao.com/apps/market/content/index.html?wh_weex=true&wx_navbar_transparent=true&source=itemdetail_itemdetail&wx_navbar_hidden=true&contentId=341236423563",
+        "contentSummary": "男盆友是一个超级敏感皮，因为他对于护肤品不是特别了解，自己买的很多护肤品都没办法用，所以大多时候都是我帮他买！",
+        "contentTitle": "冬季干敏皮必备，持久保湿水润！"
+      },
+      "categoryId": "121404031",
+      "images": [
+        "//img.alicdn.com/imgextra/i3/2206465362290/O1CN01Ll7EDFZQP3H1chua_!!4611686018427382130-0-item_pic.jpg",
+        "//img.alicdn.com/imgextra/i4/2206465362290/O1CN01dBgxbc1Sms8p9tgXj_!!2206465362290.jpg",
+        "//img.alicdn.com/imgextra/i2/2206465362290/O1CN01TkKHeY1Sms8p4BOeu_!!2206465362290.jpg",
+        "//img.alicdn.com/imgextra/i1/2206465362290/O1CN01Ma3iWh1Sms8qZa0kg_!!2206465362290.jpg",
+        "//img.alicdn.com/imgextra/i4/2206465362290/O1CN01mDwhC11Sms96vtfQl_!!2206465362290.png"
+      ],
+      "itemId": 655423544937,
+      "location": "北京",
+      "rootCategoryId": "1801",
+      "sellCount": "100+",
+      "seoItemType": "tmall",
+      "title": "珂岸男士护肤品控油洗面奶面霜清爽保湿三合一精华乳华熙生物礼盒",
+      "videos": [
+        {
+          "coverUrl": "https://img.alicdn.com/imgextra/i1/2206465362290/O1CN01EjcSYx1Sms4NJ4MEo_!!2206465362290-0-qnaigc.jpg",
+          "uploadDate": "20260710 15:11:47",
+          "videoUrl": "https://cloud.video.taobao.com/play/u/2206465362290/p/2/e/6/t/1/528616075868.mp4?appKey=38829"
+        }
+      ]
+    },
+    "itemAskDOList": [
+      {
+        "answerList": [
+          {
+            "answerContent": "不把，给油皮买的",
+            "createTime": "2025-03-26 12:24:43",
+            "userNick": "小***2"
+          }
+        ],
+        "askContent": "这个适合混干皮吗？",
+        "askUserNick": "t***0",
+        "createTime": "2025-03-26 12:07:57"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "会",
+            "createTime": "2025-03-05 11:38:18",
+            "userNick": "t***9"
+          },
+          {
+            "answerContent": "不晓得耶",
+            "createTime": "2025-02-20 11:05:53",
+            "userNick": "t***6"
+          }
+        ],
+        "askContent": "适合混干皮吗？",
+        "askUserNick": "t***0",
+        "createTime": "2025-02-20 08:41:01"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "洗面奶用的快点，我一个月用了一半多，水和乳用的慢点",
+            "createTime": "2025-02-13 19:00:58",
+            "userNick": "t***5"
+          },
+          {
+            "answerContent": "一个半月",
+            "createTime": "2025-02-13 20:52:11",
+            "userNick": "m***白"
+          }
+        ],
+        "askContent": "能用多久啊？",
+        "askUserNick": "t***0",
+        "createTime": "2025-02-13 18:38:02"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "是",
+            "createTime": "2024-10-03 07:30:59",
+            "userNick": "1***f"
+          },
+          {
+            "answerContent": "这是官方旗舰店啊",
+            "createTime": "2024-10-02 10:25:18",
+            "userNick": "t***0"
+          },
+          {
+            "answerContent": "是的",
+            "createTime": "2024-10-21 09:59:54",
+            "userNick": "唯***洁"
+          }
+        ],
+        "askContent": "是正品吗",
+        "askUserNick": "万***i",
+        "createTime": "2024-10-02 10:16:49"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "可以的",
+            "createTime": "2025-06-04 14:00:35",
+            "userNick": "t***9"
+          },
+          {
+            "answerContent": "不知道给儿子买的",
+            "createTime": "2024-10-20 23:44:20",
+            "userNick": "满***溢"
+          },
+          {
+            "answerContent": "我老公说，一般，",
+            "createTime": "2024-09-20 14:57:32",
+            "userNick": "1***f"
+          },
+          {
+            "answerContent": "给儿子买的，也不知道咋样",
+            "createTime": "2024-10-08 14:42:40",
+            "userNick": "满***溢"
+          },
+          {
+            "answerContent": "没感觉",
+            "createTime": "2024-09-21 23:47:40",
+            "userNick": "t***4"
+          },
+          {
+            "answerContent": "不建议 建议你还是找医生看，然后根据你自己的个人的脸的情况来买，不然很容易出事。",
+            "createTime": "2024-09-20 17:17:59",
+            "userNick": "t***7"
+          }
+        ],
+        "askContent": "我是男生，油皮，长痘，推荐用吗",
+        "askUserNick": "t***8",
+        "createTime": "2024-09-20 13:08:59"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "朋友买的不是我用",
+            "createTime": "2023-10-18 10:36:32",
+            "userNick": "t***7"
+          },
+          {
+            "answerContent": "我也不知道 我给我男朋友买的",
+            "createTime": "2023-10-18 23:32:16",
+            "userNick": "t***6"
+          },
+          {
+            "answerContent": "一样小白，我用着还行，感觉所有护肤品都差不多，没用出来明显差异，男生估计也不太注意这些",
+            "createTime": "2023-10-19 13:29:21",
+            "userNick": "世***1"
+          },
+          {
+            "answerContent": "我已经换其他的了。虽然这个也还可以",
+            "createTime": "2023-10-18 15:46:28",
+            "userNick": "a***x"
+          },
+          {
+            "answerContent": "最基础的三件套",
+            "createTime": "2023-10-18 13:09:58",
+            "userNick": "卤***8"
+          },
+          {
+            "answerContent": "男女都可以用，就是给懒人和小白用的",
+            "createTime": "2023-10-18 12:27:08",
+            "userNick": "t***3"
+          },
+          {
+            "answerContent": "送给朋友的，说还不错",
+            "createTime": "2023-10-18 10:50:13",
+            "userNick": "木***宝"
+          }
+        ],
+        "askContent": "彦祖、亦菲们，这玩意儿男生用起来咋样，我纯护肤小白",
+        "askUserNick": "时***里",
+        "createTime": "2023-10-18 10:24:49"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "效果很一般，感觉就是保湿用的",
+            "createTime": "2023-07-09 23:33:36",
+            "userNick": "l***1"
+          },
+          {
+            "answerContent": "给老公买的，还没开始用",
+            "createTime": "2023-06-21 21:34:44",
+            "userNick": "t***2"
+          },
+          {
+            "answerContent": "给男朋友用了，具体不清楚",
+            "createTime": "2023-06-23 17:17:35",
+            "userNick": "t***5"
+          }
+        ],
+        "askContent": "想请教一下：精华乳和精华水使用上有什么区别吗",
+        "askUserNick": "t***7",
+        "createTime": "2023-06-21 20:18:07"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "赠品用完有一点点油油的感觉，洗面奶用完有点假滑的感觉，水和乳倒是还好",
+            "createTime": "2023-06-16 10:20:37",
+            "userNick": "t***1"
+          },
+          {
+            "answerContent": "就是控油的",
+            "createTime": "2023-06-15 21:25:27",
+            "userNick": "m***球"
+          },
+          {
+            "answerContent": "洗面奶一天用一次，然后不用搓干燥的地方。洗完后只擦精华，感觉还可以。那个爽肤水我没用了。",
+            "createTime": "2023-06-17 09:49:09",
+            "userNick": "帅***族"
+          },
+          {
+            "answerContent": "那个精华还行，我干皮",
+            "createTime": "2023-06-16 17:57:25",
+            "userNick": "t***8"
+          },
+          {
+            "answerContent": "不会吧",
+            "createTime": "2023-06-16 13:22:21",
+            "userNick": "s***虾"
+          }
+        ],
+        "askContent": "混油皮适合用吗，用了之后会很油吗",
+        "askUserNick": "t***8",
+        "createTime": "2023-06-15 20:48:10"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "耐用",
+            "createTime": "2023-02-26 20:06:21",
+            "userNick": "俏***颜"
+          },
+          {
+            "answerContent": "耐用",
+            "createTime": "2023-02-26 21:29:14",
+            "userNick": "t***2"
+          },
+          {
+            "answerContent": "耐用",
+            "createTime": "2023-02-26 20:47:48",
+            "userNick": "a***1"
+          },
+          {
+            "answerContent": "不耐用",
+            "createTime": "2023-03-01 21:16:56",
+            "userNick": "t***3"
+          },
+          {
+            "answerContent": "还可以我只需要一次一泵就可以了，应该能用一段时间的",
+            "createTime": "2023-02-26 20:08:26",
+            "userNick": "t***9"
+          }
+        ],
+        "askContent": "那个洗面奶耐用吗",
+        "askUserNick": "t***8",
+        "createTime": "2023-02-26 19:29:28"
+      },
+      {
+        "answerList": [
+          {
+            "answerContent": "不是，就是品牌快递盒里直接装的",
+            "createTime": "2022-02-11 13:11:35",
+            "userNick": "愔***灂"
+          },
+          {
+            "answerContent": "别买了洗面奶是假的买那个四件套",
+            "createTime": "2022-02-11 12:27:31",
+            "userNick": "t***8"
+          },
+          {
+            "answerContent": "这个不是，就是三件套",
+            "createTime": "2022-02-11 19:37:17",
+            "userNick": "f***5"
+          },
+          {
+            "answerContent": "不是",
+            "createTime": "2022-02-12 15:43:41",
+            "userNick": "囿***右"
+          },
+          {
+            "answerContent": "不是，3个散的",
+            "createTime": "2022-02-11 17:03:07",
+            "userNick": "m***0"
+          }
+        ],
+        "askContent": "礼盒装吗",
+        "askUserNick": "诶***羊",
+        "createTime": "2022-02-11 12:05:53"
+      }
+    ],
+    "itemDesc": "<div style=\"width: 750.0px;height: auto;overflow: hidden;\"><div style=\"width: 750.0px;height: auto;overflow: hidden;\"><img style=\"display: block;width: 100.0%;\" src=\"https://gw.alicdn.com/imgextra/i1/O1CN01vWMf4v25HVynQwwXa_!!6000000007501-2-tps-1240-450.png\"><img usemap=\"#customizeHyperlinks-4\" style=\"display: block;margin-top: -347.0px;width: 750.0px;height: 347.0px;\" src=\"//gtms01.alicdn.com/tps/i1/TB1AHXiGXXXXXXAXVXX.uTD.FXX-10-10.png\"><map name=\"customizeHyperlinks-4\"><area shape=\"rect\" coords=\"0,0,750,347\" href=\"https://pages-fast.m.taobao.com/wow/z/tmtjb/town/home?x-ssr=true&disableNav=YES&x-sec=wua&asac=2A21B017LSI0KGN210C6D7&status_bar_transparent=true&largescreenstyle=fullscreen&hd_from=itemdetail1&detailTag=descArea&tjbTag=tjbDetail&actionArg=openHalfDetail&topIds=655423544937\"></map><img style=\"display: block;width: 100.0%;\" src=\"//img.alicdn.com/imgextra/i3/2206465362290/O1CN011uWmSz1Sms8omhwGf_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"https://img.alicdn.com/imgextra/i1/2206465362290/O1CN01Grasv51Sms238dNSG_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"//img.alicdn.com/imgextra/i1/2206465362290/O1CN01BUxl1D1Sms8omtQ0c_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"https://img.alicdn.com/imgextra/i1/2206465362290/O1CN01u1O99T1Sms238e7DA_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"https://img.alicdn.com/imgextra/i2/2206465362290/O1CN01PLNnJY1Sms25kcFcV_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"//img.alicdn.com/imgextra/i4/2206465362290/O1CN01v8ypSm1Sms8p4Cjjx_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"//img.alicdn.com/imgextra/i4/2206465362290/O1CN01Lkrf5D1Sms8p17ZOC_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"https://img.alicdn.com/imgextra/i3/2206465362290/O1CN01kCMLRz1Sms22MuYeD_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"//img.alicdn.com/imgextra/i1/2206465362290/O1CN01uDl2HJ1Sms90fjdKy_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"https://img.alicdn.com/imgextra/i3/2206465362290/O1CN016Z5nDT1Sms25kZMpG_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"//img.alicdn.com/imgextra/i1/2206465362290/O1CN01Art7km1Sms8qZY4Cm_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"https://img.alicdn.com/imgextra/i2/2206465362290/O1CN01OZWjYo1Sms238eBNl_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"https://img.alicdn.com/imgextra/i1/2206465362290/O1CN01PUCGGa1Sms24TdqjM_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"//img.alicdn.com/imgextra/i4/2206465362290/O1CN01hrqGk11Sms1RjRYJ6~crop,0,0,790,1580~_!!2206465362290.jpg\"><img style=\"display: block;width: 100.0%;\" src=\"//img.alicdn.com/imgextra/i4/2206465362290/O1CN01hrqGk11Sms1RjRYJ6~crop,0,1580,790,103~_!!2206465362290.jpg\"></div></div>",
+    "itemExist": true,
+    "itemPrice": {
+      "endTime": "2026-07-31 23:59:59",
+      "exchangePriceHKD": "303.23",
+      "exchangePriceTWD": "1250.99",
+      "hasRangePrice": false,
+      "originalPrice": "259.00",
+      "promotionName": "优惠价",
+      "promotionPrice": "259.00",
+      "remark": "价格可能因优惠活动发生变化",
+      "startTime": "2026-07-26 20:00:00"
+    },
+    "itemSkuDO": {
+      "skuList": {
+        "5904414680188": {
+          "quantity": "200",
+          "propPath": "147956252:75366097",
+          "skuId": 5904414680188
+        },
+        "5892093417369": {
+          "quantity": "200",
+          "propPath": "147956252:45682",
+          "skuId": 5892093417369
+        },
+        "5892093417367": {
+          "quantity": "200",
+          "propPath": "147956252:75366510",
+          "skuId": 5892093417367
+        },
+        "5892093417368": {
+          "quantity": "200",
+          "propPath": "147956252:45789",
+          "skuId": 5892093417368
+        }
+      },
+      "skuPVPairList": [
+        {
+          "propPath": "147956252:45789",
+          "skuId": 5892093417368
+        },
+        {
+          "propPath": "147956252:75366510",
+          "skuId": 5892093417367
+        },
+        {
+          "propPath": "147956252:75366097",
+          "skuId": 5904414680188
+        },
+        {
+          "propPath": "147956252:45682",
+          "skuId": 5892093417369
+        }
+      ],
+      "skuPropertyList": [
+        {
+          "name": "净含量",
+          "pid": 147956252,
+          "propertyValues": [
+            {
+              "image": "https://img.alicdn.com/imgextra/i1/2206465362290/O1CN01kfF7W91Sms8drNlbS_!!2206465362290.jpg",
+              "name": "250ml 【控油保湿套装】",
+              "vid": 45789
+            },
+            {
+              "image": "https://img.alicdn.com/imgextra/i3/2206465362290/O1CN01ufVR401Sms8d9L66w_!!2206465362290.jpg",
+              "name": "250g 【保湿保湿套装】",
+              "vid": 75366510
+            },
+            {
+              "image": "https://img.alicdn.com/imgextra/i3/2206465362290/O1CN01uuaaid1Sms4akBRSV_!!2206465362290.jpg",
+              "name": "200g 【净透控油两件套】",
+              "vid": 75366097
+            },
+            {
+              "image": "https://img.alicdn.com/imgextra/i1/2206465362290/O1CN01117Mxb1Sms8dKpT4Z_!!2206465362290.jpg",
+              "name": "200ml 【清洁保湿两件套】",
+              "vid": 45682
+            }
+          ]
+        }
+      ]
+    },
+    "itemTrade": {
+      "paymentList": [
+        {
+          "logo": "//img.alicdn.com/tfs/TB1XeDvQFXXXXc5XXXXXXXXXXXX-32-32.png",
+          "name": "蚂蚁花呗"
+        },
+        {
+          "logo": "//img.alicdn.com/tfs/TB1c7HAQFXXXXakXXXXXXXXXXXX-32-32.png",
+          "name": "信用卡支付"
+        },
+        {
+          "logo": "//img.alicdn.com/tfs/TB1FdDlQFXXXXa5XpXXXXXXXXXX-32-32.png",
+          "name": "集分宝"
+        }
+      ],
+      "soldQuantityTotal": "100+"
+    },
+    "merchantReturnRegion": [
+      "MO",
+      "HK",
+      "TW",
+      "SG",
+      "TH",
+      "AU",
+      "JP",
+      "KR",
+      "VN",
+      "MY",
+      "KH"
+    ],
+    "props": {
+      "groupProps": [
+        {
+          "基本信息": [
+            {
+              "化妆品备案编号/注册证号": "鲁G妆网备字2019007249"
+            },
+            {
+              "品牌": "珂岸"
+            },
+            {
+              "品名": "男士护理套组"
+            },
+            {
+              "功效": "清洁 保湿 控油"
+            },
+            {
+              "注册信息": "山东省济南市高新技术开发区天辰大街678号"
+            },
+            {
+              "上市时间": "2018年"
+            },
+            {
+              "生产厂家地址": "地址1:山东省济南市高新技术开发区天辰大街678号 地址2:济南市高新区世纪大道中段3333号示范车间一层"
+            },
+            {
+              "产品全称": "珂岸净透洁面慕斯"
+            },
+            {
+              "生产许可证信息": "鲁妆20160017"
+            },
+            {
+              "执行标准号": "GB/T 29680"
+            },
+            {
+              "保质期": "36个月"
+            },
+            {
+              "限期使用日期范围": "2028-10-01至2028-10-08"
+            },
+            {
+              "净含量": "250ml 250g 200g 200ml"
+            },
+            {
+              "单品数量": "3件"
+            },
+            {
+              "适用肤质": "混合性肤质"
+            },
+            {
+              "责任企业信息": "山东省济南市高新技术开发区天辰大街678号"
+            },
+            {
+              "款式": "基本款"
+            },
+            {
+              "产地": "中国"
+            },
+            {
+              "适用人群": "男士专用"
+            },
+            {
+              "化妆品保质期": "36个月"
+            },
+            {
+              "规格类型": "正常规格"
+            },
+            {
+              "包装种类": "礼盒装"
+            },
+            {
+              "责任企业名称": "华熙生物科技股份有限公司"
+            },
+            {
+              "是否为特殊用途化妆品": "否"
+            },
+            {
+              "生产厂家信息": "华熙生物科技股份有限公司"
+            }
+          ]
+        }
+      ]
+    },
+    "rate": {
+      "hasAppendCount": "47",
+      "hasMediaCount": "67",
+      "hasNextPage": true,
+      "keywords": [
+        {
+          "count": 4,
+          "labelId": "E01-11,G01-11",
+          "type": 1,
+          "word": "干性肤质买家"
+        },
+        {
+          "count": 7,
+          "labelId": "2010101579-11",
+          "type": 1,
+          "word": "控油效果好"
+        },
+        {
+          "count": 16,
+          "labelId": "2040382897-11",
+          "type": 1,
+          "word": "第二次回购"
+        },
+        {
+          "count": 14,
+          "labelId": "2015409141-11",
+          "type": 1,
+          "word": "包装很好"
+        },
+        {
+          "count": 6,
+          "labelId": "2071290642-11",
+          "type": 1,
+          "word": "物流速度快"
+        },
+        {
+          "count": 38,
+          "labelId": "2030868717-11",
+          "type": 1,
+          "word": "使用体验很好"
+        },
+        {
+          "count": 3,
+          "labelId": "2050273337-13",
+          "type": -1,
+          "word": "数量偏少"
+        }
+      ],
+      "rateList": [
+        {
+          "commentScore": "5",
+          "content": "第n次回购了，感觉已经是生活中的必需品了，刚需。每天都在用  而且会送很多单次装的赠品，可以用来在旅行的时候带着，真的很不错。(购买使用频率和旅行频率，竟然完美契合，循环上了，哈哈哈哈。)",
+          "dateTime": "2026.06.18 22:25",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:200ml[【温和清洁两件套】]",
+          "userName": "c***城"
+        },
+        {
+          "commentScore": "5",
+          "content": "不错给好评！！！！！！！！！！！",
+          "dateTime": "2026.07.07 09:14",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml[【控油保湿套装】]",
+          "userName": "n***r"
+        },
+        {
+          "commentScore": "5",
+          "content": "特别好用，已经买了第二次了还会接着回购，质量很好啊啊啊啊",
+          "dateTime": "2026.02.23 17:55",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "images": [
+            "//img.alicdn.com/imgextra/i4/4611686018427380156/O1CN01vKshs12DJMXMHnABr_!!4611686018427380156-0-rate.jpg",
+            "//img.alicdn.com/imgextra/i1/4611686018427380156/O1CN01CB1tMf2DJMXLxE4Pa_!!4611686018427380156-0-rate.jpg",
+            "//img.alicdn.com/imgextra/i3/4611686018427380156/O1CN01hrZl2G2DJMXM7SFqT_!!4611686018427380156-0-rate.jpg",
+            "//img.alicdn.com/imgextra/i1/4611686018427380156/O1CN015FMEeT2DJMXLok3WO_!!4611686018427380156-0-rate.jpg",
+            "//img.alicdn.com/imgextra/i1/4611686018427380156/O1CN01h9H2Je2DJMXLokj73_!!4611686018427380156-0-rate.jpg"
+          ],
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml[【控油保湿套装】]",
+          "userName": "碧***昂"
+        },
+        {
+          "commentScore": "5",
+          "content": "老弟非常喜欢",
+          "dateTime": "2026.03.26 10:25",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml[【控油保湿套装】]",
+          "userName": "t***7"
+        },
+        {
+          "appendRateList": [
+            {
+              "appendIntervalDay": "15",
+              "content": "不错不错肤质改善了"
+            }
+          ],
+          "commentScore": "5",
+          "content": "味道不大，使用脸不紧绷，也不油，很适合男生，洗面奶的泡沫也很细腻",
+          "dateTime": "2026.02.21 23:49",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "images": [
+            "//img.alicdn.com/imgextra/i2/4611686018427387332/O1CN014a6WxZ1gz9LwR3lyM~hdr~_!!4611686018427387332-0-rate.jpg"
+          ],
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml[【控油保湿套装】]",
+          "userName": "t***7"
+        },
+        {
+          "commentScore": "5",
+          "content": "使用后脸挺清爽的",
+          "dateTime": "2026.03.12 17:02",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250g[【保湿保湿套装】]",
+          "userName": "凯***r"
+        },
+        {
+          "commentScore": "5",
+          "content": "味道挺好闻的，洗完很清爽。",
+          "dateTime": "2026.02.17 21:36",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml[【控油保湿套装】]",
+          "userName": "t***7"
+        },
+        {
+          "commentScore": "1",
+          "content": "现在淘宝购物机制大数据杀熟，买完就降价，找商家客服保价就回复是平台发的各种优惠劵使价格不一样，商家这边是正常的，如觉得不舒服可以退货退款重新购买，那不是浪费买家很多时间和精力，有些买家根本不方便退货退款的，而且被大数据杀熟本来心里就不舒服。找平台就说先和商家协商一下退款，没想到商家和平台处理方式让人无法接受，各种推诿扯皮，以后淘宝用户会流失的越来多再也不用淘宝了。",
+          "dateTime": "2026.06.25 09:16",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml[【控油保湿套装】]",
+          "userName": "我***老"
+        },
+        {
+          "commentScore": "1",
+          "content": "洗面奶买回来本来就不是满的我就不说啥了，这个乳买回来两周不到就用完了，也没看出来啥效果，感觉也不是很便宜的东西竟然这么不实惠，本来看线上测评挺好的才买的，买了才知道这也就那样了。",
+          "dateTime": "2025.03.04 23:20",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 1,
+          "skuInfo": "净含量:250ml",
+          "userName": "t***5"
+        },
+        {
+          "commentScore": "5",
+          "content": "送的洗发露很不错 下次买",
+          "dateTime": "2025.02.05 09:52",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:200ml",
+          "userName": "q***2"
+        },
+        {
+          "commentScore": "5",
+          "content": "还没用，等用过再来追评",
+          "dateTime": "2024.12.18 22:13",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml",
+          "userName": "你***g"
+        },
+        {
+          "appendRateList": [
+            {
+              "appendIntervalDay": "0",
+              "content": "很满意，很喜欢，洗面奶不假滑不紧绷，用在脸上不过敏"
+            }
+          ],
+          "commentScore": "5",
+          "content": "不油腻，很适合夏天涂抹，对于混油的敏感肌来说相当友好，而且量大实惠，很满意推荐",
+          "dateTime": "2025.03.18 12:07",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "images": [
+            "//img.alicdn.com/imgextra/i2/4611686018427384310/O1CN011sGfO51SE3vnJKVyj_!!4611686018427384310-2-rate.png",
+            "//img.alicdn.com/imgextra/i4/4611686018427384310/O1CN01Z04l4N1SE3vni7EI6_!!4611686018427384310-2-rate.png",
+            "//img.alicdn.com/imgextra/i4/4611686018427384310/O1CN010QCX561SE3vlCZCza_!!4611686018427384310-2-rate.png"
+          ],
+          "likeCount": 1,
+          "skuInfo": "净含量:250ml",
+          "userName": "t***9"
+        },
+        {
+          "appendRateList": [
+            {
+              "appendIntervalDay": "0",
+              "content": "一次很好的购物体验，服务周到，物流快速，配送也很周到，态度也很好，好评！",
+              "images": [
+                "//img.alicdn.com/imgextra/i1/4611686018427380695/O1CN01sEd4sE1tIdVNhbyRK_!!4611686018427380695-0-rate.jpg",
+                "//img.alicdn.com/imgextra/i2/4611686018427380695/O1CN01SBwbg71tIdVOgAV7m_!!4611686018427380695-0-rate.jpg"
+              ]
+            }
+          ],
+          "commentScore": "5",
+          "content": "产品特点：质量不错，价格合理，物流也很快，快递员服务态度很好。 使用效果：很好 ",
+          "dateTime": "2025.02.18 16:57",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "images": [
+            "//img.alicdn.com/imgextra/i4/4611686018427380695/O1CN01xUi3uc1tIdVNJfysd_!!4611686018427380695-0-rate.jpg",
+            "//img.alicdn.com/imgextra/i1/4611686018427380695/O1CN01xI72b41tIdVNJhWVr_!!4611686018427380695-0-rate.jpg"
+          ],
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml",
+          "userName": "t***0"
+        },
+        {
+          "appendRateList": [
+            {
+              "appendIntervalDay": "0",
+              "content": "不错，还有几个试用包，好用",
+              "images": [
+                "//img.alicdn.com/imgextra/i1/4611686018427385981/O1CN01IDjeIq1FkUyEbDyg7_!!4611686018427385981-2-rate.png"
+              ]
+            }
+          ],
+          "commentScore": "5",
+          "content": "用珂岸很久了，蛮不错的，这三件套还是个礼盒装，很惊喜",
+          "dateTime": "2025.02.24 14:00",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "images": [
+            "//img.alicdn.com/imgextra/i3/4611686018427385981/O1CN01x5nW091FkUyCUnPNk_!!4611686018427385981-2-rate.png"
+          ],
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml",
+          "userName": "t***2"
+        },
+        {
+          "appendRateList": [
+            {
+              "appendIntervalDay": "75",
+              "content": "好用好用是真的",
+              "images": [
+                "//img.alicdn.com/imgextra/i3/4611686018427379886/O1CN01knZFEv2FZVe9QpGb8_!!4611686018427379886-0-tbbala.jpg"
+              ]
+            }
+          ],
+          "commentScore": "5",
+          "content": "该用户未填写评价内容",
+          "dateTime": "2024.12.30 11:53",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml",
+          "userName": "t***1"
+        },
+        {
+          "appendRateList": [
+            {
+              "appendIntervalDay": "0",
+              "content": "商家对复购顾客有行销套路的情形，本人不会再买这个牌子了，我去购买朋友推荐的欧碧泉了！"
+            }
+          ],
+          "commentScore": "1",
+          "content": "商家对待复购顾客行销有玩套路的情形，本人不会再消费这个牌子，以后去购买朋友推荐的欧碧泉了！",
+          "dateTime": "2025.01.08 23:42",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:200ml",
+          "userName": "拉***人"
+        },
+        {
+          "commentScore": "5",
+          "content": "很喜欢，包装漂亮，微香，皮肤很舒服",
+          "dateTime": "2024.12.19 12:34",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "images": [
+            "//img.alicdn.com/imgextra/i2/4611686018427383926/O1CN01Y095Jf2IEODMjTxP5_!!4611686018427383926-0-rate.jpg",
+            "//img.alicdn.com/imgextra/i2/4611686018427383926/O1CN01sQ17nv2IEODLPtg4R_!!4611686018427383926-0-rate.jpg"
+          ],
+          "likeCount": 1,
+          "skuInfo": "净含量:250ml",
+          "userName": "t***3"
+        },
+        {
+          "appendRateList": [
+            {
+              "appendIntervalDay": "0",
+              "content": "正品店铺，放心购买，客服态度也很OK，整个购物过程非常顺利！下次还会再来的！赞！",
+              "images": [
+                "//img.alicdn.com/imgextra/i3/4611686018427386363/O1CN01h9ipMd28ZmYz5lCGh_!!4611686018427386363-0-rate.jpg"
+              ]
+            }
+          ],
+          "commentScore": "5",
+          "content": "质量绝佳，价格亲民。物流满意，商家服务好，售后处理也很妥当！非常值得信赖的品牌，质量有保障！",
+          "dateTime": "2025.01.14 14:30",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "images": [
+            "//img.alicdn.com/imgextra/i1/4611686018427386363/O1CN01vELsy928ZmYwwNM1m_!!4611686018427386363-0-rate.jpg",
+            "//img.alicdn.com/imgextra/i3/4611686018427386363/O1CN01nynfsr28ZmYyT40xT_!!4611686018427386363-0-rate.jpg",
+            "//img.alicdn.com/imgextra/i3/4611686018427386363/O1CN01oKo7qP28ZmYrtnGW0_!!4611686018427386363-0-rate.jpg"
+          ],
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml",
+          "userName": "初***2"
+        },
+        {
+          "commentScore": "5",
+          "content": "第二次回购了，效果还是不错的，洗脸很干净，一套的水和乳都很不错，用完之后干净不紧绷。",
+          "dateTime": "2024.08.10 21:46",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml",
+          "userName": "她***丶"
+        },
+        {
+          "appendRateList": [
+            {
+              "appendIntervalDay": "45",
+              "content": "洗面奶不要买，按出来的都是液体，没有泡沫"
+            }
+          ],
+          "commentScore": "5",
+          "content": "该用户未填写评价内容",
+          "dateTime": "2025.05.14 15:49",
+          "headPic": "https://gw.alicdn.com/imgextra/i3/O1CN01YXMxVW1ng5k8sZ6L3_!!6000000005118-0-tps-160-160.jpg_Q75.jpg_.webp",
+          "likeCount": 0,
+          "skuInfo": "净含量:250ml",
+          "userName": "a***y"
+        }
+      ],
+      "totalCount": "300+"
+    },
+    "seeMore": {
+      "jumpUrlPrefix": "/item",
+      "recommendUrl": "https://tui.taobao.com/recommend?appid=766&seller_rec_num=3&n=148&isIconsAdapter=false&lolSize=16&isLolCvr=true&isLolContextCvr=false&isCtrCvrSort=true&itemid=655423544937&sellerid=2206465362290"
+    },
+    "sellableLanguageList": [
+      "en_US"
+    ],
+    "seller": {
+      "allItemCount": 147,
+      "creditLevel": "14",
+      "evaluates": [
+        {
+          "level": "1",
+          "score": "4.9 ",
+          "title": "物流服务",
+          "type": "post"
+        },
+        {
+          "level": "1",
+          "score": "4.9 ",
+          "title": "服务",
+          "type": "serv"
+        },
+        {
+          "level": "1",
+          "score": "4.8 ",
+          "title": "商品描述",
+          "type": "desc"
+        }
+      ],
+      "newItemCount": 2,
+      "sellerType": "B",
+      "shopCard": "掌柜近期上新2件宝贝，速览",
+      "shopIcon": "https://img.alicdn.com/imgextra/i3/2206465362290/O1CN01iZWsBG1SmrsU55NIM_!!2206465362290-0-shopmanager.jpg",
+      "shopId": 254185731,
+      "shopName": "珂岸旗舰店",
+      "shopUrl": "//shop.m.taobao.com/shop/shop_index.htm?user_id=2206465362290&item_id=655423544937",
+      "showShopLinkIcon": false,
+      "starts": "2019-08-23 16:16:00",
+      "taoShopUrl": "//shop.m.taobao.com/shop/shop_index.htm?user_id=2206465362290&item_id=655423544937",
+      "userId": 2206465362290
+    },
+    "service": {
+      "remarkUrl": "https://img.alicdn.com/tfs/TB1FQ15c9RRMKJjy0FlXXXFepXa-1788-216.png"
+    },
+    "skuId": 5904414680188,
+    "success": true,
+    "mainItemInfo": {
+      "afterCouponAmountPrice": "199",
+      "auctionIconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01QlJ0GY1pi2oZ8oXaJ_!!6000000005393-2-tps-72-36.png",
+      "hasSubsidy": "false",
+      "itemId": "655423544937",
+      "itemName": "珂岸男士氨基酸洗面奶面霜控油清爽精华水乳华熙生物护肤品礼盒",
+      "pic": "//img.alicdn.com/bao/uploaded/i1/2206465362290/O1CN01hl89peNIIEB1chua_!!4611686018427382130-0-item_pic.jpg",
+      "pretaobaoAmt": "5.97",
+      "promotionModel": {
+        "promotiontaobaoModel": {
+          "pretaobaoAmt": "4.53",
+          "pretaobaoAmtDisplay": "￥4.53",
+          "pretaobaoRate": "3.00",
+          "pretaobaoRateDisplay": "3.00%"
+        },
+        "promotionPriceModel": {
+          "promotionPrice": "151.05",
+          "promotionPriceDescDisplay": "到手价",
+          "promotionPriceDisplay": "￥151.05",
+          "zkPrice": "209.00",
+          "zkPriceDisplay": "￥209.00"
+        },
+        "promotionTagModel": [
+          {
+            "tagDisplay": "10元",
+            "tagType": "COUPON",
+            "tagTypeDisplay": "店铺券"
+          },
+          {
+            "tagDisplay": "包邮",
+            "tagType": "POST_FREE",
+            "tagTypeDisplay": "POST_FREE"
+          }
+        ],
+        "selectedCoupon": "false"
+      },
+      "scm": "taobao.0.0.taobao_markting-page_0",
+      "tk": "1",
+      "taobaoPromotionModel": {
+        "finalPromotionInfo": {
+          "couponPromotionModel": {
+            "couponPromotionDesc": "满149减10",
+            "couponPromotionPath": "9d0334e574864be48a43c468f5c759cf:2:149:10:10:41196001:shopbonus:2:店铺券:2:1788192000:1790783999:0:2:0:0",
+            "couponType": "0",
+            "promotionAction": "10",
+            "promotionCondition": "149",
+            "promotionFee": "10",
+            "promotionId": "9d0334e574864be48a43c468f5c759cf",
+            "promotionMode": "2",
+            "promotionTitle": "店铺券"
+          },
+          "finalPromotionPath": "9d0334e574864be48a43c468f5c759cf:2:149:10:10:41196001:shopbonus:2:店铺券:2:1788192000:1790783999:0:2:0:0;3186709731280:3:1:40:40:0:commonItemDiscount:4:官方立减:1:1788696000:1789315199:0:3:0:0;655423544937vip95950:1:1:9.5:7.95:0:coupon288vipcard:70:88vip95折:1:1785513600:1817049599:0:1:0:0",
+          "finalPromotionPrice": "151.05"
+        }
+      },
+      "url": "https://detail.tmall.com/?e=m%3D2%26s%3DEJdDx36w%2FAVw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0KhtANL1Txe0j66gYY6W%2F6wUm%2F7ndoAa1X8bwa%2FrvGmia2RI18yzDp%2Bdm859obdri3zXYP%2BgPImnUyNpxLfgKr0jWpzpm6nEC9oKDWXexbvtZUmE%2FEyZZ5cF%2F2W1V6SuGzeWDlWAS8bvL0AvbXqnnIwWtfwYEZ8SBiB2mVJc86g%2Bnij5M6bjzYRV7tOCqWWkGSyxeAh%2Fo6qBQAHUJpsisM6iZ%2BQMlGz6FQ%3D%3D&pvid=42eb7062-564f-49c5-b7cf-af4b8a70e3c0&app_pvid=59590_33.4.246.187_1475_1788868820263&ptl=floorId%3A83726%3BoriginalFloorId%3A83726%3Bpvid%3A42eb7062-564f-49c5-b7cf-af4b8a70e3c0%3Bapp_pvid%3A59590_33.4.246.187_1475_1788868820263&xId=dbV468Fqkl9wbieq1HvIcEZDeUwV1CirpkKFClfQs4roksdV7Va4FB6CKlu58sfRDFOlzWQUtTZR8abcmNjMX7BluOhIsOsUfeYoNWP7NUo&taobao_lens=lensId%3AAPP%401788868820%402104f6bb_21ed_1a080e3fd3d_4701%4002TLKOnzt0CebfNrbL1ZB26%40eyJmbG9vcklkIjo4MzcyNn0ie%3Bscm%3Ataobao.0.0.taobao_markting-page_0&scm=taobao.0.0.taobao_markting-page_0"
+    }
+  },
+  "recordTime": null
+}

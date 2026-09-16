@@ -1,0 +1,192 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:26.029598+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "streamingTitles": [
+      {
+        "titles": {
+          "edges": [
+            {
+              "node": {
+                "title": {
+                  "id": "tt32565993"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt32020831"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt33546863"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt1190634"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt30460310"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt34685692"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt9288030"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt33055254"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt6741278"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt32430579"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt35870921"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt12637874"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt3359350"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt34378301"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt3230854"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt11247158"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt36958376"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt7631058"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt14786934"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt11235772"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt8599532"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt14016500"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt5057054"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt21909764"
+                }
+              }
+            },
+            {
+              "node": {
+                "title": {
+                  "id": "tt33046197"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "recordTime": null
+}

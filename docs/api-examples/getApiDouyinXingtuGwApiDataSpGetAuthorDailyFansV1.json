@@ -1,0 +1,26 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:19.746285+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:05",
+  "code": 0,
+  "message": null,
+  "data": {
+    "base_resp": {
+      "status_code": 0,
+      "status_message": ""
+    },
+    "daily": [],
+    "delta": [],
+    "description": "",
+    "fans_advice": "",
+    "fans_growth": "0",
+    "fans_growth_rate": 0,
+    "fans_growth_rate_v2": {
+      "value": -92
+    },
+    "fans_growth_v2": {
+      "value": -384761
+    },
+    "raw_play_rate": {}
+  },
+  "recordTime": null
+}

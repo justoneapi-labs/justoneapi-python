@@ -1,0 +1,554 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:41.992531+08:00",
+  "_sourceCheckedAt": "2026-08-12T14:01:28",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "data": {
+      "bff_meta": null,
+      "error": null,
+      "error_msg": null,
+      "facets": [
+        {
+          "category": {
+            "parentids": null,
+            "display_name": "女生配件/黃金",
+            "is_default_subcat": null,
+            "parent_category_detail": null,
+            "name": "Women Accessories"
+          },
+          "catid": 11041224,
+          "count": 82023,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": null,
+            "display_name": "女生衣著",
+            "is_default_subcat": null,
+            "parent_category_detail": null,
+            "name": "Women's Apparel"
+          },
+          "catid": 11040766,
+          "count": 75065,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11042579
+            ],
+            "display_name": "料理用具",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "餐廚",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Kitchen"
+              },
+              "catid": 11042579,
+              "count": 241411,
+              "show_parent_category": null
+            },
+            "name": "Spatulas & Cooking Tweezers"
+          },
+          "catid": 11042583,
+          "count": 67586,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11042579
+            ],
+            "display_name": "其他",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "餐廚",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Kitchen"
+              },
+              "catid": 11042579,
+              "count": 241411,
+              "show_parent_category": null
+            },
+            "name": "Others"
+          },
+          "catid": 11042581,
+          "count": 50194,
+          "show_parent_category": true
+        },
+        {
+          "category": {
+            "parentids": [
+              11040925
+            ],
+            "display_name": "收納",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "居家生活",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Home&Living"
+              },
+              "catid": 11040925,
+              "count": 380539,
+              "show_parent_category": null
+            },
+            "name": "Home Organizers"
+          },
+          "catid": 11041036,
+          "count": 42110,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": null,
+            "display_name": "女生包包/精品",
+            "is_default_subcat": null,
+            "parent_category_detail": null,
+            "name": "Women Bags / Luxury Bags"
+          },
+          "catid": 11041292,
+          "count": 41442,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11042579
+            ],
+            "display_name": "烘焙用具",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "餐廚",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Kitchen"
+              },
+              "catid": 11042579,
+              "count": 241411,
+              "show_parent_category": null
+            },
+            "name": "Bakewares & Decorations"
+          },
+          "catid": 11042586,
+          "count": 33865,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": null,
+            "display_name": "手機平板與周邊",
+            "is_default_subcat": null,
+            "parent_category_detail": null,
+            "name": "Mobile & Gadgets"
+          },
+          "catid": 11041546,
+          "count": 31790,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11042579
+            ],
+            "display_name": "保鮮盒、便當盒",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "餐廚",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Kitchen"
+              },
+              "catid": 11042579,
+              "count": 241411,
+              "show_parent_category": null
+            },
+            "name": "Food Storage"
+          },
+          "catid": 11042580,
+          "count": 31005,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11040925
+            ],
+            "display_name": "居家裝飾",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "居家生活",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Home&Living"
+              },
+              "catid": 11040925,
+              "count": 380539,
+              "show_parent_category": null
+            },
+            "name": "Decoration"
+          },
+          "catid": 11041008,
+          "count": 28780,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": [
+              11040925
+            ],
+            "display_name": "水壺、杯子",
+            "is_default_subcat": null,
+            "parent_category_detail": {
+              "category": {
+                "parentids": null,
+                "display_name": "居家生活",
+                "is_default_subcat": null,
+                "parent_category_detail": null,
+                "name": "Home&Living"
+              },
+              "catid": 11040925,
+              "count": 380539,
+              "show_parent_category": null
+            },
+            "name": "Cups, Mugs & Glasses"
+          },
+          "catid": 11042566,
+          "count": 26215,
+          "show_parent_category": null
+        },
+        {
+          "category": {
+            "parentids": null,
+            "display_name": "男女鞋",
+            "is_default_subcat": null,
+            "parent_category_detail": null,
+            "name": "Shoes"
+          },
+          "catid": 11041795,
+          "count": 23853,
+          "show_parent_category": null
+        }
+      ],
+      "locations": [
+        {
+          "name": "台灣",
+          "level": "-1",
+          "sub_location": null,
+          "display_name": "台灣",
+          "translations": [],
+          "tag_ids": [
+            822059780857868
+          ]
+        },
+        {
+          "name": "海外",
+          "level": "-2",
+          "sub_location": null,
+          "display_name": "海外",
+          "translations": [],
+          "tag_ids": [
+            822059780859404
+          ]
+        }
+      ],
+      "brands": [
+        {
+          "brandid": 1139704,
+          "name": "ucc"
+        },
+        {
+          "brandid": 1082663,
+          "name": "BARISTA COFFEE 西雅圖極品咖啡"
+        },
+        {
+          "brandid": 1131185,
+          "name": "OKLAO SPECIALTY COFFEE 歐客佬精品咖啡農場"
+        },
+        {
+          "brandid": 1141533,
+          "name": "品皇咖啡"
+        },
+        {
+          "brandid": 1802055,
+          "name": "Nescafe"
+        },
+        {
+          "brandid": 1354638,
+          "name": "MR.BROWN 伯朗"
+        },
+        {
+          "brandid": 3268371,
+          "name": "Maxim"
+        },
+        {
+          "brandid": 1083315,
+          "name": "AGF"
+        },
+        {
+          "brandid": 1111020,
+          "name": "G7"
+        },
+        {
+          "brandid": 1147048,
+          "name": "Starbucks"
+        },
+        {
+          "brandid": 1440358,
+          "name": "再再之在"
+        },
+        {
+          "brandid": 2563581,
+          "name": "Nestle"
+        },
+        {
+          "brandid": 1215517,
+          "name": "FELALA 費拉拉咖啡"
+        },
+        {
+          "brandid": 1599315,
+          "name": "dripo"
+        },
+        {
+          "brandid": 1088224,
+          "name": "HWC ROASTERS 黑沃咖啡"
+        },
+        {
+          "brandid": 5981424,
+          "name": "yy bean coffee"
+        },
+        {
+          "brandid": 1094459,
+          "name": "OneFreshCup 鮮一杯"
+        },
+        {
+          "brandid": 2660862,
+          "name": "Buon Caffe 步昂咖啡"
+        },
+        {
+          "brandid": 2239957,
+          "name": "Caffitaly"
+        },
+        {
+          "brandid": 1129021,
+          "name": "CREATION FOOD 開元食品"
+        }
+      ],
+      "shippings": [
+        {
+          "positionid": 1,
+          "name": "蝦皮店到店",
+          "channelids": "30015",
+          "display_name": "蝦皮店到店",
+          "item_tag_ids": [
+            840902217782303
+          ]
+        },
+        {
+          "positionid": 2,
+          "name": "店到家宅配",
+          "channelids": "30017;30030",
+          "display_name": "店到家宅配",
+          "item_tag_ids": [
+            1400285049,
+            298888387
+          ]
+        },
+        {
+          "positionid": 3,
+          "name": "全家",
+          "channelids": "30006",
+          "display_name": "全家",
+          "item_tag_ids": [
+            822120594703895
+          ]
+        },
+        {
+          "positionid": 4,
+          "name": "全家冷凍",
+          "channelids": "30011",
+          "display_name": "全家冷凍",
+          "item_tag_ids": [
+            825524591821317
+          ]
+        },
+        {
+          "positionid": 5,
+          "name": "萊爾富",
+          "channelids": "30007",
+          "display_name": "萊爾富",
+          "item_tag_ids": [
+            822120594705943
+          ]
+        },
+        {
+          "positionid": 6,
+          "name": "萊爾富經濟包",
+          "channelids": "30010",
+          "display_name": "萊爾富經濟包",
+          "item_tag_ids": [
+            3073920408394775
+          ]
+        },
+        {
+          "positionid": 7,
+          "name": "7-ELEVEN",
+          "channelids": "30005",
+          "display_name": "7-ELEVEN",
+          "item_tag_ids": [
+            1948020501544471
+          ]
+        },
+        {
+          "positionid": 8,
+          "name": "新竹物流 ",
+          "channelids": "30020",
+          "display_name": "新竹物流 ",
+          "item_tag_ids": [
+            997936212
+          ]
+        },
+        {
+          "positionid": 9,
+          "name": "宅配通",
+          "channelids": "30012",
+          "display_name": "宅配通",
+          "item_tag_ids": [
+            829091185487422
+          ]
+        },
+        {
+          "positionid": 10,
+          "name": "黑貓宅急便",
+          "channelids": "30001",
+          "display_name": "黑貓宅急便",
+          "item_tag_ids": [
+            4199820315223063
+          ]
+        },
+        {
+          "positionid": 11,
+          "name": "嘉里快遞",
+          "channelids": "30018",
+          "display_name": "嘉里快遞",
+          "item_tag_ids": [
+            700450057
+          ]
+        },
+        {
+          "positionid": 12,
+          "name": "蝦皮海外 - 快速到貨 (蝦皮店到店)",
+          "channelids": "38067",
+          "display_name": "蝦皮海外 - 快速到貨 (蝦皮店到店)",
+          "item_tag_ids": [
+            1400545066
+          ]
+        },
+        {
+          "positionid": 13,
+          "name": "蝦皮海外- 蝦皮店到店",
+          "channelids": "38066",
+          "display_name": "蝦皮海外- 蝦皮店到店",
+          "item_tag_ids": [
+            842817945828358
+          ]
+        },
+        {
+          "positionid": 14,
+          "name": "蝦皮海外 - 蝦皮店到店 (海運)",
+          "channelids": "38064",
+          "display_name": "蝦皮海外 - 蝦皮店到店 (海運)",
+          "item_tag_ids": [
+            298988336
+          ]
+        },
+        {
+          "positionid": 15,
+          "name": "蝦皮海外 - 宅配 (空運)",
+          "channelids": "38011",
+          "display_name": "蝦皮海外 - 宅配 (空運)",
+          "item_tag_ids": [
+            4199820315274263
+          ]
+        },
+        {
+          "positionid": 16,
+          "name": "蝦皮海外 - 宅配 (海運)",
+          "channelids": "38010",
+          "display_name": "蝦皮海外 - 宅配 (海運)",
+          "item_tag_ids": [
+            700025252
+          ]
+        },
+        {
+          "positionid": 17,
+          "name": "蝦皮海外 - 7-ELEVEN",
+          "channelids": "38012",
+          "display_name": "蝦皮海外 - 7-ELEVEN",
+          "item_tag_ids": [
+            5325720222119447
+          ]
+        },
+        {
+          "positionid": 18,
+          "name": "蝦皮韓國 - 快速到貨 (蝦皮店到店)",
+          "channelids": "38070",
+          "display_name": "蝦皮韓國 - 快速到貨 (蝦皮店到店)",
+          "item_tag_ids": [
+            299038358
+          ]
+        },
+        {
+          "positionid": 19,
+          "name": "蝦皮韓國 - 蝦皮店到店",
+          "channelids": "38065",
+          "display_name": "蝦皮韓國 - 蝦皮店到店",
+          "item_tag_ids": [
+            1688720
+          ]
+        },
+        {
+          "positionid": 20,
+          "name": "蝦皮日本 - 蝦皮店到店",
+          "channelids": "38041",
+          "display_name": "蝦皮日本 - 蝦皮店到店",
+          "item_tag_ids": [
+            997846063
+          ]
+        }
+      ],
+      "price_ranges": [],
+      "shop_types": [
+        0,
+        1
+      ],
+      "disabled_filters": null,
+      "version": null,
+      "video_filter": 1,
+      "colorful_block": [],
+      "dynamic_filter": null,
+      "filter_algorithm": "",
+      "sub_errs": [
+        36801207
+      ]
+    }
+  },
+  "recordTime": "2026-08-12T14:01:27.936562071"
+}

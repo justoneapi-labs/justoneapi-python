@@ -1,0 +1,152 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:41.395465+08:00",
+  "_sourceCheckedAt": "2026-08-12T14:00:11",
+  "code": 0,
+  "message": null,
+  "data": {
+    "site": "TW",
+    "market": "Taiwan",
+    "data": {
+      "error": 0,
+      "error_msg": "",
+      "data": {
+        "shop_categories": [
+          {
+            "shop_category_id": 137680257,
+            "display_name": "🔥 熱銷新品",
+            "image": "sg-11134201-825av-mr9nr9phnuo479",
+            "is_generated": false,
+            "category_type": 4,
+            "total": 1,
+            "is_adult": false,
+            "collection_type": 4,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 144555586,
+            "display_name": "✦ 拉花缸",
+            "image": "sg-11134201-824in-mfrwl7wxv11ke6",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 9,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 144555849,
+            "display_name": "✦ 布粉 / 壓粉器",
+            "image": "tw-11134207-7r98v-lrvgxqel9s0813",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 21,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 256986832,
+            "display_name": "✦ 布粉針 / 攪粉針",
+            "image": "tw-11134207-7r98v-lrvgxqel9s0813",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 4,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 256986944,
+            "display_name": "✦ 電子秤 / 咖啡秤",
+            "image": "sg-11134201-822xg-mo93unpgwa9t01",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 5,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 253966696,
+            "display_name": "✦ 冷萃壺/ 冰滴壺",
+            "image": "tw-11134207-7r98y-lzw994hr2ak4ce",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 2,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 144555832,
+            "display_name": "✦ 義式器具",
+            "image": "tw-11134207-7r98v-lrvgxqel9s0813",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 45,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 144555851,
+            "display_name": "✦ 咖啡杯",
+            "image": "sg-11134201-22100-pj0w52qkexivcf",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 10,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 144555811,
+            "display_name": "✦ 吧台工具",
+            "image": "cd35596f06ad7bd84b977d600243cdbb",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 29,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 144556006,
+            "display_name": "✦ 手沖器具",
+            "image": "tw-11134207-7r98v-lrvgxqel9s0813",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 23,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          },
+          {
+            "shop_category_id": 144556014,
+            "display_name": "✦ 磨豆機",
+            "image": "sg-11134201-7rbmf-lmynus7zsgftbb",
+            "is_generated": false,
+            "category_type": 1,
+            "total": 4,
+            "is_adult": false,
+            "collection_type": 1,
+            "rule": ""
+          }
+        ],
+        "total": 11,
+        "has_more": false,
+        "all_products_cover": {
+          "image": "",
+          "is_adult": false
+        },
+        "ab_test": {
+          "fashion_shop_improvement": "control"
+        },
+        "deco_layout": 1,
+        "tier": 1,
+        "dynamic_translation_status": 0
+      }
+    }
+  },
+  "recordTime": "2026-08-12T14:00:11.336811108"
+}

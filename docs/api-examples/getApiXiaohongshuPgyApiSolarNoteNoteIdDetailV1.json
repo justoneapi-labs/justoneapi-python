@@ -1,0 +1,112 @@
+{
+  "_fetchedAt": "2026-09-08T20:01:03.427022+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:35",
+  "code": 0,
+  "message": null,
+  "data": {
+    "noteId": "65c0b3fc000000002c037a49",
+    "noteLink": "https://www.xiaohongshu.com/explore/65c0b3fc000000002c037a49?xsec_token=MB8PNITJMP1Abz9GTe0epUoILsrpub1v5qrwUG7eHTnIQ=&xsec_source=pc_pgy",
+    "userId": "62060e8c0000000010008f55",
+    "headPhoto": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2pdfsn8cjs0005og61q6413qlmn6hsa0?imageView2/2/w/120/format/jpg",
+    "name": "曹操来了",
+    "redId": null,
+    "type": 2,
+    "atUserList": null,
+    "title": "",
+    "content": "拍狙击手的时候张艺谋说了这句话让曹操觉得皮特别冷心特别暖  #电影狙击手[话题]#   #曹操来了[话题]#  #明星[话题]#",
+    "imagesList": [
+      {
+        "fileId": "spectrum/1040g0k030ups4ufllg005og61q6413qltc9ngeo",
+        "url": "http://ci.xiaohongshu.com/spectrum/1040g0k030ups4ufllg005og61q6413qltc9ngeo?imageView2/2/w/1080/format/jpg",
+        "original": "http://ci.xiaohongshu.com/spectrum/1040g0k030ups4ufllg005og61q6413qltc9ngeo",
+        "width": 1080,
+        "height": 1920,
+        "latitude": null,
+        "longitude": null,
+        "traceId": "spectrum/1040g0k030ups4ufllg005og61q6413qltc9ngeo",
+        "sticker": null,
+        "imageExtraInfo": null
+      }
+    ],
+    "videoInfo": {
+      "id": "112137331",
+      "videoKey": "stream/110/258/01e5c0b37e064fea010376038d78bf83b6_258.mp4",
+      "originVideoKey": "spectrum/1040g0jg30ups4uac5i005og61q6413ql180l93g",
+      "meta": {
+        "width": 1080,
+        "height": 1920,
+        "duration": 23,
+        "videoId": "136727240850690026"
+      },
+      "gifKey": "",
+      "videoUrl": "http://v.xiaohongshu.com/stream/110/258/01e5c0b37e064fea010376038d78bf83b6_258.mp4?sign=c56901bdebeb16f81e68185ce3363391&t=6aa18280",
+      "gifUrl": "",
+      "videoKeyList": [],
+      "hasFragments": false,
+      "thumbnail": "110/0/01e5c0b37e064fea0010000000018d78bf1fd7_0.webp",
+      "firstFrame": null,
+      "volume": 0.0,
+      "chapters": null,
+      "redGifInfo": null
+    },
+    "time": {
+      "createTime": 1707127804000,
+      "updateTime": 1707142186000,
+      "userUpdateTime": 1707127804000
+    },
+    "createTime": "2024-02-05 18:10",
+    "impNum": 0,
+    "likeNum": 0,
+    "favNum": 0,
+    "cmtNum": 0,
+    "readNum": 0,
+    "shareNum": 0,
+    "followCnt": 0,
+    "reportBrandUserId": null,
+    "reportBrandName": null,
+    "featureTags": null,
+    "userInfo": {
+      "nickName": "曹操来了",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2pdfsn8cjs0005og61q6413qlmn6hsa0?imageView2/2/w/120/format/jpg",
+      "userId": "62060e8c0000000010008f55",
+      "advertiserId": null,
+      "fansNum": 599243,
+      "cooperType": 1,
+      "priceState": 1,
+      "pictureState": 0,
+      "picturePrice": 0.0,
+      "videoState": 1,
+      "videoPrice": 200000.0,
+      "userType": 2,
+      "operateState": 1,
+      "currentLevel": 2,
+      "location": "北京",
+      "contentTags": [
+        {
+          "taxonomy1Tag": "文化艺术",
+          "taxonomy2Tags": [
+            "艺术",
+            "科普"
+          ]
+        }
+      ],
+      "featureTags": null,
+      "personalTags": null,
+      "gender": "男",
+      "isCollect": false,
+      "clickMidNum": 108740,
+      "interMidNum": 3258,
+      "pictureInCart": null,
+      "videoInCart": null,
+      "kolType": 0,
+      "mengagementNum": 3928,
+      "mEngagementNum": 3928
+    },
+    "compClickData": null,
+    "agentName": null,
+    "recommendedKeywords": null,
+    "contentItemList": null,
+    "goodCaseCollect": false
+  },
+  "recordTime": null
+}

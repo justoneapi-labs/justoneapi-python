@@ -1,0 +1,26 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:25.976097+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "prestigiousAwardSummary": null,
+      "totalWins": {
+        "total": 29
+      },
+      "totalNominations": {
+        "total": 128
+      },
+      "ratingsSummary": {
+        "topRanking": {
+          "rank": 1430,
+          "text": {
+            "value": "Top Rated"
+          }
+        }
+      }
+    }
+  },
+  "recordTime": null
+}

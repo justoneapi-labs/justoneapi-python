@@ -1,0 +1,536 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:29.109295+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "id": "tt12037194",
+      "titleType": {
+        "__typename": "TitleType",
+        "id": "movie",
+        "text": "Movie",
+        "categories": [
+          {
+            "id": "movie",
+            "text": "Movie",
+            "value": "movie"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "isEpisode": false,
+        "isSeries": false,
+        "displayableProperty": {
+          "value": {
+            "plainText": ""
+          }
+        }
+      },
+      "principalCredits": [
+        {
+          "credits": [
+            {
+              "__typename": "Crew"
+            }
+          ]
+        },
+        {
+          "credits": [
+            {
+              "__typename": "Crew"
+            },
+            {
+              "__typename": "Crew"
+            }
+          ]
+        },
+        {
+          "credits": [
+            {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Furiosa",
+                  "name": "Furiosa"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm5896355",
+                "nameText": {
+                  "text": "Anya Taylor-Joy"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm4152883713",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMGZjYzcxNDEtNTU1Yi00Nzc3LTlhZjQtZTUwZDQxNjQ5MDIzXkEyXkFqcGc@._V1_.jpg",
+                  "height": 2048,
+                  "width": 1365
+                }
+              }
+            },
+            {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Dementus",
+                  "name": "Dementus"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm1165110",
+                "nameText": {
+                  "text": "Chris Hemsworth"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm3936529408",
+                  "url": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_.jpg",
+                  "height": 576,
+                  "width": 384
+                }
+              }
+            },
+            {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Praetorian Jack",
+                  "name": "Praetorian Jack"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0121895",
+                "nameText": {
+                  "text": "Tom Burke"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm2251074304",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMjAxMjk4MjgyMl5BMl5BanBnXkFtZTcwODk1MjgxOA@@._V1_.jpg",
+                  "height": 2048,
+                  "width": 1365
+                }
+              }
+            },
+            {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Young Furiosa",
+                  "name": "Young Furiosa"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm10752061",
+                "nameText": {
+                  "text": "Alyla Browne"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm3576654337",
+                  "url": "https://m.media-amazon.com/images/M/MV5BN2YyM2I3ODctMzc0Mi00MGEyLTg0N2EtM2U2ODUxMTMxY2RiXkEyXkFqcGc@._V1_.jpg",
+                  "height": 6720,
+                  "width": 4480
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "credits": {
+        "__typename": "CreditConnection",
+        "edges": [
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "The History Man",
+                  "name": "The History Man"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0792964",
+                "nameText": {
+                  "text": "George Shevtsov"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm1541371649",
+                  "url": "https://m.media-amazon.com/images/M/MV5BNTAxMGUxY2ItYTBmMy00MGExLWI3MjQtZjI5ODRmMjRiMGQwXkEyXkFqcGc@._V1_.jpg",
+                  "height": 530,
+                  "width": 355
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Immortan Joe",
+                  "name": "Immortan Joe"
+                },
+                {
+                  "id": "Rizzdale Pell",
+                  "name": "Rizzdale Pell"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0401522",
+                "nameText": {
+                  "text": "Lachy Hulme"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm2136808193",
+                  "url": "https://m.media-amazon.com/images/M/MV5BNDk5YmQzMjQtM2Y4NC00Yjc3LWFjZGQtMTUzZjE4MDFkZDAwXkEyXkFqcGc@._V1_.jpg",
+                  "height": 762,
+                  "width": 761
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "The People Eater",
+                  "name": "The People Eater"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0397398",
+                "nameText": {
+                  "text": "John Howard"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm1105955329",
+                  "url": "https://m.media-amazon.com/images/M/MV5BODA2YWYxYmYtMjNkZi00M2NjLTk4MTEtN2ZjMDIwNmRiNzQzXkEyXkFqcGc@._V1_.jpg",
+                  "height": 375,
+                  "width": 500
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Organic Mechanic",
+                  "name": "Organic Mechanic"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0760151",
+                "nameText": {
+                  "text": "Angus Sampson"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm1551919361",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMDNjNWQyYzctNmU3YS00ZGRiLWE4YzEtMjNmOTViMmU2NmI2XkEyXkFqcGc@._V1_.jpg",
+                  "height": 4986,
+                  "width": 3399
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Mary Jabassa",
+                  "name": "Mary Jabassa"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm9471695",
+                "nameText": {
+                  "text": "Charlee Fraser"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm2552777473",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMTA3ZDk4NTgtNjk3My00ZDJlLTlkMjItNDI2ZjMxMGQ1YjJkXkEyXkFqcGc@._V1_.jpg",
+                  "height": 1282,
+                  "width": 1283
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Vuvalini General",
+                  "name": "Vuvalini General"
+                },
+                {
+                  "id": "Mr. Norton",
+                  "name": "Mr. Norton"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0665235",
+                "nameText": {
+                  "text": "Elsa Pataky"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm159031296",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMTAyNjU4MzkyNzleQTJeQWpwZ15BbWU3MDk2NTQ0Mjk@._V1_.jpg",
+                  "height": 500,
+                  "width": 333
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Rictus Erectus",
+                  "name": "Rictus Erectus"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0428923",
+                "nameText": {
+                  "text": "Nathan Jones"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm2402700033",
+                  "url": "https://m.media-amazon.com/images/M/MV5BZDAwMzlhMDMtMWQwZi00ZmU5LTllNWYtYzA2ZDMzODVhOGZjXkEyXkFqcGc@._V1_.jpg",
+                  "height": 883,
+                  "width": 883
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Scrotus",
+                  "name": "Scrotus"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm2890541",
+                "nameText": {
+                  "text": "Josh Helman"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm4226228224",
+                  "url": "https://m.media-amazon.com/images/M/MV5BZGM0YTczNTEtODVhYy00MmIyLWI5MDItMzQ4ZmZhMWQ0ZTVlXkEyXkFqcGc@._V1_.jpg",
+                  "height": 800,
+                  "width": 1920
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Toe Jam",
+                  "name": "Toe Jam"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0275913",
+                "nameText": {
+                  "text": "David Field"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm1899337728",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMTIwOTczMTUyOV5BMl5BanBnXkFtZTYwODU2NDg2._V1_.jpg",
+                  "height": 612,
+                  "width": 485
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Vulture",
+                  "name": "Vulture"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm2738931",
+                "nameText": {
+                  "text": "Rahel Romahn"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm2016557569",
+                  "url": "https://m.media-amazon.com/images/M/MV5BNDg3YmVlYjgtMTc4Zi00Zjg0LTk5OTYtZDkzNjdhYzI4M2NkXkEyXkFqcGc@._V1_.jpg",
+                  "height": 1800,
+                  "width": 1440
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Smeg",
+                  "name": "Smeg"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm0172259",
+                "nameText": {
+                  "text": "David Collins"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm2988861185",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMjdkMzgzODgtNzY1NC00YTFjLWFhN2QtOWFiNDQ0ZDk1OWQ2XkEyXkFqcGc@._V1_CR254,1,3121,4681_.jpg",
+                  "height": 4681,
+                  "width": 3121
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "The Octoboss",
+                  "name": "The Octoboss"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm2377520",
+                "nameText": {
+                  "text": "Goran D. Kleut"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm2519449600",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMTkyNTc3NzAzNV5BMl5BanBnXkFtZTgwMTc1NTA0MjE@._V1_.jpg",
+                  "height": 6169,
+                  "width": 4969
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Big Jilly",
+                  "name": "Big Jilly"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm11379573",
+                "nameText": {
+                  "text": "CJ Bloomfield"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm1614399746",
+                  "url": "https://m.media-amazon.com/images/M/MV5BYmUzNDk1MmUtNzEyMi00YTRkLWIzYTUtNmE3NjcxODM1NzBjXkEyXkFqcGc@._V1_.jpg",
+                  "height": 3559,
+                  "width": 2309
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Fang",
+                  "name": "Fang"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm2158275",
+                "nameText": {
+                  "text": "Matuse"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm1557408001",
+                  "url": "https://m.media-amazon.com/images/M/MV5BYzE4YjY3ZTUtNWYyOS00NTgxLThkZGQtMzllN2MyNGM5NzI3XkEyXkFqcGc@._V1_.jpg",
+                  "height": 2318,
+                  "width": 1668
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "Cast",
+              "characters": [
+                {
+                  "id": "Mr. Harley",
+                  "name": "Mr. Harley"
+                }
+              ],
+              "name": {
+                "__typename": "Name",
+                "id": "nm1345123",
+                "nameText": {
+                  "text": "Ian Roberts"
+                },
+                "primaryImage": {
+                  "__typename": "Image",
+                  "id": "rm3408989697",
+                  "url": "https://m.media-amazon.com/images/M/MV5BMmMyOGRkMDQtYmNmOC00MzlmLThhN2MtNjc3YzU2YzA0MGU5XkEyXkFqcGc@._V1_.jpg",
+                  "height": 3418,
+                  "width": 5074
+                }
+              }
+            }
+          }
+        ],
+        "total": 2037
+      }
+    }
+  },
+  "recordTime": null
+}

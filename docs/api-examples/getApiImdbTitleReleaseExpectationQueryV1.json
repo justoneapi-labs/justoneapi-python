@@ -1,0 +1,1108 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:29.299292+08:00",
+  "_sourceCheckedAt": "2026-07-18T17:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "title": {
+      "__typename": "Title",
+      "id": "tt12037194",
+      "titleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "originalTitleText": {
+        "text": "Furiosa: A Mad Max Saga",
+        "isOriginalTitle": true
+      },
+      "releaseYear": {
+        "__typename": "YearRange",
+        "year": 2024,
+        "endYear": null
+      },
+      "releaseDate": {
+        "__typename": "ReleaseDate",
+        "month": 5,
+        "day": 24,
+        "year": 2024,
+        "country": {
+          "id": "US"
+        },
+        "restriction": null,
+        "attributes": [],
+        "displayableProperty": {
+          "qualifiersInMarkdownList": null
+        }
+      },
+      "titleType": {
+        "__typename": "TitleType",
+        "id": "movie",
+        "text": "Movie",
+        "categories": [
+          {
+            "id": "movie",
+            "text": "Movie",
+            "value": "movie"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "isEpisode": false,
+        "isSeries": false,
+        "displayableProperty": {
+          "value": {
+            "plainText": ""
+          }
+        }
+      },
+      "primaryImage": {
+        "__typename": "Image",
+        "id": "rm645622785",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg",
+        "height": 4096,
+        "width": 2764
+      },
+      "productionStatus": {
+        "__typename": "ProductionStatusDetails",
+        "announcements": null,
+        "currentProductionStage": {
+          "id": "released",
+          "text": "Released"
+        },
+        "productionStatusHistory": [
+          {
+            "comment": null,
+            "date": "2020-10-13",
+            "status": {
+              "id": "pre_production",
+              "text": "Pre-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2022-05-20",
+            "status": {
+              "id": "filming",
+              "text": "Filming"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2022-10-12",
+            "status": {
+              "id": "post_production",
+              "text": "Post-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2023-05-29",
+            "status": {
+              "id": "released",
+              "text": "Released"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2023-05-29",
+            "status": {
+              "id": "post_production",
+              "text": "Post-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2023-08-31",
+            "status": {
+              "id": "post_production",
+              "text": "Post-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2023-12-17",
+            "status": {
+              "id": "post_production",
+              "text": "Post-production"
+            }
+          },
+          {
+            "comment": null,
+            "date": "2024-04-10",
+            "status": {
+              "id": "completed",
+              "text": "Completed"
+            }
+          },
+          {
+            "comment": {
+              "text": "Derived from earliest release of 2024-05-15 (FR)"
+            },
+            "date": "2024-05-15",
+            "status": {
+              "id": "released",
+              "text": "Released"
+            }
+          }
+        ]
+      },
+      "episodes": null,
+      "wideReleaseDates": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "BE"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "CH"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "DK"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "FR"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "ID"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "KR"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "PH"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "SE"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "SG"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "TH"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 22,
+              "year": 2024,
+              "country": {
+                "id": "TW"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "AR"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "AU"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "AZ"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "BR"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "CL"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "DE"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "HR"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "HU"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "IL"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "IN"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "IT"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "KH"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "KW"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "KZ"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "LB"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "MK"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "MN"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "MX"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "MY"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "NL"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "PE"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "PT"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "RS"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "SK"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 23,
+              "year": 2024,
+              "country": {
+                "id": "UA"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "CA"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "EC"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "EE"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "ES"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "FI"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "GB"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "IE"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "IS"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "MM"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "NO"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "PL"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "RO"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "TR"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "US"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 24,
+              "year": 2024,
+              "country": {
+                "id": "ZA"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 31,
+              "year": 2024,
+              "country": {
+                "id": "JP"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 6,
+              "day": 7,
+              "year": 2024,
+              "country": {
+                "id": "CN"
+              },
+              "restriction": null,
+              "attributes": [],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": null
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 8,
+              "day": 16,
+              "year": 2024,
+              "country": {
+                "id": "US"
+              },
+              "restriction": null,
+              "attributes": [
+                {
+                  "id": "internet",
+                  "text": "internet"
+                }
+              ],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": [
+                  {
+                    "expandedMarkdown": "internet"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "excludeWideReleaseDates": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 5,
+              "day": 15,
+              "year": 2024,
+              "country": {
+                "id": "FR"
+              },
+              "restriction": null,
+              "attributes": [
+                {
+                  "id": "Cannes Film Festival",
+                  "text": "Cannes Film Festival"
+                }
+              ],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": [
+                  {
+                    "expandedMarkdown": "Cannes Film Festival"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 6,
+              "day": 25,
+              "year": 2024,
+              "country": {
+                "id": "US"
+              },
+              "restriction": null,
+              "attributes": [
+                {
+                  "id": "PVOD",
+                  "text": "PVOD"
+                }
+              ],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": [
+                  {
+                    "expandedMarkdown": "PVOD"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "__typename": "ReleaseDate",
+              "month": 8,
+              "day": 13,
+              "year": 2024,
+              "country": {
+                "id": "US"
+              },
+              "restriction": null,
+              "attributes": [
+                {
+                  "id": "DVD,4K UHD,Blu-ray",
+                  "text": "DVD,4K UHD,Blu-ray"
+                }
+              ],
+              "displayableProperty": {
+                "qualifiersInMarkdownList": [
+                  {
+                    "expandedMarkdown": "DVD,4K UHD,Blu-ray"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "recordTime": null
+}

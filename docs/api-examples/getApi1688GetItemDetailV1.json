@@ -1,0 +1,862 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:08.255320+08:00",
+  "_sourceCheckedAt": "2026-09-08T19:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "video": {},
+    "mainPic": {
+      "isPrivacy": false,
+      "offerImgList": [
+        "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.jpg",
+        "https://cbu01.alicdn.com/img/ibank/O1CN01zJa5Su1x4DSt9e8Z5_!!2215791086389-0-cib.jpg",
+        "https://cbu01.alicdn.com/img/ibank/O1CN01IQf6Sa1x4DSugensd_!!2215791086389-0-cib.jpg",
+        "https://cbu01.alicdn.com/img/ibank/O1CN01KicuaW1x4DSwdiJ5k_!!2215791086389-0-cib.jpg",
+        "https://cbu01.alicdn.com/img/ibank/O1CN01DURUbd1x4DSrse8sc_!!2215791086389-0-cib.jpg"
+      ],
+      "videoUrl": "https://cloud.video.taobao.com/play/u/2215791086389/p/2/e/6/t/1/487724092078.mp4",
+      "videoId": 487724092078,
+      "offerInfoModel": {
+        "offerId": 845599468116,
+        "price": "3.97-17.86",
+        "title": "【带芽发货】进口重瓣花毛茛种球洋牡丹芹叶牡丹耐寒浓香花卉",
+        "isFav": false
+      },
+      "liveInfoModel": {},
+      "offerId": "845599468116",
+      "offerImages": [
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.jpg",
+          "type": "normal",
+          "typeDes": "主图"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01zJa5Su1x4DSt9e8Z5_!!2215791086389-0-cib.jpg",
+          "type": "normal",
+          "typeDes": "主图"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01IQf6Sa1x4DSugensd_!!2215791086389-0-cib.jpg",
+          "type": "normal",
+          "typeDes": "主图"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01KicuaW1x4DSwdiJ5k_!!2215791086389-0-cib.jpg",
+          "type": "normal",
+          "typeDes": "主图"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01DURUbd1x4DSrse8sc_!!2215791086389-0-cib.jpg",
+          "type": "normal",
+          "typeDes": "主图"
+        }
+      ],
+      "skuImages": [
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01mignIH1x4DSt4RDxa_!!2215791086389-0-cib.jpg",
+          "name": "爆款混色颜色可备注",
+          "type": "sku"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01prybd71x4DSuhONct_!!2215791086389-0-cib.jpg",
+          "name": "热销白色多年生丨重瓣丨浓香丨对版",
+          "type": "sku"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN018BF9fN1x4DStgmexa_!!2215791086389-0-cib.jpg",
+          "name": "热销红色多年生丨重瓣丨浓香丨对版",
+          "type": "sku"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01UlckJW1x4DSw6QnDy_!!2215791086389-0-cib.jpg",
+          "name": "热销黄色多年生丨重瓣丨浓香丨对版",
+          "type": "sku"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01N5c4pH1x4DStcDUWP_!!2215791086389-0-cib.jpg",
+          "name": "热销紫色多年生丨重瓣丨浓香丨对版",
+          "type": "sku"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01nkb1991x4DSmUbyy1_!!2215791086389-0-cib.jpg",
+          "name": "热销橙色多年生丨重瓣丨浓香丨对版",
+          "type": "sku"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01wueCx41x4DSvOq5Yc_!!2215791086389-0-cib.jpg",
+          "name": "热销绿色多年生丨重瓣丨浓香丨对版",
+          "type": "sku"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01dSJu921x4DSugeGRY_!!2215791086389-0-cib.jpg",
+          "name": "热销粉色多年生丨重瓣丨浓香丨对版",
+          "type": "sku"
+        },
+        {
+          "imgUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01sCMNSk1x4DSvaLKMQ_!!2215791086389-0-cib.jpg",
+          "name": "热销玫红多年生丨重瓣丨浓香丨对版",
+          "type": "sku"
+        }
+      ],
+      "type": "款式",
+      "trackInfo": {
+        "expoData": "object_type@video^bizScene@offerDetail^object_id@487724092078^offerId@845599468116^videoId@487724092078^fromSource@offerDetail^sellerUserId@2215791086389",
+        "uiTrackInfo": {
+          "videoPlay": {
+            "args": {
+              "bizScene": "offerDetail",
+              "offerId": "845599468116",
+              "videoId": "487724092078",
+              "fromSource": "offerDetail",
+              "expoData": "object_type@video^bizScene@offerDetail^object_id@487724092078^offerId@845599468116^videoId@487724092078^fromSource@offerDetail^sellerUserId@2215791086389"
+            }
+          },
+          "od_live_click": {
+            "args": {
+              "offerId": "845599468116"
+            }
+          }
+        }
+      },
+      "processingActivityImg": "",
+      "dpzh_Type": "dpzh",
+      "sellerUserId": 2215791086389,
+      "hasAdditionComponent": false
+    },
+    "item": {
+      "winportUrl": "https://winport.m.1688.com/page/index.html?memberId=b2b-2215791086389e616d&_tabId_=offerlist&upstreamSource=od&offerId=845599468116",
+      "addCartUrl": "",
+      "isFavoriteOffer": false,
+      "companyName": "济南高新区阁昆种子经销部（个体工商户）",
+      "selectedScene": "order",
+      "saleOut": false,
+      "price": "3.97",
+      "sk": "",
+      "saledCount": 108,
+      "offerTitle": "【带芽发货】进口重瓣花毛茛种球洋牡丹芹叶牡丹耐寒浓香花卉",
+      "defaultOfferImg": "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.jpg",
+      "applyCouponUrl": "https://h5.m.taobao.com/app/1688activity/pages/odlottery/index.html?sceneType=consign&sellerMemberId=b2b-2215791086389e616d",
+      "topCategoryId": "122916001",
+      "postCategoryId": "125504001",
+      "offerUnit": "件",
+      "sellerLoginId": "天桥区阁昆种子经销部",
+      "sellerUserId": "2215791086389",
+      "sellerMemberId": "b2b-2215791086389e616d",
+      "sceneKey": "dszk",
+      "saledCountStr": "100+",
+      "aggregatePromotionInfo": [],
+      "isChtOffer": false,
+      "offerId": "845599468116",
+      "consignOffer": false,
+      "businessType": "default",
+      "canApplyChtCoupon": true
+    },
+    "coupon": {
+      "couponList": [
+        {
+          "couponType": "ALL_SITE_FREE",
+          "couponContent": "满30包邮"
+        },
+        {
+          "couponType": "COIN_POINT_ACTIVITY",
+          "couponContent": "元宝可抵5%"
+        }
+      ],
+      "linkUrl": "https://cybert.m.1688.com/43ohz283.html?sceneName=chimera_16527",
+      "pageName": "Page_GetCoupon",
+      "couponInfoList": [
+        {
+          "summary": "全店商品满30元包邮，部分商品除外，以\"包邮\"标为准",
+          "buttonName": "查看",
+          "displayType": "text",
+          "uiType": "ALL_SITE_FREE",
+          "name": "全店包邮",
+          "type": "ALL_SITE_FREE",
+          "promotionItems": [
+            {
+              "summary": "全店商品满30元包邮，部分商品除外，以\"包邮\"标为准",
+              "promotionInfoType": "ALL_SITE_FREE",
+              "creatorId": 2215791086389,
+              "label": "满30包邮",
+              "availablePeriod": "不免邮区域:海南,内蒙古,甘肃,青海,宁夏,新疆,西藏,台湾,香港,澳门,海外",
+              "promotionDisplayName": "全店包邮",
+              "startTime": "2025-01-05 20:44:43",
+              "detail": "全店商品满30元包邮，部分商品除外，以\"包邮\"标为准",
+              "endTime": "2099-12-31 23:59:59",
+              "extendDetail": ""
+            }
+          ],
+          "rankValue": 100,
+          "extraInfo": {
+            "uiType": "ALL_SITE_FREE"
+          }
+        },
+        {
+          "summary": "null",
+          "buttonName": "领券",
+          "displayType": "text",
+          "uiType": "COIN_POINT_ACTIVITY",
+          "name": "元宝抵扣",
+          "type": "COIN_POINT_ACTIVITY",
+          "promotionItems": [
+            {
+              "summary": "null",
+              "promotionInfoType": "COIN_POINT_ACTIVITY",
+              "discountFee": "0.20",
+              "applied": false,
+              "creatorId": 2215791086389,
+              "label": "元宝可抵5%",
+              "canApply": true,
+              "detail": "元宝可抵5%（100元宝等于1元）",
+              "extendDetail": "",
+              "actionName": "立即领取"
+            }
+          ],
+          "rankValue": 100,
+          "extraInfo": {
+            "uiType": "COIN_POINT_ACTIVITY"
+          }
+        }
+      ],
+      "buttonName": "",
+      "bgColor": "#ff0e31",
+      "offerId": 845599468116,
+      "onHandPrice": {
+        "ext": "起",
+        "unit": "￥"
+      },
+      "couponRuleLink": "https://rulechannel.1688.com/1688?type=detail&ruleId=20002183&cId=31#/rule/detail?ruleId=20002183&cId=31",
+      "couponRuleLinkText": "新人专享玩法说明 >",
+      "style": {
+        "textColor": "#FF4000",
+        "arrowsImg": "https://img.alicdn.com/tfs/TB19FQtP4D1gK0jSZFsXXbldVXa-26-44.png"
+      },
+      "tagShareModel": {
+        "shareContent": "我在1688发现了一个很赞的商品，快来看看吧！",
+        "pageContent": {
+          "businessId": 845599468116
+        },
+        "sceneType": "od_promotion_tag",
+        "sharePicUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.jpg",
+        "bizType": "offer",
+        "shareTitle": "【带芽发货】进口重瓣花毛茛种球洋牡丹芹叶牡丹耐寒浓香花卉",
+        "originalUrl": "http://m.1688.com/offer/845599468116.html?rpg-cnt=share.offerDetail&offerId=845599468116"
+      }
+    },
+    "description": {
+      "detailUrl": "https://itemcdn.tmall.com/1688offer/icoss183227562747f5ca6fa0e60ca8",
+      "isUseNewDetail": true
+    },
+    "attribute": {
+      "title": "属性",
+      "propsList": [
+        {
+          "name": "品种",
+          "value": "薰衣草",
+          "show": false
+        },
+        {
+          "name": "发芽率",
+          "value": "1",
+          "show": false
+        },
+        {
+          "name": "净度",
+          "value": "1",
+          "show": false
+        },
+        {
+          "name": "等级",
+          "value": "1",
+          "show": false
+        },
+        {
+          "name": "种类",
+          "value": "种子",
+          "show": false
+        },
+        {
+          "name": "播种期",
+          "value": "多季",
+          "show": false
+        },
+        {
+          "name": "品种纯度",
+          "value": "1",
+          "show": false
+        },
+        {
+          "name": "产地",
+          "value": "国产",
+          "show": false
+        },
+        {
+          "name": "含水量",
+          "value": "1",
+          "show": false
+        },
+        {
+          "name": "类别",
+          "value": "其他",
+          "show": false
+        },
+        {
+          "name": "分类",
+          "value": "鲜切花种子",
+          "show": false
+        },
+        {
+          "name": "是否进口",
+          "value": "否",
+          "show": false
+        },
+        {
+          "name": "应用场景",
+          "value": "其他",
+          "show": false
+        },
+        {
+          "name": "包装方式",
+          "value": "简装",
+          "show": false
+        },
+        {
+          "name": "盛花期",
+          "value": "多季",
+          "show": false
+        },
+        {
+          "name": "繁殖方式",
+          "value": "播种苗",
+          "show": false
+        },
+        {
+          "name": "病虫害",
+          "value": "无",
+          "show": false
+        },
+        {
+          "name": "饱满度",
+          "value": "爆款混色颜色可备注,热销白色多年生丨重瓣丨浓香丨对版,热销红色多年生丨重瓣丨浓香丨对版,热销黄色多年生丨重瓣丨浓香丨对版,热销紫色多年生丨重瓣丨浓香丨对版,热销橙色多年生丨重瓣丨浓香丨对版,热销绿色多年生丨重瓣丨浓香丨对版,热销粉色多年生丨重瓣丨浓香丨对版,热销玫红多年生丨重瓣丨浓香丨对版",
+          "show": false
+        },
+        {
+          "name": "百粒重/千粒重",
+          "value": "10颗+带芽发货+肥料,5颗+带芽发货+肥料,3颗+带芽发货+肥料,1颗+不带芽+来年开花",
+          "show": false
+        }
+      ],
+      "offerId": 845599468116,
+      "propUrl": "https://air.1688.com/pages/od/1688-drawer-layout/dx4c1wsd4/index.html?spm=a26g8.24198408.0.0.46af4989rkKRh9&__pageId__=1963053&wh_pid=1963053&pha_html=nativeodpop&heightRatio=0.8&bgColor=FFFFFF&bgColorStr=03000000"
+    },
+    "service": {
+      "service1": "7天无理由退货",
+      "service2": "晚发必赔",
+      "serviceDetail": [
+        {
+          "serviceName": "7天无理由退货",
+          "description": "满足相应条件下，卖家需支持7天无理由，其中定制订单不支持“7天无理由退货”。",
+          "serviceCode": "qtwlybt"
+        },
+        {
+          "serviceName": "晚发必赔",
+          "description": "若商家未按订单约定的时间发货，您可以在订单详情申请赔付",
+          "serviceLink": "https://air.1688.com/app/ctf-page/protection-air/claim-rule.html",
+          "serviceCode": "ssbxsfh"
+        }
+      ],
+      "serviceDesc": [
+        {
+          "serviceName": "7天无理由退货",
+          "serviceCode": "qtwlybt",
+          "type": "protect",
+          "textColor": "#222222"
+        },
+        {
+          "serviceName": "晚发必赔",
+          "serviceCode": "ssbxsfh",
+          "type": "protect",
+          "textColor": "#222222"
+        }
+      ],
+      "newOdFlag": true,
+      "offerId": 845599468116,
+      "serviceUrl": "https://air.1688.com/app/ctf-m-page/address-manage/safe-buy-popup.html?spm=defwork.home.0.0.5a6b5c4bUV595M&height=534"
+    },
+    "delivery": {
+      "location": "江苏宿迁",
+      "hideLogisticsClick": false,
+      "logistics": "选择收货地后展示运费",
+      "priceColor": "#2B2B2B",
+      "deliveryLimitTxt": "承诺48小时发货·常发中通快递",
+      "deliveryLimit": 2,
+      "jicai": "",
+      "offerId": 845599468116,
+      "excludeAreaCode4FreePostage": [
+        "150000",
+        "460000",
+        "540000",
+        "620000",
+        "630000",
+        "640000",
+        "650000",
+        "710000",
+        "810000",
+        "820000",
+        "990000"
+      ],
+      "sendAddressCode": "34948606",
+      "targetLocation": "送至：选择收货地址后展示运费",
+      "link": "https://air.1688.com/app/ctf-m-page/address-manage/delivery-to.html?isNative=1&heightRatio=0.8&isPopup=1",
+      "amount": 1,
+      "templateId": 21074064,
+      "unitWeight": 0,
+      "freeEndAmount": 0,
+      "protectionInfos": [
+        {
+          "longDescription": "卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。",
+          "serviceCode": "qtwlybt",
+          "description": "满足相应条件下，卖家需支持7天无理由，其中定制订单不支持“7天无理由退货”。",
+          "serviceName": "7天无理由退货",
+          "type": "protect",
+          "logoUrl": "https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png",
+          "logoUrl_64_64": "https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png",
+          "logoUrl_16_16": "https://img.alicdn.com/imgextra/i1/O1CN01YIe8Lk1vxyDWgdkPQ_!!6000000006240-2-tps-16-16.png",
+          "buyerDescription": "7天无理由退货"
+        },
+        {
+          "longDescription": "卖家在承诺买家保障服务的基础上，向买家提供“48小时发货延必赔”的服务。在买家通过支付宝担保交易完成付款或通过货到付款下单成功后，卖家承诺在买家支付成功起48小时内发货。如卖家未履行前述承诺，买家可在指定期限内发起维权，并申请赔付。",
+          "serviceLink": "https://air.1688.com/app/ctf-page/protection-air/claim-rule.html",
+          "serviceCode": "ssbxsfh",
+          "description": "若商家未按订单约定的时间发货，您可以在订单详情申请赔付",
+          "serviceName": "晚发必赔",
+          "type": "protect",
+          "logoUrl": "https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png",
+          "logoUrl_64_64": "https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png",
+          "logoUrl_16_16": "https://cbu01.alicdn.com/cms/upload/2015/177/505/2505771_1964054271.png",
+          "buyerDescription": "晚发必赔",
+          "agreeDeliveryHours": 48
+        }
+      ],
+      "skuWeight": {
+        "5791874690410": 0.03,
+        "5791874690399": 0.03,
+        "5791874690398": 0.03,
+        "5791874690412": 0.03,
+        "5791874690411": 0.03,
+        "5791874690414": 0.03,
+        "5791874690413": 0.03,
+        "5791874690416": 0.03,
+        "5791874690415": 0.03,
+        "5791874690417": 0.03,
+        "5791874690382": 0.03,
+        "5791874690384": 0.03,
+        "5791874690383": 0.03,
+        "5791874690386": 0.03,
+        "5791874690385": 0.03,
+        "5791874690388": 0.03,
+        "5791874690387": 0.03,
+        "5791874690401": 0.03,
+        "5791874690400": 0.03,
+        "5791874690389": 0.03,
+        "5791874690403": 0.03,
+        "5791874690402": 0.03,
+        "5791874690405": 0.03,
+        "5791874690404": 0.03,
+        "5791874690407": 0.03,
+        "5791874690406": 0.03,
+        "5791874690409": 0.03,
+        "5791874690408": 0.03,
+        "5791874690391": 0.03,
+        "5791874690390": 0.03,
+        "5791874690393": 0.03,
+        "5791874690392": 0.03,
+        "5791874690395": 0.03,
+        "5791874690394": 0.03,
+        "5791874690397": 0.03,
+        "5791874690396": 0.03
+      },
+      "newOdFlag": true,
+      "isOptimalLogisticsOffer": false,
+      "optimalLogisticsIcon": "",
+      "hideDeliveryTime": false,
+      "excludeArea4FreePostage": [
+        "内蒙古",
+        "海南",
+        "西藏",
+        "甘肃",
+        "青海",
+        "宁夏",
+        "新疆",
+        "台湾",
+        "香港",
+        "澳门",
+        "海外"
+      ],
+      "postFree": true,
+      "deliveryLimitTimeModel": {
+        "attrs": {
+          "offerUnit": "件",
+          "ptsOfferStepModels": [
+            {
+              "selectedStartQuantity": 1,
+              "selectedPtsOfferTagModel": {
+                "serviceCode": "ssbxsfh",
+                "serviceName": "48小时发货",
+                "required": false,
+                "disabled": false,
+                "agreeDeliveryHours": 48,
+                "selected": false
+              },
+              "selected": false
+            }
+          ]
+        },
+        "limitTimeDay": 2,
+        "expectSendHour": 22,
+        "offerId": 845599468116,
+        "orderCntLevelText": "",
+        "limitTimeDesc": "承诺48小时发货·常发中通快递",
+        "expectTimeDesc": ""
+      },
+      "buyerProtectionModel": [
+        {
+          "serviceCode": "qtwlybt",
+          "serviceShortCode": "qtwlybt",
+          "type": "protect",
+          "enabled": true,
+          "serviceVersion": 2,
+          "bigLogo": "https://img.alicdn.com/imgextra/i2/O1CN01dNPHxv1UZhbWE3yPO_!!6000000002532-2-tps-32-32.png",
+          "packageBuyerDesc": "7天无理由退货",
+          "logo": "https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png",
+          "middleLogo": "https://img.alicdn.com/imgextra/i2/O1CN01H10f2n1gAJ1vgHRgN_!!6000000004101-2-tps-24-24.png",
+          "agreementPage": "https://rule.1688.com/?+tracelog=aliguize_wzdh01&type=detail&ruleId=20004568&cId=3044#/rule/detail?ruleId=20004568&cId=3044",
+          "hugeLogo": "https://img.alicdn.com/imgextra/i1/O1CN01qUUUwV1RIo98arRvQ_!!6000000002089-2-tps-58-58.png",
+          "littleLogo": "https://img.alicdn.com/imgextra/i1/O1CN01YIe8Lk1vxyDWgdkPQ_!!6000000006240-2-tps-16-16.png",
+          "shortSellerDesc": "卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。",
+          "shortBuyerDesc": "满足相应条件下，卖家需支持7天无理由，其中定制订单不支持“7天无理由退货”。",
+          "largeLogo": "https://img.alicdn.com/imgextra/i2/O1CN01iYPe5E1YGhdWMDnh8_!!6000000003032-2-tps-48-48.png",
+          "serviceName": "7天无理由退货",
+          "extendInfo": {
+            "popDescription": "卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。"
+          },
+          "userId": 2215791086389,
+          "moreHugeLogo": "https://img.alicdn.com/imgextra/i2/O1CN01NyKX2m1pKgXu54Rve_!!6000000005342-2-tps-64-64.png",
+          "instruction": "当前开放类目： 1）纺织、皮革 2）家用电器 3）数码、电脑 4）能源 5）交通运输 6）传媒、广电 7）橡塑 8）灯饰照明 9）五金、工具 10）环保 11）医药、保养 12）办公、文化 13）包装 14）商务服务 15）汽摩及配件 16）美容护肤/彩妆 17）玩具 18）男装 19）女装 20）仪器仪表 21）个护/家清 22）成人用品 23）建材 24）农业 25）食品酒水 26）电工电气 27）化工 28）冶金矿产 29）家装建材 30）居家日用品 31）运动户外 32）服饰配件、饰品 33）电子元器件 34）机械及行业设备 35）安全、防护 36）印刷 37）家纺家饰 38）童装 39）内衣 40）通信产品 41）机床 42）加工 43）二手设备转让 44）鞋 45）箱包皮具 46）宠物及园艺 47）汽车用品 48）钢铁 49）餐饮生鲜 50）日用餐厨饮具 51）收纳清洁用具",
+          "textDesc": "卖家承诺买家签收货物后7天内，在“商品完好”的情形下，向买家提供退货服务。",
+          "logicGroupId": "4"
+        },
+        {
+          "serviceCode": "ssbxsfh",
+          "serviceShortCode": "D",
+          "productPage": "https://air.1688.com/app/ctf-page/protection-air/claim-rule.html",
+          "type": "protect",
+          "enabled": true,
+          "serviceVersion": 2,
+          "bigLogo": "https://cbu01.alicdn.com/cms/upload/2015/839/305/2503938_1964054271.png",
+          "packageBuyerDesc": "晚发必赔",
+          "logo": "https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png",
+          "middleLogo": "https://cbu01.alicdn.com/cms/upload/2015/867/805/2508768_1964054271.png",
+          "agreementPage": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b202104072140_25758.html",
+          "agreeDeliveryHours": 48,
+          "hugeLogo": "https://cbu01.alicdn.com/cms/upload/2015/008/705/2507800_1964054271.png",
+          "littleLogo": "https://cbu01.alicdn.com/cms/upload/2015/177/505/2505771_1964054271.png",
+          "shortSellerDesc": "开通此服务的卖家，优先获得专场曝光，醒目的标识展示，现货保障刺激买家下单。",
+          "shortBuyerDesc": "若商家未按订单约定的时间发货，您可以在订单详情申请赔付",
+          "largeLogo": "https://cbu01.alicdn.com/cms/upload/2015/610/615/2516016_1964054271.png",
+          "serviceName": "晚发必赔",
+          "extendInfo": {
+            "popDescription": "卖家在承诺买家保障服务的基础上，向买家提供“48小时发货延必赔”的服务。在买家通过支付宝担保交易完成付款或通过货到付款下单成功后，卖家承诺在买家支付成功起48小时内发货。如卖家未履行前述承诺，买家可在指定期限内发起维权，并申请赔付。",
+            "delivery_days": "2"
+          },
+          "userId": 2215791086389,
+          "moreHugeLogo": "https://cbu01.alicdn.com/cms/upload/2015/460/315/2513064_1964054271.png",
+          "currentStep": 1,
+          "instruction": "当前开放类目： 1）纺织、皮革 2）家用电器 3）数码、电脑 4）能源 5）交通运输 6）传媒、广电 7）橡塑 8）灯饰照明 9）五金、工具 10）环保 11）医药、保养 12）办公、文化 13）包装 14）商务服务 15）汽摩及配件 16）美容护肤/彩妆 17）玩具 18）男装 19）女装 20）仪器仪表 21）个护/家清 22）成人用品 23）建材 24）农业 25）食品酒水 26）电工电气 27）化工 28）冶金矿产 29）家装建材 30）居家日用品 31）运动户外 32）服饰配件、饰品 33）电子元器件 34）机械及行业设备 35）安全、防护 36）印刷 37）家纺家饰 38）童装 39）内衣 40）通信产品 41）机床 42）加工 43）二手设备转让 44）鞋 45）箱包皮具 46）宠物及园艺 47）汽车用品 48）钢铁 49）餐饮生鲜 50）日用餐厨饮具 51）收纳清洁用具 52）新能源",
+          "textDesc": "卖家在承诺买家保障服务的基础上，向买家提供“48小时发货延必赔”的服务。在买家通过支付宝担保交易完成付款或通过货到付款下单成功后，卖家承诺在买家支付成功起48小时内发货。如卖家未履行前述承诺，买家可在指定期限内发起维权，并申请赔付。",
+          "ptsOfferStepModels": [
+            {
+              "selectedStartQuantity": 1,
+              "selectedPtsOfferTagModel": {
+                "serviceCode": "ssbxsfh",
+                "serviceName": "48小时发货",
+                "required": false,
+                "disabled": false,
+                "agreeDeliveryHours": 48,
+                "selected": false
+              },
+              "selected": false
+            }
+          ],
+          "logicGroupId": "1"
+        }
+      ],
+      "buyerProtectionScene": "dsc",
+      "popLinkUrl": "http://popups.m.1688.com/index.html?version=2.0&contentType=h5&orientation=fromBottom&showNow=true&contentUrl=https%3A%2F%2Fair.1688.com%2Fapp%2Fctf-m-page%2Foffer-delivery-service%2Foffer-delivery-service.html%3FcornerRadius%3D12x12x0x0%26ytContentColor%3DFFFFFF&windowMaskColor=000000&widthRatio=1&heightRatio=0.5",
+      "isNew": true,
+      "newLink": "http://popups.m.1688.com/index.htm?version=2.0&contentType=h5&orientation=fromBottom&widthRatio=1&heightRatio=0.8&showNow=true&contentUrl=https%3A%2F%2Fair.1688.com%2Fapp%2Fctf-m-page%2Faddress-manage%2Fdelivery-to.html%3FisNative%3D1%26heightRatio%3D0.8%26isPopup%3D1%26traceId%3D2133dac316764415331323170e58c1%26spm%3Da262eq.8239380.591899106619.0%26__track_uuid%3D591899106619%26cornerRadius%3D15x15x0x0&windowMaskColor=000000&windowMaskAlpha=0.7"
+    },
+    "specs": {
+      "useCase": "1688wap",
+      "loginUserId": 0
+    },
+    "title": {
+      "tagList": [
+        "https://gw.alicdn.com/imgextra/i3/O1CN01b63pLI1nJeWFMVBqj_!!6000000005069-2-tps-188-56.png"
+      ],
+      "tagDetail": [
+        {
+          "img": "https://gw.alicdn.com/imgextra/i3/O1CN01b63pLI1nJeWFMVBqj_!!6000000005069-2-tps-188-56.png"
+        }
+      ],
+      "complexTagList": [],
+      "title": "【带芽发货】进口重瓣花毛茛种球洋牡丹芹叶牡丹耐寒浓香花卉",
+      "scrollList": [
+        {
+          "prefix": "已售",
+          "text": "100+",
+          "textColor": "#999999",
+          "suffix": "件",
+          "highLightTextColor": "#999999"
+        }
+      ],
+      "selledNumber": "108",
+      "offerId": 845599468116,
+      "tagSize": [
+        {
+          "width": "188",
+          "height": "56"
+        }
+      ]
+    },
+    "order": {
+      "sceneList": [
+        {
+          "sceneKey": "order",
+          "sceneName": "批发",
+          "wapUrl": "https://m.1688.com/offer/845599468116.html?urlParam=sk%3dorder&sk=order",
+          "sceneTextSize": 15,
+          "sceneTextColor": "#888888"
+        },
+        {
+          "sceneKey": "consign",
+          "sceneName": "代发",
+          "wapUrl": "https://m.1688.com/offer/845599468116.html?urlParam=sk%3dconsign&sk=consign",
+          "sceneTextSize": 15,
+          "sceneTextColor": "#888888"
+        }
+      ],
+      "selectedScene": {
+        "sceneKey": "order",
+        "sceneName": "批发",
+        "sceneTextColor": "#222222",
+        "sceneTextSize": 16
+      },
+      "coord": {
+        "atmosphere": "normal",
+        "useCase": "1688wap",
+        "role": "defaultBuyer",
+        "business": "default",
+        "channel": "dsc",
+        "scene": "sjyx"
+      }
+    },
+    "price": {
+      "displayType": "activity-common-sku",
+      "priceModel": {
+        "originalPriceDisplay": "3.97-17.86",
+        "originalPrices": [
+          {
+            "displayStyle": "line_price",
+            "price": "3.97",
+            "beginAmount": 1
+          }
+        ],
+        "priceDisplayType": "skuPrice",
+        "currentPrices": [
+          {
+            "price": "3.97",
+            "beginAmount": 1
+          }
+        ],
+        "onePiecePriceExp": false
+      },
+      "activityModel": {
+        "activityId": "1151545096",
+        "activityUrl": "https://air.1688.com/apps/alim/rax-1688-seller-pro/port.html?wh_weex=true&sellerId=2215791086389&aid=1151545096",
+        "activityName": "包邮",
+        "countdown": "8639999999",
+        "beforePro": false,
+        "activityType": "sellerProm"
+      },
+      "marketScene": "sjyx",
+      "isVipPrice": false,
+      "isBmPrice": false,
+      "bigPromotion": false,
+      "isPrivatePrice": false,
+      "isPlusPrice": false,
+      "unit": "件",
+      "channel": "dsc",
+      "bigPromotionInfo": {
+        "bigPromotionCountdown": -1,
+        "preheatTime": -1,
+        "promotionResources": {},
+        "burstEndTime": -1,
+        "bigPromotionStatus": "NONE",
+        "burstBeginTime": -1
+      },
+      "isHpDz": false,
+      "mkcScene": "dszk",
+      "alipayIntegralInfo": {
+        "originalOrderPrice": {
+          "canBookedAmount": 355297,
+          "skuParam": {
+            "skuPriceType": "skuPrice",
+            "skuRangePrices": [
+              {
+                "price": "3.97",
+                "beginAmount": "1"
+              },
+              {
+                "price": "17.86",
+                "beginAmount": "1"
+              }
+            ]
+          },
+          "addCartParam": {
+            "cartType": ""
+          },
+          "mixParam": {
+            "supportMix": true,
+            "mixNum": 2147483647,
+            "mixBegin": 0,
+            "shopMixNum": 2147483647,
+            "mixAmount": 2147483647
+          },
+          "beginNum": 1,
+          "saledCount": 108,
+          "flow": "general"
+        }
+      },
+      "extraInfo": {
+        "isPlusOffer": false
+      }
+    },
+    "skuCore": null,
+    "images": [
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01FiwfXy1x4DSuhQOXQ_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01zJa5Su1x4DSt9e8Z5_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01zJa5Su1x4DSt9e8Z5_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01zJa5Su1x4DSt9e8Z5_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01zJa5Su1x4DSt9e8Z5_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01zJa5Su1x4DSt9e8Z5_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01zJa5Su1x4DSt9e8Z5_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01IQf6Sa1x4DSugensd_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01IQf6Sa1x4DSugensd_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01IQf6Sa1x4DSugensd_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01IQf6Sa1x4DSugensd_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01IQf6Sa1x4DSugensd_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01IQf6Sa1x4DSugensd_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01KicuaW1x4DSwdiJ5k_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01KicuaW1x4DSwdiJ5k_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01KicuaW1x4DSwdiJ5k_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01KicuaW1x4DSwdiJ5k_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01KicuaW1x4DSwdiJ5k_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01KicuaW1x4DSwdiJ5k_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01DURUbd1x4DSrse8sc_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01DURUbd1x4DSrse8sc_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01DURUbd1x4DSrse8sc_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01DURUbd1x4DSrse8sc_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01DURUbd1x4DSrse8sc_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01DURUbd1x4DSrse8sc_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01UlckJW1x4DSw6QnDy_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01UlckJW1x4DSw6QnDy_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01UlckJW1x4DSw6QnDy_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01UlckJW1x4DSw6QnDy_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01UlckJW1x4DSw6QnDy_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01UlckJW1x4DSw6QnDy_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01wueCx41x4DSvOq5Yc_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01wueCx41x4DSvOq5Yc_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01wueCx41x4DSvOq5Yc_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01wueCx41x4DSvOq5Yc_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01wueCx41x4DSvOq5Yc_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01wueCx41x4DSvOq5Yc_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01N5c4pH1x4DStcDUWP_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01N5c4pH1x4DStcDUWP_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01N5c4pH1x4DStcDUWP_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01N5c4pH1x4DStcDUWP_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01N5c4pH1x4DStcDUWP_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01N5c4pH1x4DStcDUWP_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01nkb1991x4DSmUbyy1_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01nkb1991x4DSmUbyy1_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01nkb1991x4DSmUbyy1_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01nkb1991x4DSmUbyy1_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01nkb1991x4DSmUbyy1_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01nkb1991x4DSmUbyy1_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01prybd71x4DSuhONct_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01prybd71x4DSuhONct_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01prybd71x4DSuhONct_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01prybd71x4DSuhONct_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01prybd71x4DSuhONct_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01prybd71x4DSuhONct_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01mignIH1x4DSt4RDxa_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01mignIH1x4DSt4RDxa_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01mignIH1x4DSt4RDxa_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01mignIH1x4DSt4RDxa_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01mignIH1x4DSt4RDxa_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01mignIH1x4DSt4RDxa_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN018BF9fN1x4DStgmexa_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN018BF9fN1x4DStgmexa_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN018BF9fN1x4DStgmexa_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN018BF9fN1x4DStgmexa_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN018BF9fN1x4DStgmexa_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN018BF9fN1x4DStgmexa_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01dSJu921x4DSugeGRY_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01dSJu921x4DSugeGRY_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01dSJu921x4DSugeGRY_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01dSJu921x4DSugeGRY_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01dSJu921x4DSugeGRY_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01dSJu921x4DSugeGRY_!!2215791086389-0-cib.jpg"
+      },
+      {
+        "size220x220ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01sCMNSk1x4DSvaLKMQ_!!2215791086389-0-cib.220x220.jpg",
+        "imageURI": "img/ibank/O1CN01sCMNSk1x4DSvaLKMQ_!!2215791086389-0-cib.jpg",
+        "searchImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01sCMNSk1x4DSvaLKMQ_!!2215791086389-0-cib.search.jpg",
+        "summImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01sCMNSk1x4DSvaLKMQ_!!2215791086389-0-cib.summ.jpg",
+        "size310x310ImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01sCMNSk1x4DSvaLKMQ_!!2215791086389-0-cib.310x310.jpg",
+        "fullPathImageURI": "https://cbu01.alicdn.com/img/ibank/O1CN01sCMNSk1x4DSvaLKMQ_!!2215791086389-0-cib.jpg"
+      }
+    ]
+  },
+  "recordTime": null
+}

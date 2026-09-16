@@ -1,0 +1,664 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:55.028700+08:00",
+  "_sourceCheckedAt": "2026-09-03T12:34:55",
+  "code": 0,
+  "message": null,
+  "data": {
+    "data": [
+      {
+        "subBoxes": [
+          {
+            "boxID": "0x80000000000-1-9478217345173702292",
+            "boxMergeTag": 0,
+            "boxMergeType": 107,
+            "boxMergeValue": 1,
+            "boxPos": 1,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "17小时前",
+                "docID": "finderobjv0Ea9hSt3izbNRHGmjhoFsRRaus/PqOg/RlvLoIdKzfBE=",
+                "duration": "02:36",
+                "exportId": "export/UzFfBgAAxIWGOHcqE2D9k8zT4DCKXZk_nYc0_yVnrIsCFTq32Q",
+                "hashDocID": "9478217345173702292",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicIevl8yAYjUFG54Y284R2kccsxkmT9G3ZrpgZwzldiaiaich5qJx7RRhVibYiaOvI18rmPc4UdKwMTjdOQ&hy=SH&idx=1&m=&scene=201&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6awibRz3Cct3YmSrKnI8XTxnhMHsQYzHazNrIsMhXRzKWicMf7LEu8YSUibNLSEtL7TTCAic0O9tRIcnL30uOnldu3l2piamQf6rqpMU7d3vtzVuHg5JYNVqCzSiadAl985AicKhtolfTiciaA9Xiaiao8jPNUrXhNUDx8Pvkp1mDQBP9rXhq6JB6kTQSLIS8KoNvYGl3MpqRWrY81FgS1xGNQ",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxIWGOHcqE2D9k8zT4DCKXZk_nYc0_yVnrIsCFTq32Q\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"15119186597996214942\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CNG1yMm6_7qY0AEIxrrww_OnoJnQAQjQs9DHsIupmdABCLqR8PDQrYSZ0AEIsbP0zqnDrpjQAQjek_j2-66wmdABCK-y2LblpbCZ0AEI9bK8uLTSopnQAQiamayy9JazmNABCOu33O-G0_mX0AEIjpCohLeG1JjQARC966uWl7Dt6BgqCGRlZXBzZWVrMAE4gICAgICAAkABSABQ2uOriQuAAWKIAQCYAQCoAYijmOPK0ZYDsgEkN2VmYTMxOGQtOGI1Yy00MDdiLWJhNjAtZjkwZDcyOTlmMDYyugETNDQ1MDEzMzkxNTc3NjI0NTE4McgBxN6fJtABAA..\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "2107",
+                "pubTime": 1788347938,
+                "reportId": "finderobjv0Ea9hSt3izbNRHGmjhoFsRblLE3E7gqfad88ZP1aCbhc=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A156%2C%22upload_time%22%3A1788347938%2C%22like_cnt%22%3A2107%2C%22thumb_cnt%22%3A3100%2C%22forward_cnt%22%3A1902%2C%22comment_cnt%22%3A38%2C%22rele_level%22%3A4%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/XyICUwSdRWJ7QKwJml4Ybiac5X0y8xCKiaqsZF0cXGNfu0u9cueLJWI0ojEoqlUGPrOsibTpJWTqXyRanx8Ca2OEOAmL3Mvx2x0Biabbkvo59DrPHKFE8Jiar9Y2s7qtrI3Do/132",
+                  "mark": [
+                    "https://dldir1v6.qq.com/weixin/checkresupdate/auth_icon_level3_2e2f94615c1e4651a25a7e0446f63135.png"
+                  ],
+                  "title": "王宇辰-我和AI的一天"
+                },
+                "title": "腾讯动作这么快?我记得Hy3刚没多久，怎么Hy4 preview又来\n了???\n#AI #大模型 #WorkBuddy #腾讯 #AI #Hy4preview #agent #未来已开箱",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo0nRUlI5zS6G6yYnZrADMpcALDgsia02AwG1ToSUaAYtOAKEAxibFB2h67yDjnVPO3CPl8Rf5WUUPCw&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1f2&X-snsvideoflag=xWT113&token=ic1n0xDG6aw81jP7p4jRYDAhBt0hzD6aWJgP4S0MBDgQXS9jgN0D73MyYYuiajhqyDss93anVfdM1PelC7rQgXffpldVH1IXPBicIF4ynXG10ldIVhoT3a3G9SOOA4bK6mw7icvEibLaeFNsgZ1icMbc3IrtibRaqsUBNbibR31aoOYwOMNrRBSS7xAVm5PQ7Liayu0dOZQFibFsolw58CTClFvDSlQFVrH5gFcZvic&basedata=CAMSBnhXVDExMyI8CgoKBnhXVDExMxAACgoKBnhXUjExMxAACgoKBnhXUjExMhAACgoKBnhXVDExMhABCgoKBnhXUjExMRAAOgIIAkIw6oUiwhRbw71CcXUKHhr8p5EwXlIA965qfIrm5L26yG4khg4x65JkSFAdjpIM_99eSO7x49QG&sign=IqrnAP7dDhRx_ce7znPhCQgkq6Igfc5hlDa_dqicj69UXq-iUg3LRVuWTo1eEKnVnq0JoDJJl0g0hIKhW3ImHw"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-121325853053682721",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 2,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "2小时前",
+                "docID": "finderobjv0la1kn0+eFa8CbmJM+j9wXvdmlyuVHcBsEvNgE6OmP4o=",
+                "duration": "14:25",
+                "exportId": "export/UzFfBgAAxJKJAH1jS3r8k8zT4DCKEFA9Ip9RTKIyMRnAO9VXvg",
+                "hashDocID": "121325853053682721",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicJPFf3LHIZ8gguqiciagsj5ITkZpmcZlTFibHY8FVt7vHlYAuR8YDZBIibo0kAjGibWPFtgIbeaicicz0gSg&hy=SH&idx=1&m=&scene=2&uzid=1&wxampicformat=503&picformat=200&token=x5Y29zUxcibAtVh1Q7cQ3cjickHUohc1iabG5RvrrugFfRICpUJEv2zgIxkRbTOyevrmCOqlsTef8ibPI1ry1z1tsdlP12IYicicpmcD4zyVLDL9nGsBng5rx0dm3VsANBRJrWSicrt1B5vm725kMyIpnChJSkSrb5EVWsdlPnhT6YzyibjtlXSXF6rDg6oDWRboVWia30hqBw5hmVQhIFk826LqQ7w",
+                "isHot": true,
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxJKJAH1jS3r8k8zT4DCKEFA9Ip9RTKIyMRnAO9VXvg\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"12172933690971418582\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CMa68MPzp6CZ0AEI0LPQx7CLqZnQAQi6kfDw0K2EmdABCLGz9M6pw66Y0AEI3pP49vuusJnQAQivsti25aWwmdABCPWyvLi00qKZ0AEImpmssvSWs5jQAQjrt9zvhtP5l9ABCI6QqIS3htSY0AEIxJj47vzhu5jQARC966uWl7Dt6BgqCGRlZXBzZWVrMAE4gICAgICAAkABSABQ2uOriQuAAWKIAQCYAQCoAYijmOPK0ZYDsgEkN2VmYTMxOGQtOGI1Yy00MDdiLWJhNjAtZjkwZDcyOTlmMDYyugETNDQ1MDEzMzkxNTc3NjI0NTE4McgBxN6fJtABAA..\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "6359",
+                "pubTime": 1788401057,
+                "reportId": "finderobjv0la1kn0+eFa8CbmJM+j9wXpCuhuzy5YfF0PVZUv23nfA=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A865%2C%22upload_time%22%3A1788401057%2C%22like_cnt%22%3A6359%2C%22thumb_cnt%22%3A6414%2C%22forward_cnt%22%3A6914%2C%22comment_cnt%22%3A19%2C%22rele_level%22%3A4%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/NiboQLLDG4DdN5WPxJyFLgqolCbHUFOJIQCZUrDgic14OiccvCfzmuYo2iaibLmpicT0AaX8qKQFeM5Z0MK7MlQXI0jTOF8Fdz3kiaTAqoia2I3vLSE/132",
+                  "mark": [
+                    "http://dldir1.qq.com/weixin/checkresupdate/internet_news_media_auth_icon_38887ee9f6fe4639904638b28745b3f8.png"
+                  ],
+                  "title": "央视网"
+                },
+                "title": "AI时代的国之重器，超节点决胜算力\n大模型进入万亿参数时代，AI走入生活日常，算力需求呈指数级膨胀，既有架构缝补难破局。如何应对算力焦虑，AI竞争基建赛道国产品牌如何突围？1条15分钟视频看懂“超节点”，AI时代的算力超级基建如何打通算力高速路。#超节点",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyxpVUWfm5icaiaD9m2CVGEXmkb5ZC4CrVuLm6vprddmwkPkP64J53jKJ1CN9pNgnbriaJKueGUicUhwmg&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a2b0&X-snsvideoflag=xWT113&token=ic1n0xDG6aw81jP7p4jRYDNbLPaiaIdKwCyx77FuZT4l0BddW0LgBqBc0sKoB2HLxH8jA1E4WNpyhxV3iaosAfDp59mGTc5TiasB6JRGlopOnBTQnm9k47kOXmic3l5KuwZApDEpJLErGtg1KgewknuN0mGBPYbavHacDtjNdnSHrOCA8XmkayvFEeT2AHjJWBLDFFaZ0ibySabO4j7BvVoFC0hda6Ccibic3QUt&basedata=CAMSBnhXVDExMyI8CgoKBnhXVDExMxAACgoKBnhXVDExMhABCgoKBnhXVDExMRAACgoKBnhXVDE1OBAACgoKBnhXVDE1NxABOgIIAkIw6kZz7iW8rZS1VdT3bSVF0n7VXp-YJJ1rTP0tuqTuYK1G_EafSb3rrkg2elsSysr9SO7x49QG&sign=7TLW_CKqHNtx8tuQorAvh339Gamk7xu7NCilwEr8kXkbfcZA14ZPg6T8fWQrhlYwyE-rpkpH0tPBT_q25AykQQ"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-2092967060481112328",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 3,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "1小时前",
+                "docID": "finderobjv0W54Xipxhx0RSxgIEPLTuau7A96CHJKcSCCc+MXzbo1A=",
+                "duration": "03:15",
+                "exportId": "export/UzFfBgAAxISAIHkgZ3P8k8zT4DCKhLLkEwplDnR3ab5uHPGMPA",
+                "hashDocID": "2092967060481112328",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicLY8nVWIGlYx1IXj9t5LBiaE5T1Oc3GG448kricERreou1OAIyiaibefD2BOibYbLYsn2l1LLoNyptibrWg&hy=SZ&idx=1&m=&scene=2&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6awicTPXF0bZLUHarj67vajvJafJQukIIl1xrKxhgdv8iaBialg4E3MFFf1rsvibBo037goszErqgePwVohK4QbLakpJTK1p3ic8rrL8vAN7gjzF2jdNDre8ZRefFEnIAHHzJOic1NIrDpjq2MpDbpZAM3dUj6SpGeNuY9ItOTTdaewy9yzHWLGBYkYhZ3zvVwFhj56d5d0NA5OQ1Dd4Q",
+                "isHot": true,
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxISAIHkgZ3P8k8zT4DCKhLLkEwplDnR3ab5uHPGMPA\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"17127083804017710037\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CNCz0Mewi6mZ0AEIupHw8NCthJnQAQixs_TOqcOumNABCN6T-Pb7rrCZ0AEIr7LYtuWlsJnQAQj1sry4tNKimdABCJqZrLL0lrOY0AEI67fc74bT-ZfQAQiOkKiEt4bUmNABCMSY-O784buY0AEQveurlpew7egYKghkZWVwc2VlazABOICAgICAgAJAAUgAUNrjq4kLgAFiiAEAmAEAqAGIo5jjytGWA7IBJDdlZmEzMThkLThiNWMtNDA3Yi1iYTYwLWY5MGQ3Mjk5ZjA2MroBEzQ0NTAxMzM5MTU3NzYyNDUxODHIAcTenybQAQA.\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "6",
+                "pubTime": 1788405659,
+                "reportId": "finderobjv0W54Xipxhx0RSxgIEPLTuaoKkjToAAjYNlfPh5sasCpg=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A195%2C%22upload_time%22%3A1788405659%2C%22like_cnt%22%3A6%2C%22thumb_cnt%22%3A11%2C%22forward_cnt%22%3A22%2C%22comment_cnt%22%3A1%2C%22rele_level%22%3A3%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/owIEOzWciceGdaEB18gYynrUaCibnAAxWrpJTXKxeXOjtQydoQAl9KULrQHOxE5mpwgGdfUneWkRgsj4BbE5DXA6KxMEtmw4guWKFuTqaRu2k/132",
+                  "mark": [
+                    "http://dldir1.qq.com/weixin/checkresupdate/internet_news_media_auth_icon_38887ee9f6fe4639904638b28745b3f8.png"
+                  ],
+                  "title": "21世纪经济报道"
+                },
+                "title": "高盛、华尔街研究起了乌兰察布，草原小城成了AI“宇宙中心”#AI#乌兰察布#算力#媒体原创（作者：孔海丽 视频编辑：章启良，实习生刘芷芹 编辑：骆轶琪）",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo0Kjdl15sBl5pcaZImLOkNaeWRozvHED6dL0Y0skzVwcicmeselAPiaIsTJEOIch9nyWjRfemLBWlAg&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a256&X-snsvideoflag=xWT113&token=2lt8WBSnjTldoCsg4LdoY4Mg3HaJ4RuSkmtcwic50OPnCfsHPIySX7ibgmWLDhmhDIRAU73OSzqzIm5sylPSI1VmmT9khfemOhpk4KHy9juXQ0WxEPHRlszDLkVpTjiaGCrkURp9xic5zOiclSwavYvVh9aEgggoia4kGy9SjHXvJwv4eicC0do0u2jicQdFBzMDatECMzxEPchI0mcaf39CQxv0ENEJk74qOKId&basedata=CAMSBnhXVDExMyI8CgoKBnhXVDExMxAACgoKBnhXVDExMhABCgoKBnhXUjExMxAACgoKBnhXUjExMRAACgoKBnhXUjExMhAAOgIIAkIwaGON0zUpBg6YhjlBSYtkuwLMfvLdvEuGyHIDpF1kWBjex492rNZJgWQ03ASqWeBzSO7x49QG&sign=N7F6hYD4tWSF3RBP_LVl2ieQwVU6jP1pRtrUhQyTzbWtz5hnvAc0IVdJzgrRxt6oIBy1PFrLpmoJxLFxhCDTVA"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-15471804278440126139",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 4,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "6小时前",
+                "docID": "finderobjv0w5Ws8wqGMJumjD0cBe2KuGh/eo1YXqdpHXRVlIdAA0M=",
+                "duration": "03:42",
+                "exportId": "export/UzFfBgAAxO6iAE5AQV78k8zT4DCKalTsbscTZBGRE06tfLz_VQ",
+                "hashDocID": "15471804278440126139",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicLbFibtQPNMRqmpvRtlyD8ApJNNB81LibRpvnTzNbHele2Cfjic1SmBIxnANdOxQy2aZuzYGGM4tLCcw&hy=SH&idx=1&m=&scene=2&uzid=1&wxampicformat=503&picformat=200&token=AxricY7RBHdU8PznAOsyD8YE2GotFRouc3mLUAjuwHT4ywicFI7h9f6BI4piaAfWYgLLZ75ZIGo3Fk6sj724iapaRRx1DexefedBicwqkia3qN4Rta7wVkBA9RlkeHkBVu6sEMvp0X1F4QUOmcIlUvAUFMOfCyMZMBiaGOMzAMsGBozl0NxmyPq6en2y64oLJ3W070z157RdLZb2L56DIfic3SXfdQ",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxO6iAE5AQV78k8zT4DCKalTsbscTZBGRE06tfLz_VQ\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"14666740324068005565\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CLqR8PDQrYSZ0AEIsbP0zqnDrpjQAQjek_j2-66wmdABCK-y2LblpbCZ0AEI9bK8uLTSopnQAQiamayy9JazmNABCOu33O-G0_mX0AEIjpCohLeG1JjQAQjEmPju_OG7mNABEL3rq5aXsO3oGCoIZGVlcHNlZWswATiAgICAgIACQAFIAFDa46uJC4ABYogBAJgBAKgBiKOY48rRlgOyASQ3ZWZhMzE4ZC04YjVjLTQwN2ItYmE2MC1mOTBkNzI5OWYwNjK6ARM0NDUwMTMzOTE1Nzc2MjQ1MTgxyAHE3p8m0AEA\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "3",
+                "pubTime": 1788386400,
+                "reportId": "finderobjv0w5Ws8wqGMJumjD0cBe2KuOr1TO5ojoCaBBDfKemuv6c=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A222%2C%22upload_time%22%3A1788386400%2C%22like_cnt%22%3A3%2C%22thumb_cnt%22%3A17%2C%22forward_cnt%22%3A79%2C%22comment_cnt%22%3A0%2C%22rele_level%22%3A4%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/Gjibsl6UdK8K7JN3LyN0RicQctuqY32iaITYsWMicdbkZ1vsaqTmsVv3Ad8HDj0TvpwicYZdhojxUsSwjsl03gm43DSsLLoa6BAzKDevmM91AOX4YHKgyAzGAAungMBo9lNvqsWmwOhSQ1VpPzibSnfLFOMg/132",
+                  "mark": [
+                    "https://dldir1v6.qq.com/weixin/checkresupdate/auth_icon_level2_588a474b89e94776b07b87dc361fd0ab.png"
+                  ],
+                  "title": "相信就是看见"
+                },
+                "title": "了解 <em class=\"highlight\">DeepSeek</em> Harness 五种交互模式，在不同的使用场景下选择适合的交互模式，可以让你事半功倍。#DSH #<em class=\"highlight\">DeepSeek</em> #Harness #AI #Agent #企业智能 #企业AI\n",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo14ibk9gWC2FtgekwSlhXPCgQEJo8moDa6N1iaaGUKr1xkibTiaNkJJhVWJlR83CPOnpO2Dx4BG6MtibGg&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a21a&X-snsvideoflag=xWR113&token=AxricY7RBHdVR8Iw2azjWq5N9PpdnD81WOoaicVIl8DJpW7ia7nlDJjRhoGpkDe57gd7BUoEia0poYOiaoumMvNXqKbEhe2zBtTic6peFxl8iavmyk4uN6aNLCI5NQu5qxCsYBC5ZGtT9BSAbkhicCWhx4ZmjYkiadl1bVG19DtO0btoDjlkMmsdMM06m2pOQk6HVYBQ760s3HNkr7ytdFpFCiaO1jiaZl5ciaqDbaRv&basedata=CAMSBnhXUjExMyI8CgoKBnhXUjExMxAACgoKBnhXUjExMhAACgoKBnhXVDExMRABCgoKBnhXUjExMRAACgoKBnhXVDE1NhABOgIIAkIwWiLob0qRcrOH5drl5UFX6iZ5tR7sUkcA9LzfpyTEKiJOUIRT0EVsn6RVhERUJt_sSO7x49QG&sign=xySjJZf0hx91PKIa0tj8qyrkKwqdrWhGalNw-pK5D39vOn1Q6rnT5cn2K0iEmHxUYy20LnmB60dkcSV7uwBQjQ"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-15780313081871391664",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 5,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "19小时前",
+                "docID": "finderobjv07PyT6o9fxe6xMn/VFoptNjg6XYP2fShor0AGPkW6vuQ=",
+                "duration": "06:26",
+                "exportId": "export/UzFfBgAAxOWABHA5L3T9k8zT4DCKAesqNvpW26ANsPb5DRUGSw",
+                "hashDocID": "15780313081871391664",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicICqnoZpPVJTVic82wmScCjaicMHuzW5enEMeYLOqDpPr5ZIrpAk5P46ou6kPjAnOc7encxD338lBcg&hy=SH&idx=1&m=&scene=2&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6aw9w1ptbiaWjHraDVTBlpkAul1iaZdsvEy58nFX2F35kVic6FXAiabJFh0lOG2GbaF9NBupSdzL1PpEnJPoGKKjEJ5cHQ8ibZfV972PlPp3H6xJ2su02jYnEqJDnkZapEcXjQWGeoo2KdPicFuLdBSb6ZibCiaQsAcice8VybEoyHsAcmFIcdbWzvLduicviaNicHqIjicaK5icNQEEGiaHCm0kgA",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxOWABHA5L3T9k8zT4DCKAesqNvpW26ANsPb5DRUGSw\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"8544930343298973434\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CLGz9M6pw66Y0AEI3pP49vuusJnQAQivsti25aWwmdABCPWyvLi00qKZ0AEImpmssvSWs5jQAQjrt9zvhtP5l9ABCI6QqIS3htSY0AEIxJj47vzhu5jQARC966uWl7Dt6BgqCGRlZXBzZWVrMAE4gICAgICAAkABSABQ2uOriQuAAWKIAQCYAQCoAYijmOPK0ZYDsgEkN2VmYTMxOGQtOGI1Yy00MDdiLWJhNjAtZjkwZDcyOTlmMDYyugETNDQ1MDEzMzkxNTc3NjI0NTE4McgBxN6fJtABAA..\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "907",
+                "pubTime": 1788341400,
+                "reportId": "finderobjv07PyT6o9fxe6xMn/VFoptNiW/l0V5IAYiBXkDmnvmld8=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A386%2C%22upload_time%22%3A1788341400%2C%22like_cnt%22%3A907%2C%22thumb_cnt%22%3A2406%2C%22forward_cnt%22%3A2372%2C%22comment_cnt%22%3A74%2C%22rele_level%22%3A4%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/ooUFop9jAyuLl6YxPPib6ibfX5dmGUwtD9HLkDW1Tl18HCLCCW6EuR5WxlKbd2UO0qKxw9O6eRoVpcwXG2rTEmrl6JtTenK7drP9H7l9DbjTw/132",
+                  "mark": [
+                    "https://dldir1v6.qq.com/weixin/checkresupdate/auth_icon_level3_2e2f94615c1e4651a25a7e0446f63135.png"
+                  ],
+                  "title": "小Lin说"
+                },
+                "title": "<em class=\"highlight\">Deepseek</em>突然连融两轮500亿，梁文锋到底想干嘛？\n#<em class=\"highlight\">DeepSeek</em> #梁文锋 \n",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo2KiajMlZG1icxHvTZYhq992vxDPqWSOw9WWJxrticT38QCtX4ENPTDicWAZicI2UqUocDr9cq2mU4um4A&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1f2&X-snsvideoflag=xWT113&token=2lt8WBSnjTldoCsg4LdoY1kibGtBE1IqPPNgwyUvKjd6ia8TBuz9xibrVKbYO8eRs7WQZUeuq0lm9lVsn7f6LuHbUKEX8DCOwmrXzI6j6MYU52bJniakC2HTm4jyWdgpRibS6XGt0oF2fh3s6UB1siak4gMu0HNMSz6UZNRhjX2xhWoB0J1eUHSsFHy2PlTmicTyKBPJ3Vjn2YxoplUKtktkHZwdEIswAAqedU1&basedata=CAMSBnhXVDExMyI8CgoKBnhXVDExMxAACgoKBnhXVDExMhABCgoKBnhXVDExMRAACgoKBnhXUjExMxAACgoKBnhXUjExMhAAOgIIAkIwbI0sZumfvfPRMKQ9bpZmCBloWe-3JMpoEJscQozhlRKPPFqcJHl2lNIaCDqWzaMTSO7x49QG&sign=afRx_VzAWMASSnIumOoloYdh_Q9PG7-oU7zsAupSzDl7HaemcyI6xo6CHNCbKHpBOBqLTnXWfhZoP6cxClcSCw"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-7730054249943965597",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 6,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "10分钟前",
+                "docID": "finderobjv0lh4DL1Ktz8cMoKQhH6qJH6QyZpOi6BoD80xsOiVbLjI=",
+                "duration": "00:37",
+                "exportId": "export/UzFfBgAAxIqgCEhrQmr8k8zT4DCKicpCK7SbcER88OK6Vgxdlw",
+                "hashDocID": "7730054249943965597",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=2fG3V4WwQPlE2Nup0maG5Z84y9QkXPsATNCZ4k2VNicX8fC34IHewAxL2fSDAAaapfvPicPhuZ1icRhA4icXK6STuFcf7GpyHtK66dZugc8VItc&hy=SH&idx=1&m=0ba54c48400b711c40ccab3d8e5134ae&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6awicYwrrIzRZHWwM9VFFYk9Me60jJ2pyc649JAhicV3CexQ1wdz1RJ8uaGk0xA1rTbFlk8613lvssWOLduMR8OhCzsYnePCJeicJ1kc5VIiayHEdicyxv8Ip3tfHN1yYdl3Co5PeTFw680qibBBibKyXwlkErEiavtX8o09Vo78ZibEiakVYIia0TKjwCBr1tw8oBaE9ZoeFr8ssibia4L781rA",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxIqgCEhrQmr8k8zT4DCKicpCK7SbcER88OK6Vgxdlw\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"6053530856425359564\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CN6T-Pb7rrCZ0AEIr7LYtuWlsJnQAQj1sry4tNKimdABCJqZrLL0lrOY0AEI67fc74bT-ZfQAQiOkKiEt4bUmNABCMSY-O784buY0AEQveurlpew7egYKghkZWVwc2VlazABOICAgICAgAJAAUgAUNrjq4kLgAFiiAEAmAEAqAGIo5jjytGWA7IBJDdlZmEzMThkLThiNWMtNDA3Yi1iYTYwLWY5MGQ3Mjk5ZjA2MroBEzQ0NTAxMzM5MTU3NzYyNDUxODHIAcTenybQAQA.\"}\n",
+                  "jumpType": 9
+                },
+                "pubTime": 1788409474,
+                "reportId": "finderobjv0lh4DL1Ktz8cMoKQhH6qJH5HJS3gL2TL7Dk8Tgn/Xeg0=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A37%2C%22upload_time%22%3A1788409474%2C%22like_cnt%22%3A0%2C%22thumb_cnt%22%3A0%2C%22forward_cnt%22%3A0%2C%22comment_cnt%22%3A0%2C%22rele_level%22%3A3%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/IQHTJDHwbwiaazOrXOx2VQ344eZmarFjALQn7dc0vdwiaszY6LcrOxbc8PFbRicZibkHfQ2NzbUuE0Bz0wBeTuuRsv4foa7KAvWJdDyDySDtjuTMKrG3YkOhib7YYCsSHZXbk/132",
+                  "title": "刷一刷知识"
+                },
+                "title": "创作者没好工具创什么创？fcoze解决你的烦恼 #聚合模型",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewQsFvYyicia1JyzgB6pHd3iaQVqIIVcoKTt3iammktCicnojQpXkuQNvsiaFnuOrTXEWwGvNbO3Rm4CzscrzZoRckhp5wudX5IT7bqiarjp5Iic0mddA&hy=SH&idx=1&m=3f94c58dfad710b50994117386654443&uzid=7a21a&X-snsvideoflag=xWT112&token=ic1n0xDG6aw81jP7p4jRYDBeLPvLRc3x01VNEBz9rq7gq2P5MgBZuCazJWNNjsP9Er82DQ2EJWBQlINsT9eZfJjOlicDsSyQbeuZc0OWHhXJD8P5WOU9H9OrxMtZjVD5MENd58WkfjQRmEDib6NlF2jIs9Rzu36c7Y2MibZaW3QlGGjIQOVpacV57aZ36NeiaCOYfm9OsLvveDor7swqQ8Nq9Y8GR7Utfj8sj&basedata=CAMSBnhXVDExMiI8CgoKBnhXVDExMhABCgoKBnhXUjExMxAACgoKBnhXVDExMRAACgoKBnhXUjExMhAACgoKBnhXUjExMRAAOgIIAkIwnS-KPLyO0Yz9fPAbkZbiQ1iomp11Lf2OrzAt8chADWDOP5Psnl5-AyMQHSxyjIK5SO7x49QG&sign=Kqdt0Do9WYY_3NUzBTnHsguleDlYqOKWDzmKQ0uzKUz8wtA8M3nMV5eex4W0z0nE_8K8lbHHsakc9FiTxhhztw"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-17275163841775598164",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 7,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "10分钟前",
+                "docID": "finderobjv0MaJL6jYNGUI4kBTwXbiKIlKgGSJOMc1iNu0+bCvVuSw=",
+                "duration": "09:18",
+                "exportId": "export/UzFfBgAAxPuBKAh1SWr8k8zT4DCK4F7FdE5UPB91PAK3CEBRRw",
+                "hashDocID": "17275163841775598164",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicK0CdGcYUACBTzZqIfC5NXh6EM1rJKHPNg7a78nVPXw0pPIUg6Wl3iaG1ZUnlwDcSt00aRCk0xbD3A&hy=SH&idx=1&m=&scene=2&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6awibKSXAHfNaOmxArr8zZJ10vdqibwMk2dM3eZFbKCTTiat8vqMDHFeO1xA2SF2TiaMq7y3Z1Cm4YOZhGtWicnv1V7VQhVC6KUXMSZU5jRkc3BVckl0dVsrrkX5zqZQZuDaxuxlooRrLicsPGplR59kK2CvkmvQAl2jfHAX4CEI70xcRAqOgetlfg5WEyL3ylAtJvovIxVBSr6lY7qaA",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxPuBKAh1SWr8k8zT4DCK4F7FdE5UPB91PAK3CEBRRw\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"9862913960984187075\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CK-y2LblpbCZ0AEI9bK8uLTSopnQAQiamayy9JazmNABCOu33O-G0_mX0AEIjpCohLeG1JjQAQjEmPju_OG7mNABEL3rq5aXsO3oGCoIZGVlcHNlZWswATiAgICAgIACQAFIAFDa46uJC4ABYogBAJgBAKgBiKOY48rRlgOyASQ3ZWZhMzE4ZC04YjVjLTQwN2ItYmE2MC1mOTBkNzI5OWYwNjK6ARM0NDUwMTMzOTE1Nzc2MjQ1MTgxyAHE3p8m0AEA\"}\n",
+                  "jumpType": 9
+                },
+                "pubTime": 1788409437,
+                "reportId": "finderobjv0MaJL6jYNGUI4kBTwXbiKInNTpU90P2faXQpnb3D9ixM=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A558%2C%22upload_time%22%3A1788409437%2C%22like_cnt%22%3A0%2C%22thumb_cnt%22%3A0%2C%22forward_cnt%22%3A0%2C%22comment_cnt%22%3A0%2C%22rele_level%22%3A3%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/Bv7zCibTGrsZ7cfpTZgbNLFnibIpfiaJibWMCdTOclK18bY7E7JibfibdjMibfnMys9ibLhiaBsorJz5Uucl3t3VAjUJRUCNlbmbSIia3wbIDn6xJhdbKbzsgoISzW6Eja52gnVf09/132",
+                  "mark": [
+                    "https://dldir1v6.qq.com/weixin/checkresupdate/auth_icon_level3_2e2f94615c1e4651a25a7e0446f63135.png"
+                  ],
+                  "title": "耕行者"
+                },
+                "title": "腾讯Harness逆袭获750港元目标价。\n拆解腾讯WorkBuddy从AI Agent实测Harness分垫底，到开放生态后被杰富瑞评为皇冠明珠的全过程，详解Harness价值、腾讯生态壁垒及相关估值风险要点。\n",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo3daagw9qia30ZtJDrFic53Q225LBo7bDfib45glqSciaEpb9VzlibGzoblsQAkVSJsEOPavgPvkeicWICA&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a21a&X-snsvideoflag=xWT112&token=2lt8WBSnjTldoCsg4LdoYyrCZt9JSLriaicuGPkNeeWaxyvLrPlVrWSYZGkrHznbQXXFPHtkFyFUF712tNnknEQ3us9ibMlibMRHePibibRBPrKPSx7oHrnxut7V6cGUrhrDnfIPvf0WbmHiaEMnRm3emUeY6m65Lnw3S0zqibCDjWpBk6icjibXBlU4ENBKEq8WHs3Ggt7zUuJWUdia5EcJ27WBYBhr9qnbXqZ9nb4&basedata=CAMSBnhXVDExMiI8CgoKBnhXVDExMhAACgoKBnhXUjExMxAACgoKBnhXVDExMRAACgoKBnhXUjExMhAACgoKBnhXUjExMRAAOgIIAkIwaUJYROuQncEbTgOrdZEqWES7-lo6m2Nk3uv9aglD4-zfkgW5vfZ_hbQDZcO3kOzxSO7x49QG&sign=l0CfZqnIeExuIR8WDTWun3Jaa1ZgZ1k34IopY5Qt9ban9P-hIx4MD9fPAjyRRpJN15o6ZvEnxL6DtE7-CVnlMA"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-16005685792181303654",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 8,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "2小时前",
+                "docID": "finderobjv0iLq/ribpQz4ddNZbog7T/DFb58GX3GwriSfZKezbkDw=",
+                "duration": "11:10",
+                "exportId": "export/UzFfBgAAxKGBTAYkPnj8k8zT4DCK8E4AGt6oJNaTuXa5mv43zA",
+                "hashDocID": "16005685792181303654",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicLoRh9hUar9zW9fbyxABoR1fWw6ysuTB1ZTM14OSx3qQibFBdUcaCniaZW2MLZwHxaIr81bp6X6RZNw&hy=SH&idx=1&m=&scene=2&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6aw8N3QQFAoVQbm6zNnkUZsbicZkgibXrMGSymU5kNrSQ61lLER8XibLSXPXVr74XrNqusPwqfB0LIuj5l6qqKgGmc7EdOaNNhdBhFEXmvibfRlNMDT6bw9w7fKsMcn0KcaoqLMv7DRnAnFT8rc8icfymfkEa7tDe2icVDxFWOnm1I3tvzuVYZSLABbtMshVjibgnkY1LXSxshISBHombg",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxKGBTAYkPnj8k8zT4DCK8E4AGt6oJNaTuXa5mv43zA\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"7214751262161754044\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CPWyvLi00qKZ0AEImpmssvSWs5jQAQjrt9zvhtP5l9ABCI6QqIS3htSY0AEIxJj47vzhu5jQARC966uWl7Dt6BgqCGRlZXBzZWVrMAE4gICAgICAAkABSABQ2uOriQuAAWKIAQCYAQCoAYijmOPK0ZYDsgEkN2VmYTMxOGQtOGI1Yy00MDdiLWJhNjAtZjkwZDcyOTlmMDYyugETNDQ1MDEzMzkxNTc3NjI0NTE4McgBxN6fJtABAA..\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "16",
+                "pubTime": 1788402280,
+                "reportId": "finderobjv0iLq/ribpQz4ddNZbog7T/KkAtVmtU72Ah8CPwVeDGIs=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A670%2C%22upload_time%22%3A1788402280%2C%22like_cnt%22%3A16%2C%22thumb_cnt%22%3A20%2C%22forward_cnt%22%3A8%2C%22comment_cnt%22%3A1%2C%22rele_level%22%3A3%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM4me0zrQSVv6zqEfjc5bEnYUW8oG8UFz8nQlGial2pic6IQ/132",
+                  "mark": [
+                    "http://dldir1.qq.com/weixin/checkresupdate/internet_news_media_auth_icon_38887ee9f6fe4639904638b28745b3f8.png"
+                  ],
+                  "title": "求是网"
+                },
+                "title": "专访唐杰 | 国产大模型：差距、底气与未来",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=nLWUlAoVvyy6E6PqF3xj5Flcqv4nibpQ4ic2rzlMvyp8icD5u1rXiahia8ntvfjFpHHqibc5YBz7ibGjUBhNf5nhZ39tA&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1fc&X-snsvideoflag=xWT113&token=ic1n0xDG6aw81jP7p4jRYDLlY7icGfPAEYge3hjjbOLuBsHOcRyyebO4kKtgmQ4DFgf1tricL3g25l3oYNoqyQTicicMPxpW6ibavEbE7MeHg6Bs98vdql9PB4hclbE0LT983iaA15EYQACJnezD31tHNFsVDicDiasiaziaYzHRkX9DXdYBbXcMAqgnaeYcPmW1qFzOdWjLyUDGU0GCVlFYwTibiaEvG7ia3HGvpXQzNt&basedata=CAMSBnhXVDExMyI8CgoKBnhXVDExMxAACgoKBnhXVDExMhABCgoKBnhXVDExMRAACgoKBnhXVDE1OBAACgoKBnhXVDE1NxABOgIIAkIwTVnfPclusUucqvMtFXkPoCWUx3_wJyT5App-yhDmxgDn5R2DVAntclIZY3mqO5i0SO7x49QG&sign=xYteFqXdQ80GaIlBoOHIwMH6FNVK51eF6JRpLx99KztOom7nCNZSUJLqwUJ-P5zsm9MeWRtsBb2v2VgfNbQ-8A"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-11852875346878878072",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 9,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "18小时前",
+                "docID": "finderobjv0EIl+Jwx8UI+RwFJ8F+8aQ0yGWYbSz7DgkpbiueXsquw=",
+                "duration": "00:34",
+                "exportId": "export/UzFfBgAAxM6qXAxkemn9k8zT4DCKxHgzP9JGu7PjTi3d1IIing",
+                "hashDocID": "11852875346878878072",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicLQibp9t5tiaWtW4OraKkDHTUP7tI4cgUuXzo9VibXKKT7ia9Bed1e19FI8sMLG8UywuenJkqWjKNZDdQ&hy=SZ&idx=1&m=&scene=2&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6aw96Zkc0zNtdWiaF0cjWe4ckdrRKuJxIkBr5c4lMpAbXUV5GUZX0dqxzYJdajDm9MKTqFG28cAJHu1nRDLxXedCeC15oR1qpVP6S4uGauDE29KmfMKrxaqtRIGicHYQRsAuu1aE45tzG0UwjibWrMGTGNrP0lxEqu6DiaSIajoPuAnEIYAll4DHnLLHkfUwhFuEDia7MZmGibvs8dfAQ",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxM6qXAxkemn9k8zT4DCKxHgzP9JGu7PjTi3d1IIing\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"412058862477813556\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CJqZrLL0lrOY0AEI67fc74bT-ZfQAQiOkKiEt4bUmNABCMSY-O784buY0AEQveurlpew7egYKghkZWVwc2VlazABOICAgICAgAJAAUgAUNrjq4kLgAFiiAEAmAEAqAGIo5jjytGWA7IBJDdlZmEzMThkLThiNWMtNDA3Yi1iYTYwLWY5MGQ3Mjk5ZjA2MroBEzQ0NTAxMzM5MTU3NzYyNDUxODHIAcTenybQAQA.\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "18",
+                "pubTime": 1788343840,
+                "reportId": "finderobjv0EIl+Jwx8UI+RwFJ8F+8aQ+JyqRA4kIqwutDRA6X5m8Y=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A34%2C%22upload_time%22%3A1788343840%2C%22like_cnt%22%3A18%2C%22thumb_cnt%22%3A60%2C%22forward_cnt%22%3A140%2C%22comment_cnt%22%3A1%2C%22rele_level%22%3A4%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/d5CrTxCFW0Mub7k2iaVyvDG8NdFiaISUKUBaIU57sTtuAsiaBpDZXpRG5ezrHpKElQAbX6QkCmVTvHmrQRTicFCwxw/132",
+                  "mark": [
+                    "https://dldir1v6.qq.com/weixin/checkresupdate/auth_icon_level3_2e2f94615c1e4651a25a7e0446f63135.png"
+                  ],
+                  "title": "程序员辣辣"
+                },
+                "title": "<em class=\"highlight\">Deepseek</em>+微信两者结合简直是王炸组合，我不允许你还不知道#程序员#手机小技巧#干货分享#<em class=\"highlight\">deepseek</em>",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo2FROOk8ZS5S6nAz9cfLdUekj9L6Jy4AaQT8Teo2WWeSc3zQ1uN756ORqQDibIVsGLMwUaXbItCVsA&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1f2&X-snsvideoflag=xWT113&token=2lt8WBSnjTldoCsg4LdoYzicYDOI0Ie2eSWaL7ZVicsHIS9MyibaDBV5NdtHtxjkrwXYswUJmeEpL7GgkOF9jbdRdllRznMtbV2c3N1sle4JBV2axKkvDiayNFOHOhrtX5Z61YslIfJc0ib7HWZjyGPic7T1tAictNbewnJ84IxsnpLXDryFNmWlG1sCcD0R2VY0YqFqTBMXTRDbbHXM3ZRiaIlJaKx65kskgDhK&basedata=CAMSBnhXVDExMyI8CgoKBnhXVDExMxAACgoKBnhXVDExMhABCgoKBnhXUjExMhAACgoKBnhXVDExMRAACgoKBnhXUjExMxAAOgIIAkIwy3KtYxJw_C4v54TRkXEemQnFD2aFNuqYV1kQX4K-UMCjHkNsOBepNMr4GoD7Pe5oSO7x49QG&sign=YKJD8CwJKSUJ9-DkWxmUwLyerg4rsQOk0Y918Pz2FpXQP4BivlLGjRh96nfHPF5ZotDz5AyK1Lg6PSx_1_0PVw"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-11387727775599050937",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 10,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "昨天",
+                "docID": "finderobjv0b+OmB5em4OUSFyPnqinlhmwn9ZvzSoDuBoVDi6XCeu4=",
+                "duration": "01:23",
+                "exportId": "export/UzFfBgAAxL-ELFEWPyPyk8zT4DCK08XG0JOqcRUNRjggPODOoA",
+                "hashDocID": "11387727775599050937",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=KGDRibp2wkicIvb6oCkrTNxicbRPMv5O3zbxnXibCmzgT0DnRGwr1ibib6JknophvGjE83ssj5l4OUYTwWQgWDUql6hg&hy=SH&idx=1&m=&scene=2&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6aw82o3E5DSF3jHtbIKdqzAkaVZNKRMoJDjuNRfCBOkkZk3k741kqNUJMgXA9DS1nAiazcpoCX0sGiaibq0icgX1IbgHv3A4ribWfJV08MbJcO9icBM0s4Npg1EZr4RMxiaZn9p7DNpllynStnorHBCX6ibiaPrpeGO1YfEa5JmDQBbf20klXvUzf0xXEG4TyqPuXzdpwvnHpFAKgjNSib2tA",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxL-ELFEWPyPyk8zT4DCK08XG0JOqcRUNRjggPODOoA\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"17665678160596293162\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"COu33O-G0_mX0AEIjpCohLeG1JjQAQjEmPju_OG7mNABEL3rq5aXsO3oGCoIZGVlcHNlZWswATiAgICAgIACQAFIAFDa46uJC4ABYogBAJgBAKgBiKOY48rRlgOyASQ3ZWZhMzE4ZC04YjVjLTQwN2ItYmE2MC1mOTBkNzI5OWYwNjK6ARM0NDUwMTMzOTE1Nzc2MjQ1MTgxyAHE3p8m0AEA\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "1054",
+                "pubTime": 1788313678,
+                "reportId": "finderobjv0b+OmB5em4OUSFyPnqinlho4HGnPTPOLCBXcNHZTqzig=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A83%2C%22upload_time%22%3A1788313678%2C%22like_cnt%22%3A1054%2C%22thumb_cnt%22%3A1535%2C%22forward_cnt%22%3A5390%2C%22comment_cnt%22%3A113%2C%22rele_level%22%3A0%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/Xq3yW50sjibFibRnIYcC1nPJPyTticL8Zda7bB56O2aUgDicM9opr4ZBSWdT3IJWVpfQgWuiaRI0UCMFGWRAARtR3TlC2eUsApEqWnZJTicnAj6ef7gDEa1XvaibkWlDbxFl0rD/132",
+                  "mark": [
+                    "https://dldir1v6.qq.com/weixin/checkresupdate/icons_filled_channels_authentication_enterprise_a2658032368245639e666fb11533a600.png"
+                  ],
+                  "title": "if科技"
+                },
+                "title": "...#国产AI密集发布#国产大模型爆发#<em class=\"highlight\">Deep</em>SeekV4Flash#阿里Qwen3.8Max#KimiK3开源#Seedance2.5#MiniMaxH3#视频生成神仙打架#中国AI登顶#大模型价格屠夫",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=rgjNqbibdAo1Rf3tGCusGAz5JhjibtDzIvmXvtDMt1H3Zgr36LEgoiaxbyVpYMU9JNN5nW1DbSepxKibkPjMZicPWZg&bizid=1023&dotrans=0&hy=SH&idx=1&m=&uzid=7a1ac&X-snsvideoflag=xWT113&token=ic1n0xDG6aw81jP7p4jRYDHTm3YOyPQNUiaUeeL7AFTR8vrUvbJSurV3iarMBCx8oYnBmPuw8c424fqticZMwRs5M67mcgUKibrFfLGuzDEcxm8nqupw0yIyJdYDEqsJ9ztLDZbZMNP33d9durIRibrLSv1WSibvmAM4E2YBYVL70vXf96X6LwicC2km8PZExGDnebgxGScJHGcJ464Z9xnnNnGAoicVonNQpdCaR&basedata=CAMSBnhXVDExMyI8CgoKBnhXVDExMxAACgoKBnhXVDExMhABCgoKBnhXVDExMRAACgoKBnhXUjExMxAACgoKBnhXUjExMhAAOgIIAkIwODTCsbOJ9LWkHgnUDe_ezUC1p_nC9Fa2cnpRuM5CdUvNVZHP47j7qWwMNuBkLSXoSO7x49QG&sign=yGMDg5s9mGIzaZKySch2Nv-teAXNWMfoJGpTKm419Eqy4uHliyYuZ27FwPgPLYldTZnbqbKM-MOESmlbBNUtzw"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-12512711372103928218",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 11,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "13小时前",
+                "docID": "finderobjv0Ha1v67HpBLDNYUMCduJdT5TDJ13wo12763HT661UaAc=",
+                "duration": "00:53",
+                "exportId": "export/UzFfBgAAxNqjWDonag79k8zT4DCKNFaTqRUOGzsqCJdCBhNpGA",
+                "hashDocID": "12512711372103928218",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=2fG3V4WwQPnx6IicwaEGRJ3zDURmOuicRKtRS0RuWqdcoBpWB3XYj9wKzyXduic4FpTPRFFYV8ibjTSk7E8mqZ1O7t1dpF57icXXliawpVwuicMPC0&hy=SZ&idx=1&m=5046a744a9e7d4f9e9c438a13fee5269&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6aw9otTtMbfjODfh4CY6M0YyIFASI5dmEEYpaMD6wSFgX17edOQBfEgjuWp6Y1hiaDcqYcibfyLHMlANwmLicibunJny34bfv9FRztaOlzWKjbDGZZaoRzxkq4jBZIsB2bV9pdevdTgb1pnEJeicVjJlNl3qMZNm44JEOmzp7BxtOPaPHYTUrwOc4Ngua0jSYwVTO2AkUtoeudoHj3yw",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxNqjWDonag79k8zT4DCKNFaTqRUOGzsqCJdCBhNpGA\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"4086920307151544002\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CI6QqIS3htSY0AEIxJj47vzhu5jQARC966uWl7Dt6BgqCGRlZXBzZWVrMAE4gICAgICAAkABSABQ2uOriQuAAWKIAQCYAQCoAYijmOPK0ZYDsgEkN2VmYTMxOGQtOGI1Yy00MDdiLWJhNjAtZjkwZDcyOTlmMDYyugETNDQ1MDEzMzkxNTc3NjI0NTE4McgBxN6fJtABAA..\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "2",
+                "pubTime": 1788361074,
+                "reportId": "finderobjv0Ha1v67HpBLDNYUMCduJdTzZ0Ot5FXemidYf2I9pws/0=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A53%2C%22upload_time%22%3A1788361074%2C%22like_cnt%22%3A2%2C%22thumb_cnt%22%3A2%2C%22forward_cnt%22%3A7%2C%22comment_cnt%22%3A0%2C%22rele_level%22%3A4%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/UibE3SNPdOicN9ick9z3CFic4rXBwovJzEwMIWZtRX5Yu1AicG48EZadicfCUbtoegcmNcCbOoAB6gezg9xNR522ZqB4E7eZFRialMgMByvJStuz4WbI5X4q6FZjS7CL6Df7fcW/132",
+                  "mark": [
+                    "https://dldir1v6.qq.com/weixin/checkresupdate/auth_icon_level3_2e2f94615c1e4651a25a7e0446f63135.png"
+                  ],
+                  "title": "老吴的AI生产力研究所"
+                },
+                "title": "<em class=\"highlight\">DeepSeek</em> Harness爆火，它让个人的知识经验沉淀为集体资产#<em class=\"highlight\">deepseek</em>harness #知识经验 #企业",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewQsFvYyicia1J1uDhCXiaeWJ3tPRQl1AcVC5picAvic1rQkQsic3emEtrSmUG0DxgDRhH6Ol7aE28aIIbG3ico0OUib7zd6kj8c39h4akdvhpeXAMcLg&hy=SZ&idx=1&m=5e068d7d6b6d37670bd9aa380b3a023a&uzid=7b5d4&X-snsvideoflag=xWR113&token=2lt8WBSnjTldoCsg4LdoY2JEOWkB2XuWicIVgX5ApeiaibbcVV0iacAOgSogKOe4O3GQEOnweFMYCjULlutbiaarOtn9vSGCsMdu88iada4X0JHu26nGYgiafJSf3LnJianicbpIVuGPXBLUM4DZdIgWHiamo9rZJ28JA6deGl4NwibdkVGgtEiacia7gpA37PicpXb2LxM0byblodLLAOWVpV0p8qicyz14gdKHQPgOSlN&basedata=CAMSBnhXUjExMyI8CgoKBnhXUjExMxAACgoKBnhXUjExMRAACgoKBnhXVDExMxAACgoKBnhXUjExMhAACgoKBnhXVDExMhABOgIIAkIw2VonotvA4exZ3QdUf57d4eidBazZLJU2jo0En69fAlhBN96JxO3DPdp3yu5jKyfHSO7x49QG&sign=sLvSFwDTB4DvynuFElyo7maAJft1HoJTW62s4019Vy1JL2jSMqSO64eLA9CBr3lDvKyfyyWnLAWaR9umgz7oig"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          },
+          {
+            "boxID": "0x80000000000-1-3680356327686244295",
+            "boxMergeTag": 0,
+            "boxMergeValue": 1,
+            "boxPos": 12,
+            "boxPosMerge": 1,
+            "count": 1,
+            "items": [
+              {
+                "dateTime": "17小时前",
+                "docID": "finderobjv0XFF+8oCOafvMhVSzgQoPatgMXUqZVw3b0R67uA6kBqQ=",
+                "duration": "03:34",
+                "exportId": "export/UzFfBgAAxJCrCFBsDWH9k8zT4DCKXo4UjcaqfK-IucWC7atA7w",
+                "hashDocID": "3680356327686244295",
+                "image": "https://findermp.video.qq.com/251/20304/stodownload?encfilekey=2fG3V4WwQPkqibSCyz3qKrmvVtCcjyUI5cvhPDEhl8ew22iaLPZ81CPEWWvOXv1SEAKLttS9CNR0tT2a2FQgho5XKbb9snoZFxvm1IW25xJ5c&hy=SZ&idx=1&m=cba913edb1a2bda6144a948a2c480656&uzid=1&wxampicformat=503&picformat=200&token=ic1n0xDG6aw9ic6m4sss1U73NXJhTwWUb5KJNZvYhQXWTleHoPhUHGnSN6yuGUzAwlEEmJkCcmbiagv5hgreJ9yMKBU4aLOEAWwfYpGDdHnanlYynjvx2UGmEbI7b20Rlqia0wRj4AOJVT7aelbv6czkVyzicZjSoRopkvURQom31LhkEicvOTkU5BxqVRUSS89noqzL8mib8Amnjyr0sAwXB5wSA",
+                "jumpInfo": {
+                  "extInfo": "{\"behavior\":[\"report_feed_read\"],\"encryptedObjectId\":\"export/UzFfBgAAxJCrCFBsDWH9k8zT4DCKXo4UjcaqfK-IucWC7atA7w\",\"feedFocusChangeNotify\":true,\"feedNonceId\":\"14684934001478803991\",\"getRelatedList\":true,\"reportExtraInfo\":\"{\\\"promotion_report_info\\\":{\\\"promotion_recommend_request_id\\\":\\\"1788410094555528\\\"},\\\"report_json\\\":\\\"\\\"}\\n\",\"reportScene\":14,\"requestScene\":13,\"sessionId\":\"CMSY-O784buY0AEQveurlpew7egYKghkZWVwc2VlazABOICAgICAgAJAAUgAUNrjq4kLgAFiiAEAmAEAqAGIo5jjytGWA7IBJDdlZmEzMThkLThiNWMtNDA3Yi1iYTYwLWY5MGQ3Mjk5ZjA2MroBEzQ0NTAxMzM5MTU3NzYyNDUxODHIAcTenybQAQA.\"}\n",
+                  "jumpType": 9
+                },
+                "likeNum": "132",
+                "pubTime": 1788348342,
+                "reportId": "finderobjv0XFF+8oCOafvMhVSzgQoPamoUr/W4iasj7PrSYlGjGO0=",
+                "report_extinfo_str": "%7B%22friend_like%22%3A0%2C%22duration%22%3A214%2C%22upload_time%22%3A1788348342%2C%22like_cnt%22%3A132%2C%22thumb_cnt%22%3A147%2C%22forward_cnt%22%3A277%2C%22comment_cnt%22%3A6%2C%22rele_level%22%3A4%2C%22promotion_report_info%22%3A%7B%22promotion_recommend_request_id%22%3A%221788410094555528%22%7D%7D",
+                "showType": 4,
+                "source": {
+                  "iconUrl": "https://wx.qlogo.cn/finderhead/ver_1/LNAmmgZf24xFbMsCe0rwrper1Fx0icUTPM8hdq4uRUl1JEEpwHiby0Yl4p82dqe9mDoSiavg6aicUGWYYjSQp1dyUg/132",
+                  "title": "丹姐说AI"
+                },
+                "title": "大模型免费时代正式宣告终结！<em class=\"highlight\">DeepSeek</em>暴力涨价最高暴涨1100%，推出峰谷分时定价，高峰算力价格直接拉满。过去靠低价API内卷、靠补贴套利的AI野蛮时代彻底结束。算力不再廉价、补贴不再无限，AI行业正式告别泡沫，进入拼成本、拼效率、拼商业化的硬核洗牌时代！#<em class=\"highlight\">deepseek</em>#算力#AI大模型#峰谷分时定价",
+                "videoUrl": "https://findermp.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eewQsFvYyicia1JxFza979qK2GurmSicusk5aAv9OW4SicqUp32x3EdpMowqlGoNRT28rs2bMtPmHHKaRfqGTWW80aAzgKKRB6L7T5vLFYVycT6qrA&hy=SZ&idx=1&m=93441da872396af99e1125ead9e264d3&uzid=7a206&X-snsvideoflag=xWT113&token=ic1n0xDG6aw81jP7p4jRYDFb1Qa3jwysQicalCfDUiatKplI2hLKia03MS3rSAbTRnwyGvB74xSdVpUEqpSJKvpNZ7Wzia6GaXoZPVAHoSaicX6VDovG7u0X0uwpVicz3ISqM6O0kVWrU6icAZttBTjmlTc6U6cMLT6FWgz25nfQOZjwIW46MgrpticEbfSRQT7WVTGYV3Bu8VXq2jhOD0usxkclbOFdDyCgXLX1K&basedata=CAMSBnhXVDExMyI8CgoKBnhXVDExMxAACgoKBnhXVDExMhABCgoKBnhXVDExMRAACgoKBnhXUjExMxAACgoKBnhXUjExMhAAOgIIAkIwPCWCazLfrP8bSGsoZ4tXLTJWA69UWV3xE571jS0gv_ijNx_hZK0Ysz4-RcCAdW8LSO7x49QG&sign=ECfG215SR2blAF68bLWECEHnXKyCau3Y-c4YQl5yTzS1Y67ImbjowVXryQjr-amFC44U91VV1in11TzXW0zaMw"
+              }
+            ],
+            "real_type": 18874368,
+            "resultType": 1,
+            "subType": 1,
+            "totalCount": 207,
+            "type": 84,
+            "useNativeRender": false
+          }
+        ],
+        "type": 107
+      }
+    ],
+    "category": [
+      {
+        "selected": 1,
+        "type": 0,
+        "word": "全部"
+      },
+      {
+        "type": 7,
+        "word": "视频号"
+      },
+      {
+        "type": 16384,
+        "word": "新闻"
+      },
+      {
+        "type": 9,
+        "word": "直播"
+      },
+      {
+        "type": 1,
+        "word": "公众号"
+      },
+      {
+        "type": 262208,
+        "word": "小程序"
+      },
+      {
+        "type": 8,
+        "word": "朋友圈"
+      },
+      {
+        "type": 2,
+        "word": "文章"
+      },
+      {
+        "type": 1024,
+        "word": "读书"
+      },
+      {
+        "type": 512,
+        "word": "听一听"
+      },
+      {
+        "type": 384,
+        "word": "表情"
+      },
+      {
+        "type": 16777728,
+        "word": "百科"
+      },
+      {
+        "extReqParams": [
+          {
+            "key": "modelName",
+            "textValue": "hunyuan-t1-turbos"
+          },
+          {
+            "key": "modelType",
+            "textValue": "t1"
+          },
+          {
+            "key": "fastModelType",
+            "textValue": "fast"
+          }
+        ],
+        "extra_kvs": [
+          {
+            "key": "modelName",
+            "value": "hunyuan-t1-turbos"
+          },
+          {
+            "key": "modelType",
+            "value": "t1"
+          },
+          {
+            "key": "fastModelType",
+            "value": "fast"
+          }
+        ],
+        "type": 53,
+        "word": "AI搜索"
+      },
+      {
+        "type": 8192,
+        "word": "微信指数"
+      },
+      {
+        "extReqParams": [
+          {
+            "key": "subType",
+            "uintValue": 7
+          }
+        ],
+        "extra_kvs": [
+          {
+            "key": "subType",
+            "value": "7"
+          }
+        ],
+        "type": 524288,
+        "word": "小游戏"
+      },
+      {
+        "type": 33562630,
+        "word": "划线"
+      }
+    ],
+    "continueFlag": 1,
+    "cookies": "{\"box_offset\":12,\"businessType\":2,\"clm_box_offset\":1,\"clm_sub_box_offset\":12,\"cookies_buffer\":\"Uv0DCGIQABgAIghkZWVwc2VlazK2AzB4ODAwMDAwMDAwMDAtMS05NDc4MjE3MzQ1MTczNzAyMjkyOzB4ODAwMDAwMDAwMDAtMS0xMjEzMjU4NTMwNTM2ODI3MjE7MHg4MDAwMDAwMDAwMC0xLTIwOTI5NjcwNjA0ODExMTIzMjg7MHg4MDAwMDAwMDAwMC0xLTE1NDcxODA0Mjc4NDQwMTI2MTM5OzB4ODAwMDAwMDAwMDAtMS0xNTc4MDMxMzA4MTg3MTM5MTY2NDsweDgwMDAwMDAwMDAwLTEtNzczMDA1NDI0OTk0Mzk2NTU5NzsweDgwMDAwMDAwMDAwLTEtMTcyNzUxNjM4NDE3NzU1OTgxNjQ7MHg4MDAwMDAwMDAwMC0xLTE2MDA1Njg1NzkyMTgxMzAzNjU0OzB4ODAwMDAwMDAwMDAtMS0xMTg1Mjg3NTM0Njg3ODg3ODA3MjsweDgwMDAwMDAwMDAwLTEtMTEzODc3Mjc3NzU1OTkwNTA5Mzc7MHg4MDAwMDAwMDAwMC0xLTEyNTEyNzExMzcyMTAzOTI4MjE4OzB4ODAwMDAwMDAwMDAtMS0zNjgwMzU2MzI3Njg2MjQ0Mjk1O0AMSAxQAloId3hzZWFyY2h4DIIBAhAAsgECGACaAxVCAHIAigEAkgEAmgECEAC6AQDaAQA=\",\"doc_offset\":12,\"dup_bf\":\"0x80000000000-1-9478217345173702292;0x80000000000-1-121325853053682721;0x80000000000-1-2092967060481112328;0x80000000000-1-15471804278440126139;0x80000000000-1-15780313081871391664;0x80000000000-1-7730054249943965597;0x80000000000-1-17275163841775598164;0x80000000000-1-16005685792181303654;0x80000000000-1-11852875346878878072;0x80000000000-1-11387727775599050937;0x80000000000-1-12512711372103928218;0x80000000000-1-3680356327686244295;\",\"isHomepage\":1,\"page_cnt\":2,\"query\":\"deepseek\",\"scene\":98}\n",
+    "direction": 2,
+    "enableQuestionClosely": false,
+    "experiment": [
+      {
+        "key": "mmsearch_live_double_auto_play_exp",
+        "value": "1"
+      },
+      {
+        "key": "s1s_mixer_autonextpage_v2",
+        "value": "2"
+      },
+      {
+        "key": "mmsearch_add_account_icon",
+        "value": "1"
+      },
+      {
+        "key": "mmsearch_new_category_exp",
+        "value": "-2"
+      },
+      {
+        "key": "mmsearch_exp_financial_style",
+        "value": "2"
+      },
+      {
+        "key": "mmsearch_topqa_related_question_enforce_style",
+        "value": "1"
+      }
+    ],
+    "isAutoPlayVideo": 1,
+    "isDivide": 1,
+    "isHomePage": 1,
+    "lang": "zh_CN",
+    "offset": 12,
+    "pageNumber": 2,
+    "query": "deepseek",
+    "resultType": 0,
+    "ret": 0,
+    "searchID": "1788410094624110013",
+    "sidedata": null,
+    "timeStamp": 1788410095
+  },
+  "recordTime": "2026-09-03T12:34:55.305455470"
+}

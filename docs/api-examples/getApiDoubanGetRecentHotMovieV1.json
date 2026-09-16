@@ -1,0 +1,574 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:13.348397+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:00",
+  "code": 0,
+  "message": null,
+  "data": {
+    "category": "最新",
+    "type": "全部",
+    "total": 497,
+    "items": [
+      {
+        "id": "36439868",
+        "title": "求救信号",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2935448686.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935448686.jpg"
+        },
+        "rating": {
+          "count": 3606,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 7.0
+        },
+        "uri": "douban://douban.com/movie/36439868",
+        "card_subtitle": "2026 / 美国 / 喜剧 动作 惊悚 冒险 / 约翰·弗朗西斯·戴利 乔纳森·戈尔茨坦 / 瑞安·雷诺兹 肯尼思·布拉纳",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37364618",
+        "title": "最后的曙光",
+        "pic": {
+          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2935325350.jpg",
+          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2935325350.jpg"
+        },
+        "rating": {
+          "count": 718,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.5
+        },
+        "uri": "douban://douban.com/movie/37364618",
+        "card_subtitle": "2026 / 西班牙 美国 / 剧情 爱情 / 卡尔森·扬 / Chloé Sweetlove 费尔南多·林德斯",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "36513585",
+        "title": "战时离婚指南",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2935543995.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935543995.jpg"
+        },
+        "rating": {
+          "count": 391,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 7.0
+        },
+        "uri": "douban://douban.com/movie/36513585",
+        "card_subtitle": "2026 / 立陶宛 捷克 卢森堡 爱尔兰 / 剧情 / 安德里乌斯·布拉泽维奇 / 马里乌斯·雷普希斯 西吉曼特·雅克什泰特",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37200003",
+        "title": "逃亡者",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2934307715.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934307715.jpg"
+        },
+        "rating": {
+          "count": 1481,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.5
+        },
+        "uri": "douban://douban.com/movie/37200003",
+        "card_subtitle": "2026 / 英国 / 动作 惊悚 / 凯文·麦克唐纳 / 盖尔·加朵 戴米恩·路易斯",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37228730",
+        "title": "恋人们",
+        "pic": {
+          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2918249520.jpg",
+          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2918249520.jpg"
+        },
+        "rating": {
+          "count": 409,
+          "max": 10,
+          "star_count": 4.0,
+          "value": 7.5
+        },
+        "uri": "douban://douban.com/movie/37228730",
+        "card_subtitle": "2026 / 美国 / 爱情 科幻 动画 惊悚 短片 奇幻 / Alice Mao Sophia Paez / 道恩·米歇尔·贝内特 Vanille Velasquez",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "38220877",
+        "title": "夜巡毒枭",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2935254634.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935254634.jpg"
+        },
+        "rating": {
+          "count": 759,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 6.8
+        },
+        "uri": "douban://douban.com/movie/38220877",
+        "card_subtitle": "2026 / 墨西哥 / 动作 犯罪 / Chava Cartas / 阿方索·埃雷拉 诺伊·埃尔南德斯",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "38481360",
+        "title": "一直在这里",
+        "pic": {
+          "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2935323361.jpg",
+          "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2935323361.jpg"
+        },
+        "rating": {
+          "count": 343,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 7.1
+        },
+        "uri": "douban://douban.com/movie/38481360",
+        "card_subtitle": "2026 / 巴西 / 喜剧 爱情 / Daniel Lieff / 米格尔·拉罗 迪亚哥·利拉",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37657215",
+        "title": "蝙蝠侠：骑士陨落 第一部：骑士陨落",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2934315813.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934315813.jpg"
+        },
+        "rating": {
+          "count": 898,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/37657215",
+        "card_subtitle": "2026 / 美国 韩国 / 剧情 动作 动画 惊悚 犯罪 冒险 / 杰夫·瓦斯特 / 安松·蒙特 巴勃罗·施瑞博尔",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37228429",
+        "title": "耳语者",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2934088022.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934088022.jpg"
+        },
+        "rating": {
+          "count": 1723,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.9
+        },
+        "uri": "douban://douban.com/movie/37228429",
+        "card_subtitle": "2026 / 美国 / 剧情 惊悚 犯罪 / 詹姆斯·阿什克罗夫特 / 哈米什·林克莱特 米歇尔·莫纳汉",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "27190137",
+        "title": "歪心狼对阵ACME",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2934713062.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934713062.jpg"
+        },
+        "rating": {
+          "count": 555,
+          "max": 10,
+          "star_count": 4.0,
+          "value": 7.6
+        },
+        "uri": "douban://douban.com/movie/27190137",
+        "card_subtitle": "2026 / 美国 / 喜剧 动画 奇幻 冒险 / 戴夫·格林 / 威尔·福特 约翰·塞纳",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37427091",
+        "title": "怪屋",
+        "pic": {
+          "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2935302720.jpg",
+          "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2935302720.jpg"
+        },
+        "rating": {
+          "count": 1468,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.8
+        },
+        "uri": "douban://douban.com/movie/37427091",
+        "card_subtitle": "2026 / 中国大陆 / 悬疑 惊悚 恐怖 / 王博伦 / 傅菁 思漩",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "36889088",
+        "title": "怒之杀",
+        "pic": {
+          "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2935069903.jpg",
+          "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935069903.jpg"
+        },
+        "rating": {
+          "count": 9029,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.8
+        },
+        "uri": "douban://douban.com/movie/36889088",
+        "card_subtitle": "2026 / 英国 美国 / 动作 惊悚 犯罪 / 让-弗朗索瓦·雷切 / 杰森·斯坦森 钱尼尔·库勒",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "36877284",
+        "title": "最后孤屋",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2934739676.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934739676.jpg"
+        },
+        "rating": {
+          "count": 8437,
+          "max": 10,
+          "star_count": 2.5,
+          "value": 5.4
+        },
+        "uri": "douban://douban.com/movie/36877284",
+        "card_subtitle": "2026 / 英国 法国 美国 / 动作 科幻 悬疑 惊悚 恐怖 / 路易斯·莱特里尔 / 格蕾塔·李 瓦格纳·马拉",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "36935883",
+        "title": "灵魂伴侣",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2934590754.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934590754.jpg"
+        },
+        "rating": {
+          "count": 3881,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.9
+        },
+        "uri": "douban://douban.com/movie/36935883",
+        "card_subtitle": "2026 / 美国 / 科幻 惊悚 恐怖 / 凯特·多兰 / 莉莉·沙利文 大卫·里达尔",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37055925",
+        "title": "所爱之人",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2932424335.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932424335.jpg"
+        },
+        "rating": {
+          "count": 434,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 6.3
+        },
+        "uri": "douban://douban.com/movie/37055925",
+        "card_subtitle": "2026 / 西班牙 / 剧情 / 罗德里戈·索罗戈延 / 哈维尔·巴登 玛琳娜·佛伊丝",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "36822244",
+        "title": "国道29号",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2912607036.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2912607036.jpg"
+        },
+        "rating": {
+          "count": 288,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 5.7
+        },
+        "uri": "douban://douban.com/movie/36822244",
+        "card_subtitle": "2024 / 日本 / 剧情 / 森井勇佑 / 绫濑遥 大泽一菜",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37386538",
+        "title": "黑兔白兔",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2922415494.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922415494.jpg"
+        },
+        "rating": {
+          "count": 329,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 6.8
+        },
+        "uri": "douban://douban.com/movie/37386538",
+        "card_subtitle": "2025 / 塔吉克斯坦 阿联酋 / 剧情 悬疑 / 沙朗·莫克利 / 巴巴克·卡里米 Hasti Mohammaï",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "35930978",
+        "title": "安昂传奇：最后的气宗",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2934419386.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934419386.jpg"
+        },
+        "rating": {
+          "count": 920,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 7.2
+        },
+        "uri": "douban://douban.com/movie/35930978",
+        "card_subtitle": "2026 / 美国 / 动作 动画 悬疑 奇幻 冒险 / 劳伦·蒙哥马利 Steve Ahn 威廉·马塔 / 南允道 全迪翁",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37054667",
+        "title": "低弧慢球",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2933548415.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933548415.jpg"
+        },
+        "rating": {
+          "count": 481,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 6.1
+        },
+        "uri": "douban://douban.com/movie/37054667",
+        "card_subtitle": "2026 / 美国 / 喜剧 / 乔什·戈林鲍姆 / 杰克·约翰逊 玛丽·斯汀伯根",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+      },
+      {
+        "id": "37065411",
+        "title": "爆发",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2924895854.jpg",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924895854.jpg"
+        },
+        "rating": {
+          "count": 266,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 6.5
+        },
+        "uri": "douban://douban.com/movie/37065411",
+        "card_subtitle": "2025 / 美国 波兰 / 剧情 爱情 / 皮特·欧斯 / 查莉XCX 伦娜·戈拉",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+      }
+    ],
+    "tags": [
+      {
+        "title": "热门电影",
+        "category": "热门",
+        "selected": false,
+        "types": [
+          {
+            "title": "全部",
+            "type": "全部",
+            "selected": false
+          },
+          {
+            "title": "华语",
+            "type": "华语",
+            "selected": false
+          },
+          {
+            "title": "欧美",
+            "type": "欧美",
+            "selected": false
+          },
+          {
+            "title": "韩国",
+            "type": "韩国",
+            "selected": false
+          },
+          {
+            "title": "日本",
+            "type": "日本",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "title": "最新电影",
+        "category": "最新",
+        "selected": true,
+        "types": [
+          {
+            "title": "全部",
+            "type": "全部",
+            "selected": true
+          },
+          {
+            "title": "华语",
+            "type": "华语",
+            "selected": false
+          },
+          {
+            "title": "欧美",
+            "type": "欧美",
+            "selected": false
+          },
+          {
+            "title": "韩国",
+            "type": "韩国",
+            "selected": false
+          },
+          {
+            "title": "日本",
+            "type": "日本",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "title": "豆瓣高分",
+        "category": "豆瓣高分",
+        "selected": false,
+        "types": [
+          {
+            "title": "全部",
+            "type": "全部",
+            "selected": false
+          },
+          {
+            "title": "华语",
+            "type": "华语",
+            "selected": false
+          },
+          {
+            "title": "欧美",
+            "type": "欧美",
+            "selected": false
+          },
+          {
+            "title": "韩国",
+            "type": "韩国",
+            "selected": false
+          },
+          {
+            "title": "日本",
+            "type": "日本",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "title": "冷门佳片",
+        "category": "冷门佳片",
+        "selected": false,
+        "types": [
+          {
+            "title": "全部",
+            "type": "全部",
+            "selected": false
+          },
+          {
+            "title": "华语",
+            "type": "华语",
+            "selected": false
+          },
+          {
+            "title": "欧美",
+            "type": "欧美",
+            "selected": false
+          },
+          {
+            "title": "韩国",
+            "type": "韩国",
+            "selected": false
+          },
+          {
+            "title": "日本",
+            "type": "日本",
+            "selected": false
+          }
+        ]
+      }
+    ],
+    "recommend_tags": [
+      {
+        "title": "热门",
+        "category": "热门",
+        "type": "全部",
+        "selected": false
+      },
+      {
+        "title": "最新",
+        "category": "最新",
+        "type": "全部",
+        "selected": true
+      },
+      {
+        "title": "豆瓣高分",
+        "category": "豆瓣高分",
+        "type": "全部",
+        "selected": false
+      },
+      {
+        "title": "冷门佳片",
+        "category": "冷门佳片",
+        "type": "全部",
+        "selected": false
+      },
+      {
+        "title": "华语",
+        "category": "热门",
+        "type": "华语",
+        "selected": false
+      },
+      {
+        "title": "欧美",
+        "category": "热门",
+        "type": "欧美",
+        "selected": false
+      },
+      {
+        "title": "韩国",
+        "category": "热门",
+        "type": "韩国",
+        "selected": false
+      },
+      {
+        "title": "日本",
+        "category": "热门",
+        "type": "日本",
+        "selected": false
+      }
+    ]
+  },
+  "recordTime": null
+}

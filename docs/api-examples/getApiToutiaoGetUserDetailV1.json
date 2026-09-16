@@ -1,0 +1,55 @@
+{
+  "_fetchedAt": "2026-09-08T20:00:48.248897+08:00",
+  "_sourceCheckedAt": "2026-09-08T20:00:26",
+  "code": 0,
+  "message": null,
+  "data": {
+    "message": "success",
+    "errno": 0,
+    "data": {
+      "avatar_url": "",
+      "big_avatar_url": "",
+      "description": "",
+      "gender": 0,
+      "bg_image": {
+        "status": 0,
+        "url": "https://p11-sign.toutiaoimg.com/tos-cn-i-tt/d74fb91f2825491584acf1afb99c8a2d~tplv-noop.webp?_iz=30575&from=sign_default&lk3s=133d4839&x-expires=1789473626&x-signature=auadJF53X0L4fOgFliJeraRTVQc%3D"
+      },
+      "top_tab": [
+        {
+          "disable_common_params": false,
+          "is_default": false,
+          "is_native": true,
+          "load_count": 20,
+          "show_name": "小视频",
+          "total_count": 0,
+          "type": "external_ies_video",
+          "url": "/api/feed/profile/v1/?category=external_short_video",
+          "pseries_card_count": 0,
+          "pseries_card_info": ""
+        }
+      ],
+      "external_info": {
+        "button_name": "打开抖音关注作者",
+        "name": "抖音",
+        "app_name": "aweme",
+        "package_name": "com.ss.android.ugc.aweme",
+        "app_schema": "snssdk1128://user/profile/1352838578180211",
+        "download_url": "https://d.douyin.com/eXBJ/",
+        "icon_url": "https://p26.toutiaoimg.com/obj/motor-img/9fd81928b2576d559b363fcf77681f5c",
+        "icon_title": "来源于抖音",
+        "app_icon_url": "https://p26.toutiaoimg.com/obj/ies.fe.effect/a752e3bd176b10ea340c65db16e7c91c",
+        "appstore_app_id": 1142110895
+      },
+      "name": "",
+      "user_id": 1352838578180211,
+      "publish_count": 0,
+      "digg_count": 0,
+      "followers_count": 0,
+      "followings_count": 0,
+      "external_media_type": 0,
+      "is_gov_media": false
+    }
+  },
+  "recordTime": null
+}
