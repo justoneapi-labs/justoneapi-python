@@ -25,7 +25,7 @@ JustOneAPI 是一个统一的数据服务平台，提供来自社交媒体、电
 
 控制台提供 API 令牌管理、余额展示、接口调用记录、调用量趋势和消费金额分析。
 
-[![JustOneAPI 控制台概览](docs/images/readme/console-zh.jpg)](https://dashboard.justoneapi.com/zh?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_dashboard_image)
+[![JustOneAPI 控制台定价与平台筛选概览](docs/images/readme/console-zh.jpg)](https://dashboard.justoneapi.com/zh?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_dashboard_image)
 
 ## 安装
 

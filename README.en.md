@@ -23,7 +23,7 @@ The documentation center helps you browse endpoint health, versioned API paths, 
 
 The console provides API token management, balance visibility, request logs, usage trends, and spending analytics.
 
-[![JustOneAPI console overview](docs/images/readme/console-en.jpg)](https://dashboard.justoneapi.com/en?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_dashboard_image)
+[![JustOneAPI console pricing overview](docs/images/readme/console-en.jpg)](https://dashboard.justoneapi.com/en?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_dashboard_image)
 
 ## Installation
 
