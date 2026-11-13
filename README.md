@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://justoneapi.com/zh?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_logo">
-    <img src="https://justoneapi.com/logo/logo_text.png" alt="Just One API Logo" width="200">
+    <img src="https://justoneapi.com/logo/logo_text.png" alt="JustOneAPI Logo" width="200">
   </a>
 </p>
 
@@ -9,11 +9,11 @@
 
 [简体中文](README.md) | [English](README.en.md)
 
-# Just One API - Python SDK
+# JustOneAPI - Python SDK
 
-官方 Python SDK，用于访问 [Just One API](https://justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme)。
+官方 Python SDK，用于访问 [JustOneAPI](https://justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme)。
 
-Just One API 是一个统一的数据服务平台，提供来自社交媒体、电商和内容平台的结构化数据。
+JustOneAPI 是一个统一的数据服务平台，提供来自社交媒体、电商和内容平台的结构化数据。
 
 支持的平台包括淘宝、天猫、小红书、小红书蒲公英、抖音、抖音星图、快手、微博、哔哩哔哩、京东、微信、豆瓣、TikTok、TikTok Shop、优酷、Instagram、YouTube、Reddit、头条、知乎、亚马逊、Facebook、X(Twitter)、贝壳、IMDb 等接口。想了解更多，可以访问[官网](https://justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme)。
 
@@ -21,11 +21,11 @@ Just One API 是一个统一的数据服务平台，提供来自社交媒体、�
 
 文档中心支持查看接口健康状态、版本化 API 路径、请求参数以及各平台的使用提示。
 
-[![Just One API 文档中心界面](docs/images/readme/api-docs-zh.jpg)](https://docs.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_docs_image)
+[![JustOneAPI 文档中心界面](docs/images/readme/api-docs-zh.jpg)](https://docs.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_docs_image)
 
 控制台提供 API 令牌管理、余额展示、接口调用记录、调用量趋势和消费金额分析。
 
-[![Just One API 控制台概览](docs/images/readme/console-zh.jpg)](https://dashboard.justoneapi.com/zh?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_dashboard_image)
+[![JustOneAPI 控制台概览](docs/images/readme/console-zh.jpg)](https://dashboard.justoneapi.com/zh?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_justoneapi_python&utm_content=repo_readme_dashboard_image)
 
 ## 安装
 

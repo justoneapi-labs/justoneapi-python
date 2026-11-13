@@ -1,4 +1,4 @@
-# Just One API - Python SDK
+# JustOneAPI - Python SDK
 
 中文 README 已迁移到 [README.md](README.md)。
 

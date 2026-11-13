@@ -37,7 +37,7 @@ class JdResource(BaseResource):
         """
         Product Details
 
-        Access the asynchronous JD.com product detail workflow from the Just One API dashboard Task Management page. Use it to submit and download product detail research tasks.
+        Access the asynchronous JD.com product detail workflow from the JustOneAPI dashboard Task Management page. Use it to submit and download product detail research tasks.
 
         Args:
             item_id: A unique product identifier on JD.com (item ID).

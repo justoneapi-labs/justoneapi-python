@@ -13027,7 +13027,7 @@
     },
     "/api/jd/get-item-detail/v2": {
       "get": {
-        "description": "Access the asynchronous JD.com product detail workflow from the Just One API dashboard Task Management page. Use it to submit and download product detail research tasks.",
+        "description": "Access the asynchronous JD.com product detail workflow from the JustOneAPI dashboard Task Management page. Use it to submit and download product detail research tasks.",
         "operationId": "getApiJdGetItemDetailV2",
         "parameters": [
           {
@@ -13096,7 +13096,7 @@
             "type": "danger"
           },
           {
-            "content": "Submit the task, wait for completion, and download the result from the Just One API dashboard Task Management page: https://dashboard.justoneapi.com/en/dashboard/task-records or https://dashboard.justoneapi.com/zh/dashboard/task-records.",
+            "content": "Submit the task, wait for completion, and download the result from the JustOneAPI dashboard Task Management page: https://dashboard.justoneapi.com/en/dashboard/task-records or https://dashboard.justoneapi.com/zh/dashboard/task-records.",
             "kind": "GUIDANCE",
             "type": "info"
           }
@@ -17867,7 +17867,7 @@
     },
     "/api/taobao/get-item-detail/v2": {
       "get": {
-        "description": "Access the asynchronous Taobao and Tmall product detail workflow from the Just One API dashboard Task Management page. Use it to submit and download product detail research tasks.",
+        "description": "Access the asynchronous Taobao and Tmall product detail workflow from the JustOneAPI dashboard Task Management page. Use it to submit and download product detail research tasks.",
         "operationId": "getApiTaobaoGetItemDetailV2",
         "parameters": [
           {
@@ -17936,7 +17936,7 @@
             "type": "danger"
           },
           {
-            "content": "Submit the task, wait for completion, and download the result from the Just One API dashboard Task Management page: https://dashboard.justoneapi.com/en/dashboard/task-records or https://dashboard.justoneapi.com/zh/dashboard/task-records.",
+            "content": "Submit the task, wait for completion, and download the result from the JustOneAPI dashboard Task Management page: https://dashboard.justoneapi.com/en/dashboard/task-records or https://dashboard.justoneapi.com/zh/dashboard/task-records.",
             "kind": "GUIDANCE",
             "type": "info"
           }

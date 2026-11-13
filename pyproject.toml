@@ -1,8 +1,8 @@
 [project]
 name = "justoneapi"
 dynamic = ["version"]
-description = "OpenAPI-driven Python SDK for Just One API"
-authors = [{ name = "Just One API", email = "support@justoneapi.com" }]
+description = "OpenAPI-driven Python SDK for JustOneAPI"
+authors = [{ name = "JustOneAPI", email = "support@justoneapi.com" }]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
